@@ -1,0 +1,1532 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell some of the course books you used at college. Your advertisement may include a brief description of their content,their condition ,their price and your contact information. You should write at least 120 words but no more than 180 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分，之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "advertisement",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell some of the course books you used at college. Your advertisement may include a brief description of their content,their condition ,their price and your contact information. You should write at least 120 words but no more than 180 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分，之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell some of the course books you used at college. Your advertisement may include a brief description of their content,their condition ,their price and your contact information. You should write at least 120 words but no more than 180 words.",
+        "materials": "(请于正式开考后半小时内完成该部分，之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and questions will be spoken only once. After you hear questions, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and questions will be spoken only once. After you hear questions, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 2 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The majority of drivers prefer to drive and park themselves."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Human drivers become easily distracted or tired while driving."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Most drivers feel uncertain about the safety of self-driving cars."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Most drivers have test driven cars with automatic braking features."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their drivers would feel safe after getting used to the automatic devices."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They would be unpopular with drivers who only trust their own skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their increased comfort levels have boosted their sales."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are not actually as safe as automakers advertise."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Thefts of snowmobile dogs in Alaska."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A series of injuries to snowmobile drivers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Attacks on some Iditarod Race competitors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A serious accident in the Alaska sports event."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He stayed behind to look after his injured dogs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has won the Alaska Iditarod Race four times."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He received a minor injury in the Iditarod Race."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has quit the competition in Alaska for good."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It sank into the sea due to overloading."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It ran into Nicaragua’s Big Corn Island."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It disappeared between two large islands."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It turned over because of strong winds."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "13."
+                  },
+                  {
+                    "label": "B",
+                    "text": "25."
+                  },
+                  {
+                    "label": "C",
+                    "text": "30."
+                  },
+                  {
+                    "label": "D",
+                    "text": "32."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has helped with the rescue effort."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is being investigated by the police."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was drowned with the passengers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is among those people missing."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "At a shopping centre."
+                  },
+                  {
+                    "label": "B",
+                    "text": "At a community college."
+                  },
+                  {
+                    "label": "C",
+                    "text": "At an accountancy firm."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At an IT company."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Helping out with data input."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Arranging interviews."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sorting application forms."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Making phone calls."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He enjoys using computers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He needs the money badly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He wants to work in the city centre."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has relevant working experience."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Purchase some business suits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Learn some computer language."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Improve his programming skills."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Review some accountancy terms."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are keen on high technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are poor at technology skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They often listen to National Public Radio."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They feel superior in science and technology."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Japanese."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Germans."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Poles."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Americans."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Emailing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Texting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Science."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Literacy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is undergoing a drastic reform."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It lays emphasis on creative thinking."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has much room for improvement."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It prioritizes training of practical skills."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question,you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have small roots."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They grow white flowers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They taste like apples."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They come from Central Africa."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They turned from white to purple in color."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They became popular on the world market."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They became an important food for humans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They began to look like modern-day carrots."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were found quite nutritious."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There were serious food shortages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People discovered their medicinal value."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Farm machines helped lower their prices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She could update her family any time she liked."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She could call up her family whenever she liked"
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could locate her friends wherever they were."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She could download as many pictures as she liked."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She liked to inform her friends about her success."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She enjoyed reading her friends’ status updates."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She felt quite popular among them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She felt she was a teenager again."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She could barely respond to all her 500 Facebook friends."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She spent more time updating her friends than her family."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could barely balance Facebook updates and her work."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She didn’t seem to be doing as well as her Facebook friends."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have strong muscles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They live a longer life than horses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They eat much less in winter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can work longer than donkeys."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was a pet of a Spanish king."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was bought by George Washington."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was brought over from Spain."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was donated by a U.S. Ambassador."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They met and exchanged ideas on animal breeding."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They participated in a mule-driving competition."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They showed and traded animals in the market."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They fed mules with the best food they could find."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The wider use of horses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The arrival of tractors."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A shrinking animal trade."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A growing donkey population."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "America’s Internet is fester than ever before, but people still complain about their Internet being too slow.\n\nNew York’s Attorney General’s office (26) an investigation in the fall into whether or not Verizon, Cablevision and Time Warner are delivering broadband that’s as fast as the providers (27)_ _ it is. Earlier this month, the office asked for the public’s help to measure their speed results, saying consumers (28) _ to get the speeds they were promised. “Too many of us may be paying for one thing, and getting another，” the Attorney General said.\n\nIf the investigation uncovers anything, it wouldn’t be the first time a telecom provider got into (29) over the broadband speeds it promised and delivered customers. Back in June, the Federal Communications Commission fined AT& T \\$ 100 million over (30) that the carrier secretly\n\nreduced wireless speeds after customers consumed a certain amount of (31)\n\nEven when they stay on the right side of the law, Internet providers arouse customers’ anger over bandwidth speed and cost. Just this week, an investigation found that media and telecom giant Comcast is the most (32) provider. Over 10 months, Comcast received nearly 12,000 customer complaints, many (33) to its monthly data cap and overage (超过额度的）charges.\n\nSome Americans are getting so (34) with Internet providers they’re just giving up. A recent study found that the number of Americans with high-speed Internet at home today (35) fell during the last two years, and 15% of people now consider themselves to be “cord-cutters.”",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "accusations"
+        },
+        {
+          "label": "B",
+          "text": "actually"
+        },
+        {
+          "label": "C",
+          "text": "claim"
+        },
+        {
+          "label": "D",
+          "text": "communicating"
+        },
+        {
+          "label": "E",
+          "text": "complain"
+        },
+        {
+          "label": "F",
+          "text": "data"
+        },
+        {
+          "label": "G",
+          "text": "deserved"
+        },
+        {
+          "label": "H",
+          "text": "frustrated"
+        },
+        {
+          "label": "I",
+          "text": "hated"
+        },
+        {
+          "label": "J",
+          "text": "launched"
+        },
+        {
+          "label": "K",
+          "text": "relating"
+        },
+        {
+          "label": "L",
+          "text": "times"
+        },
+        {
+          "label": "M",
+          "text": "trouble"
+        },
+        {
+          "label": "N",
+          "text": "usually"
+        },
+        {
+          "label": "O",
+          "text": "worried"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 149,
+          "end": 151
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 297,
+          "end": 299
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 420,
+          "end": 422
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 658,
+          "end": 660
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 810,
+          "end": 812
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 911,
+          "end": 913
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1129,
+          "end": 1131
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1217,
+          "end": 1219
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1305,
+          "end": 1307
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1447,
+          "end": 1449
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "From Accountant to Yogi: Making a Radical Career Change",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "At some point, almost all of us will experience a period of radical professional change. Some of us will seek it out; for others it will feel like an unwelcome intrusion into otherwise stable careers. Either way, we have choices about how we respond to it when it comes."
+        },
+        {
+          "label": "B",
+          "text": "We recently caught up with yoga entrepreneur Leah Zaccaria, who put herself through the fire of change to completely reinvent herself. In her search to live a life of purpose, Leah left her high-paying accounting job, her husband, and her home, hi the process, she built a radically new life and career. Since then, she has founded two yoga studios, met a new life partner, and formed a new community of people. Even if your personal reinvention is less drastic, we think there are lessons from her experience that apply."
+        },
+        {
+          "label": "C",
+          "text": "Where do the seeds of change come from? the Native American Indians have a saying: “Pay attention to the whispers so you won’t have to hear the screams.” Often the best ideas for big changes come from unexpected places — it’s just a matter of tuning in. Great leaders recognize the weak signals\n\nor slight signs that point to big changes to come. Leah reflects on a time she listened to the whispers: “About the time my daughter was five years old. I started having a sense that ‘this isn’t right.”’ She then realized that her life no longer matched her vision for it."
+        },
+        {
+          "label": "D",
+          "text": "Up until that point, Leah had followed traditional measures of success. After graduating with a degree in business and accounting, she joined a public accounting firm, married, bought a house, put lots of stuff in it, and had a baby. “I did what everybody else thought looked successful,” she says. Leah easily could have fallen into a trap of feeling content; instead, her energy sparked a period of experimentation and renewal."
+        },
+        {
+          "label": "E",
+          "text": "Feeling the need to change, Leah started playing with future possibilities by exploring her interests and developing new capabilities. First trying physical exercise and dieting, she lost some weight and discovered an inner strength. “1 felt powerful because 1 broke through my own limitations,” she recalls."
+        },
+        {
+          "label": "F",
+          "text": "However, it was another interest that led Leah to radically reinvent herself. “I remember sitting on a bench with my aunt at a yoga studio,’’ she said, having a moment of clarity right then and there: Yoga is saving my life. Yoga is waking me up. I’m not happy and I want to change and I’m done with this.” In that moment of clarity Leah made an important leap,conquering her inner resistance to change and making a firm commitment to take bigger steps."
+        },
+        {
+          "label": "G",
+          "text": "Creating the future you want is a lot easier if you are ready to exploit the opportunities that come your way. When Leah made the commitment to change, she primed herself to new opportunities she may otherwise have overlooked. She recalls:"
+        },
+        {
+          "label": "H",
+          "text": "One day a man I worked with, Ryan, who had his office next to mine, said, “Leah, let’s go look at this space on Queen Anne.” He knew my love for yoga and had seen a space close to where he lived that he thought might be good to serve as a yoga studio. As soon as I saw the location, I knew this was it. Of course I was scared, yet I had this strong sense of “I have to do this.” Only a few months later Leah opened her first yoga studio, but success was not instant."
+        },
+        {
+          "label": "I",
+          "text": "Creating the future takes time. That’s why leaders continue to manage the present while building toward the big changes of the future. When it’s time to make the leap, they take action and immediately drop what’s no longer serving their purpose. Initially Leah stayed with her accounting job while starting up the yoga studio to make it all work."
+        },
+        {
+          "label": "J",
+          "text": "Soon after, she knew she had to make a bold move to fully commit to her new future. Within two years, Leah shed the safety of her accounting job and made the switch complete. Such drastic change is\n\nnot easy."
+        },
+        {
+          "label": "K",
+          "text": "Steering through change and facing obstacles brings us face to face with our fears. Leah reflects on one incident that triggered her fears, when her investors threatened to shut her down: “I was probably up against the most fear I’ve ever had，” she says. “I had spent two years cultivating this community, and it had become successful very fast, but within six months I was facing the prospect of losing it all.”"
+        },
+        {
+          "label": "L",
+          "text": "She connected with her sense of purpose and dug deep, cultivating a tremendous sense of strength. “I was feeling so intentional and strong that I wasn’t going to let fear just take over. I was thinking, ‘OK, guys, if you want to try to shut me down, shut me down.’And I knew it was a negotiation scheme, so I was able to say to myself, ‘This is not real.’” By naming her fears and facing them head-on, Leah gained confidence. For most of us, letting go of the safety and security of the past gives us great fear. Calling out our fears explicitly, as Leah did,can help us act decisively."
+        },
+        {
+          "label": "M",
+          "text": "The cycle of renewal never ends. Leah’s growth spurred her to open her second studio— and it wasn’t for the money."
+        },
+        {
+          "label": "N",
+          "text": "I have no desire to make millions of dollars. It’s not about that; it’s about growth for me. Honestly, I didn’t need to open a second studio. I was making as much money as I was as an accountant. But I know if you don’t grow, you stand still, and that doesn’t work for me."
+        },
+        {
+          "label": "O",
+          "text": "Consider the current moment in your own life, your team or your organization. Where are you in the cycle of renewal: Are you actively preserving the present, or selectively forgetting the past, or boldly creating the future? What advice would Leah give you to move you ahead on your journey? Once we’re on the path of growth, we can continually move through the seasons of transformation and renewal."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Readiness to take advantage of new opportunities will make it easier to create one’s desired future."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "By conventional standards, Leah was a typical successful woman before she changed her career."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Leah gained confidence by laying out her fears and confronting them directly."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "In search of a meaningful life, Leah gave up what she had and set up her own yoga studios."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Leah's interest in yoga prompted her to make a firm decision to reshape her life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Small signs may indicate great changes to come and therefore merit attention."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Leah’s first yoga studio was by no means an immediate success."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Some people regard professional change as an unpleasant experience that disturbs their stable careers."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The worst fear Leah ever had was the prospect of losing her yoga business."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "As she explored new interests and developed new potentials，Leah felt powerful internally."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Urbanization — migration away from the suburbs to the city center — will be the biggest real estate trend in 2015, according to a new report.\n\nThe report says America’s urbanization will continue to be the most significant issue affecting the industry, as cities across the country imitate the walkability and transit-oriented development making cities like New York and San Francisco so successful.\n\nAs smaller cities copy the model of these “24-hour cities，’’ tfiore affordable versions of these places will be created. The report refers to this as the coming of the “18-hour city，”，and uses the term to refer to cities like Houston, Austin, Charlotte, and Nashville, which are “positioning themselves as highly competitive, in terms of livability, employment offerings, and recreational and cultural facilities.”\n\nAnother trend that looks significant in 2015 is that America’s largest population group, Millennials (千禧一代)，will continue to put off buying a house. Apartments will retain their appeal for a while for Millennials, haunted by what happened to home-owning parents.\n\nThis trend will continue into the 2020s, the report projects. After that, survey respondents disagree over whether this generation will follow in their parents，footsteps, moving to the suburbs to raise families, or will choose to remain in the city center.\n\nAnother issue affecting real estate in the coming year will be America’s failing infrastructure. Most roads, bridges, transit, water systems, the electric grid, and communications networks were installed 50 to 100 years ago, and they are largely taken for granted until they fail.\n\nThe report’s writers state that America’s failure to invest in infrastructure impacts not only the health of the real-estate market, but also our ability to remain globally competitive.\n\nApart from the specific trends highlighted above, which cause some investors to worry, the report portrays an overall optimism borne by the recent healthy real-estate “upcycle” and improving economy. Seventy-four percent of the respondents surveyed report a “good to excellent” expectation of real-estate profitability in 2015. While excessive optimism can promote bad investment patterns, resulting in a realestate “bubble,” the report’s writers downplay that potential outcome in that it has not yet occurred.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "According to the new report, real estate development in 2015 will witness",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "an accelerating speed"
+                },
+                {
+                  "label": "B",
+                  "text": "a shift to city centers"
+                },
+                {
+                  "label": "C",
+                  "text": "a new focus on small cities"
+                },
+                {
+                  "label": "D",
+                  "text": "an ever-increasing demand"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What characterizes “24-hour cities” like New York?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People can live without private cars."
+                },
+                {
+                  "label": "B",
+                  "text": "People are generally more competitive."
+                },
+                {
+                  "label": "C",
+                  "text": "People can enjoy services around the clock."
+                },
+                {
+                  "label": "D",
+                  "text": "People are in harmony with the environment."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why are Millennials reluctant to buy a house?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can only afford small apartments."
+                },
+                {
+                  "label": "B",
+                  "text": "The house prices are currently too high."
+                },
+                {
+                  "label": "C",
+                  "text": "Their parents' bad experience still haunts them."
+                },
+                {
+                  "label": "D",
+                  "text": "They feel attached to the suburban environment."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What might hinder real estate development in the U.S.?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The continuing economic recession in the country."
+                },
+                {
+                  "label": "B",
+                  "text": "The lack of confidence on the part of investors."
+                },
+                {
+                  "label": "C",
+                  "text": "The fierce global competition."
+                },
+                {
+                  "label": "D",
+                  "text": "The worsening infrastructure."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "How do most of the respondents in the survey feel about the U.S. real-estate market in 2015?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Pessimistic."
+                },
+                {
+                  "label": "B",
+                  "text": "Hopeful."
+                },
+                {
+                  "label": "C",
+                  "text": "Cautious."
+                },
+                {
+                  "label": "D",
+                  "text": "Uncertain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The brain is a seemingly endless library, whose shelves house our most precious memories as well as our lifetime’s knowledge. But is there a point where it reaches capacity?\n\nThe answer is no, because brains are more sophisticated than that. Instead of just crowding in, old information is sometimes pushed out of the brain for new memories to form.\n\nPrevious behavioural studies have shown that learning new information can lead to forgetting. But in a new study, researchers demonstrated for the first time how this effect occurs in the brain.\n\nIn daily life, forgetting actually has clear advantages. Imagine, for instance, that you lost your bank card. The new card you receive will come with a new personal identificatipn number (PIN). Each time you remember the new PIN, you gradually forget the old one. This process improves access to relevant information, without old memories interfering.\n\nAnd most of us may sometimes feel the frustration of having old memories interfere with new, relevant memories. Consider trying to remember where you parked your car in the same car park you were at a week earlier. This type of memory (where you are trying to remember new, but similar information) is particularly vulnerable to interference.\n\nWhen we acquire new information, the brain automatically tries to incorporate (合并)it within existing information by forming associations. And when we retrieve (检索) information, both the desired and associated but irrelevant information is recalled.,\n\nThe majority of previous research has focused on how we learn and remember new information. But current studies are beginning to place greater emphasis on the conditions under which we forget, as its importance begins to be more appreciated.\n\nA very small number of people are able to remember almost every detail of their life. While it may sound like an advantage to many, people with this rare condition often find their unusual ability burdensome.\n\nIn a sense, forgetting is our brain’s way of sorting memories, so the most relevant memories are ready for retrieval. Normal forgetting may even be a safety mechanism to ensure our brain doesn’t become too full.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What have past behavioural studies found about our brain?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its capacity actually knows no limits."
+                },
+                {
+                  "label": "B",
+                  "text": "It grows sophisticated with practice."
+                },
+                {
+                  "label": "C",
+                  "text": "It keeps our most precious memories until life’s end."
+                },
+                {
+                  "label": "D",
+                  "text": "New information learned pushes old information out."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is the benefit of forgetting?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It frees us from painful memories."
+                },
+                {
+                  "label": "B",
+                  "text": "It helps slow down our aging process."
+                },
+                {
+                  "label": "C",
+                  "text": "It facilitates our access to relevant information."
+                },
+                {
+                  "label": "D",
+                  "text": "It prevents old information from forming associations."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What is the emphasis of current studies of memory?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When people tend to forget."
+                },
+                {
+                  "label": "B",
+                  "text": "What contributes to forgetting."
+                },
+                {
+                  "label": "C",
+                  "text": "How new technology hinders memory capacity."
+                },
+                {
+                  "label": "D",
+                  "text": "Why learning and forgetting arc complementary."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What do people find about their rare ability to remember every detail of their life?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It adds to the burden of their memory."
+                },
+                {
+                  "label": "B",
+                  "text": "It makes their life more complicated."
+                },
+                {
+                  "label": "C",
+                  "text": "It contributes to their success in life."
+                },
+                {
+                  "label": "D",
+                  "text": "It constitutes a rare object of envy."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the passage say about forgetting?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can enlarge our brain capacity."
+                },
+                {
+                  "label": "B",
+                  "text": "It helps get rid of negative memories."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a way of organising our memories."
+                },
+                {
+                  "label": "D",
+                  "text": "It should not cause any alarm in any way."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "珠江是华南一大河系，流经广州市，是中国第三长的河流，仅次于长江和黄河。珠江三角洲（delta）是中国最发达的地区之一，面积约 11,000 平方公里。它在面积和人口方面也是世界上最大的城市聚集区。珠江三角洲九个最大城市共有 5,700 多万人口。上世纪 70 年代末中国改革开放以来，珠江三角洲已成为中国和世界主要经济区域和制造中心之一。"
+      }
+    ]
+  },
+  "id": "CET4-2017-06-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "D",
+        "explanation": "D)。详解 新闻中提到,谷歌表示,自动驾驶汽车在并道时,随车测试人员认为公交车会减速或停下,以便让自动驾驶汽车并入车流,因此测试人员并没有转换到人工驾驶模式。由此可知,测试人员判断失误是导致事故发生的原因,答案为 D)。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "A)。详解 新闻末尾提到,自动驾驶汽车在美国各州超过100万英里的行驶里程中运行良好,目前也只是出现过小事故。由此可知,总体来说,自动驾驶汽车运行得比较好,答案为A)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)。详解 新闻中提到,Tom Moses 在附近的一个国家公园工作,故答案为 B)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)。详解 新闻中, Tom Moses 说他第一次看到这么多蜜蜂聚集在一个地方, 它们挨得非常近, 飞来飞去发出很多噪音。因此答案为 A)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)。详解 新闻开头提到,科学家在巴哈马群岛的一个偏远小岛上发现了蛇类新物种,之后报道了科学家对这一新物种的发现过程及研究。由此可知,新闻的主要内容是关于蛇类新物种的发现,答案为 D)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)。详解 新闻中提到,科学家在两次加勒比群岛之旅中发现了20条新物种蛇,在他们的第二次旅途中,一条蛇戏剧性地出现了,它在队长睡觉时爬到了他的头上。因此答案为 B)。"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "C)。详解 新闻中提到,科学家把新物种的蛇命名为银蟒,主要是因为它的颜色类似金属,而且科学家发现第一条银蟒时,它正在一棵银色的棕榈树上往上爬。由此可知,科学家主要是根据颜色给这一新物种蛇命名的,答案为 C)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)。详解 对话开头部分,男士说自己要去机场,因航班离起飞时间不足两小时,故而询问女士去机场的最快方法。因此答案为 B)。"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "B)。详解 对话中女士询问男士如何支付酒吧账单,男士说用信用卡。因此答案为 B)。"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "C)。详解男士说自己需要收据才能到公司报销。由此可知，男士需要女士出具收据，答案为C)。"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "A)。详解 对话结尾,女士给男士收据后,请男士方便时在酒店的网站上留言评论,这就是女士请男士帮的忙,因此答案为 A)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)。详解对话开头,男士说 Ben 一改过去的做法,不再做吓人的鬼脸了。因此答案为 D)。"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "A)。详解对话中男士说，Mary阿姨过去常说如果误吞了樱桃核，樱桃树就会从嘴里长出来。结合Ben的经历可知，Mary阿姨说此话的目的是警告男士吃樱桃核会有危险，答案为A)。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "D)。详解 对话中女士提到了自己被大人吓住的经历,第一个就是天鹅挥动翅膀的时候会把人的腿打断。因此答案为 D)。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "C)。详解 对话末尾,男士说他妻子的祖母说如果蝙蝠钻进头发里,就只能剃光头把它弄出来,这令妻子很害怕。因此答案为 C)。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "A)。详解 讲话者说如果能回到从前他喜欢的时间,他想重温20世纪60年代,那时候他20来岁,一切都在复兴,复兴表明充满了变化,因此答案为A)。"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "B)。详解 讲话者提到晚上去咖啡厅和朋友见面是最流行的事。短文中的“was the thing”是口语表达，意思是“很火，很流行”，因此答案为 B)。"
+      },
+      "18": {
+        "answer": "C",
+        "explanation": "C)。详解 讲话者提到他在20世纪60年代时是个学生,不用出去工作,也不会闲坐在家里。因此答案为 C)。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "A)。详解 短文开头提到,狗是人类最好的朋友,在遇到主人生气时,它们有一个很明显的应对策略,那就是把目光移开。新研究表明,在遇到生气的人时,狗会减少与他们的目光交流。因此答案为 A)。"
+      },
+      "20": {
+        "answer": "D",
+        "explanation": "D)。详解 赫尔辛基大学的研究者们训练了31只狗用于实验,观察它们见到威胁、高兴或中性表情时的反应。实验表明,看到狗生气的表情时,它们的目光会更多地落在对方的嘴巴上。因此答案为D)。"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "C)。详解 短文末尾提到,研究者们说,狗通过整体地看人脸的表情来判断人的情绪,而不是只聚焦在人类所表现出来的某一表情特征。这表明狗不是通过某一个表情特征而是像人类一样收集多种面部表情特征来判断人们的情绪的。因此答案为 C)。"
+      },
+      "22": {
+        "answer": "C",
+        "explanation": "C)。详解 短文中提到动物有三种方式度过寒冷的冬天,分别是冬眠、适应环境和迁徙。这说明动物在冬季会寻求不同的方法来应对寒冷,答案为 C)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "B)。详解 短文中提到,在冬天来临之前,选择冬眠的动物会多吃食物以变胖,这样可以提供它们在冬眠的时候所需要的能量。由此可知,冬眠的动物在冬眠时消耗的是冬眠前储存的能量,答案为 B)。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "A)。详解 短文结尾处提到,有些鸟考虑到安全因素会成群结队地迁徙。因此答案为 A)。"
+      },
+      "26": {
+        "answer": "I",
+        "explanation": "relatively。详解 副词辨析题。空格前面是不定冠词 a, 后面为形容词 recent, 因此空格处需要填入副词, 以修饰其后的形容词。前一句中提到啤酒花给现代啤酒增添了一丝苦味, 后面说这一点在九世纪关于酿造的参考材料中被首次提到, 由此推出啤酒花的出现年代并不久远, 而是相当近的, 因此 I) relatively“相对地, 相当地”符合句意。在备选副词中, exclusively“专门地, 排外地”与此处要表达的“相当地”意思不符合, 可以排除。"
+      },
+      "27": {
+        "answer": "N",
+        "explanation": "surprising。详解形容词辨析题。空格前面有不定冠词 a, 后面是名词 ingredient“成分”, 因此空格处需填入形容词来修饰后面的名词。句中提到, 研究人员在 5 000 年前的啤酒酿造设备的残留物中发现了这一成分, 说明该成分还是很令人吃惊的, 因此 N) surprising 符合句意。在备选形容词中, direct 和 raw 不能与 ingredient 搭配使用, 而 staple 与句意不符, 故均排除。"
+      },
+      "28": {
+        "answer": "M",
+        "explanation": "suggest。详解 动词辨析题。空格前面是名词短语 different shapes of the containers “容器的不同形状”，空格后面是一个完整的从句 they were used to…，由此推出空格处应填入动词作整个句子的谓语。空格前面提到“容器的不同形状”，后面提到“它们是被用来酿造、过滤和储存啤酒的”，由此推出 M) suggest “表明，暗示”符合句意，即“不同的形状表明它们有各自的用途”。在备选动词中，consuming 和 including 为动名词形式，均不能作谓语，可以排除；其他动词 arrived、inform、reached、test 均与句意不符，可以排除。"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "direct。详解形容词辨析题。空格前为形容词最高级,空格后为名词,由此推断仍需填入形容词,与前面的 the earliest 一起修饰 evidence。空格所在句意为“这些容器可能就是古代的酿酒工具,这也成为中国古代酿酒最早的证据”。根据句意可知,容器也是非常直接的证据,故 C) direct“直接的”为答案。备选项中其他的形容词 raw, surprising 和 staple 无法与 evidence 搭配,均排除。"
+      },
+      "30": {
+        "answer": "O",
+        "explanation": "test。详解 动词辨析题。空格前面有不定式符号 to, 后面是名词短语 that theory, 由此可知空格处应填入动词原形。上文中提到了考古研究人员的一些发现, 下文中提到团队又对某些物质进行了检验, 由此推出研究人员应该是想通过检验来证实这些理论, 故 O) test“证实, 测试”符合句意。在备选动词中, inform 也是动词原形, 但用在此处与句意不符, 故排除。"
+      },
+      "31": {
+        "answer": "J",
+        "explanation": "remains。详解名词辨析题。空格前有形容词 yellowish 和 dried, 其后是介词短语 inside the vessels, 由此推出空格处应填入名词作宾语。该句提到这是容器中一种黄色、干燥的物质, 再结合备选项可知, J) remains“残留物, 遗址”符合句意。而 K) resources“资源”与句意不符, 可以排除。"
+      },
+      "32": {
+        "answer": "E",
+        "explanation": "including。详解 动词辨析题。空格所在句位于由 and 连接的并列句中,且其前为名词 roots,其后为名词 lily,故此处只能填入动词的现在分词或过去分词形式表示从属关系。句子表达的意思是“约 80% 为谷物,约 10% 为植物的根茎”。而“百合”恰好属于根茎类植物,由此推出 E) including“包含”符合句意。备选项中的 arrived、consuming 和 reached 均与句意不符,可以排除。"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "staple。详解形容词辨析题。空格前面有不定冠词 a, 后面为名词 food, 因此空格处应填入形容词, 用于修饰其后的名词 food。空格前提到这种农作物是在西欧亚大陆被培育出来的, 由此推出并非是当时中国中原地区的主要食物来源, 故 L) staple“主要的, 基本的”符合句意。备选项中的形容词 raw 虽可与 food 搭配, 但与句意不符, 可以排除。"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "arrived。详解 动词辨析题。空格处于 indicate 后的宾语从句中,其前面为助动词 have,其后为介词短语 in the region,由此推出应填入动词的过去分词作从句的谓语。备选项中动词的过去分词只有 arrived 和 reached,而 reached 不能与后面的介词 in 搭配,因此 A) arrived 为答案。"
+      },
+      "35": {
+        "answer": "G",
+        "explanation": "raw。详解形容词辨析题。空格前面有介词 as, 后面有不可数名词 material, 由此推出应填入形容词修饰后面的名词 material。句中提到大麦最初传入这一地区并不是作为食物, 而是作为酿酒的材料, raw material 为固定搭配, 意为“原材料”, 故 G) raw“生的, 未经加工的”为答案。"
+      },
+      "36": {
+        "answer": "H",
+        "explanation": "详解) 定位句说明了拥有 HSAM 者的记忆特征是高度自我中心化的: 尽管他们能够非常详细地记住“自传式”生活事件, 但是在记忆非个人信息方面, 比如随机排列的单词, 他们似乎不比普通人强。题干中的 have the same memory as ordinary people 是对定位句中 seem to be no better than average 的同义转述, 故答案为 H)。"
+      },
+      "37": {
+        "answer": "K",
+        "explanation": "详解 定位句提到,不是每一个有幻想倾向的人都能具有“超级自传体记忆”的能力。题干中的 Fantasy proneness 对应定位句中 a tendency to fantasise; not necessarily 对应定位句中的 Not everyone,故答案为 K)。"
+      },
+      "38": {
+        "answer": "C",
+        "explanation": "详解 定位段主要介绍了维瑟的超强记忆启动的经历: 在最好朋友的生日晚会上遇到自己的初恋后, 维瑟开始能记住生活中的每个细节。题干是对定位段的总结, 故答案为 C)。"
+      },
+      "39": {
+        "answer": "G",
+        "explanation": "详解) 由定位段可知,得益于这些媒体后续的兴趣,几十个其他的受试者(包括维瑟)自告奋勇与加利福尼亚大学欧文分校的研究团队取得了联系。题干中的 due to the mass media 是对定位句中 thanks to the subsequent media interest 的同义转述; researchers 对应定位句中的 the team,故答案为 G)。"
+      },
+      "41": {
+        "answer": "A",
+        "explanation": "详解 定位段指出,对于大多数人而言,记忆就像一本逐渐模糊、褪色的人生画册。无论我们多想要抓住过去,即使最痛苦的时刻也会随着时间消逝。也就是说,大部分人对过去发生的事件没有清晰的记忆。题干是对定位段的概括,故答案为 A)。"
+      },
+      "42": {
+        "answer": "L",
+        "explanation": "详解 定位句提出了文章主题:拥有 HSAM 的人福祸相依。下文分别举例解释福和祸的具体内容。题干中的 both a curse and a blessing 是对定位句中 a mixed blessing 的同义转述,故答案为 L)。"
+      },
+      "43": {
+        "answer": "E",
+        "explanation": "详解 定位段提到,一位名叫吉尔·普莱斯的年轻女士给神经科学专家兼记忆研究员吉姆·麦克高夫发邮件,声称她可以回忆起12岁以来每一天的生活。麦克高夫能否帮助解释她的经历呢?题干中的her unusual memory是对定位段中she could recall every day of her life since the age of 12的概括。整个题干是对定位段的概括归纳,故答案为E)。"
+      },
+      "44": {
+        "answer": "O",
+        "explanation": "详解 定位句提到,不是每一个拥有 HSAM 的人都能体会这些好处。对过去记得太清楚就会很难从痛苦和遗憾中解脱出来。题干中的 get rid of unpleasant memories 对应定位句中的 get over pain and regret。题干是对定位句的同义转述,故答案为 O)。"
+      },
+      "45": {
+        "answer": "I",
+        "explanation": "详解 定位句指出,南密西西比大学的劳伦斯·帕特西斯近来研究了约20位拥有HSAM者,发现他们在幻想倾向和专注力两方面得分特别高。幻想倾向可以理解为想象和做白日梦的倾向,而专注力则是使自己的思维全神贯注于某种活动(对感受和经历投入全部的关注)的倾向。题干是对定位句的同义转述,故答案为I)。"
+      },
+      "46": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 the phrase “midlife crisis” 定位到首段: The phrase almost completes itself: midlife crisis. It’s the stage in the middle of the journey when people feel youth vanishing, their prospects narrowing and death approaching. 和第二段: There’s only one problem with the cliché (套话). It isn’t true."
+      },
+      "47": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 view midlife 定位到第四段第一句: Barbara Hagerty looks at some of the features of people who turn midlife into a rebirth."
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 midlife pictured 和 life Reimagined 定位到第五段:Life Reimagined paints a picture of middle age that is far from gloomy...is already secure."
+      },
+      "49": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 Karl Barth 和 midlife is the time 定位到文章第七段。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 midlife today 定位到第八段第一句: What Barth wrote decades ago is even truer today. 和最后一句: What could have been considered the beginning of a descent is now a potential turning point..."
+      },
+      "51": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 prize the egg 定位到第一段: In spring, chickens start laying again, bringing a welcome source of protein at winter's end. So it's no surprise that cultures around the world celebrate spring by honoring the egg."
+      },
+      "52": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 the decorated “eggs” in Russia 定位到第二段第二句: Others elevate the egg into a fancy art, like the heavily jewel-covered “eggs” that were favored by the Russians starting in the 19th century."
+      },
+      "53": {
+        "answer": "C",
+        "explanation": "。定位由题干中的contemporary artists和continued the egg art tradition定位到第三段第三句。"
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Chast 和 process of decorating eggs 定位到第五段前两句: But there's an appeal in that vulnerability. “There's part of this sickening horror...that I kind of like,...”"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "。定位由题干及各选项可定位至最后一段第一句。"
+      }
+    },
+    "references": {}
+  }
+}

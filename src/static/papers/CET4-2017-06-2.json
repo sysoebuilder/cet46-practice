@@ -1,0 +1,1504 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a bicycle you used at college. Your advertisement may include its brand, features,condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分，之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "advertisement",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a bicycle you used at college. Your advertisement may include its brand, features,condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分，之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a bicycle you used at college. Your advertisement may include its brand, features,condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+        "materials": "(请于正式开考后半小时内完成该部分，之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and questions will be spoken only once. After you hear questions, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and questions will be spoken only once. After you hear questions, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 2 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The majority of drivers prefer to drive and park themselves."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Human drivers become easily distracted or tired while driving."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Most drivers feel uncertain about the safety of self-driving cars."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Most drivers have test driven cars with automatic braking features."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their drivers would feel safe after getting used to the automatic devices."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They would be unpopular with drivers who only trust their own skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their increased comfort levels have boosted their sales."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are not actually as safe as automakers advertise."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Thefts of snowmobile dogs in Alaska."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A series of injuries to snowmobile drivers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Attacks on some Iditarod Race competitors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A serious accident in the Alaska sports event."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He stayed behind to look after his injured dogs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has won the Alaska Iditarod Race four times."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He received a minor injury in the Iditarod Race."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has quit the competition in Alaska for good."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It sank into the sea due to overloading."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It ran into Nicaragua’s Big Corn Island."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It disappeared between two large islands."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It turned over because of strong winds."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "13."
+                  },
+                  {
+                    "label": "B",
+                    "text": "25."
+                  },
+                  {
+                    "label": "C",
+                    "text": "30."
+                  },
+                  {
+                    "label": "D",
+                    "text": "32."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has helped with the rescue effort."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is being investigated by the police."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was drowned with the passengers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is among those people missing."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "At a shopping centre."
+                  },
+                  {
+                    "label": "B",
+                    "text": "At a community college."
+                  },
+                  {
+                    "label": "C",
+                    "text": "At an accountancy firm."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At an IT company."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Helping out with data input."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Arranging interviews."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sorting application forms."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Making phone calls."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He enjoys using computers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He needs the money badly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He wants to work in the city centre."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has relevant working experience."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Purchase some business suits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Learn some computer language."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Improve his programming skills."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Review some accountancy terms."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are keen on high technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are poor at technology skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They often listen to National Public Radio."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They feel superior in science and technology."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Japanese."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Germans."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Poles."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Americans."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Emailing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Texting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Science."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Literacy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is undergoing a drastic reform."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It lays emphasis on creative thinking."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has much room for improvement."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It prioritizes training of practical skills."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question,you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have small roots."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They grow white flowers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They taste like apples."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They come from Central Africa."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They turned from white to purple in color."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They became popular on the world market."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They became an important food for humans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They began to look like modern-day carrots."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were found quite nutritious."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There were serious food shortages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People discovered their medicinal value."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Farm machines helped lower their prices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She could update her family any time she liked."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She could call up her family whenever she liked"
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could locate her friends wherever they were."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She could download as many pictures as she liked."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She liked to inform her friends about her success."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She enjoyed reading her friends’ status updates."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She felt quite popular among them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She felt she was a teenager again."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She could barely respond to all her 500 Facebook friends."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She spent more time updating her friends than her family."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could barely balance Facebook updates and her work."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She didn’t seem to be doing as well as her Facebook friends."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have strong muscles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They live a longer life than horses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They eat much less in winter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can work longer than donkeys."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was a pet of a Spanish king."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was bought by George Washington."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was brought over from Spain."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was donated by a U.S. Ambassador."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They met and exchanged ideas on animal breeding."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They participated in a mule-driving competition."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They showed and traded animals in the market."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They fed mules with the best food they could find."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The wider use of horses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The arrival of tractors."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A shrinking animal trade."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A growing donkey population."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [
+        "注意:此部分试题请在答题卡 2 上作答。"
+      ],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "As if you needed another reason to hate the gym, it now turns out that exercise can exhaust not only your muscles, but also your eyes. Fear not, however, for coffee can stimulate them again. During (26) exercise, our muscles tire as they run out of fuel and build up waste products. Muscle performance can also be affected by a (27) called \"central fatigue,” in which an imbalance in the body’s chemical messengers prevents the central nervous system from directing muscle movements（28) . It was not known, however, whether central fatigue might also affect motor systems not directly (29) _ in the exercise itself, such as those that move the eyes. To find out, researchers gave 11 volunteer cyclists a carbohydrate (碳水化合物的）(30) either with a moderate dose of caffeine (咖啡因)，which is known to stimulate the central nervous system, or as a placebo (安慰剂）without, during 3 hours of (31)  . After exercising, the scientists tested the cyclists with eyetracking cameras to see how well their brains could still (32) their visual system. The team found that exercise reduced the speed of rapid eye movements by about 8%, (33) their ability to capture new visual information. The caffeine, the equivalent of two strong cups of coffee, was (34) to reverse this effect, with some cyclists even displaying (35) eye movement speeds. So it might be a good idea to get someone else to drive you home after that marathon.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "cautiously"
+        },
+        {
+          "label": "B",
+          "text": "commit"
+        },
+        {
+          "label": "C",
+          "text": "control"
+        },
+        {
+          "label": "D",
+          "text": "cycling"
+        },
+        {
+          "label": "E",
+          "text": "effectively"
+        },
+        {
+          "label": "F",
+          "text": "increased"
+        },
+        {
+          "label": "G",
+          "text": "involved"
+        },
+        {
+          "label": "H",
+          "text": "limited"
+        },
+        {
+          "label": "I",
+          "text": "phenomenon"
+        },
+        {
+          "label": "J",
+          "text": "preventing"
+        },
+        {
+          "label": "K",
+          "text": "sensitive"
+        },
+        {
+          "label": "L",
+          "text": "slowing"
+        },
+        {
+          "label": "M",
+          "text": "solution"
+        },
+        {
+          "label": "N",
+          "text": "sufficient"
+        },
+        {
+          "label": "O",
+          "text": "vigorous"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 199,
+          "end": 201
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 329,
+          "end": 331
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 483,
+          "end": 485
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 586,
+          "end": 588
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 726,
+          "end": 728
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 881,
+          "end": 883
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1008,
+          "end": 1010
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1117,
+          "end": 1119
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1234,
+          "end": 1236
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1298,
+          "end": 1300
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the",
+        "notices": [
+          "注意:此部分试题请在答题卡 2 上作答。"
+        ],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.\n\nTeam spirit",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Teams have become the basic building blocks of organizations. Recruitment advertisements routinely call for “team players”. Business schools grade their students in part on their performance in group projects. Office managers knock down walls to encourage team building. Teams are as old as civilization, of course: even Jesus had 12 co-workers. But a new report by Deloitte, “Global Human Capital Trends”, based on a survey of more than 7,000 executives in over 130 countries, suggests that the fashion for teamwork has reached a new high. Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on (开始）it; and for the most part, restructuring meant putting more emphasis on teams."
+        },
+        {
+          "label": "B",
+          "text": "Companies are abandoning conventional functional departments and organising employees into cross-disciplinary teams that focus on particular products, problems or customers. These teams are gaining more power to run their own affairs. They are also spending more time working with each other rather than reporting upwards. Deloitte argues that a new organisational form is on the rise: a network of teams is replacing the conventional hierarchy (等级体制)."
+        },
+        {
+          "label": "C",
+          "text": "The fashion for teams is driven by a sense that the old way of organising people is too rigid for both the modem marketplace and the expectations of employees. Technological innovation places greater value on agility (灵活性).John Chambers, chairman of Cisco Systems Inc., a worldwide leader in electronics products, says that “we compete against market transitions (过渡)，not competitors. Product transitions used to take five or seven years; now they take one or two. ” Digital technology also makes it easier for people to co-ordinate their activities without resorting to hierarchy. The “millennials” (千禧一代) who will soon make up half the workforce in rich countries were raised from nursery school onwards to work in groups."
+        },
+        {
+          "label": "D",
+          "text": "The fashion for teams is also spreading from the usual corporate suspects (such as GE and IBM) to some more unusual ones. The Cleveland Clinic, a hospital operator, has reorganised its medical staff into teams to focus on particular treatment areas; consultants, nurses and others collaborate closely instead of being separated by speciality (专业)and rank. The US Army has gone the same way. In his book, “Team of Teams' General Stanley McChrystal describes how the army’s hierarchical structure hindered its operations during the early stages of the Iraq war. His solution was to learn something from the insurgents it was fighting: decentralise authority to self-organising teams."
+        },
+        {
+          "label": "E",
+          "text": "A good rule of thumb is that as soon as generals and hospital administrators jump on a management bandwagon, it is time to ask questions. Leigh Thompson of Kellogg School of Management in Illinois warns that, ‘Teams are not always the answer—teams may provide insight, creativity and knowledge in a way that a person working independently cannot; but teamwork may also lead to confusion, delay and poor decision-making.” The late Richard Hackman of Harvard University once argued, “I have no question that when you have a team, the possibility exists that it will generate magic, producing something extraordinary... But don’t count on it.”"
+        },
+        {
+          "label": "F",
+          "text": "Hackman (who died in 2013) noted that teams are hampered by problems of co-ordination and motivation that chip away at the benefits of collaboration. High-flyers forced to work in teams may be undervalued and free-riders empowered. Groupthink may be unavoidable. In a study of 120 teams of senior executives, he discovered that less than 10% of their supposed members agreed on who exactly was on the team. If it is hard enough to define a team’s membership, agreeing on its purpose is harder still."
+        },
+        {
+          "label": "G",
+          "text": "Profound changes in the workforce are making teams trickier to manage. Teams work best if their members have a strong common culture. This is hard to achieve when, as is now the case in many big firms, a large proportion of staff are temporary contractors. Teamwork improves with time: America’s National Transportation Safety Board found that 73% of the incidents in its civil-aviation database occurred on a crew’s first day of flying together. However, as Amy Edmondson of Harvard points out, organisations increasingly use “team” as a verb rather than a noun: they form teams for specific purposes and then quickly disband them."
+        },
+        {
+          "label": "H",
+          "text": "The least that can be concluded from this research is that companies need to think harder about managing teams. They need to rid their minds of sentimentalism (感情用事):the most successful teams have leaders who are able to set an overall direction and take immediate action. They need to keep teams small and focused: giving in to pressure to be more “inclusive” is a guarantee of dysfunction. Jeff Bezos, Amazon’s boss, says that “If I see more than two pizzas for lunch, the team is too big.” They need to immunize teams against group-think: Hackman argued that the best ones contain “deviants” (离经叛道者）who are willing to do something that maybe upsetting to others."
+        },
+        {
+          "label": "I",
+          "text": "A new study of 12,000 workers in 17 countries by Steelcase, a furniture-maker which also does consulting, finds that the best way to ensure employees are “engaged” is to give them more control over where and how they do their work―which may mean liberating them from having to do everything in collaboration with others."
+        },
+        {
+          "label": "J",
+          "text": "However, organisations need to learn something bigger than how to manage teams better: they need to be in the habit of asking themselves whether teams are the best tools for the job. Teambuilding skills are in short supply: Deloitte reports that only 12% of the executives they contacted feel they understand the way people work together in networks and only 21% feel confident in their ability to build cross-functional teams. Loosely managed teams can become hotbeds of distraction―employees routinely complain that they can’t get their work done because they are forced to spend too much time in meetings or compelled to work in noisy offices. Even in the age of open-plan offices and social networks some work is best left to the individual.\n\n注意:此部分试题请在答题卡 2 上作答。"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Successful team leaders know exactly where the team should go and are able to take prompt action."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Decentralisation of authority was also found to be more effective in military operations."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "In many companies, the conventional form of organisation is giving way to a network of teams."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Members of poorly managed teams are easily distracted from their work."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Teamwork is most effective when team members share the same culture."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "According to a report by Deloitte, teamwork is becoming increasingly popular among companies."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Some team members find it hard to agree on questions like membership and the team’s purpose."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Some scholars think teamwork may not always be reliable, despite its potential to work wonders."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "To ensure employees’ commitment, it is advisable to give them more flexibility as to where and how they work."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Product transitions take much less time now than in the past."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Shoppers in the UK are spending less money on toilet paper to save money, research has shown.\n\nPenny-pinching UK consumers choose cheaper products from discounters such as Aldi and Lidl\n\nrather than luxury alternatives.\n\nThis has wiped 6% off the value of the soft tissue paper market in the UK. It has shrunk from £1.19 billion in 2011 to £1.12 billion in 2015,according to a new report from market research company Mintel. Furthermore, the future of the market looks far from rosy, with sales expected to fall further to £1.11 billion in 2016.\n\nIn the last year alone, despite an increase in the UK population and a subsequent rise in the number of households, sales of toilet paper fell by 2%, with the average household reducing their toilet roll spending from £43 in 2014 to £41 in 2015.\n\nOverall, almost three in five people say they try to limit their usage of paper—including facial tissue and kitchen roll―to save money. “Strength，softness and thickness remain the leading indicators of toilet paper quality, with just a small proportion of consumers preferring more luxurious alternatives, such as those with flower patterns of perfume,said Mintel analyst Jack Duckett. ''These extra features are deemed unnecessary by the majority of shoppers, which probably reflects how these types of products are typically more expensive than regular toilet paper, even when on special offer.”\n\nWhile consumers are spending less on toilet paper, they remain fussy―in theory at least—when it comes to paper quality. Top of Britons’ toilet paper wish list is softness (57%) followed by strength (45%) and thickness (36%).\n\nOne in 10 buyers rand toilet rolls made from recycled paper among their top considerations, highlighting how overall the environment is much less of a consideration for shoppers than product quality. In a challenge for manufacturers, 81% of paper product users said they would consider buying recycled toilet tissue if it were comparable in quality to standard paper.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "The market sales of toilet paper have decreased because",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Britons have cut their spending on it"
+                },
+                {
+                  "label": "B",
+                  "text": "its prices have gone up over the years"
+                },
+                {
+                  "label": "C",
+                  "text": "its quality has seen marked improvement"
+                },
+                {
+                  "label": "D",
+                  "text": "Britons have developed the habit of saving"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author think of the future of the tissue paper market in the UK?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It will expend in time."
+                },
+                {
+                  "label": "B",
+                  "text": "It will remain gloomy."
+                },
+                {
+                  "label": "C",
+                  "text": "It will experience ups and downs."
+                },
+                {
+                  "label": "D",
+                  "text": "It will recover as population grows."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does Jack Duckett say about toilet paper?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Special offers would promote its sales."
+                },
+                {
+                  "label": "B",
+                  "text": "Consumers are loyal to certain brands."
+                },
+                {
+                  "label": "C",
+                  "text": "Luxurious features add much to the price."
+                },
+                {
+                  "label": "D",
+                  "text": "Consumers have a variety to choose from."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do we learn about Britons concerning toilet paper?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are particular about the quality of toilet paper."
+                },
+                {
+                  "label": "B",
+                  "text": "They emphasize the strength of toilet paper the most."
+                },
+                {
+                  "label": "C",
+                  "text": "They prefer cheap toilet paper to recycled toilet paper."
+                },
+                {
+                  "label": "D",
+                  "text": "They reject using toilet paper with unnecessary features."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can we infer from the last paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "More and more Britons buy recycled toiler paper to protect the environment."
+                },
+                {
+                  "label": "B",
+                  "text": "Toilet paper manufacturers are facing a great challenge in promoting its sales."
+                },
+                {
+                  "label": "C",
+                  "text": "Toilet paper manufacturers compete with one another to improve product quality."
+                },
+                {
+                  "label": "D",
+                  "text": "Environmental protection is not much of a concern when Britons buy toilet paper."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "“One of the reasons I find this topic very interesting is because my mom was a smoker when I was younger，” says Lindson-Hawley, who studies tobacco and health at the University of Oxford.\n\nBy studying about 700 adult smokers, she found out that her mom quit the right way—by stopping abruptly and completely.\n\nIn her study, participants were randomly (随机地）assigned to two groups. One had to quit abruptly on a given day, going from about a pack a day to zero. The other cut down gradually over the course of two weeks. People in both groups used nicotine (尼古丁）patches before they quit, in addition to a second form of nicotine replacement, like gum or spray. They also had talk therapy with a nurse before and after quit day.\n\nSix months out, more people who had quit abruptly had stuck with it—more than one-fifth of them, compared to about one-seventh in the other group. Although these numbers appear low, it is much higher than if people try without support.\n\nAnd the quit rates were particularly convincing given that before the study started, most of the people had said they’d rather cut down gradually before quitting. “If you’re training for a marathon, you wouldn’t expect to turn up and just be able to run it. And I think people see that for smoking as well. They think,‘ Well， if I gradually reduce, it’s like practice，’” says Lindson-Hawley. But that wasn’t the case. Instead of giving people practice, the gradual reduction likely gave them cravings (瘾）and withdrawal\n\nsymptoms before they even reached quit day, which could be why fewer people in that group actually made it to that point. “Regardless of your stated preference, if you’re ready to quit, quitting abruptly is more effective,”says Dr. Gabriela Ferreira. “When you can quote a specific number like a fifth of the patients were able to quit, that’s compelling. It gives them the encouragement, I think, to really go for it，’’ Ferreira says.\n\nPeople rarely manage to quit the first time they try. But at least, she says, they can maximize the odds of success.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does Lindson-Hawley say about her mother?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She quit smoking with her daughter’s help."
+                },
+                {
+                  "label": "B",
+                  "text": "She succeeded in quitting smoking abruptly."
+                },
+                {
+                  "label": "C",
+                  "text": "She was also a researcher of tobacco and health."
+                },
+                {
+                  "label": "D",
+                  "text": "She studied the smoking patterns of adult smokers."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What kind of support did smokers receive to quit smoking in Lindson-Hawley’s study?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They were given physical training."
+                },
+                {
+                  "label": "B",
+                  "text": "They were looked after by physicians."
+                },
+                {
+                  "label": "C",
+                  "text": "They were encouraged by psychologists."
+                },
+                {
+                  "label": "D",
+                  "text": "They were offered nicotine replacements."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "How does Dr. Gabriela Ferreira view the result of Lindson-Hawley’s experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is idealized."
+                },
+                {
+                  "label": "B",
+                  "text": "It is unexpected."
+                },
+                {
+                  "label": "C",
+                  "text": "It is encouraging."
+                },
+                {
+                  "label": "D",
+                  "text": "It is misleading."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "The idea of “a marathon” （Line 2, Para. 5) illustrates the popular belief that quitting smoking",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "is something few can accomplish"
+                },
+                {
+                  "label": "B",
+                  "text": "needs some practice first"
+                },
+                {
+                  "label": "C",
+                  "text": "requires a lot of patience"
+                },
+                {
+                  "label": "D",
+                  "text": "is a challenge at the beginning"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What happens when people try to quit smoking gradually?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They find it even more difficult."
+                },
+                {
+                  "label": "B",
+                  "text": "They are simply unable to make it."
+                },
+                {
+                  "label": "C",
+                  "text": "They show fewer withdrawal symptoms."
+                },
+                {
+                  "label": "D",
+                  "text": "They feel much less pain in the process."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "长江是亚洲最长、世界上第三长的河流。长江流经多种不同的生态系统，是诸多濒危物种的栖息地，灌溉了中国五分之一的土地。长江流域(river basin )居住着三分之一的人口。长江在中国历史、文化和经济上起着很大的作用。长江三角洲(delta)产出多达 20%的中国国民生产总值。几千年来，长江一直被用于供水、运输和工业生产。长江上还坐落着世界最大的水电站。"
+      }
+    ]
+  },
+  "id": "CET4-2017-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "D",
+        "explanation": "D)。详解 新闻中提到,谷歌表示,自动驾驶汽车在并道时,随车测试人员认为公交车会减速或停下,以便让自动驾驶汽车并入车流,因此测试人员并没有转换到人工驾驶模式。由此可知,测试人员判断失误是导致事故发生的原因,答案为 D)。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "A)。详解 新闻末尾提到,自动驾驶汽车在美国各州超过100万英里的行驶里程中运行良好,目前也只是出现过小事故。由此可知,总体来说,自动驾驶汽车运行得比较好,答案为A)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)。详解 新闻中提到,Tom Moses 在附近的一个国家公园工作,故答案为 B)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)。详解 新闻中, Tom Moses 说他第一次看到这么多蜜蜂聚集在一个地方, 它们挨得非常近, 飞来飞去发出很多噪音。因此答案为 A)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)。详解 新闻开头提到,科学家在巴哈马群岛的一个偏远小岛上发现了蛇类新物种,之后报道了科学家对这一新物种的发现过程及研究。由此可知,新闻的主要内容是关于蛇类新物种的发现,答案为 D)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)。详解 新闻中提到,科学家在两次加勒比群岛之旅中发现了20条新物种蛇,在他们的第二次旅途中,一条蛇戏剧性地出现了,它在队长睡觉时爬到了他的头上。因此答案为 B)。"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "C)。详解 新闻中提到,科学家把新物种的蛇命名为银蟒,主要是因为它的颜色类似金属,而且科学家发现第一条银蟒时,它正在一棵银色的棕榈树上往上爬。由此可知,科学家主要是根据颜色给这一新物种蛇命名的,答案为 C)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)。详解 对话开头部分,男士说自己要去机场,因航班离起飞时间不足两小时,故而询问女士去机场的最快方法。因此答案为 B)。"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "B)。详解 对话中女士询问男士如何支付酒吧账单,男士说用信用卡。因此答案为 B)。"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "C)。详解男士说自己需要收据才能到公司报销。由此可知，男士需要女士出具收据，答案为C)。"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "A)。详解 对话结尾,女士给男士收据后,请男士方便时在酒店的网站上留言评论,这就是女士请男士帮的忙,因此答案为 A)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)。详解对话开头,男士说 Ben 一改过去的做法,不再做吓人的鬼脸了。因此答案为 D)。"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "A)。详解对话中男士说，Mary阿姨过去常说如果误吞了樱桃核，樱桃树就会从嘴里长出来。结合Ben的经历可知，Mary阿姨说此话的目的是警告男士吃樱桃核会有危险，答案为A)。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "D)。详解 对话中女士提到了自己被大人吓住的经历,第一个就是天鹅挥动翅膀的时候会把人的腿打断。因此答案为 D)。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "C)。详解 对话末尾,男士说他妻子的祖母说如果蝙蝠钻进头发里,就只能剃光头把它弄出来,这令妻子很害怕。因此答案为 C)。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "A)。详解 讲话者说如果能回到从前他喜欢的时间,他想重温20世纪60年代,那时候他20来岁,一切都在复兴,复兴表明充满了变化,因此答案为A)。"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "B)。详解 讲话者提到晚上去咖啡厅和朋友见面是最流行的事。短文中的“was the thing”是口语表达，意思是“很火，很流行”，因此答案为 B)。"
+      },
+      "18": {
+        "answer": "C",
+        "explanation": "C)。详解 讲话者提到他在20世纪60年代时是个学生,不用出去工作,也不会闲坐在家里。因此答案为 C)。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "A)。详解 短文开头提到,狗是人类最好的朋友,在遇到主人生气时,它们有一个很明显的应对策略,那就是把目光移开。新研究表明,在遇到生气的人时,狗会减少与他们的目光交流。因此答案为 A)。"
+      },
+      "20": {
+        "answer": "D",
+        "explanation": "D)。详解 赫尔辛基大学的研究者们训练了31只狗用于实验,观察它们见到威胁、高兴或中性表情时的反应。实验表明,看到狗生气的表情时,它们的目光会更多地落在对方的嘴巴上。因此答案为D)。"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "C)。详解 短文末尾提到,研究者们说,狗通过整体地看人脸的表情来判断人的情绪,而不是只聚焦在人类所表现出来的某一表情特征。这表明狗不是通过某一个表情特征而是像人类一样收集多种面部表情特征来判断人们的情绪的。因此答案为 C)。"
+      },
+      "22": {
+        "answer": "C",
+        "explanation": "C)。详解 短文中提到动物有三种方式度过寒冷的冬天,分别是冬眠、适应环境和迁徙。这说明动物在冬季会寻求不同的方法来应对寒冷,答案为 C)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "B)。详解 短文中提到,在冬天来临之前,选择冬眠的动物会多吃食物以变胖,这样可以提供它们在冬眠的时候所需要的能量。由此可知,冬眠的动物在冬眠时消耗的是冬眠前储存的能量,答案为 B)。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "A)。详解 短文结尾处提到,有些鸟考虑到安全因素会成群结队地迁徙。因此答案为 A)。"
+      },
+      "26": {
+        "answer": "I",
+        "explanation": "relatively。详解 副词辨析题。空格前面是不定冠词 a, 后面为形容词 recent, 因此空格处需要填入副词, 以修饰其后的形容词。前一句中提到啤酒花给现代啤酒增添了一丝苦味, 后面说这一点在九世纪关于酿造的参考材料中被首次提到, 由此推出啤酒花的出现年代并不久远, 而是相当近的, 因此 I) relatively“相对地, 相当地”符合句意。在备选副词中, exclusively“专门地, 排外地”与此处要表达的“相当地”意思不符合, 可以排除。"
+      },
+      "27": {
+        "answer": "N",
+        "explanation": "surprising。详解形容词辨析题。空格前面有不定冠词 a, 后面是名词 ingredient“成分”, 因此空格处需填入形容词来修饰后面的名词。句中提到, 研究人员在 5 000 年前的啤酒酿造设备的残留物中发现了这一成分, 说明该成分还是很令人吃惊的, 因此 N) surprising 符合句意。在备选形容词中, direct 和 raw 不能与 ingredient 搭配使用, 而 staple 与句意不符, 故均排除。"
+      },
+      "28": {
+        "answer": "M",
+        "explanation": "suggest。详解 动词辨析题。空格前面是名词短语 different shapes of the containers “容器的不同形状”，空格后面是一个完整的从句 they were used to…，由此推出空格处应填入动词作整个句子的谓语。空格前面提到“容器的不同形状”，后面提到“它们是被用来酿造、过滤和储存啤酒的”，由此推出 M) suggest “表明，暗示”符合句意，即“不同的形状表明它们有各自的用途”。在备选动词中，consuming 和 including 为动名词形式，均不能作谓语，可以排除；其他动词 arrived、inform、reached、test 均与句意不符，可以排除。"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "direct。详解形容词辨析题。空格前为形容词最高级,空格后为名词,由此推断仍需填入形容词,与前面的 the earliest 一起修饰 evidence。空格所在句意为“这些容器可能就是古代的酿酒工具,这也成为中国古代酿酒最早的证据”。根据句意可知,容器也是非常直接的证据,故 C) direct“直接的”为答案。备选项中其他的形容词 raw, surprising 和 staple 无法与 evidence 搭配,均排除。"
+      },
+      "30": {
+        "answer": "O",
+        "explanation": "test。详解 动词辨析题。空格前面有不定式符号 to, 后面是名词短语 that theory, 由此可知空格处应填入动词原形。上文中提到了考古研究人员的一些发现, 下文中提到团队又对某些物质进行了检验, 由此推出研究人员应该是想通过检验来证实这些理论, 故 O) test“证实, 测试”符合句意。在备选动词中, inform 也是动词原形, 但用在此处与句意不符, 故排除。"
+      },
+      "31": {
+        "answer": "J",
+        "explanation": "remains。详解名词辨析题。空格前有形容词 yellowish 和 dried, 其后是介词短语 inside the vessels, 由此推出空格处应填入名词作宾语。该句提到这是容器中一种黄色、干燥的物质, 再结合备选项可知, J) remains“残留物, 遗址”符合句意。而 K) resources“资源”与句意不符, 可以排除。"
+      },
+      "32": {
+        "answer": "E",
+        "explanation": "including。详解 动词辨析题。空格所在句位于由 and 连接的并列句中,且其前为名词 roots,其后为名词 lily,故此处只能填入动词的现在分词或过去分词形式表示从属关系。句子表达的意思是“约 80% 为谷物,约 10% 为植物的根茎”。而“百合”恰好属于根茎类植物,由此推出 E) including“包含”符合句意。备选项中的 arrived、consuming 和 reached 均与句意不符,可以排除。"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "staple。详解形容词辨析题。空格前面有不定冠词 a, 后面为名词 food, 因此空格处应填入形容词, 用于修饰其后的名词 food。空格前提到这种农作物是在西欧亚大陆被培育出来的, 由此推出并非是当时中国中原地区的主要食物来源, 故 L) staple“主要的, 基本的”符合句意。备选项中的形容词 raw 虽可与 food 搭配, 但与句意不符, 可以排除。"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "arrived。详解 动词辨析题。空格处于 indicate 后的宾语从句中,其前面为助动词 have,其后为介词短语 in the region,由此推出应填入动词的过去分词作从句的谓语。备选项中动词的过去分词只有 arrived 和 reached,而 reached 不能与后面的介词 in 搭配,因此 A) arrived 为答案。"
+      },
+      "35": {
+        "answer": "G",
+        "explanation": "raw。详解形容词辨析题。空格前面有介词 as, 后面有不可数名词 material, 由此推出应填入形容词修饰后面的名词 material。句中提到大麦最初传入这一地区并不是作为食物, 而是作为酿酒的材料, raw material 为固定搭配, 意为“原材料”, 故 G) raw“生的, 未经加工的”为答案。"
+      },
+      "36": {
+        "answer": "H",
+        "explanation": "详解) 定位句说明了拥有 HSAM 者的记忆特征是高度自我中心化的: 尽管他们能够非常详细地记住“自传式”生活事件, 但是在记忆非个人信息方面, 比如随机排列的单词, 他们似乎不比普通人强。题干中的 have the same memory as ordinary people 是对定位句中 seem to be no better than average 的同义转述, 故答案为 H)。"
+      },
+      "38": {
+        "answer": "C",
+        "explanation": "详解 定位段主要介绍了维瑟的超强记忆启动的经历: 在最好朋友的生日晚会上遇到自己的初恋后, 维瑟开始能记住生活中的每个细节。题干是对定位段的总结, 故答案为 C)。"
+      },
+      "39": {
+        "answer": "G",
+        "explanation": "详解) 由定位段可知,得益于这些媒体后续的兴趣,几十个其他的受试者(包括维瑟)自告奋勇与加利福尼亚大学欧文分校的研究团队取得了联系。题干中的 due to the mass media 是对定位句中 thanks to the subsequent media interest 的同义转述; researchers 对应定位句中的 the team,故答案为 G)。"
+      },
+      "41": {
+        "answer": "A",
+        "explanation": "详解 定位段指出,对于大多数人而言,记忆就像一本逐渐模糊、褪色的人生画册。无论我们多想要抓住过去,即使最痛苦的时刻也会随着时间消逝。也就是说,大部分人对过去发生的事件没有清晰的记忆。题干是对定位段的概括,故答案为 A)。"
+      },
+      "43": {
+        "answer": "E",
+        "explanation": "详解 定位段提到,一位名叫吉尔·普莱斯的年轻女士给神经科学专家兼记忆研究员吉姆·麦克高夫发邮件,声称她可以回忆起12岁以来每一天的生活。麦克高夫能否帮助解释她的经历呢?题干中的her unusual memory是对定位段中she could recall every day of her life since the age of 12的概括。整个题干是对定位段的概括归纳,故答案为E)。"
+      },
+      "45": {
+        "answer": "I",
+        "explanation": "详解 定位句指出,南密西西比大学的劳伦斯·帕特西斯近来研究了约20位拥有HSAM者,发现他们在幻想倾向和专注力两方面得分特别高。幻想倾向可以理解为想象和做白日梦的倾向,而专注力则是使自己的思维全神贯注于某种活动(对感受和经历投入全部的关注)的倾向。题干是对定位句的同义转述,故答案为I)。"
+      },
+      "46": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 the phrase “midlife crisis” 定位到首段: The phrase almost completes itself: midlife crisis. It’s the stage in the middle of the journey when people feel youth vanishing, their prospects narrowing and death approaching. 和第二段: There’s only one problem with the cliché (套话). It isn’t true."
+      },
+      "47": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 view midlife 定位到第四段第一句: Barbara Hagerty looks at some of the features of people who turn midlife into a rebirth."
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 midlife pictured 和 life Reimagined 定位到第五段:Life Reimagined paints a picture of middle age that is far from gloomy...is already secure."
+      },
+      "49": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 Karl Barth 和 midlife is the time 定位到文章第七段。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 midlife today 定位到第八段第一句: What Barth wrote decades ago is even truer today. 和最后一句: What could have been considered the beginning of a descent is now a potential turning point..."
+      },
+      "51": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 prize the egg 定位到第一段: In spring, chickens start laying again, bringing a welcome source of protein at winter's end. So it's no surprise that cultures around the world celebrate spring by honoring the egg."
+      },
+      "52": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 the decorated “eggs” in Russia 定位到第二段第二句: Others elevate the egg into a fancy art, like the heavily jewel-covered “eggs” that were favored by the Russians starting in the 19th century."
+      },
+      "53": {
+        "answer": "C",
+        "explanation": "。定位由题干中的contemporary artists和continued the egg art tradition定位到第三段第三句。"
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Chast 和 process of decorating eggs 定位到第五段前两句: But there's an appeal in that vulnerability. “There's part of this sickening horror...that I kind of like,...”"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "。定位由题干及各选项可定位至最后一段第一句。"
+      }
+    },
+    "references": {}
+  }
+}

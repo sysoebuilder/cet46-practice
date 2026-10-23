@@ -1,0 +1,1299 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write a short essay on how to best handle the relationship between parents and children. You should write at least120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write a short essay on how to best handle the relationship between parents and children. You should write at least120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write a short essay on how to best handle the relationship between parents and children. You should write at least120 words but no more than 180 words.",
+        "materials": "（请于正式开考后半小时内完成该部分，之后将进行听力考试）",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 25,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her grandfather."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her friend Erika."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her grandmother."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her little brother."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By taking pictures for passers-by."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By working part time at a hospital."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By selling lemonade and pictures."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By asking for help on social media."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Testing the efficiency of the new solar panel."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Providing clean energy to five million people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Generating electric power for passing vehicles."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Finding cheaper ways of highway construction."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are only about half an inch thick."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are made from cheap materials."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can be laid right on top of existing highways."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can stand the wear and tear of naturalelements."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The lack of clues about the species."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Endless fighting in the region."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Inadequate funding for research."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The hazards from the desert."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To observe the wildlife in the two national parks."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To study the habitat of lions in Sudan and Ethiopia."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To identify the reasons for the lions’ disappearance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To find evidence of the existence of the “lost lions”."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Lions’ tracks."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Some camping facilities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Lions walking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Traps set by local hunters."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A special gift from the man."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A call from her dad."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her wedding anniversary."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her ‘lucky birthday’."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Threw her a surprise party."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Bought her a gold necklace.\n\n1"
+                  },
+                  {
+                    "label": "B",
+                    "text": "Took her on a trip overseas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Gave her a big model plane."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "What her husband and the man are up to."
+                  },
+                  {
+                    "label": "B",
+                    "text": "What has been troubling her husband."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The trip her husband has planned."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The gift her husband has bought."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He wants to find out about the couple’s holiday plan."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is eager to learn how the couple’s holiday turns out."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He will tell the women the secret if her husband agrees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He will be glad to be a guide for the couple’s holiday trip."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They take the rival’s attitude into account."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They know when to adopt a tough attitude."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They see the importance of making compromises."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are sensitive to the dynamics of a negotiation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They know when to stop."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They know when to make compromises."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They know how to adapt."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They know how to control their emotion."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are patient."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are good at expression."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They learn quickly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They uphold their principles."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Clarify items of negotiation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Get to know the other side."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make clear one's intentions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Formulate one's strategy."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How space research benefits people on Earth."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When the International Space Station was built."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How many space shuttle missions there will be."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When America's earliest space programstarted."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They tried to make best use of the latest technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tried to meet astronauts' specific requirements."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They developed objects for astronauts to use in outer space."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They accurately calculated the speed of the orbiting shuttles."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are expensive to make."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were first made in space."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are extremely accurate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were invented in the 1970s."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Everything was natural and genuine then."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People had plenty of land to cultivate then."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It marked the beginning of something new."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was when her ancestors came to America."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were known to be creative."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They had all kinds of entertainment."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They enjoyed living a living a life of ease."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They believed in working for goals."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Chatting with her ancestors."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Furnishing her country house."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Doing needlework by the fire."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Polishing all the silver work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Sit down and try to calm yourself."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Use a map to identify your location.\n\n2"
+                  },
+                  {
+                    "label": "B",
+                    "text": "Call your family or friends for help."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Try to follow your footprints back."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "You may end up entering a wonderland."
+                  },
+                  {
+                    "label": "B",
+                    "text": "You may get drowned in a sudden flood."
+                  },
+                  {
+                    "label": "C",
+                    "text": "You may expose yourself to unexpected dangers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "You may find a way out without your knowing it."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Walk uphill"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Start a fire."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Look for food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Wait patiently."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Check the local weather."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Prepare enough food and drink."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Find a map and a compass."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Inform somebody of your plan."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "A rat or pigeon might not be the obvious choice to tend to someone who is sick, but these creatures have some 26 skills that could help the treatment of human diseases.\n\nPigeons are often seen as dirty birds and an urban 27 , but they are just the latest in a long line of animals that have been found to have abilities to help humans. Despite having a brain no bigger than the 28 of your index finger, pigeons have a very impressive 29 memory. Recently it was shown that they could be trained to be as accurate as humans at detecting breast cancer in images.\n\nRats are often 30 with spreading disease rather than 31 it, but this long-tailed animal is highly 32 . Inside a rat's nose are up to 1,000 different types of olfactory receptors (嗅觉感受器), whereas humans only have 100 to 200 types. This gives rats the ability to detect 33 smells. As a result, some rats are being put to work to detect TB(肺结核). When the rats detect the smell, they stop and rub their legs to 34 a sample is infected.\n\nTraditionally, a hundred samples would take lab technicians more than two days to 35 , but for a rat it takes less than 20 minutes. This rat detection method doesn't rely on specialist equipment. It is also more accurate — the rats are able to find more TB infections and, therefore, save more lives.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "associated"
+        },
+        {
+          "label": "I",
+          "text": "slight"
+        },
+        {
+          "label": "B",
+          "text": "examine"
+        },
+        {
+          "label": "J",
+          "text": "specify"
+        },
+        {
+          "label": "C",
+          "text": "indicate"
+        },
+        {
+          "label": "K",
+          "text": "superior"
+        },
+        {
+          "label": "D",
+          "text": "nuisance"
+        },
+        {
+          "label": "L",
+          "text": "suspicious"
+        },
+        {
+          "label": "E",
+          "text": "peak"
+        },
+        {
+          "label": "M",
+          "text": "tip"
+        },
+        {
+          "label": "F",
+          "text": "preventing"
+        },
+        {
+          "label": "N",
+          "text": "treated"
+        },
+        {
+          "label": "G",
+          "text": "prohibiting"
+        },
+        {
+          "label": "O",
+          "text": "visual"
+        },
+        {
+          "label": "H",
+          "text": "sensitive"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 110,
+          "end": 112
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 221,
+          "end": 223
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 378,
+          "end": 380
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 434,
+          "end": 436
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 576,
+          "end": 578
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 614,
+          "end": 616
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 659,
+          "end": 661
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 829,
+          "end": 831
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 968,
+          "end": 970
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1076,
+          "end": 1078
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Do In-Class Exams Make Students Study Harder?\n\nResearch suggests they may study more broadly for the unexpected rather than search for answers.\n\n3",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "I have always been a poor test-taker. So it may seem rather strange that I have returned to college to finish the degree I left undone some four decades ago. I am making my way through Columbia University, surrounded by students who quickly supply the verbal answer while I am still processing the question."
+        },
+        {
+          "label": "B",
+          "text": "Since there is no way for me to avoid exams, I am currently questioning what kind are the most taxing and ultimately beneficial. I have already sweated through numerous in-class midterms and finals, and now I have a professor who issues take-home ones. I was excited when I learned this, figuring I had a full week to do the research, read the texts, and write it all up. In fact, I was still rewriting my midterm the morning it was due. To say I had lost the thread is putting it mildly."
+        },
+        {
+          "label": "C",
+          "text": "As I was suffering through my week of anxiety, overthinking the material and guessing my grasp of it, I did some of my own polling among students and professors. David Eisenbach, who teaches a popular class on U.S. presidents at Columbia, prefers the in-class variety. He believes students ultimately learn more and encourages them to form study groups. “That way they socialize over history outside the class, which wouldn’t happen without the pressure of an in-class exam,” he explained, “Furthermore, in-class exams force students to learn how to perform under pressure, and essentialwork skill.”"
+        },
+        {
+          "label": "D",
+          "text": "He also says there is less chance of cheating with the in-class variety. In 2012, 125 students at Harvard were caught up in a scandal when it was discovered they had cheated on a take-home exam for a class entitled “Introduction To Congress.” Some colleges have what they call an “honor code,” though if you are smart enough to get into these schools, you are either smart enough to get around any codes or hopefully, too ethical to consider doing so. As I sat blocked and clueless for two solid days, I momentarily wondered if I couldn’t just call an expert on the subject matter which I was tackling, or someone who took the class previously, to get me going."
+        },
+        {
+          "label": "E",
+          "text": "Following the Harvard scandal, Mary Miller, the former dean of students at Yale, made an impassioned appeal to her school’s professors to refrain from take-hone exams. “Students risk health and well being, as well as performance in other end-of-term work, when faculty offers take-home exams without clear, time-limited boundaries,” she told me. “Research now shows that regular quizzes, short essays, and other assignments over the course of a term better enhance learning and retention.”"
+        },
+        {
+          "label": "F",
+          "text": "Most college professors agree the kind of exam they choose largely depends on the subject. A quantitative-based one, for example, is unlikely to be sent home, where one could ask their older brothers and sisters to help. Vocational-type classes, such as computer science or journalism, on the other hand, are often more research-oriented and lend themselves to take-home testing. Chris Koch, who teaches “History of Broadcast Journalism” at Montgomery Community College in Rockville, Maryland, points out that reporting is about investigation rather than the memorization of minute details. “In my field, it’s not what you know—it’s what you know how to find out,” says Koch. “There is way too much information, and more coming all the time, for anyone to remember. I want my students to search out the answers to questions by using all the resources available to them."
+        },
+        {
+          "label": "G",
+          "text": "Students’ test-form preferences vary, too, often depending on the subject and course difficulty. “I prefer take-home essays because it is then really about the writing, so you have time to edit and do more research,” says Elizabeth Dresser, a junior at Barnard. Then there is the stress factor. Francesca Haass, a senior at Middlebury, says, “I find the in-class ones are more stressful in the short term, but there is immediate relief as you swallow information like mad, and then you get to forget it all. Take-homes require thoughtful engagement which can lead to longer term stress as there is never a moment when the time is up.” Meanwhile, Olivia Rubin, a sophomore at Emory, says she hardly even considers take-homes true exams. “If you understand the material and have the ability to articulate (说出) your thoughts, they should be a breeze.”"
+        },
+        {
+          "label": "H",
+          "text": "How students ultimately handle stress may depend on their personal test-taking abilities. There are people who always wait until the last minute, and make it much harder than it needs to be. And then there those who, not knowing what questions are coming at them, and having no resources to refer to, can freeze. And then there are we rare folks who fit both those descriptions."
+        },
+        {
+          "label": "I",
+          "text": "Yes, my advanced age must factor into the equation (等式), in part because of my inability to access the information as quickly. As another returning student at Columbia, Kate Marber, told me, “We are learning not only all this information, but essentially how to learn again. Our fellow students have just come out of high school. A lot has changed since we were last in school.”"
+        },
+        {
+          "label": "J",
+          "text": "If nothing else, the situation has given my college son and me something to share, When I asked his opinion on this matter, he responded, “I like in-class exams because the time is already reserved, as opposed to using my free time at home\n\n4\n\nto work on a test,” he responded. It seems to me that a compromise would be receiving the exam questions a day or two in advance, and then doing the actual test in class the ticking clock overhead."
+        },
+        {
+          "label": "K",
+          "text": "Better yet, how about what one Hunter College professor reportedly did recently for her final exam: She encouraged the class not to stress or even study, promising that, “It is going to be apiece of cake.” When the students came in, sharpened pencils in hand, there was not a bluebook in sight. Rather, they saw a large chocolate cake and they each were given a slice."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Elderly students find it hard to keep up with the rapid changes in education."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Some believe take-home exams may affect students' performance in other courses."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Certain professors believe in-class exams are ultimately more helpful to students."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "In-class exams are believed to discourage cheating in exams."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "The author was happy to learn she could do some exams at home."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Students who put off their work until the last moment often find the exams more difficult than they actually are."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Different students may prefer different types of exams."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Most professors agree whether to give an in-class or a take-home exam depends on type of course being taught."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The author dropped out of college some forty years ago."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some students think take-home exams will eat up their free time."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 and 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "That people often experience trouble sleeping in a different bed in unfamiliar surroundings is a phenomenon known as the “first-night” effect. If a person stays in the same room the following night they tend to sleep more soundly. Yuka Sasaki and her colleagues at Brown University set out to investigate the origins of this effect.\n\nDr. Sasaki knew the first-night effect probably has something to do with how humans evolved. The puzzle was what benefit would be gained from it when performance might be affected the following day. She also knew from previous work conducted on birds and dolphins that these animals put half of their brains to sleep at a time so that they can rest while remaining alert enough to avoid predators (捕食者). This led her to wonder if people might be doing the same thing. To take a closer look, her team studied 35 healthy people as they slept in the unfamiliar environment of the university’s Department of Psychological Sciences. The participants each slept in the department for two nights and were carefully monitored with techniques that looked at the activity of their brains. Dr. Sasaki found, as expected, the participants slept less well on their first night than they did on their second, taking more than twice as long to fall asleep and sleeping less overall. During deep sleep, the participants’ brains behaved in a similar manner seen in birds and dolphins. On the first night only, the left hemispheres (半球) of their brains did not sleep nearly as deeply as their right hemispheres did.\n\nCurious if the left hemispheres were indeed remaining awake to process information detected in the surrounding environment, Dr. Sasaki re-ran the experiment while presenting the sleeping participants with a mix of regularly timed beeps ( 蜂 鸣 声 ) of the same tone and irregular beeps of a different tone during the night. She worked out that, if the left hemisphere was staying alert to keep guard in a strange environment, then it would react to the irregular beeps by stirring people from sleep and would ignore the regularly timed ones. This is precisely what she found.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What did researchers find puzzling about the first-night effect?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To what extent it can trouble people."
+                },
+                {
+                  "label": "C",
+                  "text": "What circumstances may trigger it."
+                },
+                {
+                  "label": "B",
+                  "text": "What role it has played in evolution."
+                },
+                {
+                  "label": "D",
+                  "text": "In what way it can be beneficial."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn about Dr. Yuka Sasaki doing her research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She found birds and dolphins remain alert while asleep."
+                },
+                {
+                  "label": "B",
+                  "text": "She found birds and dolphins sleep in much the same way."
+                },
+                {
+                  "label": "C",
+                  "text": "She got some idea from previous studies on birds and dolphins\n\n5"
+                },
+                {
+                  "label": "D",
+                  "text": "She conducted studies on birds’ and dolphins’ sleeping patterns."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What did Dr. Sasaki do when she first did her experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She monitored the brain activity of participants sleeping in a new environment."
+                },
+                {
+                  "label": "B",
+                  "text": "She recruited 35 participants from her Department of Psychological Sciences."
+                },
+                {
+                  "label": "C",
+                  "text": "She studied the differences between the two sides of participants’ brains."
+                },
+                {
+                  "label": "D",
+                  "text": "She tested her findings about birds and dolphins on human subjects."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What did Dr. Sasaki do when re-running her experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She analyzed the negative effect of irregular tones on brains."
+                },
+                {
+                  "label": "B",
+                  "text": "She recorded participants’ adaptation to changed environment."
+                },
+                {
+                  "label": "C",
+                  "text": "She exposed her participants to two differentstimuli."
+                },
+                {
+                  "label": "D",
+                  "text": "She compared the responses of differentparticipants."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What did Dr. Sasaki find about the participants in her experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They tended to enjoy certain tones more than others."
+                },
+                {
+                  "label": "B",
+                  "text": "They tended to perceive irregular beeps as a threat."
+                },
+                {
+                  "label": "C",
+                  "text": "They felt sleepy when exposed to regular beeps."
+                },
+                {
+                  "label": "D",
+                  "text": "They differed in their tolerance of irregular tones."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "It’s time to reevaluate how women handle conflict at work. Being overworked or over-committed at home and on the job will not get you where you want to be in life. It will only slow you down and hinder your career goals.\n\nDid you know women are more likely than men to feel exhausted? Nearly twice as many women than men ages 18-44 reported feeling “very tired” or “exhausted”, according to a recent study.\n\nThis may not be surprising given that this is the age range when women have children. It's also the age range when many women are trying to balance careers and home. One reason women may feel exhausted is that they have a hard time saying \"no.\" Women want to be able to do it all volunteer for school parties or cook delicious meals-and so their answer to any request is often “Yes, I can.”\n\nWomen struggle to say “no” in the workplace for similar reasons, including the desire to be liked by their colleagues.\n\nUnfortunately, this inability to say \"no\" may be hurting women's heath as well as their career.\n\nAt the workplace, men use conflict as a way to position themselves, while women often avoid conflict or strive to be the peacemaker, because they don't want to be viewed as aggressive or disruptive at work. For example, there’s a problem that needs to be addressed immediately, resulting in a dispute over should be the one to fix it. Men are more likely to face that dispute from the perspective of what benefits them most, whereas women may approach the same dispute from the perspective of what's the easiest and quickest way to resolve the problem-even if that means doing the boring work themselves.\n\nThis difference in handling conflict could be the deciding factor on who gets promoted to a leadership position and who does not. Leaders have to be able to delegate and manage resources wisely – including staff expertise. Shouldering more of the workload may not earn you that promotion. Instead, it may highlight your inability to delegate effectively.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say is the problem with women?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are often unclear about the career goals to reach."
+                },
+                {
+                  "label": "B",
+                  "text": "They are usually more committed at home than on the job."
+                },
+                {
+                  "label": "C",
+                  "text": "They tend to be over-optimistic about how far they could go."
+                },
+                {
+                  "label": "D",
+                  "text": "They tend to push themselves beyond the limits of their ability."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Why do working women of child-bearing age tend to feel drained of energy?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They struggle to satisfy the demands of both work and home."
+                },
+                {
+                  "label": "B",
+                  "text": "They are too devoted to work and unable to relax as a result."
+                },
+                {
+                  "label": "C",
+                  "text": "They do their best to cooperate with their workmates."
+                },
+                {
+                  "label": "D",
+                  "text": "They are obliged to take up too many responsibilities.\n\n6"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What may hinder the future prospects of career women?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their unwillingness to say “no”."
+                },
+                {
+                  "label": "B",
+                  "text": "Their desire to be considered powerful."
+                },
+                {
+                  "label": "C",
+                  "text": "An underestimate of their own ability."
+                },
+                {
+                  "label": "D",
+                  "text": "A lack of courage to face challenges."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Men and woman differ in their approach to resolving workplace conflicts in that",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "women tend to be easily satisfied"
+                },
+                {
+                  "label": "B",
+                  "text": "men are generally more persuasive"
+                },
+                {
+                  "label": "C",
+                  "text": "men tend to put their personal interests first"
+                },
+                {
+                  "label": "D",
+                  "text": "women are much more ready to compromise"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What is important to a good leader?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A dominant personality."
+                },
+                {
+                  "label": "C",
+                  "text": "The courage to admit failure"
+                },
+                {
+                  "label": "B",
+                  "text": "The ability to delegate."
+                },
+                {
+                  "label": "D",
+                  "text": "A strong sense of responsibility."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "泰山位于山东省西部。海拔 1500 余米,方圆约 400 平方公里。泰山不仅雄伟壮观,而且是一座历史文化名山,过去3000 多年一直是人们前往朝拜的地方。据记载,共有 72 位帝王曾来此游览。许多作家到泰山获取灵感,写诗作文,艺术家也来此绘画。山上因此留下了许许多多的文物古迹。泰山如今已成为中国一处主要的旅游景点。\n\n7"
+      }
+    ]
+  },
+  "id": "CET4-2017-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

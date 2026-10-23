@@ -1,0 +1,606 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you are going to write a proposal to your student union for enriching students' extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "proposal",
+        "instructions": {
+          "directions": "Suppose you are going to write a proposal to your student union for enriching students' extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you are going to write a proposal to your student union for enriching students' extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于2022年6月四级考试全国共考了一套听力,本套真题听力与第一套内容相同,只是选项顺序不同,因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "If you've ever looked at the ingredients list while grocery shopping, chances are you've seen the term \"natural flavors\". But have you taken a _26_ to consider what these natural flavors actually are?\n\nMost of us might think that “natural flavors” are, well, naturally good for us. A recent study in the journal Appetite found that when the word “natural” appears on packaging, people _27_ that the food within is indeed healthier. In truth, natural flavors do not _28_ much, at least chemically speaking, from their flavor-boosting _29_: artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a _30_ smell or taste.\n\nNatural flavors come from plant or animal _31_, like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are _32_ from plants and animals to create specific flavors for processed foods. But that does not _33_ make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not _34_ the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives. The FDA doesn't require companies to reveal what additional chemicals a specific item _35_.\n\nSo if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer's market.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "acknowledge"
+        },
+        {
+          "label": "I",
+          "text": "implies"
+        },
+        {
+          "label": "B",
+          "text": "chance"
+        },
+        {
+          "label": "J",
+          "text": "necessarily"
+        },
+        {
+          "label": "C",
+          "text": "contains"
+        },
+        {
+          "label": "K",
+          "text": "particular"
+        },
+        {
+          "label": "D",
+          "text": "counterparts"
+        },
+        {
+          "label": "L",
+          "text": "perceive"
+        },
+        {
+          "label": "E",
+          "text": "defined"
+        },
+        {
+          "label": "M",
+          "text": "second"
+        },
+        {
+          "label": "F",
+          "text": "differ"
+        },
+        {
+          "label": "N",
+          "text": "sources"
+        },
+        {
+          "label": "G",
+          "text": "especially"
+        },
+        {
+          "label": "O",
+          "text": "strange"
+        },
+        {
+          "label": "H",
+          "text": "extracted"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 143,
+          "end": 147
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 385,
+          "end": 389
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 465,
+          "end": 469
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 533,
+          "end": 537
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 665,
+          "end": 669
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 729,
+          "end": 733
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 854,
+          "end": 858
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 949,
+          "end": 953
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1061,
+          "end": 1065
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1341,
+          "end": 1345
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Fake holiday villa websites prompt warning",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "During the British winter, the thought of two weeks in a coastal villa (别墅) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset (抵消) the labor until the holidays start. For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared."
+        },
+        {
+          "label": "B",
+          "text": "Consumers have been warned to be aware of the potential for deception in this market, which is far from uncommon. In 2017 there were 1,632 cases of reported “villa fraud (诈骗)”, with victims losing an average of £2,052, according to Action Fraud, the national center for reporting such frauds. “Millions of pounds are lost each year by defrauded holidaymakers,” says Sean Tipton of the Association of British Travel Agents (ABTA)."
+        },
+        {
+          "label": "C",
+          "text": "The problem has ballooned in the last 10 years, with frauds becoming more and more sophisticated. The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name, “summer”, “villas” or “rentals”. Details of legitimate (合法的) villas are often stolen from other sites. “When the fraudsters first started it was unsophisticated—the websites looked amateur and there wasn’t a lot of effort,” says Tipton. “Now they are clever. They extensively rip off legitimate websites and use a different website name. They’ll have pictures of a sales team and it might be a poor actor in New York that is down as their head of sales.”"
+        },
+        {
+          "label": "D",
+          "text": "Fraudsters target popular seaside destinations for British tourists visiting Spain where prices can soar if demand exceeds supply. Prices are kept within reasonable ranges to avoid arousing suspicion. “A villa might cost £5,000 elsewhere and they will offer it at say £3,500. But a bit of a giveaway is that the villa will be cheaper than on other websites and there’s unlimited availability,” says Tipton. Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as “Spanish seaside villas”."
+        },
+        {
+          "label": "E",
+          "text": "With such a degree of professionalism, how can consumers find out if the website they're looking to book with is trustworthy? \"When people book holiday villas they are doing so through rose-colored\n\nglasses,\" says Tony Neate, chief executive of Get Safe Online. \"They should be Googling the property, and looking on websites like Google Maps and StreetView to see if it's there. Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.\" He also suggests asking someone not going on the holiday to have a look at the website. \"They might spot problems you don't spot.\" Another potential red flag is being asked to pay by bank transfer. \"The problem is that when the money leaves your account it's in theirs straightaway and it's very hard to track it,\" says Barclays Bank head of digital safety, Jodie Gilbert. \"We generally recommend other forms of payment, like credit card.\""
+        },
+        {
+          "label": "F",
+          "text": "Little seems to be known about these fraudsters. “There is no way to definitely know who they are,” says Neate. “It could be anyone. It could be your next-door neighbor or organized crime in Russia.” Action Fraud says people should ensure the company renting the villa is a member of a recognized trade body such as ABTA."
+        },
+        {
+          "label": "G",
+          "text": "\"By working with industry partners such as ABTA and Get Safe Online, we are able to issue alerts about the latest threats they should be aware of. If you believe you have fallen victim to fraud or cybercrime, please report it to Action Fraud,\" it adds. ABTA says it is trying to combat the issue by running public awareness campaigns. \"It's a growing problem and people can't stop fraudsters being dishonest,\" says Tipton. \"They're still going to do it. It's not impossible to stop but as it's internet-based it's harder to pursue.\""
+        },
+        {
+          "label": "H",
+          "text": "Nick Cooper, the founder and co-owner of villa booking company Villa Plus, estimates his company has uncovered more than 200 fake villa websites over the past two years, and doesn't believe enough is being done. \"It is hopeless to report fake villa websites to the internet giants who host them,\" he says. \"I found it impossible to speak to anyone. Also, once one bank account gets reported, they simply use another.\""
+        },
+        {
+          "label": "I",
+          "text": "For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer. “When people book their holidays they get so emotionally involved, and when they find that villa at a good price with availability in peak season, they are an easy target,” says Cooper. “The public has to learn to be far more aware they are a target for these sort of frauds.” But it’s not just the financial cost. “A family will turn up at a villa and find out it doesn’t exist or the owner doesn’t know who you are,” says Tipton. “The problem then is you have to find accommodation at short notice. It can be incredibly expensive but it’s the emotional cost, too.”"
+        },
+        {
+          "label": "J",
+          "text": "Carla O'Shaughnessy from Sydenham was searching last year for a good deal to book a villa in Majorca for a summer break for the family. \"I was comparing prices online and found one that came in a bit cheaper than others,\" says O'Shaughnessy. She emailed the company via its website, asking how far the villa was from the airport and about local restaurants. \"They came back with believable answers; it was all very friendly and professional,\" she says. Happy with the responses, O'Shaughnessy paid the full amount of £3,000 via bank transfer into the travel agent's account and then forgot about it until a month before the booking."
+        },
+        {
+          "label": "K",
+          "text": "“I tried logging on to the website and couldn’t,” she recalls. “I Googled the agent’s name and there were lots of complaints about him being a fraudster. If only I’d Googled before but I never thought of it.” Although she found another villa in time for their holiday, she admits she was much more cautious. “I paid through a secure third-party site and had phone conversations with the agent. But I\n\nwasn't able to relax until we turned up and I had the keys.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Fraudsters often steal villa-booking information from authentic holiday websites."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Fraudsters keep changing their bank accounts to avoid being tracked."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "It is suggested that people not going on the holiday might help detect website frauds."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "More and more British holidaymakers find the seaside villas they booked online actually nonexistent."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "By checking an agent's name online before booking a villa, holidaymakers can avoid falling into traps."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Fraudsters are difficult to identify, according to an online safety expert."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Holidaymakers have been alerted to the frequent occurrence of online villa-booking frauds."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "It is holidaymakers that can protect themselves from falling victim to frauds."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Holidaymakers are advised not to make payments by bank transfer."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Fraudsters advertise their villas at reasonable prices so as not to be suspected."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Social media can be a powerful communication tool for employees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. These beliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours.\n\nEmployers typically worry that social media is a productivity killer; more than half of U.S. employers reportedly block access to social media at work. In my research with 277 employees of a healthcare organization I found these concerns to be misguided. Social media doesn't reduce productivity nearly as much as it kills employee retention.\n\nIn the first part of the study I surveyed the employees about why and how they used platforms like Facebook, Twitter, or LinkedIn. Respondents were then asked about their work behaviors, including whether they felt motivated in their jobs and showed initiative at work. I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative.\n\nIn the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections.\n\nThese findings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likely to leave your company. Managers should implement solutions that neutralize the retention risk caused by social media.\n\nThey can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities. Managers can also use\n\nsocial media to directly reduce turnover (跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does previous research about social media reveal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Most employees think positively of it."
+                },
+                {
+                  "label": "B",
+                  "text": "It improves employees' work efficiency."
+                },
+                {
+                  "label": "C",
+                  "text": "It enables employees to form connections."
+                },
+                {
+                  "label": "D",
+                  "text": "Employees spend much of their work time on it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What did the author's own research find about social media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It influences employees' work negatively."
+                },
+                {
+                  "label": "B",
+                  "text": "It does much harm to employee loyalty."
+                },
+                {
+                  "label": "C",
+                  "text": "It kills employees' motivation for work."
+                },
+                {
+                  "label": "D",
+                  "text": "It affects employers' decision-making."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What did the author find in his study about the effect of online social interactions?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It differs from employee to employee."
+                },
+                {
+                  "label": "B",
+                  "text": "It tends to vary with the platform used."
+                },
+                {
+                  "label": "C",
+                  "text": "It has much to do with whom employees interact with."
+                },
+                {
+                  "label": "D",
+                  "text": "It is hard to measure when employees interact with outsiders."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What problem was found with employees using social media for work?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They seldom expressed their inner thoughts."
+                },
+                {
+                  "label": "B",
+                  "text": "Most of them explored new job opportunities."
+                },
+                {
+                  "label": "C",
+                  "text": "They were reluctant to collaborate with others."
+                },
+                {
+                  "label": "D",
+                  "text": "Many of them ended with lower productivity."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author suggest managers do to neutralize the retention risk?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Give promotions to employees for their accomplishments."
+                },
+                {
+                  "label": "B",
+                  "text": "Create opportunities for employees to share success stories."
+                },
+                {
+                  "label": "C",
+                  "text": "Acknowledge employees' achievements through social media."
+                },
+                {
+                  "label": "D",
+                  "text": "Encourage employees to increase their visibility on social media."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "In the coming era of budget cuts to education, distance learning could become the norm.\n\nThe temptation for those in charge of education budgets to trade teachers for technology could be so strong that they ignore the disadvantages of distance learning. School facilities are expensive to build and maintain, and teachers are expensive to employ. Online classes do not require buildings and each class can host hundreds of people simultaneously, resulting in greater savings, thus increasing the temptation of distance education for those concerned more about budgets than learning. But moving away from a traditional classroom in which a living, breathing human being teaches and interacts with students daily would be a disaster. Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. Moreover, schools should be more than simple institutions of traditional learning. They are now places that provide meals. They are places where students receive counseling and other support.\n\nThose policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. Educational videos may deliver academic content, but they are unable to\n\nmake eye contact or assess a student's level of engagement. Distance education will never match the personal teaching in a traditional classroom. In their first 18 years of life, American children spend only $9\\%$ of their time in school. Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market. Given these expectations, schools should not become permanently \"remote\".\n\nThe power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. Personal teaching is about teachers showing students a higher path, and about young people going through the process together. Technology, no matter how advanced, should simply be a tool of a good teacher.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What mainly accounts for the possibility that distance learning could become the norm?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Advances in education technology."
+                },
+                {
+                  "label": "B",
+                  "text": "Shrinking financial resources."
+                },
+                {
+                  "label": "C",
+                  "text": "Shortage of school facilities."
+                },
+                {
+                  "label": "D",
+                  "text": "Lack of qualified teachers."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the author say is one possible benefit of students attending school physically?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Developing the habit of getting up early."
+                },
+                {
+                  "label": "B",
+                  "text": "Eating nutritionally well-balanced meals."
+                },
+                {
+                  "label": "C",
+                  "text": "Growing into living and breathing human beings."
+                },
+                {
+                  "label": "D",
+                  "text": "Cultivating relationships with peers and teachers."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author think of the latest technology in education?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may have potential disadvantages."
+                },
+                {
+                  "label": "B",
+                  "text": "It may render many teachers jobless."
+                },
+                {
+                  "label": "C",
+                  "text": "It may add to students' financial burden."
+                },
+                {
+                  "label": "D",
+                  "text": "It may revolutionize classroom teaching."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say teachers are expected to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Enhance students' leadership capacity."
+                },
+                {
+                  "label": "B",
+                  "text": "Elevate students to managerial positions."
+                },
+                {
+                  "label": "C",
+                  "text": "Enable students to adapt to the changes in life."
+                },
+                {
+                  "label": "D",
+                  "text": "Prepare students to be competitive in the future."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "Why couldn't technology replace a good teacher?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It lacks humanity."
+                },
+                {
+                  "label": "B",
+                  "text": "It is still immature."
+                },
+                {
+                  "label": "C",
+                  "text": "It cannot track students' growth."
+                },
+                {
+                  "label": "D",
+                  "text": "It cannot cater to personal needs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "从前有个人养了一群羊。一天早上他准备出去放羊，发现少了一只。他仔细一看，看到羊栏(sheepfold)上有个窟窿。显然，夜间有狼钻进羊圈叼走了羊。\n\n邻居劝他修羊栏，可是他不听。\n\n第二天，他发现狼又通过窟窿叼走一只羊。他想起邻居的话，就赶快堵上窟窿，把羊栏补好。此后，他的羊再也没有被狼叼走。\n\n故事告诉我们:出了问题及时补救，可以防止蒙受更大损失。"
+      }
+    ]
+  },
+  "id": "CET4-2022-06-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

@@ -1,0 +1,1303 @@
+{
+  "schema_version": "1.0",
+  "year": 2024,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose your university is seeking students’ opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose your university is seeking students’ opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose your university is seeking students’ opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A ） , B), C) and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A ） , B), C) and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It hit a bird shortly after takeoff."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its crew members went on strike."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It narrowly escaped a plane crash when turning around."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its captain got slightly injured during the forced landing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Panic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Relieved."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Nervous."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Contented."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is now kept in a secure area."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has escaped the zoo once again."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has been caught a second time."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He finally disappeared six days ago."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Squeezed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Threatened."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Disappointed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Frustrated."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is condemned as a crazy idea."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is enriching the city’s night life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is questioned by local residents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is giving rise to safety concerns."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Avoid entering one-way streets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ensure the safety of pedestrians."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Follow all the traffic rules drivers do."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give way to automobiles at all times."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To ease the city’s busy traffic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To bring new life into the city."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To add a new means of transport."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To reduce the city’s air pollution."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A ） ， B ） ， C)and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Take it seriously."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make it sound scary."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Discuss it regularly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Talk about it openly."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By shopping around for the best deals."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By citing concrete examples."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By making abstract sums relevant."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By visiting discount stores."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Paying their kids to help with housework."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Setting kids a good example by sharing chores."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Giving kids pocket money according to their needs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Urging kids to deposit some of their gift money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The importance of cutting down family expenses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The need to learn important lessons from her elders."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The delight in seeing their savings grow."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The necessity of saving into a pension."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is a successful businessman."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He reviews books on political affairs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has published a new bestseller."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has worked in several banks."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The man’s ideas about education."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The man’s academic background."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The man’s attempts at drawing public attention."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The man’s proposals to solve economic problems."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To reduce students’ financial burden."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To motivate all students to be successful."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To give students incentive to excel in economics."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To provide remedies for students’ poor performance."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Improving school budgeting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Seeking donations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Increasing tuition fees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Raising taxes."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To show his sympathy towards people always being busy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To prevent people from complaining about being “busy”."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To call on busy people to take care of themselves."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To help busy people to sort out their priorities."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Avoid saying we are busy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Describe our schedule in detail."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Reflect on their true purpose."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Respond as most busy people do."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To show their achievements resulted from great efforts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To prove they stand out as accomplished professionals."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To cover up their failure to achieve some purpose."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To tell others a complete lie about their inability."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They will help one reduce fear."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They will be less challenging after a time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They should become so popular."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They should cover so many different types."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To break one’s ultimate limits."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To avoid dangerous mistakes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To stop being extremely afraid."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To enjoy the sports to the full."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By allowing our motivation to be at an all-time high."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By stopping us hurting the same muscles repeatedly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By burning as many as 300 calories per hour."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By enabling us to get an all-over workout."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is natural."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is instrumental."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is personal."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is vital."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To guard against being perceived negatively."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To conceal personality preferences."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To prevent themselves from being isolated."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To maintain workplace harmony."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It helps to enhance team spirit."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It stimulates innovative ideas."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It helps to resolve problems."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It facilitates policy-making."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "An innovative mind."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Corporate culture."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Mutual trust."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A healthy mentality."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once .\n\nA team of researchers led by Priyanka Joshi examined the degree to which men and women relied on “communicative abstraction” to verbally convey their ideas and emotions. Communicative abstraction, according to the researchers, reflects the tendency of people to use “abstract speech that focuses on the broader picture and 26 purpose of action rather than concrete speech focusing on details and the means of 27 action.” Interestingly, they found that men were far more likely to speak in the abstract than were women.\n\nTo arrive at this 28 , the researchers examined the linguistic (语言的) patterns of men and women in over 600,000 blog posts written on websites. To do this, the researchers computed abstractness ratings for 29 40,000 commonly used words in the English language. Words considered to be concrete could be easily visualized, such as “table” or “chair”. Words that were more 30 to visualize, for example, “justice” or “morality” were considered to be more abstract. They found that men used 31 more abstract language in their blog posts.\n\nWhat is the 32 of this effect? The researchers suggest that power differences between the genders— that is, men having more power in society—might be a key determinant (决定因素). For instance, in a follow-up study conducted with a sample of 300 students, the researchers 33 power dynamics in an interpersonal setting to see if this would influence communicative abstraction. They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role. This suggests that communicating more abstractly does not reflect a 34 tendency of men or women but rather 35 within specific contexts.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "approximately"
+        },
+        {
+          "label": "F",
+          "text": "fixed"
+        },
+        {
+          "label": "K",
+          "text": "refraining"
+        },
+        {
+          "label": "B",
+          "text": "attaining"
+        },
+        {
+          "label": "G",
+          "text": "ignored"
+        },
+        {
+          "label": "L",
+          "text": "signals"
+        },
+        {
+          "label": "C",
+          "text": "conclusion"
+        },
+        {
+          "label": "H",
+          "text": "legally"
+        },
+        {
+          "label": "M",
+          "text": "significantly"
+        },
+        {
+          "label": "D",
+          "text": "difficult"
+        },
+        {
+          "label": "I",
+          "text": "manipulated"
+        },
+        {
+          "label": "N",
+          "text": "source"
+        },
+        {
+          "label": "E",
+          "text": "emerges"
+        },
+        {
+          "label": "J",
+          "text": "recommended"
+        },
+        {
+          "label": "O",
+          "text": "ultimate"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 507,
+          "end": 509
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 593,
+          "end": 595
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 722,
+          "end": 724
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 909,
+          "end": 911
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 1073,
+          "end": 1075
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1189,
+          "end": 1191
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1249,
+          "end": 1251
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1505,
+          "end": 1507
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1855,
+          "end": 1857
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1894,
+          "end": 1896
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": null,
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wanted to know why people weren’t saving for retirement. Across the board, people are living longer. Logically, they’ll need more money to live comfortably in their post-work years. And yet, savings rates in the U.S. have gone down in recent decades, not up."
+        },
+        {
+          "label": "B",
+          "text": "To help explain this seemingly irrational behavior, Hershfield and his team scanned the brains of study participants while asking them to what degree various traits (特征)—like “honorable” or “funny”—applied to their current self, their future self, a current other, or a future other. As participants answered, Hershfield’s team recorded which parts of their brains lit up. Unsurprisingly, people’s brains were most active when thinking about their current selves and least active when thinking about a current other. But the team found that participants’ brain activity while considering their future selves more closely resembled their brain activity while thinking about a current other rather than the current self."
+        },
+        {
+          "label": "C",
+          "text": "Put in practical terms, when thinking of yourself in a month or a year or a decade, your brain registers that person in ways similar to how it would register Taylor Swift or the mailman. Understood in that way, saving for retirement is the equivalent of giving money away to someone else entirely."
+        },
+        {
+          "label": "D",
+          "text": "In light of Hershfield’s study, one simple question arises: Is it possible to make our present selves give a damn about our future selves? The answers are anything but simple."
+        },
+        {
+          "label": "E",
+          "text": "Seen through the lens of the present self versus the future self, our self-defeating actions— like choosing to watch television rather than go to the gym—suddenly make perfect sense. We get to enjoy the very concrete, immediate benefits of our actions while someone else (namely, our future selves) suffers the hypothetical(假设的), far-off consequences. As a result, the decisions we make for our present selves often look very different from our decisions for our future selves. We believe that tomorrow will be different. We believe that we will be different tomorrow; but in doing so, we prioritize our current mood over the consequences of our inaction for the future self."
+        },
+        {
+          "label": "F",
+          "text": "Understanding our procrastination (拖延) through the lens of the present and future selves, we’re left with three possible solutions: The first is to force your future self to do whatever your present self doesn’t want to do. The second is to convince your present self that your future self is, in fact, still you. If the central problem is that we think of our future selves as other people, it follows that trying to identify more closely with our future selves will encourage us to make better long-term decisions."
+        },
+        {
+          "label": "G",
+          "text": "In a follow-up study, Hershfield wanted to explore ways to bridge the disconnect between the present and future selves and encourage people to save more for retirement. He and his team took photos of study participants, and then used image processing to visually age their faces. Participants were then placed in a virtual reality setting where they could look into a mirror and see their aged selves looking back at them. Participants who saw their aged selves said they would save 30% more of their salary for retirement than the control group."
+        },
+        {
+          "label": "H",
+          "text": "Whatever your long-term goals may be—getting in better shape, launching your own business, writing a book—thinking about your deadline in terms of days rather than months or years can help you wrap your mind around how close the future really is."
+        },
+        {
+          "label": "I",
+          "text": "The third solution is to forget about your future self and use your present self’s love of instant gratification (满足感) to your advantage. While the two tactics (手段) above can be effective in making better long-term choices, in the end, you’re still struggling against\n\nhuman nature. Our brains are hard-wired for instant gratification. Instead of fighting your present self’s need for immediate rewards, why not use it to your advantage? When most of us set goals, we focus on long-term results we want to see—e.g., losing weight, getting a promotion, retiring in comfort, etc. While those visions of our future selves can be inspiring, when it comes to actually doing the day-to-day work, it may be more effective to reframe activities in terms of their immediate, or at least very near-term, rewards.\n\nTake writing this article, for instance. It’s easy for me to imagine how amazing it will feel at the end of the workday to have this article done. This isn’t just my opinion. Research partners Kaitlin Woolley of Cornell University and Ayelet Fishbach of the University of Chicago have made a career out of studying the differences between the goals that people achieve and the ones that fall to the wayside."
+        },
+        {
+          "label": "K",
+          "text": "“In one study, we asked people online about the goals they set at the beginning of the year. Most people set goals to achieve delayed, long-term benefits, such as career advancement, debt repayment, or improved health. We asked these individuals how enjoyable it was to pursue their goal, as well as how important their goal was. We also asked whether they were still working on their goals two months after setting them. We found that enjoyment predicted people’s goal persistence two months after setting the goal far more than how important they rated their goal to be,” Woolley said."
+        },
+        {
+          "label": "L",
+          "text": "This pattern held true across a wide variety of goals from exercising to studying to eating healthier foods. For example, people ate 50% more of a healthy food when directed to focus on the good taste rather than the long-term health benefits. Other studies have shown a greater uptake of exercise in people who were told to think of the enjoyment of doing the exercise now rather than future health gains."
+        },
+        {
+          "label": "M",
+          "text": "These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than wanting the long-term benefits. In other words, present self trumps (战胜) future self. Who says instant gratification has to be a bad thing? By all means, set ambitious long-term goals for your future self, but when it comes to actually following through day-to-day, make sure your present self knows what’s in it for her too."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Our brains are genetically determined to satisfy immediate desires."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Taken in a practical way, saving for post-work years is like giving money away to others."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Research found that, as regards achievement of one’s goals, it is important to focus more on enjoying the process than the long-term benefits."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Regarding our future selves as still being ourselves will help us make better long-term decisions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Savings rates in America have dropped in recent decades even though people’s life expectancy has increased."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Researchers found that enjoyment rather than importance enabled people to persist in their goals."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "When making decisions, we give priority to our current frame of mind without thinking much of the consequences."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "People ate more of a healthy food when they focused on its good taste instead of its longterm benefits."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "As was expected, when people thought of their present selves, their brains were observed to become more active."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Researchers found that participants who saw the images of their aged selves would save more for their later years than those who didn’t."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "People often wonder why some entrepreneurs have greater success than others. Is it habits, connections, luck, work ethic or any other behavior? I believe the key to success is willpower. Willpower is the ability to control yourself. It is a strong determination that allows you to do something difficult. It is a behavior we are born with more than one we learn; however, it is possible to not only learn it, but also strengthen it with constant exercise.\n\nWillpower is just like a muscle; to keep it strong you need to constantly exercise it. People with a great amount of willpower have the discipline to develop positive, successful habits. Even with an incredible amount of talent, without the discipline and motivation to create positive habits, it can be difficult to achieve success.\n\nWillpower and habits go hand in hand. It is critical to create good habits and take the actions necessary to stick to those habits day in and day out for greater success. Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-today basis.\n\nThe best way to create and stick to a habit is to have strong motivation. It’s easier to change your habits to lose weight if you have a health issue and you want to be around longer for your kids, or if your business is something you’re passionate about. Having a valuable outcome associated with a habit will help you stick to that habit permanently.\n\nThe art of self-control is one that most successful individuals have mastered. Self-control enables you to avoid behaviors that don’t contribute to your success and adopt those that do.\n\nBecause there is a delayed satisfaction associated with self-control, it can be easy to get off track. However, if you work on sticking to those small positive habits one day at a time, it becomes easier to stay strong and achieve that delayed reward. Once a reward is achieved, it is much easier to continue sticking to your habits.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say we need to do to strengthen our willpower?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Keep it under control."
+                },
+                {
+                  "label": "C",
+                  "text": "Learn from entrepreneurs."
+                },
+                {
+                  "label": "B",
+                  "text": "Apply it continuously."
+                },
+                {
+                  "label": "D",
+                  "text": "Aim at success determinedly."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "How are almost half of our daily actions performed according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Out of habit."
+                },
+                {
+                  "label": "C",
+                  "text": "Like muscle building."
+                },
+                {
+                  "label": "B",
+                  "text": "With determination."
+                },
+                {
+                  "label": "D",
+                  "text": "By self-discipline."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What will help people stick to doing something constructive automatically?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Practising it on a day-to-day basis."
+                },
+                {
+                  "label": "C",
+                  "text": "Possessing a reasonable amount of talent."
+                },
+                {
+                  "label": "B",
+                  "text": "Associating it with improving health."
+                },
+                {
+                  "label": "D",
+                  "text": "Foreseeing the desired outcome it will yield."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "How does the art of self-control help us succeed?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "By allowing us to remain clear-headed permanently."
+                },
+                {
+                  "label": "B",
+                  "text": "By enabling us to alter our behaviors constantly."
+                },
+                {
+                  "label": "C",
+                  "text": "By enabling us to take positive actions."
+                },
+                {
+                  "label": "D",
+                  "text": "By allowing us to avoid taking risks."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Why can it be difficult for us to maintain self-control?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Most of us are not in the habit of exercising self-control."
+                },
+                {
+                  "label": "B",
+                  "text": "We may not get immediate rewards from self-control."
+                },
+                {
+                  "label": "C",
+                  "text": "Self-control tends to be associated with pains."
+                },
+                {
+                  "label": "D",
+                  "text": "Self-control only brings about small benefits."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Today, most scientific research is funded by government grants, companies doing research and development, and non-profit foundations. As a society, we reap the rewards from this science, but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make.\n\nFunding for science has changed with the times. Historically, science has been largely supported through private patronage (资助), church sponsorship, or simply paying for the research yourself. Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsorship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can’t afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget.\n\nIn a perfect world, money wouldn’t matter—all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical ( 制药的 ) industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research.\n\nSo what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds; however, this process takes time. Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the passage mainly discuss regarding scientific research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its foundation."
+                },
+                {
+                  "label": "B",
+                  "text": "Its rewards."
+                },
+                {
+                  "label": "C",
+                  "text": "Its prospect."
+                },
+                {
+                  "label": "D",
+                  "text": "Its funding."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn from the passage about researchers like birdwatchers and rock collectors?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have little access to government funding."
+                },
+                {
+                  "label": "B",
+                  "text": "They can do research with limited resources."
+                },
+                {
+                  "label": "C",
+                  "text": "They can do amateur work in their own fields."
+                },
+                {
+                  "label": "D",
+                  "text": "They have no means for large-scale research."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What would scientific studies look like in a perfect world according to the author?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They would be totally unbiased."
+                },
+                {
+                  "label": "B",
+                  "text": "They would be independently funded."
+                },
+                {
+                  "label": "C",
+                  "text": "They would be responsibly conducted."
+                },
+                {
+                  "label": "D",
+                  "text": "They would be strictly supervised."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say about companies and special interest groups?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They try hard to pull down the safeguards for research."
+                },
+                {
+                  "label": "B",
+                  "text": "They make extra efforts to research their own products."
+                },
+                {
+                  "label": "C",
+                  "text": "They provide valuable resources for scientific research."
+                },
+                {
+                  "label": "D",
+                  "text": "They reap the most benefits from scientific research."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author think of research funded by industry or special interes",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its recommendations should be examined for feasibility."
+                },
+                {
+                  "label": "B",
+                  "text": "Its misleading results should be corrected in time."
+                },
+                {
+                  "label": "C",
+                  "text": "Its validity should be checked with additional care."
+                },
+                {
+                  "label": "D",
+                  "text": "Its hidden biases should be identified independently."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "农历（the lunar calendar）起源于数千年前的中国，根据太阳和月亮的运行规律制定。长期以来，农历在农业生产和人们日常生活中发挥着重要作用。古人依据农历记录日期、安排农活，以便最有效地利用自然资源和气候条件，提高农作物的产量和质量。中国的春节、中秋节等传统节日的日期都基于农历。农历是中国传统文化的重要组成部分，当今依然广为使用。"
+      }
+    ]
+  },
+  "id": "CET4-2024-06-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

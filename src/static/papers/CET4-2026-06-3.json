@@ -1,0 +1,725 @@
+{
+  "schema_version": "1.0",
+  "year": 2026,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose it is proposed that university students should be required to participate in at least one research project. You are now to write a response by stating what you think of the proposal in terms of its necessity and practicality. You will have 30 minutes to write the response. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "proposal",
+        "instructions": {
+          "directions": "Suppose it is proposed that university students should be required to participate in at least one research project. You are now to write a response by stating what you think of the proposal in terms of its necessity and practicality. You will have 30 minutes to write the response. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose it is proposed that university students should be required to participate in at least one research project. You are now to write a response by stating what you think of the proposal in terms of its necessity and practicality. You will have 30 minutes to write the response. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Junk-food lovers who try to cut back on fries or chocolate may experience symptoms similar to drug withdrawal, a new study suggests.\n\nResearchers found that people attempting to cut down on eating highly processed foods experience some of the same 26 and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those 27 smoking cigarettes or using drugs, according to the study.\n\nThe new study 28 the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte.\n\nBased on the participants’ self-reported symptoms, withdrawal symptoms were 29 more intense between the second and fifth days after attempting to reduce junk-food consumption, which 30 the time span people live through during drug withdrawal.\n\nThe idea that food may be addictive after “heavy” use by some individuals is a 31 subject, Schulte said. Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can 32 withdrawal symptoms in people, she noted. Raising 33 that people may experience irritability (烦躁) or headaches when cutting down on junk food can help individuals 34 coping strategies in advance, Schulte noted. The findings may also\n\n35 light on the barriers people face when changing eating habits—barriers that may play a role in\n\npeople dropping out of treatments, she said.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "awareness"
+        },
+        {
+          "label": "I",
+          "text": "physical"
+        },
+        {
+          "label": "B",
+          "text": "canceling"
+        },
+        {
+          "label": "J",
+          "text": "prepare"
+        },
+        {
+          "label": "C",
+          "text": "controversial"
+        },
+        {
+          "label": "K",
+          "text": "prospects"
+        },
+        {
+          "label": "D",
+          "text": "emptiness"
+        },
+        {
+          "label": "L",
+          "text": "quitting"
+        },
+        {
+          "label": "E",
+          "text": "monstrous"
+        },
+        {
+          "label": "M",
+          "text": "shed"
+        },
+        {
+          "label": "F",
+          "text": "offers"
+        },
+        {
+          "label": "N",
+          "text": "significantly"
+        },
+        {
+          "label": "G",
+          "text": "parallels"
+        },
+        {
+          "label": "O",
+          "text": "trigger"
+        },
+        {
+          "label": "H",
+          "text": "permanently"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 248,
+          "end": 250
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 342,
+          "end": 344
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 419,
+          "end": 421
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 650,
+          "end": 652
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 756,
+          "end": 758
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 897,
+          "end": 899
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1170,
+          "end": 1172
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1223,
+          "end": 1225
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1336,
+          "end": 1338
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1407,
+          "end": 1409
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Giving a better phone interview",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "These days, phone interviews are an unavoidable part of the job interview process, and for good reason: They save time and effort. But that doesn’t mean that phone calls require zero energy on the part of the candidate. Many companies treat phone screening as the official first round of the hiring process. That means candidates are expected to go into them prepared with as much information as possible about the company, position, and their own skills and strengths."
+        },
+        {
+          "label": "B",
+          "text": "A big mistake people often make is talking about their personal lives. Don’t talk about your personal life unless you’re directly asked a question about what you like to do in your off-hours. “The point of a phone interview is to focus on getting to know a candidate’s professional experience and goals,” says Mckenzie Roark, campus talent specialist at Lithko Contracting. “A recruiter is trying to see if they are the best fit for a role, and learning about their personal life doesn’t help. For example, when asked where you see yourself in five years, we don’t want to know that you hope to be married or that you want to buy a new house. That is nice, but that isn’t relative to anything professional.”"
+        },
+        {
+          "label": "C",
+          "text": "It might be tempting to cross something off your to-do list while on a phone interview, but recruiters and hiring managers can easily tell if your attention is elsewhere. Many interviewers are annoyed to see people who decide to multitask while on the phone interview. There are candidates who wash dishes, go for walks, or do grocery shopping during the interview. Needless to say, this doesn’t reflect well on your level of interest in the position you’re interviewing for."
+        },
+        {
+          "label": "D",
+          "text": "The question regarding pay is also best avoided. To be frank, it’s simply too early in the process for you to be the one who brings up salary expectations. “Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn’t the appropriate time to talk about ‘ what’s in it for you,’” says Justina Strnad, the Talent Acquisition Manager for Shiftgig. “Trust me, if you are a great candidate and make it to the next step, the hiring\n\nteam is going to be very transparent about what’s in it for you later on.”"
+        },
+        {
+          "label": "E",
+          "text": "“After wrapping up a phone interview, it is typical that the interviewer will ask the candidate if they have any questions. I can’t stress this enough: ALWAYS ask questions,” says Roark. “If we have had a great phone interview and then we wrap up and they don’t have any questions for me, it pretty much ruins the whole interview. It tells me that the candidate is uninterested in the role, which in reality might not be the case at all,” she notes. But surely, if you’re interested in a job, you can think of something to ask your interviewer."
+        },
+        {
+          "label": "F",
+          "text": "It seems basic, but surprisingly, a lot of people are late to phone interviews. “About a quarter of the people with whom I schedule phone interviews aren’t on time,” says Sophie Cikovsky, who handles U.S. recruiting for Infinite Global. “While this bothers me personally, it’s also indicative of someone who isn’t very detail-oriented,” she explains. “In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time. That way, if I hear from them at 1:13 p.m. or 12:49 p.m. instead of our planned 1:00 p.m. interview time, I have an early indicator that they might not be a great fit.”"
+        },
+        {
+          "label": "G",
+          "text": "“Make sure you test your headset and connection before dialing in,” recommends Roark. “There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.” Test-call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute."
+        },
+        {
+          "label": "H",
+          "text": "You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude. “Interviewing can be stressful, and sometimes that stress manifests itself in speaking too fast, speaking too loud, talking over the interviewer, or attempting to answer the interviewer’s question before they have actually finished asking the question,” says Chris Dardis, a recruiting expert. “Don’t do this.” There’s a big difference between being assertive (自信的) and being aggressive, and interviewers can always recognize it."
+        },
+        {
+          "label": "I",
+          "text": "It’s tough not to say things like “um,” “uh,” and “like” in everyday speech, but these verbal habits become much more pronounced when speaking on the phone, says Dardis. “In face-to-face interviews, they’re not as noticeable, because there are other things like your hair, suit, or body language to distract people.” But in a phone interview, the only thing you have to go on is what you say and how you say it. “That’s why it’s so important to eliminate these words from your speech when doing a phone interview.”"
+        },
+        {
+          "label": "J",
+          "text": "Not knowing anything about the company or job you’re interviewing for is way more obvious than you’d think. “Many people think that they don’t have to put as much effort into researching the role or the company,” says Steve Pritchard, an HR consultant. And if you have your laptop in front of you during the interview to do a few quick searches, they won’t know the difference, right? Not exactly. “Seasoned interviewers will know whether an interviewee is researching while on the phone. The interviewer can often even hear the typing as they ask the question,” he adds."
+        },
+        {
+          "label": "K",
+          "text": "“The key to success during a phone interview is clear and concise answers,” says Dardis. “People’s attention spans tend to be shorter over the phone. You don’t want your future employer to lose interest in the conversation.” He recommends practicing answers to questions you know will be asked ahead of time in order to be clear on what you’re going to say. That way, you can prevent talking in an aimless\n\nmanner."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Interviewees are advised not to ask questions about pay during a phone interview."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Experienced interviewers will know if an applicant is searching for information online while talking on the phone."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Many employers regard the phone interview as the first step of the official recruiting process."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Applicants who don’t ask questions at the end of an interview most probably ruin their chance of getting the position."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "The interviewee should test their phone connection before they call the interviewer."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It is annoying to the interviewer to find the applicant doing other tasks while being interviewed."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "To pass a phone interview, the most important thing is to answer questions clearly and concisely."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "If you fail to call the interviewer on time, they might not see you as a suitable candidate."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Applicants should avoid talking about their personal lives if the interviewer has only asked about their professional background and goals."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "It is impolite for an interviewee to interrupt the interviewer in the phone conversation."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Disgust is a universal human emotion. One type of disgust is called physical disgust, which protects us from eating or touching things that could be dangerous for us, such as raw meat or insects. Children experience physical disgust from a very early age, but do not achieve an understanding of the concept until they are around four years old.\n\nSome researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong. Examples of moral disgust are stealing, lying or cheating.\n\nHowever, not all academics think that moral disgust really exists. Some say that when we refer to disgust in relation to moral issues, we are using disgust as a metaphor (隐喻), and what we are feeling is in reality anger.\n\nIf moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it. Children learn about emotions in many different ways. Of special relevance are parents-children conversations about emotions. Indeed, children whose parents talk about emotions often have a better emotional understanding than children whose parents do not discuss emotions often.\n\nHowever, there are no studies that have examined how parents and children talk about disgust. This is what we set up to examine in our study.\n\nWe asked 68 English-speaking mothers and their four-, six- or eight-year-old children to discuss some stories about moral and physical disgust. Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust.\n\nWhen we asked mothers and children to discuss moral issues, such as whether it is OK to play with a child who has stolen someone else’s snack, they linked this type of moral wrongdoing with the emotion of\n\nanger and not disgust.\n\nDoes this mean that moral disgust does not exist? Some researchers suggest moral disgust exists in adults. Our findings suggest that moral disgust is either understood at a later age or is only used metaphorically, if at all, in children as old as eight years.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the passage tell us about physical disgust?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is an emotion as contrasted with thoughts."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a concept beyond children’s understanding."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a mechanism to keep us from being harmed."
+                },
+                {
+                  "label": "D",
+                  "text": "It is an experience gained from any form of danger."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "How do some researchers perceive moral disgust?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It tends to appear in various forms of wrongdoing."
+                },
+                {
+                  "label": "B",
+                  "text": "It is just as annoying to people as physical disgust."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a term used by common folk to describe anger."
+                },
+                {
+                  "label": "D",
+                  "text": "It stops people from doing anything morally wrong."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why does moral disgust appear quite late in children’s development?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It needs to be learnt through social interactions."
+                },
+                {
+                  "label": "B",
+                  "text": "They have little control over its learning process."
+                },
+                {
+                  "label": "C",
+                  "text": "It is too complex for them to acquire."
+                },
+                {
+                  "label": "D",
+                  "text": "Their parents seldom talk about emotions."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What did the author and his colleagues want to examine in their experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "What parents tell children against moral wrongdoing."
+                },
+                {
+                  "label": "B",
+                  "text": "What parents and children link moral wrongdoing to."
+                },
+                {
+                  "label": "C",
+                  "text": "How moral disgust is seen by children aged 4, 6 and 8."
+                },
+                {
+                  "label": "D",
+                  "text": "How disgust is discussed between parents and children."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can we infer about moral disgust from the author and his colleagues’ findings?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a notion hardly comprehensible to children."
+                },
+                {
+                  "label": "B",
+                  "text": "It rarely exists in children younger than eight."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a term most parents use when talking to children."
+                },
+                {
+                  "label": "D",
+                  "text": "It exists in adults with a strong sense of justice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "After finding out details about a stranger, we mistakenly think that they also know about us. As a result, we act more honestly around them, according to a recent study in Nature.\n\nPast research has found that we tend to assume social relationships are reciprocal (相互的). Most of the time, this assumption is accurate: someone you think of as a friend will usually consider you a friend too. But sometimes our social ties are more one-sided: for example, you might learn something about a stranger who doesn’t know you at all. Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us.\n\nIn a series of lab-based studies, this is exactly what the researchers found. When we know about strangers, we erroneously think they also know about us. But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment. The team developed leaflets (传单)\n\ncontaining fairly ordinary information about local community police officers, such as their favourite food, hobbies, or reasons for joining the police force. They then sent out these leaflets to every apartment in a number of housing developments in disadvantaged areas. The officers themselves also dropped off cards to local residents containing similar information.\n\nTwo months later, the researchers surveyed residents at these housing developments as well as control areas that did not receive leaflets or outreach cards. Residents were asked to imagine that they had committed a crime and how likely it would be that local officers would find out about it. They also rated how well the officers in the area knew them.\n\nThe team found that residents of the developments that had received the leaflets believed it more likely that local officers would find out about illegal activity than residents of the control areas. Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the finding of a recent study in Nature?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People are more honest with those who know them than with total strangers."
+                },
+                {
+                  "label": "B",
+                  "text": "People we want to have detailed information about are keen to know about us."
+                },
+                {
+                  "label": "C",
+                  "text": "People who get to know about a person wrongly assume the person knows them too."
+                },
+                {
+                  "label": "D",
+                  "text": "People who are familiar with each other tend to behave honestly in their everyday dealings."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the passage say about the assumption that social relationships are reciprocal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is more the exception than the rule."
+                },
+                {
+                  "label": "C",
+                  "text": "It does not apply to complex relationships."
+                },
+                {
+                  "label": "B",
+                  "text": "It does not hold true in every situation."
+                },
+                {
+                  "label": "D",
+                  "text": "It is more accurate in one-sided social ties."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What did Anuj Shah and Michael LaForest want to find out about the belief that social relationships are reciprocal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Whether it may resolve misunderstandings about social ties."
+                },
+                {
+                  "label": "B",
+                  "text": "Whether it could help develop one’s relationships with strangers."
+                },
+                {
+                  "label": "C",
+                  "text": "Whether it could help strengthen interpersonal relationships."
+                },
+                {
+                  "label": "D",
+                  "text": "Whether it may lead to false assumptions about a stranger."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "When did Anuj Shah and Michael LaForest find something really interesting in their research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "During lab-based studies."
+                },
+                {
+                  "label": "C",
+                  "text": "While investigating local residents’ crime."
+                },
+                {
+                  "label": "B",
+                  "text": "During a field experiment."
+                },
+                {
+                  "label": "D",
+                  "text": "While talking to police officers nearby."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What happened in the areas around the housing developments subjected to the studies?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They saw fewer crimes than the control developments."
+                },
+                {
+                  "label": "B",
+                  "text": "They witnessed a swifter elimination of illegal activities."
+                },
+                {
+                  "label": "C",
+                  "text": "Local police responded more quickly to criminal complaints than before."
+                },
+                {
+                  "label": "D",
+                  "text": "Local police related better to residents there than to those in other areas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "在中国传统文化中，亲朋好友之间互赠礼物是人际交往的一种重要礼节(etiquette)。赠送礼物不仅是物质的馈赠，更是情感的表达，是维系人际关系的重要纽带。一份精心挑选、符合接受者喜好的礼物，往往能加深彼此的感情。中国人遵循“礼尚往来”(mutually exchanging courtesies)的传统，接受礼物时会表达谢意，并适时回赠礼物，以增进彼此的融洽关系。"
+      }
+    ]
+  },
+  "id": "CET4-2026-06-3",
+  "solutions": {
+    "origin": "question_inference",
+    "items": {
+      "26": {
+        "answer": "I",
+        "explanation": null
+      },
+      "27": {
+        "answer": "L",
+        "explanation": null
+      },
+      "28": {
+        "answer": "F",
+        "explanation": null
+      },
+      "29": {
+        "answer": "N",
+        "explanation": null
+      },
+      "30": {
+        "answer": "G",
+        "explanation": null
+      },
+      "31": {
+        "answer": "C",
+        "explanation": null
+      },
+      "32": {
+        "answer": "O",
+        "explanation": null
+      },
+      "33": {
+        "answer": "A",
+        "explanation": null
+      },
+      "34": {
+        "answer": "J",
+        "explanation": null
+      },
+      "35": {
+        "answer": "M",
+        "explanation": null
+      },
+      "36": {
+        "answer": "D",
+        "explanation": null
+      },
+      "37": {
+        "answer": "J",
+        "explanation": null
+      },
+      "38": {
+        "answer": "A",
+        "explanation": null
+      },
+      "39": {
+        "answer": "E",
+        "explanation": null
+      },
+      "40": {
+        "answer": "G",
+        "explanation": null
+      },
+      "41": {
+        "answer": "C",
+        "explanation": null
+      },
+      "42": {
+        "answer": "K",
+        "explanation": null
+      },
+      "43": {
+        "answer": "F",
+        "explanation": null
+      },
+      "44": {
+        "answer": "B",
+        "explanation": null
+      },
+      "45": {
+        "answer": "H",
+        "explanation": null
+      },
+      "46": {
+        "answer": "C",
+        "explanation": null
+      },
+      "47": {
+        "answer": "D",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "A",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "A",
+        "explanation": null
+      }
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "schema_version": "1.0",
+  "year": 2024,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"College provides a great opportunity for students to explore various possibilities and find the right path for themselves. \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"College provides a great opportunity for students to explore various possibilities and find the right path for themselves. \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"College provides a great opportunity for students to explore various possibilities and find the right path for themselves. \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
+        "materials": "You should copy the sentence given in quotes at the beginning of your essay.",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "特别说明:此次考试全国共考了 2 套听力，本套真题听力部分与前两套内容相同，只是选项顺序不同，因此，本套试卷听力部分不再重复列出"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "About 23% of the global population lives in absolute poverty. In developing countries there is a low life expectancy, a high infant _26_ rate, high levels of unemployment and illiteracy, nutritional levels below acceptable standards and widespread disease with very little or poor quality medical assistance. Others live 27_ wealthy and luxurious lives and so the wealth is distributed in a very _28_ manner. These are the central problems to questions of charity though charity also includes many other areas such as assisting the elderly.\n\nWe all _29_ when very rich people pledge to give away most of their billions, but they are usually left with millions to pass on, still much more than most people would expect to earn in their lifetime. Even comparatively _30_ salaries in the west are very high when compared globally. Someone on £20,000 could easily afford to give away £ 2,000 per year and still have plenty to live on plus some luxuries.\n\nMost people agree that giving to charity is morally _31_ but charitable behaviour tends to be regarded as above and beyond the call of duty. Some argue, however, that charitable behaviour is morally required. This means that to fail to behave charitably would be wrong. The majority of arguments in this vein refer to giving aid to poorer nations but they may also refer to giving time within one's _32_ community. Arguments tend to place different requirements on people in different income brackets and _33_ entirely people who are merely making ends meet. Some argue that people should all contribute a certain percentage of their earnings. I 2024 年 12 月英语六级真题第 3 套 第 1 页，共 7 页\n\nwill _34_ together all those arguments that place a moral requirement on people to give to charity, despite the fact that there is wide disagreement as to the _35_ of that moral requirement.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "applaud"
+        },
+        {
+          "label": "I",
+          "text": "moderate"
+        },
+        {
+          "label": "B",
+          "text": "casualty"
+        },
+        {
+          "label": "J",
+          "text": "mortality"
+        },
+        {
+          "label": "C",
+          "text": "exclude"
+        },
+        {
+          "label": "K",
+          "text": "overt"
+        },
+        {
+          "label": "D",
+          "text": "extent"
+        },
+        {
+          "label": "L",
+          "text": "praiseworthy"
+        },
+        {
+          "label": "E",
+          "text": "group"
+        },
+        {
+          "label": "M",
+          "text": "probe"
+        },
+        {
+          "label": "F",
+          "text": "hierarchical"
+        },
+        {
+          "label": "N",
+          "text": "sceptically"
+        },
+        {
+          "label": "G",
+          "text": "immediate"
+        },
+        {
+          "label": "O",
+          "text": "unequal"
+        },
+        {
+          "label": "H",
+          "text": "incredibly"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 132,
+          "end": 136
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 321,
+          "end": 323
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 396,
+          "end": 400
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 549,
+          "end": 553
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 764,
+          "end": 768
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1003,
+          "end": 1007
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1350,
+          "end": 1354
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1456,
+          "end": 1460
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1638,
+          "end": 1642
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1792,
+          "end": 1796
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by making the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Free-Trade Paradox",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Trade is one of the policy areas where the hostility that exists between populists (民粹主义者) and classical liberals is most visible. Free-traders point to the undeniable good that tariff-free trade has done for consumers across the world and to the observable alleviation of poverty in corners of the world where previously closed markets have been opened up. Protectionists point to the domestic producers who've paid the price for this globalized economy in the form of lost livelihoods and hollowed-out communities."
+        },
+        {
+          "label": "B",
+          "text": "The ongoing conservative civil war often degenerates into content-free tribal warfare, but trade is a rare exception. There are substantial, thought-out policy proposals on both sides of the argument."
+        },
+        {
+          "label": "C",
+          "text": "Consequently, trade as a topic of discussion provides an opportunity for liberals and populists to have a real meeting of minds. Fruitful debates might actually take place in this area, as opposed to the familiar ritual we've become accustomed to of condemnation met with counter-condemnation."
+        },
+        {
+          "label": "D",
+          "text": "Strange as it might sound, the problem with trade in the modern world isn't a matter of dollars and cents. It's a matter of false consciousness. This observation is bound to set Marxist alarm bells ringing in the minds of some readers, but it was first made by Alexis de Tocqueville in 1840."
+        },
+        {
+          "label": "E",
+          "text": "Tracking the economic development of mankind from primitive to modern societies, Tocqueville observed a paradox unfolding over the centuries as economic realities and human experience of those realities strayed further and further from each other. In primitive societies, he notes, the division of labor was as yet undeveloped for the most part, requiring each person, family, or tribe to be relatively independent when it came to meeting their own basic material needs. Men built their own dwellings, farmed their own land, tended to their own livestock. This is not to deny that basic forms of trade took place, but, for the most part, our primitive ancestors lived fairly self-reliant, if crushingly poor, lives."
+        },
+        {
+          "label": "F",
+          "text": "However, the exclusively local and face-to-face nature of economic and political organization in the ancient and prehistoric worlds constantly impressed upon these primitive peoples the uncontrollable reality of\n\n2024 年 12 月英语六级真题第 3 套\n\n第 2 页，共 7 页\n\nothers and their needs. As Tocqueville notes, \"as soon as a man begins to deal with common affairs in public, he begins to perceive that he is not so independent of his fellow men as he had first imagined, and that in order to obtain their support he must often lend them his cooperation.\""
+        },
+        {
+          "label": "G",
+          "text": "At the advent of the modern world, the division of labor spread further and further throughout society. Each person became more and more dependent on others for their basic needs. And yet, robbed of the engagement with our neighbors and with our local communities that our ancestors were forced into by circumstance, we feel ourselves to be more and more independent of one another. As we become more and more dependent on others, we become less and less conscious of our dependence on others. This is the paradox of trade in the modern world."
+        },
+        {
+          "label": "H",
+          "text": "The false consciousness that this paradox generates causes havoc on the debates we have about free trade. There is scarcely a single commodity in any American household that isn't dependent for its manufacture and sale, through one supply chain or another, on scores of different people spread out across the entire globe. But as Tocqueville already foresaw in 1840, we do not feel dependent on these strangers for our way of life. No sense of the dependence of our own material welfare on their work ever strikes our national consciousness. We rarely contemplate the globalized avenues of free trade with gratitude."
+        },
+        {
+          "label": "I",
+          "text": "There are two reasons for this. The first, to put it bluntly, is money. Money allows us to purchase the work of others without giving any thought to them as human beings. Unlike our ancestors in their primitive townships, we rarely have to meet face-to-face the people who've invented, built, shipped, or supplied our goods. No relationship has to be built before an exchange can take place. Simply agree on a price, and you can have any goods you wish without taking a second thought for the human being involved on the other side of the transaction. In this way, money makes us feel more independent than we actually are. Each of us senses the hold that it has over our fellows. We know that if we bid highly enough we can buy ourselves out of the time-consuming labor of building relationships. Money is kind of like magic in that way. It gives us a set of rituals to perform and promises that if we do so we'll be able to wield power over others. The illusion is created that having enough money to buy something is the equivalent of knowing how to make it yourself. Gratitude for the anonymous men and women who make up the supply chain rarely makes its way into our consciousness."
+        },
+        {
+          "label": "J",
+          "text": "Anonymity, in fact, is the second root cause of the free-trade paradox. Modernity has emancipated everyone from the limits of location and community. By and large, when we trade, we trade with strangers; when we vote, we vote for strangers; when we watch, read, or listen to stories, the tellers of the tales are strangers. As opposed to the ancestors Tocqueville compares us to, we do not know the people with whom we have to do, in either the economic or the political sphere. This is simply the shadow side of the miracle of markets, which, for the first time in history, have allowed strangers to look after each other. They've also allowed each of us to live more and more of our lives exclusively as strangers to other people. This is how Tocqueville—rather pessimistically—describes us: Each, standing apart, is like a stranger to the destiny of others; his children and personal friends forming for him the entire human race. As for the remainder of his fellow citizens, he is beside them, but he does not see them. He touches them, but he does not feel them. He exists only in and for himself."
+        },
+        {
+          "label": "K",
+          "text": "The last sentence but one is as apt a summary as one could hope to come by of how each of us functions in the modern economy: \"He touches them, but he does not feel them.\"\n\n2024 年 12 月英语六级真题第 3 套\n\n第 3 页，共 7 页"
+        },
+        {
+          "label": "L",
+          "text": "This is the greatest challenge facing defenders of free trade. It's exceedingly difficult for human beings to feel gratitude toward strangers, and the global marketplace that has made us so rich has also made us strangers to one another. Our brains are hardwired for tribal life, and tribes do not take kindly to strangers. Impressing a sense of dependence upon and gratitude toward foreign strangers is therefore an uphill task."
+        },
+        {
+          "label": "M",
+          "text": "If free-traders are going to win policy arguments in the future, they'll have to find a way of forging bonds of affection between American consumers and foreign producers. Only by de-anonymizing the men and women who supply us with the goods and services we enjoy from overseas and by creating a sense of solidarity and relationship across borders that transcends economic interest can free trade win the day Otherwise, the inborn biological upper hand that protectionists have in the form of nationalist solidarity is bound to win the day at the ballot box."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "People became more and more reliant on others for basic needs as they entered the modern world even though they might feel less so."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "On the topic of trade, productive debates might be possible, in contrast to the familiar mutual condemnation in discussing other issues."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "We feel greater independence than we actually possess because money allows us to buy things without building any relationships."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The trouble with today's trade stems from misconceptions rather than money."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "For their arguments to prevail, advocates of free trade must try to forge bonds of affection between consumers at home and producers overseas."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "According to Tocqueville, unlike our ancestors, we and the people we do trade with are strangers to each other."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "In primitive societies, people had to rely mostly on themselves to meet their personal needs."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Few commodities in American homes are not reliant on people abroad in the process of manufacture"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Protectionists argue against free trade by referring to the losses suffered by domestic producers and communities."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "It is extremely hard to make people feel dependent on and grateful to strangers overseas."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A) ,B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "There are hundreds of personality quizzes online that assert they can ascertain whether the right or left half of your brain is dominant. Left-brained people are supposedly logical and excel at language and math while right-brained people are more imaginative, emotionally intelligent and skilled with spatial reasoning. There's just one problem: That's not how brains work.\n\nPopular science enthusiasts sort of took this idea and ran with it, and it's become woven in popular culture now, and it's not going away.\n\n2024 年 12 月英语六级真题第 3 套\n\n第 4 页，共 7 页\n\nDespite this enduring belief, there's no such thing as being \"right-brained\" or \"left-brained\". Whether you're someone who tends more towards creativity or logic has nothing to do with one hemisphere of your brain being dominant over the other. But the actual science of how the two halves of our brains work together is sometimes stranger than fiction.\n\nThe human brain is divided into two hemispheres, the left and right. In all vertebrate (脊椎的) animals, the right hemisphere controls the left side of the body and vice versa. And scientists have long known, thanks to the behaviors of patients who suffered brain injuries, that different areas of the brain do different things.\n\nBut many scientists struggled with this idea, because the very suggestion that the left and right halves of the brain operate differently disrupted the idea that nature tends toward perfect symmetry.\n\nWork by neuroscientists (神经科学家) has revealed the importance of different hemispheres of the brain for different activities. However, their research quickly saw some misinterpretations in the general public: Some presumed creative people must be right-brained and logical people left-brained. It is proven that not only is personality unrelated to the different halves of the brain, but people aren't really right- or left-brained to begin with. The idea that we have left-dominant people and right-dominant people, and that this is related to personality, is categorically false. That's never been supported in the neuroscience community. Neuroscientists don't believe that and never have.\n\nWhat scientists learned is that there are really important differences between the left hemisphere and the right hemisphere. It's just that they have nothing to do with personality or whether cognitive strategy is more logical or free spirited or creative. While researchers have shown the limitations of how the hemispheres of our brains influence our lives, it's not difficult to understand the appeal of such ideas. People are endlessly fascinated by themselves and their friends, and the subtle differences in how people think about the world are really meaningful to them. When you come up with an online quiz that tells us something about ourselves, we're drawn to that. It's irresistible. But you have to take it with an enormous grain of salt.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do numerous personality quizzes online claim they are able to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Distinguish between the two hemispheres of one's brain."
+                },
+                {
+                  "label": "B",
+                  "text": "Determine whether one is left-brained or right-brained."
+                },
+                {
+                  "label": "C",
+                  "text": "Tell if one is more of a linguist or of a mathematician."
+                },
+                {
+                  "label": "D",
+                  "text": "Ascertain how one's brain performs different tasks."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author say is sometimes stranger than fiction?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "How one hemisphere of the brain impacts creativity."
+                },
+                {
+                  "label": "B",
+                  "text": "How the two halves of our brains work alternately."
+                },
+                {
+                  "label": "C",
+                  "text": "How the two hemispheres of our brains cooperate."
+                },
+                {
+                  "label": "D",
+                  "text": "How one half of the brain dominates the other."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why did many scientists have difficulty endorsing the idea that different areas of the brain do different things?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It contradicts the assumption that the two hemispheres of the brain are symmetrical."
+                },
+                {
+                  "label": "B",
+                  "text": "It dismisses the view that the universe has been evolving in a consistent manner."
+                },
+                {
+                  "label": "C",
+                  "text": "It is in conflict with the suggestion that the left and right halves of the brain work together."
+                },
+                {
+                  "label": "D",
+                  "text": "It disrupts the idea that the right hemisphere of the brain controls the left side of the body.\n\n2024 年 12 月英语六级真题第 3 套\n\n第 5 页，共 7 页"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What belief have neuroscientists long rejected according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There are left-dominant people and right-dominant people with different personalities."
+                },
+                {
+                  "label": "B",
+                  "text": "There are noticeable differences between the left and right hemispheres of the brain."
+                },
+                {
+                  "label": "C",
+                  "text": "One's personality is hardly related to the different halves of the brain."
+                },
+                {
+                  "label": "D",
+                  "text": "Different areas of the brain are responsible for different activities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What are we advised to do with an online quiz that tells us something about ourselves?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Challenge its authority."
+                },
+                {
+                  "label": "C",
+                  "text": "Evaluate its popularity."
+                },
+                {
+                  "label": "B",
+                  "text": "Scrutinize its originality."
+                },
+                {
+                  "label": "D",
+                  "text": "Question its reliability."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "One hundred thirty-five students, four teachers, one giant classroom: This is what 9th grade looks like at Westwood High School, in Mesa, Arizona's largest school system. There, an innovative teaching model has taken hold, and is spreading to other schools in the district and beyond.\n\nFive years ago, faced with high teacher turnover and declining student enrollment, Westwood's leaders decided to try something different. Working with professors at Arizona State University's teachers college, they piloted a classroom model known as team teaching, which allows teachers to dissolve the walls that separate their classes across physical or grade divides.\n\nThe teachers share large groups of students-sometimes 100 or more-and rotate between group instruction, one-on-one interventions, small study groups, or whatever the teachers as a team agree is a priority that day. What looks at times like chaos is in fact a carefully orchestrated plan: Each morning, the Westwood teams meet to hammer out a personalized program for every student the team will focus on that day.\n\nBy giving teachers more opportunity to collaborate, Mesa's administrators hoped to fill staffing gaps and boost teacher morale and retention. Initial research suggests the gamble could pay off.\n\n\"Teachers are doing fantastic things, but it's very rare a teacher walks into another room to see what's happening,\" said Andi Fourlis, superintendent of Mesa Public Schools. \"Our profession is so slow to advance because we are working in isolation.\"\n\nOf course, overhauling teaching approaches can't fix all the frustrations teachers have, such as low pay, but early results from Mesa show team teaching may be helping to reverse low morale. In a survey of hundreds of the district's teachers, researchers found those who worked on teams reported greater job satisfaction, more frequent collaborations with colleagues, and more positive interactions with students.\n\nAnother benefit of teams, teachers say, is that they can help each other improve their instruction. During one planning session, English teacher Jeff Hall shared a performance appraisal with a science teacher: Her recent lecture on something she called \"the central dogma of biology\" had bewildered him and their other teammates.\n\n\"If the science is too confusing for me, can you imagine the frustration you feel as kids?\" Hall said. But the science teacher, he said, wouldn't have known about the confusion on her own.\n\nThe model is not for everyone. Some teachers approached about volunteering for a team have said they prefer to work alone. Team teaching can also be a scheduling nightmare, especially at schools like Westwood where only some staff work in teams. There are also thorny questions like how to evaluate four teachers on the\n\n2024 年 12 月英语六级真题第 3 套\n\n第 6 页，共 7 页\n\nperformance of 135 students. But for the time being, it seems to be working.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn about team teaching from the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is generally conducted in classrooms without walls."
+                },
+                {
+                  "label": "B",
+                  "text": "It allows students to choose teachers they favor most."
+                },
+                {
+                  "label": "C",
+                  "text": "It prioritizes peer work over classroom instruction."
+                },
+                {
+                  "label": "D",
+                  "text": "It is closely coordinated despite seeming confusion."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does initial research suggest regarding Westwood's innovative teaching model?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It could help raise teachers' pay."
+                },
+                {
+                  "label": "C",
+                  "text": "It could cut down overall costs."
+                },
+                {
+                  "label": "B",
+                  "text": "It could turn out to be a success."
+                },
+                {
+                  "label": "D",
+                  "text": "It could end up like a gamble."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What did superintendent Andi Fourlis say about the teaching profession?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Morale cannot be boosted until teaching models are overhauled."
+                },
+                {
+                  "label": "B",
+                  "text": "Teachers are simply too busy to visit classes of their colleagues."
+                },
+                {
+                  "label": "C",
+                  "text": "Progress is slow due to lack of collaboration among teachers."
+                },
+                {
+                  "label": "D",
+                  "text": "Teachers often do fantastic things without being noticed."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author want to show by citing English teacher Jeff Hall's experience?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "English teachers and science teachers are complementary in performing their tasks."
+                },
+                {
+                  "label": "B",
+                  "text": "A teacher of arts and letters is completely puzzled by what a science teacher teaches."
+                },
+                {
+                  "label": "C",
+                  "text": "The new teaching model helps inform the teacher how their instruction is received."
+                },
+                {
+                  "label": "D",
+                  "text": "Science teachers will hardly know the confusion they create without a performance appraisal."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author think is one of the difficult problems in implementing the new teaching model?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "What to do with teachers working alone."
+                },
+                {
+                  "label": "C",
+                  "text": "How to recruit volunteers for a team."
+                },
+                {
+                  "label": "B",
+                  "text": "What to include in teaching schedules."
+                },
+                {
+                  "label": "D",
+                  "text": "How to assess each teacher's performance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "遨游太空历来是中华民族的梦想。2003 年，神舟五号飞船发射成功，杨利伟成为第一个飞入太空的中国宇航员。2008 年，神舟七号升空，翟志刚成为中国历史上首位进行太空行走的宇航员。近年来，中国航天进入创新发展“快车道”，太空基础设施建设稳步推进，中国空间站于 2022 年全面建成。中国航天事业的迅速发展在中华民族的历史上写下了辉煌一页，也为人类文明进步做出了巨大贡献。未来，中国探索太空的脚步将迈得更稳、更远。\n\n2024 年 12 月英语六级真题第 3 套\n\n第 7 页，共 7 页"
+      }
+    ]
+  },
+  "id": "CET6-2024-12-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "36": {
+        "answer": "G",
+        "explanation": "G)【精析】同义转述题。G)段第一至三句提到，进入现代社会后，劳动分工在整个社会中越来越广泛。每个人的基本需求都越来越依赖别人。然而，由于被剥夺了我们的祖先因环境所迫而与邻居和当地社区形成的联系，因此我们感觉到自己越来越独立于他人。题干中的 more and more reliant on 对应原文中的 more and more dependent on，题干中的 as they entered the modern world 是对原文中 at the advent of the modern world 的同义转述，题干中的 might feel less so 是对原文中 feel ourselves to be more and more independent of one another 的同义转述，故答案为 G)。"
+      },
+      "37": {
+        "answer": "C",
+        "explanation": "C) 【精析】同义转述题。C) 段提到, 在贸易作为一个讨论话题的领域可能会发生富有成效的辩论, 而不是我们已经习惯了的谴责与反谴责的熟悉惯例。题干中的 productive 是原文中 fruitful 的同义词, 题干中的 in contrast to 是原文中 as opposed to 的同义词组, 题干中的 the familiar mutual condemnation in discussing other issues 是对原文中 the familiar ritual we've become accustomed to of condemnation met with counter-condemnation 的同义转述, 故答案为 C)。"
+      },
+      "38": {
+        "answer": "I",
+        "explanation": "I) 【精析】细节归纳题。I) 段第三句提到, 金钱使我们能够购买他人的劳动, 而完全不考虑他们是人。第五句指出在交换发生之前, 人们不需要建立任何关系。第七句进一步指出, 通过这种方式, 金钱让我们感觉比实际情况更独立。题干中的 feel greater independence 对应第七句中的 feel more independent, 题干中的 allows us to buy things 是对 I) 段第三句 allows us to purchase the work of others 的同义转述, 题干中的 without building any relationships 对应 I) 段第五句中的 no relationship has to be built, 综合归纳可知, 答案为 I)。"
+      },
+      "39": {
+        "answer": "D",
+        "explanation": "D) 【精析】同义转述题。D) 段定位句提到, 现代世界的贸易问题并不是美元和美分的问题, 这是一个错误意识的问题。即贸易问题源于错误的意识, 而不是金钱。题干中的 stems from 是对原文中 it's a matter of 的同义转述, 题干中的 misconceptions 是原文中 false consciousness 的同义词, 故答案为 D)。"
+      },
+      "40": {
+        "answer": "M",
+        "explanation": "arguments 的同义转述,题干中的 forge bonds of affection 是原文中 find a way of forging bonds of affection 的同义表达,故答案为 M)。"
+      },
+      "41": {
+        "answer": "J",
+        "explanation": "J) 【精析】同义转述题。J) 段定位句提到, 与托克维尔将我们与之比较的祖先相反, 我们不知道那个我们必须在经济或政治领域与之打交道的人是谁。题干中的 unlike our ancestors 是对原文中 as opposed to the ancestors 的同义转述, 题干中的 we do trade with 是对原文中 with whom we have to do 的同义转述, 我们不知道与之打交道的人是谁就意味着与之打交道的是陌生人, 故答案为 J)。"
+      },
+      "42": {
+        "answer": "E",
+        "explanation": "E) 【精析】同义转述题。E) 段定位句指出，在原始社会中，劳动分工在很大程度上还不发达，要求每个人、家庭或部落在满足自己的基本物质需求时相对独立，也即人们需要依靠自己来满足个人需求。题干中的 rely mostly on themselves 对应原文中的 be relatively independent，题干中的 meet their personal needs 是对原文中 when it came to meeting their own basic material needs 的同义转述，故答案为 E)。"
+      },
+      "43": {
+        "answer": "H",
+        "explanation": "H)【精析】同义转述题。H)段定位句指出，在美国家庭中，几乎没有任何一件商品，在其制造和销售过程中，不是通过各种各样的供应链，依赖于分布在全球各地的众多人员，题干意思与此一致。题干中的 few commodities in American homes 对应原文中的 scarcely a single commodity in any American household, 题干中的 not reliant on 是原文中“isn’t dependent…on”的同义词组，故答案为 H)。"
+      },
+      "44": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节归纳题。A) 段第一句指出民粹主义者和传统自由主义者之间关于贸易政策存在敌意, 第二句指出自由贸易者的观点, 第三句接着提到, 保护主义者指出, 国内生产者为全球化经济付出了代价, 失去了生计, 社区被掏空。综合可知, 保护主义者用国内生产者和社区遭受的损失来据理反对自由贸易。题干中的 referring to 和原文中的 point to 是同义词组, 题干中的 the losses suffered by domestic producers and communities 对应原文中的 the domestic producers who've paid the price for this globalized economy in the form of lost livelihoods and hollowed-out communities, 故答案为 A)。"
+      }
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,1526 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you are asked to give advice on whether to attend a vocational college or a university, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose you are asked to give advice on whether to attend a vocational college or a university, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you are asked to give advice on whether to attend a vocational college or a university, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He would feel insulted."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He would feel very sad."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He would be embarrassed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He would be disappointed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are worthy of a prize."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They make good reading."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are of little value."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They need improvement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He seldom writes a book straight through."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He writes several books simultaneously."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He draws on his real-life experiences."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He often turns to his wife for help."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Writing a book is just like watching a football match."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Writers actually work every bit as hard as footballers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He likes watching a football match after finishing a book."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Unlike a football match, there is no end to writing a book."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Achievements of black male athletes in college."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Financial assistance to black athletes in college."
+                  },
+                  {
+                    "label": "C",
+                    "text": "High college dropout rates among black athletes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Undergraduate enrollments of black athletes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They display great talent in every kind of game."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are better at sports than at academic work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have difficulty finding money to complete their studies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They make money for the college but often fail to earn a degree."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "About 15%."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Slightly over 50%."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Around 40%."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Approximately 70%."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Coaches lack the incentive to graduate them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have little interest in academic work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "College degrees do not count much to them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Schools do not deem it a serious problem."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 12 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 12
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Marketing strategies."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Holiday shopping."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Shopping malls."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Online stores."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "About 50% of holiday shoppers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "About 136 million."
+                  },
+                  {
+                    "label": "B",
+                    "text": "About 20-30% of holiday shoppers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "About 183.8 million."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have fewer customers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are thriving once more."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They find it hard to survive."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They appeal to elderly customers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Better quality of consumer goods."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Higher employment and wages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Greater varieties of commodities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "People having more leisure time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 13 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 13,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are new species of big insects."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are life-threatening diseases."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are overprescribed antibiotics."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are antibiotic-resistant bacteria."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Antibiotics are now in short supply."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Large amounts of tax money are wasted."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Many infections are no longer curable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Routine operations have become complex."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Facilities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Money."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Expertise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Publicity."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is accessible only to the talented."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It starts a lifelong learning process."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It improves students' ability to think."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It gives birth to many eminent scholars."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They encourage academic democracy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They uphold the presidents' authority."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They promote globalization."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They protect students' rights."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His thirst for knowledge."
+                  },
+                  {
+                    "label": "C",
+                    "text": "His contempt for authority."
+                  },
+                  {
+                    "label": "B",
+                    "text": "His eagerness to find a job."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His potential for leadership."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 22 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 22
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Few people know how to retrieve information properly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People can enhance their memory with a few tricks."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Most people have a rather poor long-term memory."
+                  },
+                  {
+                    "label": "D",
+                    "text": "People tend to underestimate their mental powers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They present the states in a surprisingly different order."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They include more or less the same number of states."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are exactly the same as is shown in the atlas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They contain names of the most familiar states."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Focusing on what is likely to be tested."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Having a good sleep the night before."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Reviewing your lessons where the exam is to take place."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Making sensible decisions while choosing your answers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Discover when you can learn best."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Give yourself a double bonus afterwards."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Change your time of study daily."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Follow the example of a marathon runner."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 23 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 23,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is a politician."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is a sociologist."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is a businessman."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is an economist."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In slums."
+                  },
+                  {
+                    "label": "C",
+                    "text": "In pre-industrial societies."
+                  },
+                  {
+                    "label": "B",
+                    "text": "In Africa."
+                  },
+                  {
+                    "label": "D",
+                    "text": "In developing countries."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have no access to health care, let alone entertainment or recreation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their income is less than 50% of the national average family income."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They work extra hours to have their basic needs met."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their children cannot afford to go to private schools."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Half of your brain stays alert and prepared for danger when you sleep in a new place, a study has revealed. This phenomenon is often _26_ to as the \"first-night-effect\". Researchers from Brown University found that a network in the left hemisphere of the brain \"remained more active\" than the network in the right side of the brain. Playing sounds into the right ears (stimulating the left hemisphere) of _27_ was more likely to wake them up than if the noises were played into their left ears.\n\nIt was _28_ observed that the left side of the brain was more active during deep sleep. When the researchers repeated the laboratory experiment on the second and third nights they found the left hemisphere could not be stimulated in the same way during deep sleep. The researchers explained that the study demonstrated when we are in a _29_ environment the brain partly remains alert so that humans can defend themselves against any _30_ danger.\n\nThe researchers believe this is the first time that the “first-night-effect” of different brain states has been _31_ in humans. It isn’t, however, the first time it has ever been seen. Some animal _32_ also display this phenomenon. For example, dolphins, as well as other _33_ animals, shut down one hemisphere of the brain when they go to sleep. A previous study noted that dolphins always _34_ control their breathing. Without keeping the brain active while sleeping, they would probably drown. But, as the human study suggests, another reason for dolphins keeping their eyes open during sleep is that they can look out for _35_ while asleep. It also keeps their physiological processes working.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "classified"
+        },
+        {
+          "label": "I",
+          "text": "potential"
+        },
+        {
+          "label": "B",
+          "text": "consciously"
+        },
+        {
+          "label": "J",
+          "text": "predators"
+        },
+        {
+          "label": "C",
+          "text": "dramatically"
+        },
+        {
+          "label": "K",
+          "text": "referred"
+        },
+        {
+          "label": "D",
+          "text": "exotic"
+        },
+        {
+          "label": "L",
+          "text": "species"
+        },
+        {
+          "label": "E",
+          "text": "identified"
+        },
+        {
+          "label": "M",
+          "text": "specifically"
+        },
+        {
+          "label": "F",
+          "text": "inherent"
+        },
+        {
+          "label": "N",
+          "text": "varieties"
+        },
+        {
+          "label": "G",
+          "text": "marine"
+        },
+        {
+          "label": "O",
+          "text": "volunteers"
+        },
+        {
+          "label": "H",
+          "text": "novel"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 133,
+          "end": 137
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 405,
+          "end": 409
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 503,
+          "end": 507
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 832,
+          "end": 836
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 929,
+          "end": 933
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1055,
+          "end": 1059
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1140,
+          "end": 1144
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1215,
+          "end": 1219
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1334,
+          "end": 1338
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1569,
+          "end": 1573
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Elite Math Competitions Struggle to Diversify Their Talent Pool",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Interest in elite high school math competitions has grown in recent years, and in light of last summer's U.S. win at the International Math Olympiad (IMO)—the first for an American team in more than two decades—the trend is likely to continue."
+        },
+        {
+          "label": "B",
+          "text": "But will such contests, which are overwhelmingly dominated by Asian and white students from middle-class and affluent families, become any more diverse? Many social and cultural factors play roles in determining which promising students get on the path toward international math recognition. But efforts are in place to expose more black, Hispanic, and low-income students to advanced math, in the hope that the demographic pool of high-level contenders will eventually begin to shift and become less exclusive."
+        },
+        {
+          "label": "C",
+          "text": "“The challenge is if certain types of people are doing something, it’s difficult for other people to break into it,” said Po-Shen Loh, the head coach of last year’s winning U.S. Math Olympiad team.Participation grows through friends and networks and if “you realize that’s how they’re growing, you can start to take action” and bring in other students, he said."
+        },
+        {
+          "label": "D",
+          "text": "Most of the training for advanced-math competitions happens outside the confines of the normal school day. Students attend after-school clubs, summer camps, online forums and classes, and university-based “math circles,” to prepare for the competitions."
+        },
+        {
+          "label": "E",
+          "text": "One of the largest feeders for high school math competitions—including those that eventually lead to the IMO—is a middle school program called MathCounts. About 100,000 students around the country participate in the program’s competition series, which culminates in a national game-show-style contest held each May. The most recent one took place last week in Washington, D.C. Students join a team through their schools, which provide a volunteer coach and pay a nominal fee to send students to regional and state competitions. The 224 students who make it to the national competition get an all-expenses-paid trip."
+        },
+        {
+          "label": "F",
+          "text": "Nearly all members of last year's winning U.S. IMO team took part in MathCounts as middle school students, as did Loh, the coach.“Middle school is an important age because students have\n\nenough math capability to solve advanced problems, but they haven't really decided what they want to do with their lives,\" said Loh. \"They often get hooked then.\""
+        },
+        {
+          "label": "G",
+          "text": "Another influential feeder for advanced-math students is an online school called Art of Problem Solving, which began about 13 years ago and now has 15,000 users. Students use forums to chat, play games, and solve problems together at no cost, or they can pay a few hundred dollars to take courses with trained teachers. According to Richard Rusczyk, the company founder, the six U.S. team members who competed at the IMO last year collectively took more than 40 courses on the site. Parents of advanced-math students and MathCounts coaches say the children are on the website constantly."
+        },
+        {
+          "label": "H",
+          "text": "There are also dozens of summer camps—many attached to universities—that aim to prepare elite math students. Some are pricey—a three-week intensive program can cost \\$ 4,500 or more—but most offer scholarships. The Math Olympiad Summer Training Program is a three-week math camp held by the Mathematical Association of America that leads straight to the international championship and is free for those who make it. Only about 50 students are invited based on their performance on written tests and at the USA Math Olympiad."
+        },
+        {
+          "label": "I",
+          "text": "Students in university towns may also have access to another lever for involvement in accelerated math: math circles. In these groups, which came out of an Eastern European tradition of developing young talent, professors teach promising K-12 students advanced mathematics for several hours after school or on weekends. The Los Angeles Math Circle, held at the University of California, Los Angeles, began in 2007 with 20 students and now has more than 250. “These math circles cost nothing, or they’re very cheap for students to get involved in, but you have to know about them,” said Rusczyk. “Most people would love to get students from more underserved populations, but they just can’t get them in the door. Part of it is communication; part of it is transportation.”"
+        },
+        {
+          "label": "J",
+          "text": "It’s no secret in the advanced-math community that diversity is a problem. According to Mark Saul, the director of competitions for the Mathematical Association of America, not a single African-American or Hispanic student—and only a handful of girls—has ever made it to the Math Olympiad team in its 50 years of existence. Many schools simply don’t prioritize academic competitions. “Do you know who we have to beat?” asked Saul. “The football team, the basketball team—that’s our competition for resources, student time, attention, school dollars, parent efforts, school enthusiasm.”"
+        },
+        {
+          "label": "K",
+          "text": "Teachers in low-income urban and rural areas with no history of participating in math competitions may not know about advanced-math opportunities like MathCounts—and those who do may not have support or feel trained to lead them."
+        },
+        {
+          "label": "L",
+          "text": "But there are initiatives in place to try to get more underrepresented students involved in accelerated math. A New York City-based nonprofit called Bridge to Enter Mathematics runs a residential summer program aimed at getting underserved students, mostly black and Hispanic, working toward math and science careers. The summer after 7th grade, students spend three weeks on a college campus studying advanced math for seven hours a day. Over the next five years, the group helps the students get into other elite summer math programs, high-performing high schools, and eventually college. About 250 students so far have gone through the program, which receives funding from the Jack Kent Cooke Foundation."
+        },
+        {
+          "label": "M",
+          "text": "“If you look at a lot of low-income communities in the United States, there are programs that are serving them, but they’re primarily centered around ‘Let’s get these kids’ grades up,’ and not around ‘Let’s get these kids access to the same kinds of opportunities as more-affluent kids,’ ” said Daniel Zaharopol, the founder and executive director of the program. “We’re trying to create that pathway.” Students apply to the program directly through their schools. “We want to reach parents who are not plugged into the system,” said Zaharopol."
+        },
+        {
+          "label": "N",
+          "text": "In the past few years, MathCounts added two new middle school programs to try to diversify its participant pool—the National Math Club and the Math Video Challenge. Schools or teachers who sign up for the National Math Club receive a kit full of activities and resources, but there's no special teacher training and no competition attached."
+        },
+        {
+          "label": "O",
+          "text": "The Math Video Challenge is a competition, but a collaborative one. Teams of four students make a video illustrating a math problem and its real-world application. After the high-pressure Countdown round at this year's national MathCounts competition, in which the top 12 students went head to head solving complex problems in rapid fire, the finalists for the Math Video Challenge took the stage to show their videos. The demographics of that group looked quite different from those in the competition round—of the 16 video finalists, 13 were girls and eight were African-American students. The video challenge does not put individual students on the hot seat—so it's less intimidating by design. It also adds the element of artistic creativity to attract a new pool of students who may not see themselves as “math people.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Middle school is a crucial period when students may become keenly interested in advanced mathematics."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Elite high school math competitions are attracting more interest throughout the United States."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Math circles provide students with access to advanced-math training by university professors."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Students may take advantage of online resources to learn to solve math problems."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "The summer program run by a nonprofit organization has helped many underserved students learn\n\nadvanced math."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Winners of local contests will participate in the national math competition for free."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Many schools don't place academic competitions at the top of their priority list."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Contestants of elite high school math competitions are mostly Asian and white students from well-off families."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Some math training programs primarily focus on raising students' math scores."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some intensive summer programs are very expensive but most of them provide scholarships."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and other women who liberated American fashion from the confines of Parisian design. Independence came in tying, wrapping, storing, harmonizing, and rationalizing that wardrobe. These designers established the modern dress code, letting playsuits and other activewear outfits suffice for casual clothing, allowing pants to enter the wardrobe, and prizing rationalism and versatility in dress, in contradiction to dressing for an occasion or allotment of the day. Fashion in America was logical and answerable to the will of the women who wore it. Implicitly or explicitly, American fashion addressed a democracy, whereas traditional Paris-based fashion was prescriptive and imposed on women, willing or not.\n\nIn an earlier time, American fashion had also followed the dictates of Paris, or even copied and pirated specific French designs. Designer sportswear was not modeled on that of Europe, as “modern art” would later be; it was genuinely invented and developed in America. Its designers were not high-end with supplementary lines. The design objective and the business commitment were to sportswear, and the distinctive traits were problem-solving ingenuity and realistic lifestyle applications. Ease of care was most important: summer dresses and outfits, in particular, were chiefly cotton, readily capable of being washed and pressed at home. Closings were simple, practical, and accessible, as the modern woman depended on no personal maid to dress her. American designers prized resourcefulness and the freedom of the women who wore the clothing.\n\nMany have argued that the women designers of this time were able to project their own clothing values into a new style. Of course, much of this argument in the 1930s-40s was advanced because there was little or no experience in justifying apparel (服装) on the basis of utility. If Paris was cast\n\naside, the tradition of beauty was also to some degree slighted. Designer sportswear would have to be verified by a standard other than that of pure beauty; the emulation of a designer's life in designer sportswear was a crude version of this relationship. The consumer was ultimately to be mentioned as well, especially by the likes of Dorothy Shaver, who could point to the sales figures at Lord & Taylor.\n\nCould utility alone justify the new ideas of the American designers? Fashion is often regarded as a pursuit of beauty, and some cherished fashion's trivial relationship to the fine arts. What the designers of American sportswear proved was that fashion is a genuine design art, answering to the demanding needs of service. Of course these practical, insightful designers have determined the course of late twentieth-century fashion. They were the pioneers of gender equity, in their useful, adaptable clothing, which was both made for the masses and capable of self-expression.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What contribution did the women designers make to American fashion?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They made some improvements on the traditional Parisian design."
+                },
+                {
+                  "label": "B",
+                  "text": "They formulated a dress code with distinctive American features."
+                },
+                {
+                  "label": "C",
+                  "text": "They came up with a brand new set of design procedures."
+                },
+                {
+                  "label": "D",
+                  "text": "They made originality a top priority in their fashion design."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn about American designer sportswear?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It imitated the European model."
+                },
+                {
+                  "label": "B",
+                  "text": "It laid emphasis on women's beauty."
+                },
+                {
+                  "label": "C",
+                  "text": "It represented genuine American art."
+                },
+                {
+                  "label": "D",
+                  "text": "It was a completely new invention."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What characterized American designer sportswear?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Pursuit of beauty."
+                },
+                {
+                  "label": "B",
+                  "text": "Decorative closings."
+                },
+                {
+                  "label": "C",
+                  "text": "Ease of care."
+                },
+                {
+                  "label": "D",
+                  "text": "Fabric quality."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What occurred in the design of women's apparel in America during the 1930s- 40s?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A shift of emphasis from beauty to utility."
+                },
+                {
+                  "label": "B",
+                  "text": "The emulation of traditional Parisian design."
+                },
+                {
+                  "label": "C",
+                  "text": "A search for balance between tradition and novelty."
+                },
+                {
+                  "label": "D",
+                  "text": "The involvement of more women in fashion design."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do we learn about designers of American sportswear?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They catered to the taste of the younger generation."
+                },
+                {
+                  "label": "B",
+                  "text": "They radically changed people's concept of beauty."
+                },
+                {
+                  "label": "C",
+                  "text": "They advocated equity between men and women."
+                },
+                {
+                  "label": "D",
+                  "text": "They became rivals of their Parisian counterparts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Massive rubbish dumps and sprawling landfills constitute one of the more uncomfortable impacts that humans have on wildlife. They have led some birds to give up on migration. Instead of flying thousands of miles in search of food, they make the waste sites their winter feeding grounds.\n\nResearchers in Germany used miniature GPS tags to track the migrations of 70 white storks (鹳) from different sites across Europe and Asia during the first five months of their lives. While many birds travelled along well-known routes to warmer climates, others stopped short and spent the winter on landfills, feeding on food waste, and the multitudes of insects that thrive on the dumps.\n\nIn the short-term, the birds seem to benefit from overwintering(过冬)on rubbish dumps. Andrea Flack of the Max Planck Institute found that birds following traditional migration routes were more likely to die than German storks that flew only as far as northern Morocco, and spent the winter there on rubbish dumps. “For the birds it’s a very convenient way to get food. There are huge clusters of organic waste they can feed on,” said Flack. The meals are not particularly appetising, or even safe. Much of the waste is discarded rotten meat, mixed in with other human debris such as plastic bags and old toys.\n\n“It’s very risky. The birds can easily eat pieces of plastic or rubber bands and they can die,” said Flack. “And we don’t know about the long-term consequences. They might eat something toxic and damage their health. We cannot estimate that yet.”\n\nThe scientists tracked white storks from different colonies in Europe and Africa. The Russian, Greek and Polish storks flew as far as South Africa, while those from Spain, Tunisia and Germany flew only as far as the Sahel.\n\nLandfill sites on the Iberian peninsula have long attracted local white storks, but all of the Spanish birds tagged in the study flew across the Sahara desert to the western Sahel. Writing in the journal, the scientists describe how the storks from Germany were clearly affected by the presence of waste sites, with four out of six birds that survived for at least five months overwintering on rubbish dumps in northern Morocco, instead of migrating to the Sahel.\n\nFlack said it was too early to know whether the benefits of plentiful food outweighed the risks of feeding on landfills. But that's not the only uncertainty. Migrating birds affect ecosystems both at home and at their winter destinations, and disrupting the traditional routes could have unexpected side effects. White storks feed on locusts (蝗虫) and other insects that can become pests if their numbers get out of hand. \"They provide a useful service,\" said Flack.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the impact of rubbish dumps on wildlife?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have forced white storks to search for safer winter shelters."
+                },
+                {
+                  "label": "B",
+                  "text": "They have seriously polluted the places where birds spend winter."
+                },
+                {
+                  "label": "C",
+                  "text": "They have accelerated the reproduction of some harmful insects."
+                },
+                {
+                  "label": "D",
+                  "text": "They have changed the previous migration habits of certain birds."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn about birds following the traditional migration routes?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can multiply at an accelerating rate."
+                },
+                {
+                  "label": "B",
+                  "text": "They can better pull through the winter."
+                },
+                {
+                  "label": "C",
+                  "text": "They help humans kill harmful insects."
+                },
+                {
+                  "label": "D",
+                  "text": "They are more likely to be at risk of dying."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does Andrea Flack say about the birds overwintering on rubbish dumps?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may end up staying there permanently."
+                },
+                {
+                  "label": "B",
+                  "text": "They may eat something harmful."
+                },
+                {
+                  "label": "C",
+                  "text": "They may evolve new feeding habits."
+                },
+                {
+                  "label": "D",
+                  "text": "They may have trouble getting adequate food."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What can be inferred about the Spanish birds tagged in the study?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They gradually lose the habit of migrating in winter."
+                },
+                {
+                  "label": "B",
+                  "text": "They prefer rubbish dumps far away to those at home."
+                },
+                {
+                  "label": "C",
+                  "text": "They are not attracted to the rubbish dumps on their migration routes."
+                },
+                {
+                  "label": "D",
+                  "text": "They join the storks from Germany on rubbish dumps in Morocco."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What is scientists' other concern about white storks feeding on landfills?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The potential harm to the ecosystem."
+                },
+                {
+                  "label": "B",
+                  "text": "The genetic change in the stork species."
+                },
+                {
+                  "label": "C",
+                  "text": "The spread of epidemics to their homeland."
+                },
+                {
+                  "label": "D",
+                  "text": "The damaging effect on bio-diversity."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "宋朝始于960年,一直延续到1279年。这一时期,中国经济大幅增长,成为世界上最先进的经济体,科学、技术、哲学和数学蓬勃发展。宋代中国是世界历史上首先发行纸币的国家。宋朝还最早使用火药并发明了活字(movable-type)印刷。人口增长迅速,越来越多的人住进城市,那里有热闹的娱乐场所。社会生活多种多样。人们聚集在一起观看和交易珍贵艺术品。宋朝的政府体制在当时也是先进的。政府官员均通过竞争性考试选拔任用。\n\n未得到监考教师指令前,不得翻阅该试题册!"
+      }
+    ]
+  },
+  "id": "CET6-2017-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。feel insulted 是对 That kind of thing is difficult、this is an insult、I feel it's an insult too 等信息的综合判断。B)、C)、D) 都是从 difficult 一词做出的主观臆测，但由下文可知，difficult 此处指“很难说希望在二手书店看到自己的书还是不希望，因为觉得都有损颜面”。"
+      },
+      "2": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)、C)均表“赞赏”，与 very harsh(特别苛刻)、She thought it was rubbish...所体现的“总爱批评”的形象不符。B)干扰很大，She thought 为观点标记词，rubbish 与 of little value 也契合，但这是妻子对他 04 年新书的看法(it was...），用以说明“脸皮厚(无视外界否定，坚持自己)的必要性”，而题干实际询问“妻子对作品的总体态度(books)”，因此题眼在 always about execution(“总批评写作手法”)。D)是“总批评写作手法(而非主题思想)”暗含的信息:操作(手法)还需要改进。"
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)是对 often stopped writing a book and left it for a few years(经常停写某书,把它放上几年)的合理推断。B)、C)男士并未提及“同时写书”和“利用真实经历(写书)”。D)由“男士提到其妻子对他手稿的评价”过度推断“他写书常求助于妻子”。"
+      },
+      "4": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)、B)在“写作 VS 看足球赛”、“作家 VS 足球队员”之间强加类比关系。C)在问题中的“结束写作”(finish a book)和作家提到的“看球赛”(watch footballers at the end of the match)之间强加时间先后关系。D)同义改写对话信息:at that moment they know it's over 与 I never have the moment when I feel...finished、never a finishing whistle 显然为类比内容,凸显球赛与写作的不同。"
+      },
+      "5": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A) Achievements 与对话信息“只有勉强过半的黑人男性运动员能从大学毕业”相悖,且“黑人运动员在球队中占比高”意在反衬“学业方面落后”的主题。B) Financial assistance 是对反复出现的“毕业率低、拿不到学位”的主观臆断。C)契合体现对话主题的研究发现 black athletes are dropping out of college across the country at alarming rates。D)中“本科入学率”在对话中有提及,但针对的是总体“黑人男性(black males)”,且“入学率”情况也是作为主题的支撑信息出现。"
+      },
+      "6": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)、B)由“黑人男性在营利性球队中的高占比”过度推出“黑人男性运动员擅长各项运动”，且与题干“新发现”无关。C)与5题B)陷阱一致，误认为辍学源于经济压力。D)是对 the revenue-generating...on campus...and not...the educating class as most students in other groups are 的概括，同时符合对话的“黑人运动员辍学情况”主题。"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A) 利用与正确项的近似读音干扰。B) 无中生有。C) 同义复现: Slightly over 50% 对应原文 just barely more than half。D) 利用文中出现的“65”干扰, 但这一数字指“接受调查的学校数量”。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A) Coaches lack the incentive to graduate them 对应 Coaches do not necessarily have the incentive to graduate players, 即教练只关心比赛输赢, 而不顾其能否拿到学位。B) 把“没有经济压力去改变现状”误解为“运动员不缺钱, 文凭可有可无”, 但此处指“学校, 当然包括代表学校利益的教练, 没有经济方面的压力(让黑人运动员多参赛不可能比让他们读书费钱, 且情况恰恰相反, 比赛让学校名利双收)促使改变; 且男士此前指出, 大学学历对社会地位的改变很重要。C) academic work 没有信息来源, 并未探讨黑人运动员对学术相关内容的态度。D) 将“学校为私利而无视运动员的学历培养”偷换成“学校觉得肄业没什么大不了”。"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)、D)分别聚焦“如何营销”和“线上店铺”，虽与“购物”挂钩却不是讨论的主题。"
+      },
+      "10": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)、B)均与题干所问“购物人数”无关:50%对应Ⅱ段“假期购物中网购的占比”，而20%-30%对应首段“零售商假期收入在全年收入的占比”;C)1.36亿是购物人数,但在感恩节周末期间,而非“网络星期一”。D)完全复现Ⅱ段 About 183.8 million。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)、B)是对 shopping malls have closed... struggling 的合理推测和同义转述,但这属于客观说明现象,并非《财富》给出的信息。C)复现原文,其中 They 对应 The sector, once more 与 again 同义。D)“老年顾客(elderly customers)”为主观臆断,文中并未提及。"
+      },
+      "12": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A) quality、C) varieties、D) leisure time 文中均未涉及。B) 复现原文: 借经济学家格斯·福彻观点指出, 失业率下降、工资上涨使美国人有更多钱可支配 (lower unemployment and rising wages), 从而购物者人数增长。"
+      },
+      "13": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)由Ⅱ段 superbugs 字面构词“super+bugs”(超大的虫子)臆断出“大型昆虫”,但文中定义的核心为 bacteria(细菌)而非 insect(昆虫)。B)、C)分别将事物的“因”和“果”错当作“事物本身”:前者是“超级细菌”的促因,后者为“(感染)超级细菌”的后果。D)是对Ⅱ段信息“超级细菌是一种因过度使用抗生素而产生的耐抗生素细菌”的正确概括。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)把Ⅱ段“抗生素被滥用”曲解为“抗生素需求很大,供不应求”。B)将“许多常见疾病变得难以治疗(difficult to...)”绝对化为“许多感染再也无法治愈(no longer curable)”。C)曲解篇尾“解决问题的科研资金极其短缺(far cry from the funds necessary)”,且该信息为“现状”,而非“某事后果”。D)是对Ⅱ段专家警告“滥用抗生素→催生超级细菌→常见疾病变得难以治疗”和现状事实“常规手术因为超级细菌的潜在感染而变得更加危险”的合理推断。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)把“卫生研究院对科研基金分配不足”曲解为“相关设施不足”。B)利用Ⅱ段health experts(健康专家)干扰,但文中未提到“专业知识不足”。C)是对末段主旨“致命流行病大肆蔓延,而解决问题的预算资金远不够”的合理推断。D)由专家警告“抗药性细菌有致命危险”及现状“抗药性细菌导致死亡人数逐年递增”等信息臆测出“普通人不够重视问题,有必要加强宣传”。"
+      },
+      "16": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)从“演讲人对例子中大学生的由衷赞赏”臆断而来,但讲话围绕的是“大学的意义”,不涉及大学门槛问题。B)是对首段 to understand thinking better and to think better yourself 的同义改写。C)是对首段信息 to be educated 与 throughout your lifetime 的糅杂,但文意实为“一生都不会有像大学那样锻炼我们思维能力的机会”。D)是对Ⅳ段个例(质疑校长论文的学生现在是杰出的经济学教授)的臆断,演讲人并未谈及。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)由Ⅲ段“大学之与众不同在于,它是‘思想的权威’之地”以及“你从那些因学生的发现动摇了他们之前提出的宝贵理论而感到高兴的教师身上就能看到这一点”合理概括出“大学鼓励学术民主”。B)由Ⅱ段演讲人“教授关于全球化的研讨课”臆断而来。C)将“大学是‘思想的权威’之地”(即思想至高无上,任何意见都应受到尊重)改为“大学支持校长的权威”。D)由“学生质疑校长学术观点反而获赞”的例子过度推出“保护各项权利”。"
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)是Ⅳ段 hunger to learn 的同义改写。B)由年轻人顺带说“想要一份工作”过度推断出“他质疑论文意在找工作”。C)、D)由“年轻人对校长论文提出质疑”过度推断出其“蔑视权威”、“有当领导的潜力”。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A) 将 I 段“令你失望的是你从记忆中检索信息的能力(记忆唤起能力短板)”篡改为“信息检索方式错误”。B)“如何提升记忆力”源自 II Ⅲ IV 段所述内容,但偏离文意“令你失望的并非你的记忆,而是你从中检索信息的能力”。C)与 I 段“在你大脑中很可能拥有几乎每个州的记录”暗含的“人们的长时记忆并不差”矛盾。D)对应 I 段 we consistently underestimate our mental powers(我们一贯都低估自己的脑力)。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "present... in a... order 提示 They 指代“多个列表”, 复现关键词 states 明确列表内容为“美国州名”、different/same 暗示题目关注“列表间或列表与地图间的异同”, 由此推断题干询问多个美国州名列表间/州名列表与地图间的异同。"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)“应复习什么内容”音频中并未提到。B) 将Ⅳ段末 Take plenty of breaks 管改为 Have a good sleep。C) 对应Ⅱ段说话者建议 learn information in the room where it is going to be tested。D)“考试中如何选择答案”音频中并未提到。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)对应Ⅲ段 When you learn is also important、establish your own rhythm。B)把Ⅲ段“方法的实现途径(在一天的不同时间检测记忆力,以判断自身最佳学习时间)”错当为“方法本身(建立节律,规律性学习)”。C)误解Ⅳ段 double bonus(休息的双重好处)。D)与Ⅳ段 Avoid learning marathons(避免马拉松式学习)相悖。"
+      },
+      "23": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)、B)、D)均利用Ⅱ段中出现的其他表示身份的名词进行干扰。C)符合原文...us sociologists。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)、B)、C) 利用人们的固有印象干扰,但文中并未提及。D)对应原文Ⅲ段 you can find it only in developing countries,it 回指 extreme poverty。"
+      },
+      "25": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)看似符合V段信息... lack access to... entertainment and recreation... do not have access to quality health care,但原文表明的是相对贫困的人无法获得“优质的医疗保健”,而非“医疗保健”。B)对应原文V段... if their income is less than 50% of the national average family income。C)“满足基本需求”复现V段“相对贫困的人能满足自身基本需求(can meet their basic needs)”,但并未提及满足的方式,“加班”为臆测内容。D)将Ⅲ段极端贫困人口的特征“上不起学”(cannot afford education)当成相对贫困人口的特征,并具体化为“上不起私立学校”,而本文并未谈及“私立学校”。"
+      },
+      "26": {
+        "answer": "K",
+        "explanation": "## 26. 答案: K) referred"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "## 27. 答案: O) volunteers"
+      },
+      "28": {
+        "answer": "M",
+        "explanation": "## 28. 答案: M) specifically"
+      },
+      "29": {
+        "answer": "H",
+        "explanation": "## 29. 答案: H) novel"
+      },
+      "30": {
+        "answer": "I",
+        "explanation": "## 30. 答案: I) potential"
+      },
+      "31": {
+        "answer": "E",
+        "explanation": "## 31. 答案:E) identified"
+      },
+      "32": {
+        "answer": "L",
+        "explanation": "## 32. 答案:L) species"
+      },
+      "33": {
+        "answer": "G",
+        "explanation": "## 33. 答案: G) marine"
+      },
+      "34": {
+        "answer": "B",
+        "explanation": "## 34. 答案: B) consciously"
+      },
+      "35": {
+        "answer": "J",
+        "explanation": "## 35. 答案: J) predators"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": "[答案] F [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[F]段②③句。②③句借罗博深的话指出“初中阶段很重要,因为这时学生具备学习高数的能力,且未确定志向,很容易(对高数)着"
+      },
+      "37": {
+        "answer": "A",
+        "explanation": "[答案] A [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[A]段。该段先引出趋势“对精英高中数学竞赛的兴趣日益浓厚”，后对该趋势作出预测“很可能持续，因为美国刚在国际奥数竞赛中夺冠”。试题是对[A]段内容的合理推断，结合“美国刚夺冠”的事实可知该事件正引发美国人关注，故试题将其合理推断为“在全国范围内引发更多关注”。"
+      },
+      "38": {
+        "answer": "I",
+        "explanation": "[答案] I [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[I]段②句。该句介绍培训项目“数学圈”及其提供的服务“大学教授教高等数学”。试题是对该句的同义转述,advanced-math training对应 teach...students advanced math,故[I]正确。"
+      },
+      "39": {
+        "answer": "G",
+        "explanation": "[答案] G [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[G]段。该段介绍网校“解题的艺术”及其提供的(在线)服务“免费论坛与付费课程”，并于②句指出“学生们可以利用网校提供的论坛解决问题(由上下文语境可知，即指数学问题)”。试题是对该段信息的综合概括，其中 Students may take advantage of... 高度概括文中 Students use... to chat... play... and solve.../they can... take courses 等细节。"
+      },
+      "40": {
+        "answer": "L",
+        "explanation": "[答案] L [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[L]段②句。该句介绍了暑期项目的举办者“非营利机构‘通往数学之桥’”，创办目的“帮助所受服务不足的学生通过学习高数逐步走向数学生涯”。试题是对该句多个信息点的综合概括，其中 has helped many underserved students learn advanced math 概括 getting underserved students... working toward math... careers/students... studying advanced math 等内容。"
+      },
+      "41": {
+        "answer": "E",
+        "explanation": "[答案] E [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[E]段④⑤句。④句介绍打入全国赛的过程。⑤句指出“成功打入全国赛的学生，参赛过程中所有费用全免”。试题是对④⑤句的合理推断，结合打入全国赛的过程(校内组队→地区赛→州级赛→全国赛)可知“打入全国赛的学生”即为“本地赛优胜者”，winners of local contests 对应 students who make it to the national competition。"
+      },
+      "42": {
+        "answer": "J",
+        "explanation": "[答案] J [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[J]段③句。③句指出“许多学校不优先考虑学术竞赛”。试题是对③句的同义改写。"
+      },
+      "43": {
+        "answer": "B",
+        "explanation": "[答案] B [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[B]段①句。①句说明精英高中数学竞赛选手的组成“由来自中产阶级和富裕家庭的亚裔和白人学生主导”。试题是对该句的同义转述,其中 which are dominated by... 修饰 such contests,对应 Contestants... are mostly...。"
+      },
+      "44": {
+        "answer": "M",
+        "explanation": "[答案] M [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[M]段①句。①句借扎哈罗伯的话指出“服务低收入人群的(数学训练)项目主要关注提高成绩”。试题是对该句的同义改写,其中primarily focus on 与 primarily centered around 同义。"
+      },
+      "45": {
+        "answer": "H",
+        "explanation": "[答案] H [精析] 根据[定位词定位]、[核心义匹配]可知本题对应[H]段②句。②句 Some 回指上句 summer camps,介绍暑期项目的特点“有些价格很高,但多数提供奖学金”,并以“(暑期)强化项目”"
+      },
+      "46": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。首段①②③句指出女性设计师将美国时尚从巴黎式设计中解放出来,确立了现代着装规范,并指出其具体特征,④⑤句则指出美国时尚完全不同于传统的巴黎时尚。可见 B 项正确,a dress code 对应 the modern dress code; 而 with distinctive American features 则概括 letting... allowing... and prizing... addressed a democracy 等。"
+      },
+      "47": {
+        "answer": "D",
+        "explanation": "[提炼思路] 本题考查事实细节,对于文章跨度范围较大,且根据题干只能确定信息搜索的大范围,解题关键在于根据各选项中关键词分别具体定位,并进行比对(正确项是对原文信息的概括总结或同义改写;干扰项则常常以文中词汇增大干扰,却暗中偷梁换柱或篡改语义):先定位,A项 European model 复现第二段②句 modeled on that of Europe,B项 women's beauty 复现第三段④句 pure beauty,C项 genuine 和 art 复现第四段③句 a genuine design art,D项 new invention 复现第二段②句 was genuinely invented;然后逐一比对,A反向干扰,B偷梁换柱,C扭曲语义,只有D同义改写,可确定答案为D项。"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "[锁定答案]C)。根据第二段⑤句可知“方便打理(Ease of care)是当时设计师设计运动装时的重要考虑因素”, C项正确。"
+      },
+      "49": {
+        "answer": "A",
+        "explanation": "[锁定答案]A)。第三段①②句指出“当时的女性设计师能把超前的理念‘实用性(utility)’呈现到服装设计中”，③④句则具体说明女装设计从传统时尚“纯美、唯审美标准(pure beauty)”到现代时尚“引入实用性标准”的转变，A项是对这一变化的正确概括。"
+      },
+      "50": {
+        "answer": "C",
+        "explanation": "[锁定答案] C)。第四段⑤句指出,她们(美式运动装的设计师)是推动性别平等的先驱者,C项They advocated equity between men and women 是 They were the pioneers of gender equity 的内含之意。"
+      },
+      "51": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。第一段①句指出,垃圾堆对野生动物的影响令人不安,②③句具体说明:导致一些鸟类冬季不再迁徙、不再飞行数千里去觅食,D)正确,They have changed the previous migration habits of certain birds.是对 They have led some birds to give up on migration 以及 Instead of flying thousands of miles ..., they...的同义改写。"
+      },
+      "52": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。第三段②句指出，“沿传统迁徙路线飞行的鹳”比“中途停下在垃圾堆上过冬的鹳”更可能会死亡(were more likely to die)，可见 D 正确。"
+      },
+      "53": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。第四段指出 Andrea Flack 看法: 在垃圾场过冬的鸟很容易会吃到一些塑料橡胶等致命物, 以及一些有毒物, B 项正确, something harmful 概括 not...safe...plastic or rubber bands and they can die...something toxic 等。"
+      },
+      "54": {
+        "answer": "C",
+        "explanation": "[锁定答案] C)。第六段①句指出,伊比利亚半岛上的垃圾填埋场一直都在吸引着当地的白鹤,但所有带标牌的西班牙白鹳都飞越撒哈拉沙漠,来到了萨赫勒西部。由此可推知,西班牙白鹳没有被垃圾堆吸引,而是继续前飞,C项正确。They are not attracted to the rubbish dumps on their migration routes 明确 have long attracted...but...的言外之意。"
+      },
+      "55": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。末段③④⑤句指出,迁徙的鸟类很可能会影响“白鹳原住地”、“原本的目的地”、以及“迁徙沿途地”的生态系统,A项正确,potential harm to the ecosystem 概括原文 affect ecosystems... have unexpected side effect。"
+      }
+    },
+    "references": {}
+  }
+}

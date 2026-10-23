@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "year": 2023,
+  "month": 3,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you have read a book recently and intend to recommend it to other members of your book club via an online forum. Briefly introduce the book and explain why it is worth reading. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "unknown",
+        "instructions": {
+          "directions": "Suppose you have read a book recently and intend to recommend it to other members of your book club via an online forum. Briefly introduce the book and explain why it is worth reading. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you have read a book recently and intend to recommend it to other members of your book club via an online forum. Briefly introduce the book and explain why it is worth reading. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+        "materials": "|  |\n| --- |\n|  |\n|  |\n|  |\n|  |",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于2023年3月四级考试全国只考了一套听力,本套真题听力与第一套内容完全一样,只是顺序不一样,因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于 2023 年 3 月四级考试阅读理解部分全国只考了一套试题，本套真题阅读与第一套内容完全一样，只是顺序不一样，因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 40,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": null,
+    "paragraph_matching": null,
+    "passage_comprehension": null
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，越来越多的城市居民为农村的由园风光所吸引，利用节假日到乡村旅游，他们住在农民家中，品尝具有当地风味的农家饭菜，有些游客还参与采摘瓜果等活动，亲身感受收获的喜悦。乡村旅游能够有效地帮助游客舒缓压力，放松心情，增进身心健康。实际上，这种旅游形式不仅能使城市游客受益，同时也能增加农民的收入，促进农村经济发展。"
+      }
+    ]
+  },
+  "id": "CET4-2023-03-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

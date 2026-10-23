@@ -1,0 +1,1492 @@
+{
+  "schema_version": "1.0",
+  "year": 2026,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"With the trend of urbanization, it is vitally important for city residents to develop a stronger love for nature.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"With the trend of urbanization, it is vitally important for city residents to develop a stronger love for nature.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"With the trend of urbanization, it is vitally important for city residents to develop a stronger love for nature.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "[You should copy the sentence given in quotes at the beginning of your essay.]",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Celebrate his 10th wedding anniversary."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Celebrate his promotion in Barcelona."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Give his wife a pleasant surprise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ask for leave to visit Barcelona."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is unable to find some inexpensive accommodation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There are few warm places to go at this time of the year."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There is so much for him to do before going on vacation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is afraid Barcelona may not be so fabulous as expected."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Rent a car to drive into the city and scenic spots so as to save the expenses on transportation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Spend a couple of nights in a glamorous hotel and the rest of the week in inexpensive places."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find all-inclusive accommodation to eliminate the need to pay for food and drinks."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Stay in a hotel away from the coast where the accommodation is less expensive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is sure to like the cathedral."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is a romantic at heart."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is no good at logistics."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is scared of heights."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They often share each other's experiences."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They enjoy interacting with patients."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They always do things tricky."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are both pharmacists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The doctor ended up admitting his mistake."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The patient consulted another doctor."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The patient actually took her advice."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The doctor double-checked with her."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A proposal for applying flu shots more effectively."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A new medication therapy management program."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A novel strategy to persuade stubborn patients."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A therapy for patients with similar conditions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Inability to send text messages."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Distrust in pharmaceutical experts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Medication non-adherence."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Need for constant reminding."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Accomplish their goals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "View things positively."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Overstate their importance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Dominate job interviews."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It reflects a strong sense of obligation to others."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It signifies a universal model of motivation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may differ in various cultures."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may have been underestimated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was under-investigated."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was more predictable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was taken for granted."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was more subtle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is any incidental happening in plants and animals or ice crystals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is any basic physical or chemical work in designing substances."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is any symmetrical and colorful stripes or spots on organisms."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is any regularly repeated arrangement of shapes or colors."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Materials undergoing certain processes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Materials exposed to various natural forces."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Materials impacted by any change of molecules."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Materials going through extremely radical transformations."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The beauty of molecular clustering."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The way for appreciating patterns."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The creation of patterns."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The factors affecting clusters."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A pattern by accident."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Patterns for specific purposes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Patterns with random imperfections."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A pattern with artificial intervention."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Eliminating all the old habits at once."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Making a permanent lifestyle change."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Realizing all the life goals one has set."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Improving multiple areas of one's life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were more likely to implement a particular behavior."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were more likely to make plans for their future."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They tended to be committed to a single goal."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They tended to focus on one thing at a time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The ability to make the process automatic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A practical timetable for implementation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A lot of conscious effort to remember to do it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Concentration on the benefits it will provide."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It resembles that of Earth in many inconceivable ways."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has a haze much thicker than previously believed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is 333.4 °F cooler than earlier estimates."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is far beyond any quick measurements."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The accumulation of solid particles in the air."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The distribution of gases in its atmosphere."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The clouds of particles reflecting sun rays."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The aggravated effects of climate change."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "If spectrums of light can be better detected by telescope."
+                  },
+                  {
+                    "label": "B",
+                    "text": "If Pluto's hazy atmosphere can be more easily observed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "If Pluto's hazy atmosphere scatters strong sunlight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "If the light from the telescope confirms their idea."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Parents can play a decisive role in cultivating their children's musical talent."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Children are embarrassed by parents' failure to appreciate their music."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Parents can mould their 8-to 10-year-old children's music taste."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Children aged 8 to 10 are old enough to produce poetic lyrics."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They start to show their own musical preference."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to be more influenced by their peers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They tend to gravitate away from their homes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are more open to new genres of music."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Enabling children to be receptive to music experts' suggestions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Helping children develop the ability to manage their emotions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Familiarizing children with different schools of music."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Introducing children to a variety of musical styles."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By enhancing children's appreciation of their music."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By pushing their music hard enough upon children."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By attending their concerts and live music events with children."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By introducing their music to children as early as possible."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Most financial crises have plenty in common: they tend to start in the banking sector and involve excessive borrowing, together with an asset bubble. The [26] crisis of 2008 was no different, with the asset bubble focused on US real estate. But my research suggests this crisis had another [27] cause —— that some people in the banking sector were playing or \"gaming\" the system for their own financial gain.\n\nThe game being played had several important features. The first was the deliberate complexity of the financial products at its core. Then there are the [28] biases that permeate decision-making at all levels of the banking industry. Banking often attracts people with certain personality [29], including those who are overconfident and take excessive risks.\n\nSuch people tend to like complexity for its own sake, but they often do not fully understand the [30] of that complexity for the stability of the financial system as a whole. Often they do not care —— they are primarily interested in gaming the system to [31] their bonuses.\n\nThe next element is risk. There are parts of the banking sector that will always be [32] to risk, but many bankers have come to feel immune to its potential impact, because they [33] that, however recklessly banks behave, governments will always be there to bail them out.\n\nGaming in the banking sector seems virtually impossible to [34]. The only effective measure to end it would be to make bankers [35] liable for losses, but no government has ever passed such a law, and no single government could do\n\nso on its own, since this would immediately cause their entire national banking sector to move wholesale to another jurisdiction.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "behavioural"
+        },
+        {
+          "label": "B",
+          "text": "eliminate"
+        },
+        {
+          "label": "C",
+          "text": "fragile"
+        },
+        {
+          "label": "D",
+          "text": "global"
+        },
+        {
+          "label": "E",
+          "text": "implications"
+        },
+        {
+          "label": "F",
+          "text": "maximise"
+        },
+        {
+          "label": "G",
+          "text": "overlapping"
+        },
+        {
+          "label": "H",
+          "text": "personally"
+        },
+        {
+          "label": "I",
+          "text": "presume"
+        },
+        {
+          "label": "J",
+          "text": "prone"
+        },
+        {
+          "label": "K",
+          "text": "prototypes"
+        },
+        {
+          "label": "L",
+          "text": "reassure"
+        },
+        {
+          "label": "M",
+          "text": "skeptically"
+        },
+        {
+          "label": "N",
+          "text": "traits"
+        },
+        {
+          "label": "O",
+          "text": "underlying"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 155,
+          "end": 157
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 291,
+          "end": 293
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 563,
+          "end": 565
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 699,
+          "end": 701
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 867,
+          "end": 869
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1025,
+          "end": 1027
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1130,
+          "end": 1132
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1224,
+          "end": 1226
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1379,
+          "end": 1381
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1447,
+          "end": 1449
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How do you bring a forest back to life?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Five hundred years ago, forests covered much of the Iberian peninsula. But that soon changed. Centuries of wars and invasions, agricultural expansion and woodcutting for firewood and shipping wiped out most of the woods and transformed places like Matamorisca, a small village in northern Spain, into degraded landscapes. B) The region's dry climate and depleted soils would be a recipe for disaster in your average program to replant trees, but for the Amsterdam-based Land Life Company it's an ideal place. \"We typically operate where nature does not come back by itself,\" says Jurrian Ruys, its CEO. \"We go where there are rougher conditions in terms of weather, with rough or very hot summers.\" In Matamorisca, they intervened in 17 barren hectares owned by the regional government and peppered them with their signature device: a biodegradable (可生物降解的) cardboard container they call the cocoon which can hold 25 litres of water underground to aid a seedling's first year. Around 16,000 trees, including oaks, ashes, walnuts, rowans, and whitebeams, were planted in May 2018, and the company reports that 96% of them survived that year's burning hot summer without extra irrigation, a critical milestone for a young tree."
+        },
+        {
+          "label": "C",
+          "text": "\"Does nature return by itself?\" asks Arnout Asjes, Land Life Company's chief technology officer, who oversees a mix of drone (无人机) and satellite imagery, big data analysis, soil enhancement, QR (二维码) tagging and site-specific tree configuration designs. \"Probably, but it can take decades or hundreds of years, so we are speeding things up.\""
+        },
+        {
+          "label": "D",
+          "text": "His company belongs to a global movement of organisations trying to save degraded or deforested areas, ranging from fertile tropical lowlands to dry hills in temperate (温带的) regions. Spurred by global biodiversity loss and climate change, these groups are pushing the boundary of how to revive forest cover. \"It's not a theoretical proposition,\" says Walter Vergara, a forest and climate specialist at the World Resources Institute (WRI). \"It requires the right incentives, the right stakeholders, the right analysis and sufficient capital, but it can happen.\""
+        },
+        {
+          "label": "E",
+          "text": "How these factors come together for a particular project —— and whether saving destroyed woods is even possible —— depends on what kind of ecosystem you have in mind. Secondary forests in the Amazon are different from Texas pines recovering after wildfires or the Arctic timber woods that cover much of Sweden. Each provides different reasons for reforestation programs and each has particular needs. In the dry conditions around Matamorisca and similar areas in Spain, Land Life Company worries about rapid desertification (沙漠化). As its focus is on restoring an ecosystem, it works with organisations that don't expect their money back."
+        },
+        {
+          "label": "F",
+          "text": "With around 600 hectares replanted around the world since 2015 and another 1,100 planned for this year, the company's drive fits into the Bonn Challenge, a global effort to restore 150 million hectares of the world's deforested and degraded land by 2020. That's an area roughly the size of Iran or Mongolia. By 2030, the goal is to reach 350 million hectares —— 20% more land than India. These targets include both the rehabilitation of forested areas that have lost density or look a bit weak (a process known as 'restoration' in forestry jargon) and the recovery of forest cover in areas where it was completely cleared (what's known as 'reforestation')."
+        },
+        {
+          "label": "G",
+          "text": "That global target is broken into smaller pieces and takes shape in Latin America as the 20x20 Initiative, an effort to contribute 20 million hectares to the overall goal by initiating small to medium projects with the political backing of governments. Unlike Land Life Company, this region-wide project makes the economic and business case for reforestation, even though they are after biodiversity conservation. \"You need to bring in private sector money,\" says WRI's Vergara, who leads the initiative, \"and that capital needs to see a return on their investment.\" A study he led predicts Latin America would see an estimated net present value of about \\$23bn over a 50-year period if it reaches its goal."
+        },
+        {
+          "label": "H",
+          "text": "Money can come from timber sales in sustainably managed forests or from harvesting 'non-wood products' like nuts, oils and fruits from the trees. You can take note of how much carbon dioxide your forest is capturing and sell carbon credits to companies keen to offset their emissions. Or you can even grow the forest hoping that biodiversity will attract ecotourists who'd pay for lodging, birdwatching tours and meals."
+        },
+        {
+          "label": "I",
+          "text": "Still, these backers are not your high-street bank. Money for the 20x20 Initiative comes mostly from financial organisations with triple goals —— a modest return on\n\ntheir investment, environmental benefits and social gains —— known as impact investors. Take the German fund 12Tree for instance, one of the 20x20 partners. It put \\$9.5 million into Cuango, a 1,455-hectare property on the Caribbean coast of Panama that combines a commercial cocoa tree plantation with timber extraction from a sustainably managed secondary forest. With their money, they reforested a former cattle ranch, provided high-quality jobs for the surrounding communities and made a return on their investment."
+        },
+        {
+          "label": "J",
+          "text": "Even on land cleared decades ago and currently used by farmers, some crops can coexist with the forest, if you find the right balance. Although not technically reforestation, agroforestry (a system of land use in which harvestable trees or shrubs are grown among or around crops or on pasture land, as a means of preserving or enhancing the productivity of the land) provides an opportunity for small-holder farmers to sustain their livelihoods while adding some forest cover to their farms. K) A global project called Breedcaf s is studying how trees behave in coffee farms, hoping to find crop varieties that manage to grow under the shade of trees. Coffee grows naturally in such forests, so copying that in farms is taking the crop back to its roots. \"By reintroducing trees in the landscape, we impact positively humidity, rain capture, soil conservation and biodiversity preservation,\" says coffee expert Benoit Bertrand, who leads the project from the French Agricultural Research Centre for International Development. Bertrand is analysing which of dozens of coffee varieties fits better for this system. A similar approach can be applied to land with cocoa, vanilla and fruit trees."
+        },
+        {
+          "label": "L",
+          "text": "Not every piece of land is fit for reforestation. Vergara's partners look for safe investments, and even Land Life Company only runs major projects in what they consider \"low-risk\" countries. \"We tend to avoid large-scale operations in countries in some parts of the Middle East or Africa where the permanence is not secured,\" says Ruys."
+        },
+        {
+          "label": "M",
+          "text": "But in the right location, perhaps all you need is time. In the Central Pacific of Costa Rica, the 330-hectare National Wildlife Refuge Barú looks nothing like the cattle ranch it was before 1987, when Jack Ewing decided to turn this large estate into an ecotourism destination. Instead of intervening, a friend told him to let nature have its way. Barú's former grazing lands are now thriving woods and the property boasts over 150 hectares of secondary forests with no intervention from humans. In the past 10 years, animals such as howling monkeys, scarlet macaws and even migratory cougars have returned to the refuge's land, boosting tourism and revitalising the ecosystem. Ewing, now 75, explains this success using the words his friend chose three decades ago: \"In Costa Rica, when you stop managing the shrubs, the jungle comes back for its revenge.\"\n\nStatements:\n\n1."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Land Life Company's efforts fit into the global goal to restore millions of hectares of the world's deforested and degraded land.\n\n2."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Planting trees or shrubs together with crops can help improve the yield of the land, while offering small-scale farmers a chance to make a living.\n\n3."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "One reforestation project bases its argument on economic benefits and investment returns.\n\n4."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "With time, nature may return to its original state without human intervention if the location is appropriate.\n\n5."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "According to a forest and climate expert, the revival of forest cover can take place under the necessary conditions.\n\n6."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "One company runs its major operations exclusively in countries where risks are not high.\n\n7."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Left alone, nature may take scores of years or even centuries to repair itself.\n\n8."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Economic returns can be derived from selling timber and non-wood products as well as carbon credits.\n\n9."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "A study is under way across the world to look for crops that can grow among trees.\n\n10."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Land Life Company's operations are usually located where reforestation is impossible without human intervention."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "What does self-discipline look like at work? Sometimes, it's the ability to resist temptation, such as distractions to avoid a particular task. Other times it's the ability to persist with a task when your energy and motivation seem low. What do you believe about the nature of your own self-discipline? Is it something that runs on internal energy that is spent with use? Or is it something that is bolstered as you apply it and persist? Your answer matters, as it determines how much self-discipline you experience. For years, research in psychology pointed to self-control as a resource that is depleted with use and needs to be restored through breaks, rest, or sleep. More\n\nrecently, however, research points to the importance of mindset. If you view self-discipline as an expendable resource, your willpower tends to fade with use. If you believe that exercising your self-control strengthens and fuels it, that is more likely to be your experience as you resist temptation or push yourself to get something done that is not appealing.\n\nIf you don't already view self-discipline as a force that feeds itself, what might you do? Reflect on times that you had initial difficulty resisting temptation, getting started on something, or sticking with it, but pushed ahead and accomplished the task or met the goal. That's the kind of experience we're talking about with this particular belief about self-discipline, and you've already had such an experience, so you've shown that it's possible. When you feel your willpower and motivation fading, remind yourself of those previous experiences and imagine the same happening now.\n\nWhat if your experiences have always seemed to indicate that your self-control diminishes with use, and you need breaks to recharge? There's nothing wrong with that as long as you can afford to take those breaks. If not, remind yourself that not everyone experiences self-discipline as a depletable resource and that your experience might be different if you focus on gathering more energy at this point rather than focusing on how difficult it is to continue or the need for a break.\n\nAlso, if you know someone who is a role model of self-discipline, picture that person in your situation, persisting in the task. Regardless of how you do it, as you push forward to continue to accomplish progress, be sure to mentally reinforce yourself by taking pride in your ability to exert more willpower as you persist.\n\nThe benefits of exerting willpower are cumulative. Your self-discipline is akin to a muscle, and each time you resist temptation or persist in a task despite a lack of motivation, you strengthen that muscle, leading to less effort and resistance in similar instances in the future.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What plays an important role in determining how much self-discipline people experience?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their belief about the nature of motivation."
+                },
+                {
+                  "label": "B",
+                  "text": "Their use of internal energy for persisting."
+                },
+                {
+                  "label": "C",
+                  "text": "Their conception of self-discipline."
+                },
+                {
+                  "label": "D",
+                  "text": "Their ability to resist temptation."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What did years of research suggest about self-discipline?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a depletable resource."
+                },
+                {
+                  "label": "B",
+                  "text": "It is bolstered through use."
+                },
+                {
+                  "label": "C",
+                  "text": "Its strength is dependent on willpower."
+                },
+                {
+                  "label": "D",
+                  "text": "Its exercise is an exhausting experience."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why does the author ask us to reflect on our experience of meeting the goal despite initial difficulty?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To show the urgency of abandoning outdated beliefs about self-control."
+                },
+                {
+                  "label": "B",
+                  "text": "To show the feasibility of viewing self-discipline as a force fueling itself."
+                },
+                {
+                  "label": "C",
+                  "text": "To support the argument for persistence in workplace accomplishments."
+                },
+                {
+                  "label": "D",
+                  "text": "To add evidence to consistent findings in previous psychological research."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What are we advised to do if we cannot afford to take breaks to recharge?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Figure out what has gone wrong."
+                },
+                {
+                  "label": "B",
+                  "text": "Focus on the hardest part of our task."
+                },
+                {
+                  "label": "C",
+                  "text": "Exert ourselves to go on with the work."
+                },
+                {
+                  "label": "D",
+                  "text": "Gather new energy from people around."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Why does the author compare our self-discipline to a muscle?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The more it is applied, the more resistance it encounters."
+                },
+                {
+                  "label": "B",
+                  "text": "The more it is exerted, the more proud we become."
+                },
+                {
+                  "label": "C",
+                  "text": "The more it is enforced, the stronger our willpower proves."
+                },
+                {
+                  "label": "D",
+                  "text": "The more it is exercised, the more strengthened it gets."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "Smartphones have always posed challenges for parents of teens. From social media apps to excessive screen time, the digital world is as threatening as the physical.\n\nA new study shows that about half of parents of teens are worried about their teens being exposed to explicit content online. This is a valid concern, of course. But there are ways to alleviate the spread of explicit content, from changing the settings in their kids' phone to monitoring such content with apps like Bark. Just as alarming, if not more so, is that the amount of time teens spend on social media can lead to anxiety and depression.\n\nExcessive screen time has detrimental effects, for a lot of obvious reasons. Constant media consumption inhibits healthy activities associated with childhood, like spending time outside, exercising, talking to friends and family. If it interferes with sleep, that's even worse.\n\nAmple research shows too much smartphone use produces significant anxiety, depression, and feelings of isolation in teens. Teens log on to social media or spend time online trying to make connections, but end up feeling more alone and sad than ever. Faceless communication not only produces feelings of isolation and loneliness but increases instances of online bullying and susceptibility to criminal conducts.\n\nThough I've banned most social media, I've still battled smartphone time with my own kids. A lot of the time I wish I could throw my kids' smartphones into the nearest lake. The convenience of communication —— when they need a ride home from school after practice, for instance —— often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family. I understand the addiction and often tell them I'm not sure how I would have handled having a smartphone as a teen. As an adult, I too, struggle with overuse.\n\nIn a recent TV interview to promote a new film about a mother and daughter navigating social media use, actress Kate Winslet expressed her view on teens and social media —— and her concern mirrors the trends. \"I do definitely feel that the world of social media is frightening to parents because we don't really know what's there,\" she said. \"We don't know how our children are using it. We don't know the effects that it's really having on them.\"\n\nI don't think the U. S. government should regulate social media and teen smartphone use, but it is a vital topic for parents to understand and take seriously. Unfortunately, now, parents don't just have to worry about real-world dangers, but all the ones sneaking online and the effects they have on teenagers and their mental health.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do around half of parents of teens do according to a new study?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They set their kids' phones to filter out obscene information."
+                },
+                {
+                  "label": "B",
+                  "text": "They try to alleviate the spread of explicit scenes on the internet."
+                },
+                {
+                  "label": "C",
+                  "text": "They feel concerned about their kids' viewing indecent content online."
+                },
+                {
+                  "label": "D",
+                  "text": "They strive to prevent their kids from spending excessive screen time."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does a large amount of research show about teens' excessive smartphone use?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It allows them less time for meaningful activities."
+                },
+                {
+                  "label": "B",
+                  "text": "It renders them more lonely and low-spirited."
+                },
+                {
+                  "label": "C",
+                  "text": "It gives them less time for social interactions."
+                },
+                {
+                  "label": "D",
+                  "text": "It makes them more alert to online bullying."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn about the author's feelings regarding smartphones and screen time?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are deep-seated."
+                },
+                {
+                  "label": "B",
+                  "text": "They are instinctive."
+                },
+                {
+                  "label": "C",
+                  "text": "They are unique."
+                },
+                {
+                  "label": "D",
+                  "text": "They are mixed."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does actress Kate Winslet think about the world of social media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It poses increasing challenges to parents trying to ensure internet safety."
+                },
+                {
+                  "label": "B",
+                  "text": "It scares parents because they don't really know what is on the screen."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a sphere difficult for parents and their teens to navigate."
+                },
+                {
+                  "label": "D",
+                  "text": "It is full of uncertainties frightful to parents and their teens."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What message does the author try to convey in the last paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Parents have to be concerned about dangers to their teens in both real and virtual worlds."
+                },
+                {
+                  "label": "B",
+                  "text": "Governments have responsibilities in regulating social media and teens smartphone use."
+                },
+                {
+                  "label": "C",
+                  "text": "Parents should provide guidance to their teens in the use of social media."
+                },
+                {
+                  "label": "D",
+                  "text": "Online dangers are as serious as problems with teenagers' mental health."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "电子商务的蓬勃发展正在深刻改变中国农村的面貌。随着互联网和物流网络快速向农村延伸，越来越多的农村居民通过电子商务平台将农产品直接销售给城市消费者。近年来，直播带货 (live-streaming commerce) 使城市消费者能够与卖家实时互动，已成为促进农村发展的一种新方式。电子商务打破了城乡之间的信息壁垒，拓宽了农产品销售渠道，帮助农村居民增收致富。数字经济与乡村振兴的深度融合，正在为中国农村发展注入前所未有的活力。"
+      }
+    ]
+  },
+  "id": "CET6-2026-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "4": {
+        "answer": "D",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "7": {
+        "answer": "B",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "8": {
+        "answer": "C",
+        "explanation": "| 1 | A | 2 | A | 3 | B | 4 | D | 5 | D | 6 | C | 7 | B | 8 | C |"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "11": {
+        "answer": "D",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "14": {
+        "answer": "C",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "16": {
+        "answer": "B",
+        "explanation": "| 9 | A | 10 | C | 11 | D | 12 | D | 13 | A | 14 | C | 15 | A | 16 | B |"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "18": {
+        "answer": "C",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "19": {
+        "answer": "B",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "21": {
+        "answer": "D",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "22": {
+        "answer": "C",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "| 17 | A | 18 | C | 19 | B | 20 | B | 21 | D | 22 | C | 23 | B | 24 | D |"
+      },
+      "25": {
+        "answer": "C",
+        "explanation": "| 25 | C | | | | | | | | | | | | | | |"
+      },
+      "26": {
+        "answer": "D",
+        "explanation": "| 26 | D | 27 | O | 28 | A | 29 | N | 30 | E | 31 | F |"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "| 26 | D | 27 | O | 28 | A | 29 | N | 30 | E | 31 | F |"
+      },
+      "28": {
+        "answer": "A",
+        "explanation": "| 26 | D | 27 | O | 28 | A | 29 | N | 30 | E | 31 | F |"
+      },
+      "29": {
+        "answer": "N",
+        "explanation": "| 26 | D | 27 | O | 28 | A | 29 | N | 30 | E | 31 | F |"
+      },
+      "30": {
+        "answer": "E",
+        "explanation": "| 26 | D | 27 | O | 28 | A | 29 | N | 30 | E | 31 | F |"
+      },
+      "31": {
+        "answer": "F",
+        "explanation": "| 26 | D | 27 | O | 28 | A | 29 | N | 30 | E | 31 | F |"
+      },
+      "32": {
+        "answer": "J",
+        "explanation": "| 32 | J | 33 | I | 34 | B | 35 | H | | | | |"
+      },
+      "33": {
+        "answer": "I",
+        "explanation": "| 32 | J | 33 | I | 34 | B | 35 | H | | | | |"
+      },
+      "34": {
+        "answer": "B",
+        "explanation": "| 32 | J | 33 | I | 34 | B | 35 | H | | | | |"
+      },
+      "35": {
+        "answer": "H",
+        "explanation": "| 32 | J | 33 | I | 34 | B | 35 | H | | | | |"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "37": {
+        "answer": "J",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "38": {
+        "answer": "G",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "39": {
+        "answer": "M",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "40": {
+        "answer": "D",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "41": {
+        "answer": "L",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "42": {
+        "answer": "C",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "43": {
+        "answer": "H",
+        "explanation": "| 36 | F | 37 | J | 38 | G | 39 | M | 40 | D | 41 | L | 42 | C | 43 | H |"
+      },
+      "46": {
+        "answer": "C",
+        "explanation": "| 46 | C | 47 | A | 48 | B | 49 | C | 50 | D |"
+      },
+      "47": {
+        "answer": "A",
+        "explanation": "| 46 | C | 47 | A | 48 | B | 49 | C | 50 | D |"
+      },
+      "48": {
+        "answer": "B",
+        "explanation": "| 46 | C | 47 | A | 48 | B | 49 | C | 50 | D |"
+      },
+      "49": {
+        "answer": "C",
+        "explanation": "| 46 | C | 47 | A | 48 | B | 49 | C | 50 | D |"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "| 46 | C | 47 | A | 48 | B | 49 | C | 50 | D |"
+      },
+      "51": {
+        "answer": "C",
+        "explanation": "| 51 | C | 52 | B | 53 | D | 54 | B | 55 | A |"
+      },
+      "52": {
+        "answer": "B",
+        "explanation": "| 51 | C | 52 | B | 53 | D | 54 | B | 55 | A |"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "| 51 | C | 52 | B | 53 | D | 54 | B | 55 | A |"
+      },
+      "54": {
+        "answer": "B",
+        "explanation": "| 51 | C | 52 | B | 53 | D | 54 | B | 55 | A |"
+      },
+      "55": {
+        "answer": "A",
+        "explanation": "| 51 | C | 52 | B | 53 | D | 54 | B | 55 | A |"
+      }
+    },
+    "references": {}
+  }
+}

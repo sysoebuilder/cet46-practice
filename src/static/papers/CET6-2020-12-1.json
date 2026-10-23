@@ -1,0 +1,1458 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity. You should write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)\n\n\n\n6 · 12",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her house has not been repaired in time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She has failed to reach the manager again."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her claim has been completely disregarded."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She has not received any letter from the man."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The ground floor of their cottage was flooded."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their caravan was washed away by the flood."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their entire house was destroyed by the flood."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The roof of their cottage collapsed in the flood."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The woman's misreading of the insurance company's letter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The woman's ignorance of the insurance company's policy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The woman's inaccurate description of the whole incident."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The woman's failure to pay her house insurance in time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "File a lawsuit against the insurance company."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Talk to the manager of Safe House Insurance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Consult her lawyer about the insurance policy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Revise the terms and conditions of the contract."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They work in different fields of AI technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They disagree about the future of AI technology."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They differ greatly in their knowledge of modern technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are both worried about the negative impact of technology.\n\n6 · 1"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Simply writing AI software."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Stimulating and motivating."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Less time-consuming and focusing on creation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "More demanding and requiring special training."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "There could be jobs nobody wants to do."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Digital life could replace human civilization."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Humans would be tired of communicating with one another."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Old people would be taken care of solely by unfeeling robots."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Life will become like a science fiction film."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It will take away humans' jobs altogether."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Chips will be inserted in human brains."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It will be smarter than human beings."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Restrain themselves from high-risk investments."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Save one-fifth of their net monthly income."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Invest shrewdly in lucrative businesses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Try to earn as much money as possible."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Start by doing something small."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ask a close friend for advice."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Try to stick to their initial plan."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Cut 20% of their daily spending."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "An optimistic attitude."
+                  },
+                  {
+                    "label": "B",
+                    "text": "An ambitious plan."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A proper mindset."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A keen interest."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was uninterested in advertising."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She found her outfit inappropriate."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She was unhappy with fashion trends."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She often checked herself in a mirror.\n\n6 · 2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To save the trouble of choosing a unique outfit every day."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To meet the expectations of fashion-conscious clients."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To keep up with the current trends."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To save the expenses on clothing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It enhances people's ability to work independently."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It helps people succeed in whatever they are doing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It matters a lot in jobs involving interaction with others."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It boosts one's confidence when looking for employment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Design their own uniform to appear unique."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Wear classic pieces to impress their clients."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Fight the ever-changing trends in fashion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Do whatever is possible to look smart."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their obsession with consumption."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their failure to accumulate wealth."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The ever-increasing costs of housing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The deterioration of the environment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Things that are rare to find."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Things that cost less money."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Things that boost efficiency."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Things that we cherish most."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They serve multiple purposes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are mostly durable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They benefit the environment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are easily disposable."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All respondents were afraid of making a high expense claim."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A number of respondents gave an average answer of 400 miles."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Over 10% of the respondents lied about the distance they drove."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Most of the respondents got compensated for driving 384 miles.\n\n6 · 3"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They responded to colleagues' suspicion."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They cared about other people's claims."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They wanted to protect their reputation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They endeavored to actually be honest."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They seem positive."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They seem intuitive."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are illustrative."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are conclusive."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Deterioration in the quality of new music."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Older people's changing musical tastes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Insights into the features of good music."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Older people's aversion to new music."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They no longer listen to new music."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They find all music sounds the same."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can make subtle distinctions about music."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They seldom listen to songs released in their teens."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The more you are exposed to something, the more familiar it'll be to you."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The more you are exposed to something, the deeper you'll understand it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The more you experience something, the longer you'll remember it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The more you experience something, the better you'll appreciate it."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Teenagers' memories are more lasting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Teenagers are much more sensitive."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Teenagers' emotions are more intense."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Teenagers are much more sentimental."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The idea of taxing things that are bad for society has a powerful allure. It offers the possibility of a double benefit—26 harmful activities, while also providing the government with revenue.\n\nTake sin taxes. Taxes on alcohol make it more expensive to get drunk, which reduces excessive drinking and _27_ driving. At the same time, they provide state and local governments with billions of dollars of revenue. Tobacco taxes, which generate more than twice as much, have proven _28_ in the decline of smoking, which has saved millions of lives.\n\n6 · 4\n\nTaxes can also be an important tool for environmental protection, and many economists say taxing carbon would be the best way to reduce greenhouse gas emissions. Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that 29 carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper 30 to the market.\n\nIn reality, carbon taxes alone won't be enough to halt global warming, but they would be a useful part of any climate plan. What's more, the revenue from this tax, which would _31_ be hundreds of billions of dollars per year, could be handed out to citizens as a _32_ or used to fund green infrastructure projects.\n\nSimilarly, a wealth tax has been put forward as a way to reduce inequality while raising revenue. The revenue from this tax, which some experts _33_ will be over \\$4 trillion per decade, would be designated for housing, child care, health care and other government benefits. If you believe, as many do, that wealth inequality is _34_ bad, then these taxes improve society while also _35_ government coffers(金库).",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "discouraging"
+        },
+        {
+          "label": "I",
+          "text": "initially"
+        },
+        {
+          "label": "B",
+          "text": "dividend"
+        },
+        {
+          "label": "J",
+          "text": "instrumental"
+        },
+        {
+          "label": "C",
+          "text": "emotional"
+        },
+        {
+          "label": "K",
+          "text": "merging"
+        },
+        {
+          "label": "D",
+          "text": "fragments"
+        },
+        {
+          "label": "L",
+          "text": "predict"
+        },
+        {
+          "label": "E",
+          "text": "impaired"
+        },
+        {
+          "label": "M",
+          "text": "probably"
+        },
+        {
+          "label": "F",
+          "text": "imprisoned"
+        },
+        {
+          "label": "N",
+          "text": "pump"
+        },
+        {
+          "label": "G",
+          "text": "incentives"
+        },
+        {
+          "label": "O",
+          "text": "swelling"
+        },
+        {
+          "label": "H",
+          "text": "inherently"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 120,
+          "end": 122
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 301,
+          "end": 305
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 478,
+          "end": 482
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 850,
+          "end": 852
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 973,
+          "end": 975
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1168,
+          "end": 1172
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1255,
+          "end": 1259
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1452,
+          "end": 1456
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1637,
+          "end": 1641
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1691,
+          "end": 1695
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Challenges for Artificial Intelligence in Agriculture",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "A group of corn farmers stands huddled around an agronomist(农学家) and his computer on the side of an irrigation machine in central South Africa. The agronomist has just flown over the field with a hybrid unmanned aerial vehicle (UAV) that takes off and lands using propellers yet maintains distance and speed for scanning vast hectares of land through the use of its fixed wings.\n\n6 · 5"
+        },
+        {
+          "label": "B",
+          "text": "The UAV is fitted with a four spectral band precision sensor that conducts onboard processing immediately after the flight, allowing farmers and field staff to address, almost immediately, any crop abnormalities that the sensor may have recorded, making the data collection truly real-time."
+        },
+        {
+          "label": "C",
+          "text": "In this instance, the farmers and agronomist are looking to specialized software to give them an accurate plant population count. It's been 10 days since the corn emerged and the farmer wants to determine if there are any parts of the field that require replanting due to a lack of emergence or wind damage, which can be severe in the early stages of the summer rainy season."
+        },
+        {
+          "label": "D",
+          "text": "At this growth stage of the plant's development, the farmer has another 10 days to conduct any replanting before the majority of his fertilizer and chemical applications need to occur. Once these have been applied, it becomes economically unviable to take corrective action, making any further collected data historical and useful only to inform future practices for the season to come."
+        },
+        {
+          "label": "E",
+          "text": "The software completes its processing in under 15 minutes producing a plant population count map. It's difficult to grasp just how impressive this is, without understanding that just over a year ago it would have taken three to five days to process the exact same data set, illustrating the advancements that have been achieved in precision agriculture and remote sensing in recent years. With the software having been developed in the United States on the same variety of crops in seemingly similar conditions, the agronomist feels confident that the software will produce a near accurate result."
+        },
+        {
+          "label": "F",
+          "text": "As the map appears on the screen, the agronomist's face begins to drop. Having walked through the planted rows before the flight to gain a physical understanding of the situation on the ground, he knows the instant he sees the data on his screen that the plant count is not correct, and so do the farmers, even with their limited understanding of how to read remote sensing maps."
+        },
+        {
+          "label": "G",
+          "text": "Hypothetically, it is possible for machines to learn to solve any problem on earth relating to the physical interaction of all things within a defined or contained environment by using artificial intelligence and machine learning."
+        },
+        {
+          "label": "H",
+          "text": "Remote sensors enable algorithms(算法) to interpret a field's environment as statistical data that can be understood and useful to farmers for decision-making. Algorithms process the data, adapting and learning based on the data received. The more inputs and statistical information collected, the better the algorithm will be at predicting a range of outcomes. And the aim is that farmers can use this artificial intelligence to achieve their goal of a better harvest through making better decisions in the field."
+        },
+        {
+          "label": "I",
+          "text": "In 2011, IBM, through its R&D Headquarters in Haifa, Israel, launched an agricultural cloud-computing project. The project, in collaboration with a number of specialized IT and agricultural\n\n6 · 6\n\npartners, had one goal in mind—to take a variety of academic and physical data sources from an agricultural environment and turn these into automatic predictive solutions for farmers that would assist them in making real-time decisions in the field."
+        },
+        {
+          "label": "J",
+          "text": "Interviews with some of the IBM project team members at the time revealed that the team believed it was entirely possible to “algorithm” agriculture, meaning that algorithms could solve any problem in the world. Earlier that year, IBM’s cognitive learning system, Watson, competed in the game Jeopardy against former winners Brad Rutter and Ken Jennings with astonishing results. Several years later, Watson went on to produce ground-breaking achievements in the field of medicine."
+        },
+        {
+          "label": "K",
+          "text": "So why did the project have such success in medicine but not agriculture? Because it is one of the most difficult fields to contain for the purpose of statistical quantification. Even within a single field, conditions are always changing from one section to the next. There's unpredictable weather, changes in soil quality, and the ever-present possibility that pests and diseases may pay a visit. Growers may feel their prospects are good for an upcoming harvest, but until that day arrives, the outcome will always be uncertain."
+        },
+        {
+          "label": "L",
+          "text": "By comparison, our bodies are a contained environment. Agriculture takes place in nature, among ecosystems of interacting organisms and activity, and crop production takes place within that ecosystem environment. But these ecosystems are not contained. They are subject to climatic occurrences such as weather systems, which impact upon hemispheres as a whole, and from continent to continent. Therefore, understanding how to manage an agricultural environment means taking literally many hundreds if not thousands of factors into account."
+        },
+        {
+          "label": "M",
+          "text": "What may occur with the same seed and fertilizer program in the United States' Midwest region is almost certainly unrelated to what may occur with the same seed and fertilizer program in Australia or South Africa. A few factors that could impact on variation would typically include the measurement of rain per unit of a crop planted, soil type, patterns of soil degradation, daylight hours, temperature and so forth."
+        },
+        {
+          "label": "N",
+          "text": "So the problem with deploying machine learning and artificial intelligence in agriculture is not that scientists lack the capacity to develop programs and protocols to begin to address the biggest of growers' concerns; the problem is that in most cases, no two environments will be exactly alike, which makes the testing, validation and successful rollout of such technologies much more laborious than in most other industries."
+        },
+        {
+          "label": "O",
+          "text": "Practically, to say that AI and Machine Learning can be developed to solve all problems related to our physical environment is to basically say that we have a complete understanding of all aspects of the interaction of physical or material activity on the planet. After all, it is only through our understanding of ‘the nature of things’ that protocols and processes are designed for the rational\n\n6 · 7\n\ncapabilities of cognitive systems to take place. And, although AI and Machine Learning are teaching us many things about how to understand our environment, we are still far from being able to predict critical outcomes in fields like agriculture purely through the cognitive ability of machines."
+        },
+        {
+          "label": "P",
+          "text": "Backed by the venture capital community, which is now investing billions of dollars in the sector, most agricultural technology startups today are pushed to complete development as quickly as possible and then encouraged to flood the market as quickly as possible with their products."
+        },
+        {
+          "label": "Q",
+          "text": "This usually results in a failure of a product, which leads to skepticism from the market and delivers a blow to the integrity of Machine Learning technology. In most cases, the problem is not that the technology does not work, the problem is that industry has not taken the time to respect that agriculture is one of the most uncontained environments to manage. For technology to truly make an impact on agriculture, more effort, skills, and funding is needed to test these technologies in farmers' fields."
+        },
+        {
+          "label": "R",
+          "text": "There is huge potential for artificial intelligence and machine learning to revolutionize agriculture by integrating these technologies into critical markets on a global scale. Only then can it make a difference to the grower, where it really counts."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Farmers will not profit from replanting once they have applied most of the fertilizer and other chemicals to their fields."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Agriculture differs from the medical science of the human body in that its environment is not a contained one."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The agronomist is sure that he will obtain a near accurate count of plant population with his software."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The application of artificial intelligence to agriculture is much more challenging than to most other industries."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Even the farmers know the data provided by the UAV is not correct."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "The pressure for quick results leads to product failure, which, in turn, arouses doubts about the applicability of AI technology to agriculture."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Remote sensors are aimed to help farmers improve decision-making to increase yields."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The farmer expects the software to tell him whether he will have to replant any parts of his farm fields.\n\n6 · 8"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Agriculture proves very difficult to quantify because of the constantly changing conditions involved."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "The same seed and fertilizer program may yield completely different outcomes in different places."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "What is the place of art in a culture of inattention? Recent visitors to the Louvre report that tourists can now spend only a minute in front of the Mona Lisa before being asked to move on. Much of that time, for some of them, is spent taking photographs not even of the painting but of themselves with the painting in the background.\n\nOne view is that we have democratised tourism and gallery-going so much that we have made it effectively impossible to appreciate what we've travelled to see. In this oversubscribed society, experience becomes a commodity like any other. There are queues to climb Mt. Jolmo Lungma as well as to see famous paintings. Leisure, thus conceived, is hard labour, and returning to work becomes a well-earned break from the ordeal.\n\nWhat gets lost in this industrialised haste is the quality of looking. Consider an extreme example, the late philosopher Richard Wollheim. When he visited the Louvre he could spent as much as four hours sitting before a painting. The first hour, he claimed, was necessary for misperceptions to be eliminated. It was only then that the picture would begin to disclose itself. This seems unthinkable today, but it is still possible to organise. Even in the busiest museums there are many rooms and many pictures worth hours of contemplation which the crowds largely ignore. Sometimes the largest crowds are partly the products of bad management; the Mona Lisa is such a hurried experience today partly because the museum is being reorganised. The Uffizi in Florence, another site of cultural pilgrimage, has cut its entry queues down to seven minutes by clever management. And there are some forms of art, those designed to be spectacles as well as objects of contemplation, which can work perfectly well in the face of huge crowds.\n\nOlafur Eliasson's current Tate Modern show, for instance, might seem nothing more than an entertainment, overrun as it is with kids romping (喧闹地玩耍) in fog rooms and spray mist installations. But it's more than that: where Eliasson is at his most entertaining, he is at his most serious too, and his disorienting installations bring home the reality of the destructive effects we are having on the planet—not least what we are doing to the glaciers of Eliasson's beloved Iceland.\n\nMarcel Proust, another lover of the Louvre, wrote: “It is only through art that we can escape from ourselves and know how another person sees the universe, whose landscapes would otherwise have remained as unknown as any on the moon.” If any art remains worth seeing, it must lead us to such escapes. But a minute in front of a painting in a hurried crowd won’t do that.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the scene at the Louvre demonstrate according to the author?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The enormous appeal of a great piece of artistic work to tourists."
+                },
+                {
+                  "label": "B",
+                  "text": "The near impossibility of appreciating art in an age of mass tourism."
+                },
+                {
+                  "label": "C",
+                  "text": "The ever-growing commercial value of long-cherished artistic works."
+                },
+                {
+                  "label": "D",
+                  "text": "The real difficulty in getting a glimpse at a masterpiece amid a crowd."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why did the late philosopher Richard Wollheim spend four hours before a picture?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It takes time to appreciate a piece of art fully."
+                },
+                {
+                  "label": "B",
+                  "text": "It is quite common to misinterpret artistic works."
+                },
+                {
+                  "label": "C",
+                  "text": "The longer people contemplate a picture, the more likely they will enjoy it."
+                },
+                {
+                  "label": "D",
+                  "text": "The more time one spends before a painting, the more valuable one finds it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the case of the Uffizi in Florence show?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Art works in museums should be better taken care of."
+                },
+                {
+                  "label": "B",
+                  "text": "Sites of cultural pilgrimage are always flooded with visitors."
+                },
+                {
+                  "label": "C",
+                  "text": "Good management is key to handling large crowds of visitors."
+                },
+                {
+                  "label": "D",
+                  "text": "Large crowds of visitors cause management problems for museums."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do we learn from Olafur Eliasson's current Tate Modern show?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Children learn to appreciate art works most effectively while they are playing."
+                },
+                {
+                  "label": "B",
+                  "text": "It is possible to combine entertainment with appreciation of serious art."
+                },
+                {
+                  "label": "C",
+                  "text": "Art works about the environment appeal most to young children."
+                },
+                {
+                  "label": "D",
+                  "text": "Some forms of art can accommodate huge crowds of visitors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can art do according to Marcel Proust?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Enable us to live a much fuller life."
+                },
+                {
+                  "label": "B",
+                  "text": "Allow us to escape the harsh reality."
+                },
+                {
+                  "label": "C",
+                  "text": "Help us to see the world from a different perspective."
+                },
+                {
+                  "label": "D",
+                  "text": "Urge us to explore the unknown domain of the universe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Every five years, the government tries to tell Americans what to put in their bellies. Eat more vegetables. Dial back the fats. It's all based on the best available science for leading a healthy life. But\n\n6 · 10\n\nthe best available science also has a lot to say about what those food choices do to the environment, and some researchers are annoyed that new dietary recommendations of the USDA (United States Department of Agriculture) released yesterday seem to utterly ignore that fact.\n\nBroadly, the 2016–2020 dietary recommendations aim for balance: More vegetables, leaner meats and far less sugar.\n\nBut Americans consume more calories per capita than almost any other country in the world. So the things Americans eat have a huge impact on climate change. Soil tilling releases carbon dioxide, and delivery vehicles emit exhaust. The government's dietary guidelines could have done a lot to lower that climate cost. Not just because of their position of authority: The guidelines drive billions of dollars of food production through federal programs like school lunches and nutrition assistance for the needy.\n\nOn its own, plant and animal agriculture contributes 9 percent of all the country's greenhouse gas emissions. That's not counting the fuel burned in transportation, processing, refrigeration, and other waypoints between farm and belly. Red meats are among the biggest and most notorious emitters, but trucking a salad from California to Minnesota in January also carries a significant burden. And greenhouse gas emissions aren't the whole story. Food production is the largest user of fresh water, largest contributor to the loss of biodiversity, and a major contributor to using up natural resources.\n\nAll of these points and more showed up in the Dietary Guidelines Advisory Committee's scientific report, released last February. Miriam Nelson chaired the subcommittee in charge of sustainability for the report, and is disappointed that eating less meat and buying local food aren't in the final product. “Especially if you consider that eating less meat, especially red and processed, has health benefits,” she says.\n\nSo what happened? The official response is that sustainability falls too far outside the guidelines' official scope, which is to provide “nutritional and dietary information.”\n\nPossibly the agencies in charge of drafting the decisions are too close to the industries they are supposed to regulate. On one hand, the USDA is compiling dietary advice. On the other, their clients are US agriculture companies.\n\nThe line about keeping the guidelines' scope to nutrition and diet doesn't ring quite right with researchers. David Wallinga, for example, says, “In previous guidelines, they've always been concerned with things like food security—which is presumably the mission of the USDA. You absolutely need to be worried about climate impacts and future sustainability if you want secure food in the future.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "Why are some researchers irritated at the USDA's 2016–2020 Dietary Guidelines?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It ignores the harmful effect of red meat and processed food on health."
+                },
+                {
+                  "label": "B",
+                  "text": "Too much emphasis is given to eating less meat and buying local food."
+                },
+                {
+                  "label": "C",
+                  "text": "The dietary recommendations are not based on medical science."
+                },
+                {
+                  "label": "D",
+                  "text": "It takes no notice of the potential impact on the environment.\n\n6 · 11"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Why does the author say the USDA could have contributed a lot to lowering the climate cost through its dietary guidelines?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has the capacity and the financial resources to do so."
+                },
+                {
+                  "label": "B",
+                  "text": "Its researchers have already submitted relevant proposals."
+                },
+                {
+                  "label": "C",
+                  "text": "Its agencies in charge of drafting the guidelines have the expertise."
+                },
+                {
+                  "label": "D",
+                  "text": "It can raise students' environmental awareness through its programs."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn from the Dietary Guidelines Advisory Committee's scientific report?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Food is easily contaminated from farm to belly."
+                },
+                {
+                  "label": "B",
+                  "text": "Greenhouse effect is an issue still under debate."
+                },
+                {
+                  "label": "C",
+                  "text": "Modern agriculture has increased food diversity."
+                },
+                {
+                  "label": "D",
+                  "text": "Farming consumes most of our natural resources."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What may account for the neglect of sustainability in the USDA's Dietary Guidelines according to the author?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its exclusive concern with Americans' food safety."
+                },
+                {
+                  "label": "B",
+                  "text": "Its sole responsibility for providing dietary advice."
+                },
+                {
+                  "label": "C",
+                  "text": "Its close ties with the agriculture companies."
+                },
+                {
+                  "label": "D",
+                  "text": "Its alleged failure to regulate the industries."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What should the USDA do to achieve food security according to David Wallinga?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Give top priority to things like nutrition and food security."
+                },
+                {
+                  "label": "B",
+                  "text": "Endeavor to ensure the sustainable development of agriculture."
+                },
+                {
+                  "label": "C",
+                  "text": "Fulfill its mission by closely cooperating with the industries."
+                },
+                {
+                  "label": "D",
+                  "text": "Study the long-term impact of climate change on food production."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "青藏铁路是世界上最高最长的高原铁路,全长1956公里,其中有960公里在海拔4000多米之上,是连接西藏和中国其他地区的第一条铁路。由于铁路穿越世界上最脆弱的生态系统,在建设期间和建成后都采取了生态保护措施,以确保其成为一条“绿色铁路”。青藏铁路大大缩短了中国内地与西藏之间的旅行时间。更重要的是,它极大地促进了西藏的经济发展,改善了当地居民的生活。铁路开通后,愈来愈多的人选择乘火车前往西藏,这样还有机会欣赏沿线的美景。"
+      }
+    ]
+  },
+  "id": "CET6-2020-12-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "Her house has not been repaired in time."
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "The ground floor of their cottage was flooded. A)他们房屋的底层被洪水淹没了。B)Their caravan was washed away by the flood. B)他们的拖车被洪水冲走了。C)Their entire house was destroyed by the flood. C)他们的整个房子被洪水毁掉了。D)The roof of their cottage collapsed in the flood. D)他们的屋顶在洪水中倒塌了。"
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "The woman􀆳s misreading of the insurance company􀆳s letter. A)该女士对保险公司的回信理解错误。B)The woman􀆳s ignorance of the insurance company􀆳s policy. B)该女士对保险公司的政策不了解。C)The woman􀆳s inaccurate description of the whole incident. C)该女士对整个事件的描述不准确。D)The woman􀆳s failure to pay her house insurance in time. D)该女士没有及时缴纳房屋保险。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "They work in different fields of AI technology. A)他们在 AI技术的不同领域工作。B)They disagree about the future of AI technology. B)他们对 AI技术的未来有不同看法。C)They differ greatly in their knowledge of modern technology. C)他们对现代技术的了解大不相同。D)They are both worried about the negative impact of technology. D)他们都担忧技术的消极影响。"
+      },
+      "6": {
+        "answer": "A",
+        "explanation": "Simply writing AI software. A)单纯编写 AI软件。B)Stimulating and motivating. B)有启发性和激励性。C)Less time-consuming and focusing on creation. C)耗时更少且专注于创造。D)More demanding and requiring special training. D)要求更高且需特别培训。"
+      },
+      "7": {
+        "answer": "A",
+        "explanation": "There could be jobs nobody wants to do. A)可能会有无人愿做的工作。B)Digital life could replace human civilization. B)数字生命可能取代人类文明。C)Humans would be tired of communicating with one another. C)人类会厌倦与彼此交流。D)Old people would be taken care of solely by unfeeling robots. D)老人将完全由冷漠的机器人照看。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "Life will become like a science fiction film A)生活将变得像科幻电影一样。B)It will take away humans􀆳jobs altogether. B)它将夺走人类的全部工作。C)Chips will be inserted in human brains. C)芯片将被植入人类大脑。D)It will be smarter than human beings. D)它将比人类更聪明。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "Restrain themselves from high-risk investments. A)规避高风险投资。B)Save one-fifth of their net monthly income. B)把每月净收入的五分之一存起来。C)Invest shrewdly in lucrative businesses. C)精明地投资有利可图的业务。D)Try to earn as much money as possible. D)尝试尽可能多地挣钱。"
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "She was uninterested in advertising. A)她对广告业没有兴趣。B)She found her outfit inappropriate. B)她发现自己的穿着不合适。C)She was unhappy with fashion trends. C)她对时尚潮流不满意。D)She often checked herself in a mirror. D)她常常对着镜子检查自己。"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "To save the trouble of choosing a unique outfit every day. A)省去每天换不同衣服的麻烦。B)To meet the expectations of fashion-conscious clients. B)满足对时尚很敏感的客户的期待。C)To keep up with the current trends. C)跟上当前的时尚潮流。D)To save the expenses on clothing. D)节省在衣服上的花销。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "Their obsession with consumption. A)他们对消费的痴迷。B)Their failure to accumulate wealth. B)他们未能积累财富。C)The ever-increasing costs of housing. C)房价的不断增长。D)The deterioration of the environment. D)环境的恶化。"
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "They serve multiple purposes. A)它们有多种用途。B)They benefit the environment. B)它们有益于环境。C)They are mostly durable. C)它们大多很耐用。D)They are easily disposable. D)它们很容易处理。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "All respondents were afraid of making a high expense claim. B)A number of respondents gave an average answer of 400 miles. C)Over 10% of the respondents lied about the distance they drove. D)Most of the respondents got compensated for driving 384 miles."
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "Deterioration in the quality of new music. A)新音乐品质的退化。B)Insights into the features of good music. B)洞察好音乐的特点。C)Older people􀆳s changing musical tastes. C)年长者不断变化的音乐品味。D)Older people􀆳s aversion to new music. D)年长者对新音乐的反感。"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "They no longer listen to new music. A)他们不再听新的音乐。B)They find all music sounds the same. B)他们认为所有音乐听起来都一个样。C)They can make subtle distinctions about music. C)他们能够区分音乐之间的细微差别。D)They seldom listen to songs released in their teens. D)他们很少听发行于自己青少年时期的音乐。"
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "The more you are exposed to something,the more A)你接触某事物越多,它对你来说就越熟悉。familiar it􀆳ll be to you. B)The more you are exposed to something,the deeper B)你接触某事物越多,你对它的了解就越深。you􀆳ll understand it. C)The more you experience something,the longer C)你经历某事物越多,你记得它的时间就you􀆳ll remember it. 越长。D)The more you experience something,the better D)你经历某事物越多,你就越能欣赏它。you􀆳ll appreciate it."
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "Teenagers􀆳memories are more lasting. A)青少年的记忆力更持久。B)Teenagers􀆳emotions are more intense. B)青少年的情感更强烈。C)Teenagers are much more sensitive. C)青少年更敏感。D)Teenagers are much more sentimental. D)青少年更多愁善感。"
+      },
+      "26": {
+        "answer": "A",
+        "explanation": "discoura<sub>ging</sub>。[确定词性]空格所在句中,破折号前为完整的主谓宾结构,破折号后以并列连词 while also连接两部分,空格词应与providing一致,为及物动词的-in<sub>g</sub>分词。[锁定答案]空格前文提到,“对有害社会的事物征税”具有强大的诱惑力,提供了“双重收益”的可能。破折号引出对“双重收益”的解释说明, harmful activities( 有害活动)应与providing the government with revenue(向政府提供收入)语义同向,体现正面、积极的作用,故空格词应表“抑制/消除/控制”等,A 符合文意。"
+      },
+      "27": {
+        "answer": "E",
+        "explanation": "imp<sub>aired</sub>。[确定词性]空格词所在的 which从句中存在两种情形:1.and并列连接excessive drinking和 driving,空格词应为drivin<sub>g</sub>的修饰成分,可能为名词、形容词、-in<sub>g</sub>分词、-ed分词。2.and并列连接reduces excessive drinkin<sub>g</sub>和 driving,空格词应为及物动词的第三人称单数。[锁定答案]本题的解题思路有二:一、从句内逻辑来看,“减少过量饮酒和 驾驶”为“喝醉成本提高”的结果,结合常识可知,醉酒行为越少,危险/醉酒驾车几率越低;二、从段际关系来看,第二段①句提出以“罪恶税”为例论证首段(对有害社会的事物征税的双重益处),③句指出酒税带来财政收入。②句应该体现酒税“抑制有害活动”的效果。综上可知,空格词应意为“危险的/有害的/醉酒的”等,impaired driving为固定搭配,意为“危险驾驶,不清醒驾驶(尤指醉驾)”,E正确。"
+      },
+      "28": {
+        "answer": "J",
+        "explanation": "instrumental。[确定词性]空格所在句主句结构为 Tobacco taxes have proven in...,空格词可能为形容词或名词。[锁定答案]空格句指出,烟税带来的财政收入超过酒税的两倍,已经(被)证实在减少吸烟上 ( in the decline of smoking),这拯救了数百万人的生命。空格所在部分一方面应体现“拯救数百万人生命”的原因,另一方面应呼应首段 “抑制有害活动”,故空格词应表示“(在减少吸烟方面)起作用/有帮助”等,J正确。"
+      },
+      "29": {
+        "answer": "N",
+        "explanation": "pump 30.G)incentives。[确定词性]空29所在从句that 29 carbon dioxide into the sk<sub>y</sub>显然缺少谓语动词(that指代companies,在从句中作主语),句子整体时态为一般现在时,空格词应为及物动词原形。空30所在主句carbon taxes would restore the proper 30 to the market缺少宾语中心词,空格词应为名词或动名词。[锁定答案]空格句前一分句指出,碳税能提高经济效率。后一分句指出,由于将二氧化碳 29 空中的公司一直未为自己造成的气候变化买单,所以碳税将恢复对市场的正当 30 。借助分号作用和语义逻辑可知:分号前后两分句为“概说—解释”关系;分号之后语义重点在主句,即“恢复对市场的正当 30 ”应与“提高经济效率”同向,空30应表“促进/激励/改善”等,G 正确。空29所在从句(because...)聚焦这类公司(companies):将二氧化碳 空中 ( carbon dioxide into the sky),造成气候变化(the climate change they cause)。显然空格词应表示“排放/输出(二氧化碳)”。再看整句逻辑:一直以来排碳者不为自己的行为买单(因此市场缺乏激励),现在碳税(让排碳者为自己的行为买单,所以)将恢复对市场的恰当刺激(从而提高经济效率)。因果关系完全成立,确认 N 正确。"
+      },
+      "31": {
+        "answer": "M",
+        "explanation": "p<sub>robably</sub>。[确定词性]空格词在 which从句中位于情态动词 would和系动词 be之间,只能为副词。[锁定答案]which从句指出,碳税带来的财政收入每年 达数千亿美元,强调“税收潜力巨大/现有量庞大”,故空格词应表示“可能/实际/通常”等,M 正确。I)initially作为备选项中另一副词有一定干扰,但此处若强调“起初,最初”,下文必会提及后来的变化,而实际上并未提及,故排除。"
+      },
+      "32": {
+        "answer": "B",
+        "explanation": "dividend。[确定词性]空格前为冠词a,空格词应为可数名词单数。[锁定答案]空格句句首 What􀆳s more表明,该句承接上句,继续说明碳税的其他用途:该项收入数额巨大,可作为 分发给市民,或用于资助绿色基础设施项目。“ 分发给市民”和“资助绿色基础设施项目”应为两项并列的碳税收入用途,结合受益者的身份“市民”可知,空32应为“福利/红利”等,B正确。"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "predict。[确定词性]空格所在从句结构为:which(引导词作主语)+some experts +will be(系动词)+over\\$4 trillion per decade(表语)。句中已有完整的主系表成分,故some experts 只能作插入成分,空格词应为动词。[锁定答案]空格所在的 which从句指出,财产税收入将超4万亿美元/10年,will表明这是对未来数据的预测,some experts为常见的预测者,联系可知,空格词应表“预测”,L正确。"
+      },
+      "34": {
+        "answer": "H",
+        "explanation": "inherently 35.O)swelling。[确定词性]空34位于系动词is和形容词bad之间,应为副词。空35位于 while引导的状语中,空格后为名词短语 government coffers,空格词应为及物动词的-in<sub>g</sub>分词(while doing sth为 while sb be doing sth的省略形式,当主从句间主语一致时,从句中的主语和be动词可省略)。[锁定答案]末段①句“同样,财产税的提出也是为了在减少不平等的同时增加财政收入”表明,财产税被视为前文所述酒税、烟税、碳税的同类。②句具体说明财产税如何增加财政税收,减少不平等。空格句(③句)指出,如果认为财富不平等 34 有害,那么财产税在改善社会的同时也 35 政府的金库。可见,空格句"
+      },
+      "36": {
+        "answer": "D",
+        "explanation": "[答案]D[精解]由定位词定位至 D段。该段明确补种时机:一旦施用了大部分肥料和化学品,再进行补种在经济上便不 可行<sup>了</sup>。② 句 中的 these 回指 ① 句 中的 the majority of his fertilizer and chemical...,take corrective action呼应①句中的conduct...re<sub>planting</sub>,试题是对该句信息的同义改写。"
+      },
+      "37": {
+        "answer": "L",
+        "explanation": "[答案]L [精解]由定位词定位至 L段。该段前三句对比医药与农业,强调后者环境的特点“不受控制的”。试题是对二者区别的概括,differs from 体现了 ① 句 By comparison、③ 句 But所体现的比较之意;medical science明确了①句our bodies(呼应上段 medicine)所暗指的对象。"
+      },
+      "38": {
+        "answer": "E",
+        "explanation": "[答案]E [精解]由定位词定位至 E段。该段末句指出农学家对专业软件的性能信心十足:该软件将会得出近乎精确的结果。试题是对该句信息的同义改写。"
+      },
+      "39": {
+        "answer": "N",
+        "explanation": "[答案]N [精解]由定位词定位至 N 段。该段明确在农业领域应用人工智能的问题所在:人工智能技术的实测、验证和上市都远比其他大多数行业耗时费力。试题是对该内容的概括,application对应deploying。"
+      },
+      "40": {
+        "answer": "F",
+        "explanation": "[答案]F[精解]由定位词定位至 F段②句。该句指出专业软件所得结果不正确:农学家与种植户都立刻发现数量不对。试题是对该句信息的整合概括,Even对应原文even with their limited understanding of how to read remote sensing maps,强调“计算结果错误过于明显,连身为非专业人士的种植户都能看出来”。"
+      },
+      "42": {
+        "answer": "H",
+        "explanation": "[答案]H [精解]由定位词定位至 H 段。该段介绍遥感器在农业领域的潜能,其中④句指出使用遥感器的目的/作用:让种植户在田间做出更好的决策,增加收成。试题是对该句信息的概括。"
+      },
+      "43": {
+        "answer": "C",
+        "explanation": "[答案]C [精解]由定位词定位至 C段。该段说明种植户对专业软件效用的期待,①句提出期待“专业软件提供准确的植株数量”,②句解释说明期待“由此确定是否有田块需补种”。试题是对两句信息的提炼。"
+      },
+      "44": {
+        "answer": "K",
+        "explanation": "[答案]K [精解]由定位词定位至 K 段。该段②句指出农业是最难统计量化的领域之一,③句以“即使是在同一片农田内部,每个地段的环境条件都在时刻发生变化”凸显农业环境“变化莫测”的特点,说明其量化难度之大。试题是对两句大意的概括,because of是对两句间暗含因果关联的明确。"
+      },
+      "45": {
+        "answer": "M",
+        "explanation": "[答案]M [精解]由定位词定位至 M 段。该段①句指出一项播种和施肥计划在美国中西部的效果与其在澳大利亚、南非的效果互不相干,即同样的计划在不同地区可能产生完全不同的效果。试题是对该句大意的概括。"
+      }
+    },
+    "references": {}
+  }
+}

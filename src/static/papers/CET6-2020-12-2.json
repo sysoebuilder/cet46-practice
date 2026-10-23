@@ -1,0 +1,1442 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop effective communication skills. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop effective communication skills. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop effective communication skills. You should write at least 150 words but no more than 200 words.",
+        "materials": "6·12",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A driving test."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A video game."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Traffic routes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Cargo logistics."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He found it instructive and realistic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He bought it when touring Europe."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was really drawn to its other versions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He introduced it to his brother last year."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Traveling all over the country."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Driving from one city to another."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The details in the driving simulator."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The key role of the logistics industry."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Clearer road signs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "More people driving safely."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Stricter traffic rules."
+                  },
+                  {
+                    "label": "D",
+                    "text": "More self-driving trucks on the road."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It isn't so enjoyable as he expected."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It isn't so motivating as he believed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It doesn't enable him to earn as much money as he used to."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It doesn't seem to offer as much freedom as he anticipated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Not all of them care about their employees' behaviors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Few of them are aware of their employees' feelings."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Few of them offer praise and reward to their employees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Not all of them know how to motivate their employees.\n\n$6 \\cdot 1$"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Job satisfaction."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Self-awareness."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Autonomy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The importance of cultivating close relationships with clients."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The need for getting recommendations from their managers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The advantages of permanent full-time employment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The way to explore employees' interests and talents."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Consumers visualize their activities in different weather."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Good weather triggers consumers' desire to go shopping."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Weather conditions influence consumers' buying behavior."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consumers' mental states change with the prices of goods."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Active consumption."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Direct correlation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Individual association."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Mental visualization."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Enabling them to simplify their mathematical formulas."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Helping them determine what to sell and at what price."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Enabling them to sell their products at a higher price."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Helping them advertise a greater variety of products."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A naturally ventilated office is more comfortable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A cool office will boost employees' productivity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Office air-conditioning should follow guidebooks."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Air-conditioning improves ventilation in the office."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People in their comfort zone of temperature are more satisfied with their productivity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People in different countries vary in their tolerance to uncomfortable temperatures."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Twenty-two degrees is the optimal temperature for office workers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There is a range of temperatures for people to feel comfortable.\n\n6·2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It will have no negative impact on work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It will be immediately noticeable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It will sharply decrease work efficiency."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It will cause a lot of discomfort."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They tend to favor lower temperatures."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They suffer from rapid temperature changes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are not bothered by temperature extremes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They become less sensitive to high temperatures."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 15,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It overlooked the possibility that emotions may be controlled."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It ignored the fact that emotions are personal and subjective."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It classified emotions simply as either positive or negative."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It measured positive and negative emotions independently."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Sitting alone without doing anything seemed really distressing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Solitude adversely affected the participants' mental well-being."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sitting alone for 15 minutes made the participants restless."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Solitude had a reductive effect on high-arousal emotions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It proved hard to depict objectively."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It went hand in hand with sadness."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It helped increase low-arousal emotions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It tended to intensify negative emotions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It uses up much less energy than it does in deep thinking."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It remains inactive without burning calories noticeably."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It continues to burn up calories to help us stay in shape."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It consumes almost a quarter of the body's total energy.\n\n6 · 3"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Much of the consumption has nothing to do with conscious activities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has something to do with the difficulty of the activities in question."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Energy usage devoted to active learning accounts for a big part of it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A significant amount of it is for performing difficult cognitive tasks."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is believed to remain basically constant."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a prerequisite for any mental activity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is conducive to relieving mental exhaustion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is thought to be related to food consumption."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Job candidates rarely take it seriously."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Job seekers tend to have a ready answer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Job seekers often feel at a loss where to start in answering it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Job candidates can respond freely due to its open-ended nature."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Follow their career coaches' guidelines."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Strive to take control of their narrative."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Do their best to impress the interviewer."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Repeat the information on their résumé."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To reflect on their past achievements as well as failures."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To produce examples for different interview questions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To discuss important details they are going to present."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To identify a broad general strength to elaborate on."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Getting acquainted with the human resources personnel."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Finding out why the company provides the job opening."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Figuring out what benefits the company is able to offer them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Tailoring their expectations to the company's long-term goal."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "6 · 4\n\nVirtually every activity that entails or facilitates in-person human interaction seems to be in the midst of a total meltdown as the coronavirus (冠状病毒) outbreak erases Americans' desire to travel. Amtrak says bookings are down 50 percent and cancelations are up 300 percent. Hotels in San Francisco are experiencing _26_ rates between 70 and 80 percent. Broadway goes dark on Thursday night. Universities, now emptying their campuses, have never tried online learning on this _27_. White-collar companies like Amazon, Apple, and the New York Times are asking employees to work from home for the _28_ future.\n\nBut what happens after the coronavirus?\n\nIn some ways, the answer is: All the old normal stuff. The pandemic(大流行病) will take lives, 29 economies and destroy routines, but it will pass. Americans will never stop going to basketball games. They won't stop going on vacation. They'll meet to do business. No decentralizing technology so far—not telephones, not television, and not the internet—has dented that human desire to shake hands, despite technologists' 30 to the contrary.\n\nYet there are real reasons to think that things will not return to the way they were last week. Small _31_ create small societal shifts; big ones change things for good. The New York transit strike of 1980 is _32_ with prompting several long-term changes in the city, including bus and bike lanes, and women wearing sports shoes to work. The Spanish flu pandemic of 1918 prompted the development of national health care in Europe.\n\nHere and now, this might not even be a question of _33_. It's not clear that the cruise industry will _34_. Or that public transit won't go broke without _35_ assistance. The infrastructure might not even be in place to do what we were doing in 2019.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "credentials"
+        },
+        {
+          "label": "I",
+          "text": "scale"
+        },
+        {
+          "label": "B",
+          "text": "credited"
+        },
+        {
+          "label": "J",
+          "text": "strangle"
+        },
+        {
+          "label": "C",
+          "text": "cumulative"
+        },
+        {
+          "label": "K",
+          "text": "subtle"
+        },
+        {
+          "label": "D",
+          "text": "disruptions"
+        },
+        {
+          "label": "L",
+          "text": "summoned"
+        },
+        {
+          "label": "E",
+          "text": "federal"
+        },
+        {
+          "label": "M",
+          "text": "survive"
+        },
+        {
+          "label": "F",
+          "text": "foreseeable"
+        },
+        {
+          "label": "N",
+          "text": "vacancy"
+        },
+        {
+          "label": "G",
+          "text": "predictions"
+        },
+        {
+          "label": "O",
+          "text": "wedge"
+        },
+        {
+          "label": "H",
+          "text": "preference"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 323,
+          "end": 327
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 483,
+          "end": 487
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 602,
+          "end": 606
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 748,
+          "end": 750
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 1075,
+          "end": 1077
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1198,
+          "end": 1202
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1305,
+          "end": 1309
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1579,
+          "end": 1583
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1630,
+          "end": 1634
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1682,
+          "end": 1686
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "6 · 5\n\nSlow Hope",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Our world is full of—mostly untold—stories of slow hope, driven by the idea that change is possible. They are ‘slow’ in their unfolding, and they are slow because they come with setbacks."
+        },
+        {
+          "label": "B",
+          "text": "At the beginning of time—so goes the myth—humans suffered, shivering in the cold and dark until the titan (巨人) Prometheus stole fire from the gods. Just as in the myth, technology—first fire and stone tools, and later farming, the steam engine and industry, fossil fuels, chemicals and nuclear power—has allowed us to alter and control the natural world. The myth also reminds us that these advances have come at a price: as a punishment for Prometheus' crime, the gods created Pandora, and they gave her a box filled with evils and curses. When Pandora's box was opened, it unleashed swarms of diseases and disasters upon humankind."
+        },
+        {
+          "label": "C",
+          "text": "Today we can no longer ignore the ecological curses that we have released in our search for warmth and comfort. In engineering and exploiting and transforming our habitat, we have opened tens of thousands of Pandora's boxes. In recent decades, environmental threats have expanded beyond regional boundaries to have global reach and, most hauntingly, are multiplying at a dizzying rate. On a regular basis, we are reminded that we are running out of time. Year after year, faster and faster, consumption outpaces the biological capacity of our planet. Stories of accelerated catastrophe multiply. We fear the breakdown of the electric grid, the end of non-renewable resources, the expansion of deserts, the loss of islands, and the pollution of our air and water."
+        },
+        {
+          "label": "D",
+          "text": "Acceleration is the signature of our time. Populations and economic activity grew slowly for much of human history. For thousands of years and well into early modern times, world economies saw no growth at all, but from around the mid-19th century and again, in particular, since the mid-20th, the real GDP has increased at an enormous speed, and so has human consumption. In the Middle Ages, households in Central Europe might have owned fewer than 30 objects on average; in 1900, this number had increased to 400, and in 2020 to 15,000. The acceleration of human production, consumption and travel has changed the animate and inanimate spheres. It has echoed through natural processes on which humans depend. Species extinction, deforestation, damming of rivers, occurrence of floods, the depletion of ozone, the degradation of ocean systems and many other areas are all experiencing acceleration. If represented graphically, the curve for all these changes looks rather like that well-known hockey stick: with little change over millennia (数千年) and a dramatic upswing over the past decades."
+        },
+        {
+          "label": "E",
+          "text": "Some of today's narratives about the future seem to suggest that we too, like Prometheus, will be saved by a new Hercules, a divine engineer, someone who will mastermind, manoeuvre and manipulate our planet. They suggest that geoengineering, cold fusion or faster-than-light spaceships might transcend once and for all the terrestrial constraints of rising temperatures, lack of energy, scarcity of food, lack of space, mountains of waste, polluted water—you name it.\n\n6 · 6"
+        },
+        {
+          "label": "F",
+          "text": "Yet, if we envisage our salvation to come from a deus ex machina (解围之神), from a divine engineer or a tech solutionist who will miraculously conjure up a new source of energy or another cure-all with revolutionary potency, we might be looking in the wrong place. The fact that we now imagine our planet as a whole does not mean that the ‘rescue’ of our planet will come with one big global stroke of genius and technology. It will more likely come by many small acts. Global heating and environmental degradation are not technological problems. They are highly political issues that are informed by powerful interests. Moreover, if history is a guide, then we can assume that any major transformations will once again be followed by a huge set of unintended consequences. So what do we do?"
+        },
+        {
+          "label": "G",
+          "text": "This much is clear: we need to find ways that help us flatten the hockey-stick curves that reflect our ever-faster pace of ecological destruction and social acceleration. If we acknowledge that human manipulation of the Earth has been a destructive force, we can also imagine that human endeavours can help us build a less destructive world in the centuries to come. We might keep making mistakes. But we will also keep learning from our mistakes."
+        },
+        {
+          "label": "H",
+          "text": "To counter the fears of disaster, we need to identify stories, visions and actions that work quietly towards a more hopeful future. Instead of one big narrative, a story of unexpected rescue by a larger-than-life hero, we need multiple stories: we need stories, not only of what Rob Nixon of Princeton University has called the ‘slow violence’ of environmental degradation (that is, the damage that is often invisible at first and develops slowly and gradually), but also stories of what I call ‘slow hope’."
+        },
+        {
+          "label": "I",
+          "text": "We need an acknowledgement of our present ecological plight but also a language of positive change, visions of a better future. In The Principle of Hope (1954-1959), Ernst Bloch, one of the leading philosophers of the future, wrote that ‘the most tragic form of loss...is the loss of the capacity to imagine that things could be different’. We need to identify visions and paths that will help us imagine a different, more just and more ecological world. Hope, for Bloch, has its starting point in fear, in uncertainty, and in crisis: it is a creative force that goes hand in hand with utopian (乌托邦的) ‘wishful images’. It can be found in cultural products of the past—in fairy tales, in fiction, in architecture, in music, in the movies—in products of the human mind that contain ‘the outlines of a better world’. What makes us ‘authentic’ as humans are visions of our ‘potential’. In other words: living in hope makes us human."
+        },
+        {
+          "label": "J",
+          "text": "The power of small, grassroots movements to make changes that spread beyond their place of origin can be seen with the Slow Food movement, which began in Italy in the 1980s. The rise of fast-food restaurants after the Second World War produced a society full of cheap, industrially made foodstuffs. Under the leadership of Carlo Petrini, the Slow Food movement began in Piedmont, a region of Italy with a long history of poverty, violence and resistance to oppression. The movement transformed it into a region hospitable to traditional food cultures—based on\n\n6 · 7\n\nnative plants and breeds of animals. Today, Slow Food operates in more than 160 countries, poor and rich. It has given rise to thousands of projects around the globe, representing democratic politics, food sovereignty, biodiversity and sustainable agriculture."
+        },
+        {
+          "label": "K",
+          "text": "The unscrupulous (无所顾忌的) commodification of food and the destruction of foodstuffs will continue to devastate soils, livelihoods and ecologies. Slow Food cannot undo the irresistible developments of the global food economy, but it can upset its theorists, it can ‘speak differently’, and it can allow people and their local food traditions and environments to flourish. Even in the United States—the fast-food nation—small farms and urban gardens are on the rise. The US Department of Agriculture provides an Urban Agriculture Toolkit and, according to a recent report, American millennials (千禧一代) are changing their diets. In 2017, 6 per cent of US consumers claimed to be strictly vegetarian, up from 1 per cent in 2014. As more people realise that ‘eating is an agricultural act’, as the US poet and environmental activist Wendell Berry put it in 1989, slow hope advances."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "It seems some people today dream that a cutting-edge new technology might save them from the present ecological disaster."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "According to one great thinker, it is most unfortunate if we lose the ability to think differently."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Urgent attention should be paid to the ecological problems we have created in our pursuit of a comfortable life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Even in the fast-food nation America, the number of vegetarians is on the rise."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "The deterioration of the ecological system is accelerating because of the dramatic increase of human production and consumption."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It is obvious that solutions must be found to curb the fast worsening environment and social acceleration."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Many people believe changing the world is possible, though it may take time and involve setbacks."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "It might be wrong to expect that our world would be saved at one stroke with some miraculous technology."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "It is human nature to cherish hopes for a better world."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Technology has given us humans the power to change the natural world, but we have paid a price for the change.\n\n6 · 8"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Vegetarians would prefer not to be compelled to eat meat. Yet the reverse compulsion (强迫) is hidden in the proposals for a new plant-based “planetary diet.” Nowhere is this more visible than in India.\n\nEarlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for “substantially reducing consumption of animal source foods.” In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations.\n\nThe EAT report presumes that “traditional diets” in countries like India include little red meat, which might be consumed only on special occasions or as minor ingredients in mixed dishes.\n\nIn India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc. Policymakers in India have traditionally pushed for a cereal-heavy “vegetarian diet” on a meat-eating population as a way of providing the cheapest sources of food.\n\nCurrently, under an aggressive Hindu nationalist government, Muslims, Christians, disadvantaged classes and indigenous communities are being compelled to give up their traditional foods.\n\nNone of these concerns seem to have been appreciated by the EAT-Lancet Commission's representative, Brent Loken, who said “India has got such a great example” in sourcing protein from plants.\n\nBut how much of a model for the world is India's vegetarianism? In the Global Hunger Index 2019, the country ranks 102nd out of 117. Data from the National Family Health Survey indicate that only 10 percent of infants of 6 to 23 months are adequately fed.\n\nWhich is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries.\n\nA diet directed at the affluent West fails to recognize that in low-income countries undernourished children are known to benefit from the consumption of milk and other animal source foods, improving cognitive functions, while reducing the prevalence of nutritional deficiencies as well as mortality.\n\nEAT-Lancet claimed its intention was to “spark conversations” among all Indian stakeholders. Yet vocal critics of the food processing industry and food fortification strategies have been left out of the debate. But the most conspicuous omission may well be the absence of India’s farmers.\n\nThe government, however, seems to have given the report a thumps-up. Rather than addressing\n\n6 · 9\n\nchronic hunger and malnutrition through an improved access to wholesome and nutrient-dense foods, the government is opening the door for company-dependent solutions, ignoring the environmental and economic cost, which will destroy local food systems. It's a model full of danger for future generations.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What is more visible in India than anywhere else according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People's positive views on the proposals for a “planetary diet.”"
+                },
+                {
+                  "label": "B",
+                  "text": "People's reluctance to be compelled to eat plant-based food."
+                },
+                {
+                  "label": "C",
+                  "text": "People's preferences for the kind of food they consume."
+                },
+                {
+                  "label": "D",
+                  "text": "People's unwillingness to give up their eating habits."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What would the EAT-Lancet Commission's report do to many people in countries like India?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Radically change their dietary habits."
+                },
+                {
+                  "label": "B",
+                  "text": "Keep them further away from politics."
+                },
+                {
+                  "label": "C",
+                  "text": "Make them even more undernourished."
+                },
+                {
+                  "label": "D",
+                  "text": "Substantially reduce their food choices."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do we learn from the passage about food consumption in India?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People's diet will not change due to the EAT-Lancet report."
+                },
+                {
+                  "label": "B",
+                  "text": "Many people simply do not have access to foods they prefer."
+                },
+                {
+                  "label": "C",
+                  "text": "There is a growing popularity of a cereal-heavy vegetarian diet."
+                },
+                {
+                  "label": "D",
+                  "text": "Policymakers help remove the barriers to people's choice of food."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the passage say about a plant-based diet modeled on India?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may benefit populations whose traditional diet is meat-based."
+                },
+                {
+                  "label": "B",
+                  "text": "It may be another blow to the economy in developing countries."
+                },
+                {
+                  "label": "C",
+                  "text": "It may help narrow the gap between the rich and poor countries."
+                },
+                {
+                  "label": "D",
+                  "text": "It may worsen the nourishment problem in low-income countries."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "How does the Indian government respond to the EAT-Lancet Commission's proposals?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It accepts them at the expense of the long-term interests of its people."
+                },
+                {
+                  "label": "B",
+                  "text": "It intends them to spark conversations among all Indian stakeholders."
+                },
+                {
+                  "label": "C",
+                  "text": "It gives them approval regardless of opposition from nutrition experts."
+                },
+                {
+                  "label": "D",
+                  "text": "It welcomes them as a tool to address chronic hunger and malnutrition."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Back in 1964, in his book Games People Play, psychiatrist Eric Berne described a pattern of conversation he called “Why Don’t You—Yes But”, which remains one of the most irritating aspects\n\n6 · 10\n\nof everyday social life. The person adopting the strategy is usually a chronic complainer. Something is terrible about their relationship, job, or other situation, and they moan about it ceaselessly, but find some excuse to dismiss any solution that's proposed. The reason, of course, is that on some level they don't want a solution; they want to be validated in their position that the world is out to get them. If they can \"win\" the game—dismissing every suggestion until their interlocutor(对话者) gives up in annoyance—they get to feel pleasurably righteous(正当的) in their resentments and excused from any obligation to change.\n\nPart of the trouble here is the so-called responsibility/fault fallacy(谬误). When you're feeling hard done by—taken for granted by your partner, say, or obliged to work for a half-witted boss—it's easy to become attached to the position that it's not your job to address the matter, and that doing so would be an admission of fault. But there's a confusion here. For example, if I were to discover a newborn at my front door, it wouldn't be my fault, but it most certainly would be my responsibility. There would be choices to make, and no possibility of avoiding them, since trying to ignore the matter would be a choice. The point is that what goes for the baby on the doorstep is true in all cases: even if the other person is $100\\%$ in the wrong, there's nothing to be gained, long-term, from using this as a justification to evade responsibility.\n\nShould you find yourself on the receiving end of this kind of complaining, there's an ingenious way to shut it down—which is to agree with it, ardently. Psychotherapist Lori Gottlieb describes this as “over-validation”. For one thing, you'll be spared further moaning, since the other person's motivation was to confirm her beliefs, and now you're confirming them. But for another, as Gottlieb notes, people confronted with over-validation often hear their complaints afresh and start arguing back. The notion that they're utterly powerless suddenly seems unrealistic—not to mention rather annoying—so they're prompted instead to generate ideas about how they might change things.\n\n“And then, sometimes, something magical might happen,” Gottlieb writes. The other person “might realise she’s not as trapped as you are saying she is, or as she feels.” Which illustrates the irony of the responsibility/fault fallacy: evading responsibility feels comfortable, but turns out to be a prison; whereas assuming responsibility feels unpleasant, but ends up being freeing.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is characteristic of a chronic complainer, according to psychiatrist Eric Berne?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They only feel angry about their ill treatment and resent whoever tries to help."
+                },
+                {
+                  "label": "B",
+                  "text": "They are chronically unhappy and ceaselessly find fault with people around them."
+                },
+                {
+                  "label": "C",
+                  "text": "They constantly dismiss others' proposals while taking no responsibility for tackling the problem."
+                },
+                {
+                  "label": "D",
+                  "text": "They lack the knowledge and basic skills required for successful conversations with their interlocutors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the author try to illustrate with the example of the newborn on one's doorstep?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People tend to think that one should not be held responsible for others' mistakes."
+                },
+                {
+                  "label": "B",
+                  "text": "It is easy to become attached to the position of overlooking one's own fault."
+                },
+                {
+                  "label": "C",
+                  "text": "People are often at a loss when confronted with a number of choices."
+                },
+                {
+                  "label": "D",
+                  "text": "A distinction should be drawn between responsibility and fault.\n\n6 · 11"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author advise people to do to chronic complainers?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Stop them from going further by agreeing with them."
+                },
+                {
+                  "label": "B",
+                  "text": "Listen to their complaints ardently and sympathetically."
+                },
+                {
+                  "label": "C",
+                  "text": "Ask them to validate their beliefs with further evidence."
+                },
+                {
+                  "label": "D",
+                  "text": "Persuade them to clarify the confusion they have caused."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What happens when chronic complainers receive over-validation?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are motivated to find ingenious ways to persuade their interlocutor."
+                },
+                {
+                  "label": "B",
+                  "text": "They are prompted to come up with ideas for making possible changes."
+                },
+                {
+                  "label": "C",
+                  "text": "They are stimulated to make more complaints."
+                },
+                {
+                  "label": "D",
+                  "text": "They are encouraged to start arguing back."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "How can one stop being a chronic complainer according to the author?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Analysing the so-called responsibility/fault fallacy."
+                },
+                {
+                  "label": "B",
+                  "text": "Avoiding hazardous traps in everyday social life."
+                },
+                {
+                  "label": "C",
+                  "text": "Assuming responsibility to free oneself."
+                },
+                {
+                  "label": "D",
+                  "text": "Awaiting something magical to happen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "港珠澳大桥(Hong Kong-Zhuhai-Macau Bridge)全长55公里，是我国一项不同寻常的工程壮举。大桥将三个城市连接起来，是世界上最长的跨海桥梁和隧道系统。大桥将三个城市之间的旅行时间从3小时缩短到30分钟。这座跨度巨大的钢筋混凝土大桥充分证明中国有能力建造创纪录的巨型建筑。它将助推区域一体化，促进经济增长。大桥是中国发展自己的大湾区总体规划的关键。中国希望将大湾区建成在技术创新和经济繁荣上能与旧金山、纽约和东京的湾区相媲美的地区。"
+      }
+    ]
+  },
+  "id": "CET6-2020-12-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "2": {
+        "answer": "A",
+        "explanation": "He found it instructive and realistic. A)他认为它兼具指导性和真实性。B)He bought it when touring Europe. B)他在欧洲旅行时买下了它。C)He was really drawn to its other versions. C)他被它的其他版本深深吸引。D)He introduced it to his brother last year. D)他去年把它推荐给了他的兄弟。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "Clearer road signs. A)路标更加清晰。B)More people driving safely. B)更多的人安全驾驶。C)Stricter traffic rules. C)交通规则更严格。D)More self-driving trucks on the road. D)更多的自动驾驶卡车上路。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "It isn􀆳t so enjoyable as he expected. A)不像他期待的那样愉快。B)It isnt so motivating as he believed. B)不像他以为的那样有激励性。"
+      },
+      "6": {
+        "answer": "A",
+        "explanation": "Not all of them care about their employees􀆳behaviors. A)他们并非全都关心员工的行为。B)Few of them are aware of their employees􀆳feelings. B)他们很少会注意员工的情绪。C)Few of them offer praise and reward to their employees. C)他们很少会夸赞和奖励员工。D)Not all of them know how to motivate their employees. D)他们并非全都知道如何激励员工。"
+      },
+      "7": {
+        "answer": "A",
+        "explanation": "Job satisfaction. C)Autonomy. A)工作满意度。 C)自主权。B)Self-awareness. D)Money. B)自我意识。 D)钱。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "The importance of cultivating close relationships with clients. A)培养与客户的密切关系的重要性。B)The need for getting recommendations from their managers. B)获得经理推荐的必要性。C)The advantages of permanent full-time employment. C)长期全职工作的优点。D)The way to explore employees􀆳interests and talents. D)探索员工兴趣和天分的途径。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "Consumers visualize their activities in different weather. A)消费者会设想他们在不同天气下的活动。B)Good weather triggers consumers􀆳desire to go shopping. B)好天气会激发消费者的购物欲望。C)Weather conditions influence consumers􀆳buying behavior. C)天气情况会影响消费者的购买行为。D)Consumers􀆳mental states change with the prices of goods. D)消费者的心理状态随商品价格的变化而变化。􀪋"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "Active consumption. A)主动消费。B)Direct correlation. B)直接关联。C)Individual association. C)个体关联。D)Mental visualization. D)内心想象。"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "Enabling them to simplify their mathematical formulas. A)使他们能简化其数学公式。B)Helping them determine what to sell and at what price. B)帮他们决定出售的产品及相应的定价。C)Enabling them to sell their products at a higher price. C)使他们能以更高的价格出售产品。D)Helping them advertise a greater variety of products. D)帮他们为更多种类的产品打广告。"
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "A naturally ventilated office is more comfortable. A)自然通风的办公室更舒适。B)A cool office will boost employees􀆳productivity. B)凉快的办公室能提高职员的工作效率。C)Office air-conditioning should follow guidebooks. C)办公室的空调设定应遵照指导手册。D)Air-conditioning improves ventilation in the office. D)空调能改善办公室的通风。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "It overlooked the possibility that emotions may be controlled. A)它们忽视了情绪能被控制的可能性。B)It ignored the fact that emotions are personal and subjective B)它们忽视了情绪是个人的、主观的。C)It classified emotions simply as either positive or negative. C)它们将情绪简单地分为积极和消极两种。D)It measured positive and negative emotions independently. D)它们单独衡量积极和消极情绪。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "Sitting alone without doing anything seemed really distressing. A)独自坐着什么都不做似乎真的很痛苦。B)Solitude adversely affected the participants􀆳mental well-being. B)独处对参与者的心理健康造成不利影响。C)Sitting alone for 15 minutes made the participants restless. C)独坐15分钟使参与者感到不安。D)Solitude had a reductive effect on high-arousal emotions. D)独处缓和了高激发情绪。"
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "It proved hard to depict objectively. A)事实证明,它很难被客观地描述。B)It went hand in hand with sadness. B)它与悲伤密不可分。C)It helped increase low-arousal emotions. C)它有助于强化低激发情绪。D)It tended to intensify negative emotions. D)它往往会强化消极情绪。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "It uses up much less energy than it does in deep thinking. A)它消耗的能量比深度思考时少得多。B)It remains inactive without burning calories noticeably. B)它保持不活跃状态,不怎么燃烧卡路里。C)It continues to burn up calories to help us stay in shape. C)它继续燃烧卡路里,帮助我们保持体形。D)It consumes almost a quarter of the body􀆳s total energy. D)它消耗身体总能量的近四分之一。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "Much of the consumption has nothing to do with conscious A)大部分能量消耗与有意识的活动􀪋activities. 无关。B)It has something to do with the difficulty of the activities in question. B)它与相关活动的难度有关。C)Energy usage devoted to active learning accounts for a big part of it. C)主动学习的能量消耗占很大一部分。D)A significant amount of it is for performing difficult cognitive D)其中相当大一部分被用于进行困tasks. 难的认知活动。"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "It is believed to remain basically constant. A)它被认为基本保持不变。B)It is a prerequisite for any mental activity. B)它是任何精神活动的先决条件。C)It is conducive to relieving mental exhaustion. C)它有助于缓解精神疲惫。D)It is thought to be related to food consumption. D)它被认为与食物的摄取相关。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "Job candidates rarely take it seriously. A)求职者很少认真对待它。B)Job seekers tend to have a ready answer. B)求职者通常准备了现成答案。C)Job seekers often feel at a loss where to start in C)求职者常常感到不知所措,不知从何开answering it. 始回答。D)Job candidates can respond freely due to its open-ended nature. D)因其开放式的本质,求职者能够自由回答。􀪋"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "Follow their career coaches􀆳guidelines. A)遵循职业教练的指导。B)Strive to take control of their narrative. B)努力掌控他们的讲述方式。C)Do their best to impress the interviewer. C)尽力给面试官留下好印象。D)Repeat the information on their résumé. D)重复他们简历上的信息。"
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "To reflect on their past achievements as well as failures. A)以便思考他们过去的成就和失败。B)To produce examples for different interview questions. B)以便举出例子应对不同的面试问题。C)To discuss important details they are going to present. C)以便讨论他们将要讲述的重要细节。D)To identify a broad general strength to elaborate on. D)以便确定一个宽泛的优点来详细说明。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "Getting acquainted with the human resources personnel. A)结识人力资源部门的人员。B)Finding out why the company provides the job opening. B)调查公司提供职位空缺的原因。C)Figuring out what benefits the company is able to offer them. C)弄清公司能够给他们提供什么福利。D)Tailoring their expectations to the company􀆳s long-term goal. D)根据公司的长期目标调整他们的预期。"
+      },
+      "26": {
+        "answer": "N",
+        "explanation": "vacancy。[确定词性]空格词位于are ex<sub>periencing</sub>(谓语)和rates之间,应为rates的修饰限定成分,可能是形容词、名词、-ed分词或-ing分词。[锁定答案]空格句指出,旧金山酒店现在正在经历70%\\~ 80%的 率。结合上文“疫情暴发浇灭了美国人的旅行愿望”“美铁订票量下降/退票量上升”可知,空格句应意在说明“旅游业萧条导致酒店经营惨淡”,再结合70 and 80 percent这一较高占比可知空格词应传递“空房/退订/下滑/亏损”等负面语义,故 N 正确。"
+      },
+      "27": {
+        "answer": "I",
+        "explanation": "scale。[确定词性]空格词位于this之后,应为单数名词形式。[锁定答案]空格句指出,大学正在清校,开始尝试此前从未尝试过的 在线学习。由上下文“人际互动活动彻底崩溃”“员工居家办公”可知,空格句意在说明疫情使得大学被迫清空校园,全面开启在线学习,“on this ”应凸显线上学习“规模之大/范围之广/参与人数之多”等,故空格词应表示“范围/规模/程度”等意,I正确。"
+      },
+      "28": {
+        "answer": "F",
+        "explanation": "foreseeable。[确定词性]空格前为定冠词the,后为名词future,可推知空格词为future的修饰限定成分,可能为形容词、名词、-ed分词或-in<sub>g</sub>分词。[锁定答案]空格句指出,白领公司要求员工在 未来居家办公。可见,“for the future”限定居家办公的持续时间,结合上文可知,在疫情影响下,“居家办公”这一新型工作模式会在未来一段时间内一直持续,空格词应传递出这种可预见性、可预估性。for the foreseeable future为固定搭配,表示“(在)可预见的将来”,结合语境即“在受疫情影响的未来一段时间内”,故F正确。"
+      },
+      "29": {
+        "answer": "J",
+        "explanation": "stran<sub>gle</sub>。[确定词性] economies与take lives、destroy routines为并列关系,且都由助动词 will辖域,空格词应为动词原形。[锁定答案]空格句指出,这场大流行病会夺去生命、 经济、破坏日常生活,但它终将过去。可见,“ 经济”应与“夺去生命”“破坏生活”为并列关系,空格词应指向对经济的“抑制/破坏/阻碍”等作用,J正确。"
+      },
+      "30": {
+        "answer": "G",
+        "explanation": "predictions。[确定词性]空格词前为名词所有格technologists􀆳,空格后为介词短语to the contrary作technologists 的后置定语,可推知空格词 为 这些 限定成分的 中心词 (名词 或 动名词 )。[锁定答案]空格句指出,迄今为止,没有哪项分散性的技术削弱了人们握手的欲望,尽管技术专家们的与之相反。“de-(否定词缀)+centralizing(集中的)”暗示这些技术的设计初衷/理念应该是使人们分散化(降低人们面对面交流/握手的欲望),故让步状语despite technologists to the contrary应指向技术专家与前述事实“分散性技术未能让人们停止握手”相反的“看法/观点/预测”等,G 正确。"
+      },
+      "31": {
+        "answer": "D",
+        "explanation": "disruptions 32.B)credited。[确定词性]Small 31 在句子中作主语,动词原形create充当谓语,故空31应为名词复数。空32位于is和 with promoting sth之间,有以下可能:1.is为系动词,空32为形容词或名词,构成系表结构;2.is为助动词,空32为-ed分词,构成被动语态;3.is为助动词,空32为-ing分词,构成现在进行时。[锁定答案]第四段②句指出,小的 31 带来小的社会转变;大的 31 (ones回指空31)则导致永久性改变。③句指出,纽约交通系统大罢工 32 促进长远变革。④句则具体介绍了1918年西班牙大流感对欧洲各国医疗保健系统发展的巨大促进作用。可见,③④句意在举例说明②句后半句“大的 31 则导致永久性改变”这一观点,空31应传递“社会重大危机/问题/破坏”等含义,D正确。而is 32 with应体现“交通大罢工”与“促进长远变革”之间的关系,结合上文观点“破坏导致社会变革”可知,is with应体现因果逻辑,B符合文意,A be credited with B表示“把 B归功于 A”。"
+      },
+      "33": {
+        "answer": "H",
+        "explanation": "preference 34.M)survive。[确定词性]空33作介词of的宾语,与其共同修饰限定q<sub>uestion</sub>,应为名词或动名词。空34位于主语从句中 will之后,应为动词原形。[锁定答案]第五段首句指出,“疫情过后会发生什么,疫情过后还能不能恢复到过去那样(this所指代内容)”甚至可能不是一个 33 <sup>问题</sup>。②③句则并列指出,不确定邮轮业会(不会) 34 ,也不确定公共交通(会)不会破产。并列连词 Or提示②③句应传递相似语义,故空34应传递“衰败/消失/存活”等意,M 正确。②③句对“邮轮业是否幸存,公共交通是否破产”的探讨实际意在说明①句“疫情后的变化(还能不能回到过去)”不是由人们的主观意愿决定,而是客观实际所向,这不是一道选择题,空33应传递“取舍/偏好/意愿”等意,H 正确。"
+      },
+      "35": {
+        "answer": "E",
+        "explanation": "federal。[确定词性] assistance作介词 without的宾语,空格词应为assistance的修饰限定成分,可能是形容词、名词、-ed分词或-in<sub>g</sub>分词。[锁定答案]空格句指出,(目前尚不清楚)没有 援助,公共交通会不会破产。空格下句指出,基础设施无法就位来做2019年能做的事。结合常识“公共交通、基础设施主要仰仗政府财政补贴”推测空格词应表“国家/政府/联邦”等意,E正确。"
+      },
+      "36": {
+        "answer": "E",
+        "explanation": "[答案]E [精解]由定位词定位至 E段(a cuttin<sub>g</sub>-ed<sub>ge new technology</sub>可看作geoengineering,cold fusion or faster-than-li<sub>ght spaceships</sub>的上义词),该段介绍当下某些人的技术拯救论“地球工程、超光速飞船等技术能拯救人类,助其摆脱全球变暖等种种问题”。试题是对该段内容的同义概括。"
+      },
+      "37": {
+        "answer": "I",
+        "explanation": "[答案]I [精解]由定位词定位至I段②句,该句指出,未来哲学的领军人物之一布洛赫写道“最可悲的一种损失……莫过于想象未来存在不同可能性的能力的丧失”。试题是对此内容的同义转述。"
+      },
+      "38": {
+        "answer": "C",
+        "explanation": "[答案]C [精解]由定位词定位至C段①句,该句指出“不能再忽视我们在追求温暖和舒适过程中引发的生态问题”。试题是对该句的同义转述,其中the ecological problems we have created是对the ecological curses we have released这一比喻性表达的具象化解释(由 B段可知curses即技术这个潘多拉之盒里装着的灾难)。"
+      },
+      "39": {
+        "answer": "K",
+        "explanation": "[答案]K [精解]由定位词定位至 K 段③至⑤句,③句以同位语的形式明确“美国”即是“快餐国家”,⑤句指出,2017年6%的美国消费者自称是严格的素食者,而2014年这一比例仅为1%。可知,试题是对上述两项信息的合理概括,其中the number...is on the rise是对⑤句6 per cent...up from 1 per cent的概述性表达。"
+      },
+      "40": {
+        "answer": "D",
+        "explanation": "[答案]D [精解]由定位词定位至D段⑤句,该段⑤至⑧句指出人类生产和消耗急剧加速的后果“改变了生物界和非生物界,在整个自然界引发反响,使得各种灾难沿着同样的曲线加速暴发”。试题是对此句群大意的合理概括,其中because of正确解读changed、echoed蕴含的因果关联。"
+      },
+      "41": {
+        "answer": "G",
+        "explanation": "[答案]G [精解]由定位词定位至 G段①句,该句针对上段末句设问“我们该如何是好”作出回答:很明确的一点是,我们要去找到帮助我们拉平那些反映着我们日益加快的生态破坏与社会加速步伐的曲棍球曲线的方法。试题是对该句内容的同义转述,其中curb the fast worsening environment and social acceleration明确了句中flatten the hockey-stick curves这一比喻性表达的具体所指。"
+      },
+      "42": {
+        "answer": "A",
+        "explanation": "[答案]A [精解]由定位词定位至 A 段,该段先介绍当下十分普遍的一种观念“慢希望”,随后说明其特点“受‘改变是有可能的’这一信念的驱使,进展缓慢,充满挫折”。试题是对“慢希望”观念的同义转述,其中Many people believe契合①句 Our world is full of(暗示该观点相当普遍)。"
+      },
+      "43": {
+        "answer": "F",
+        "explanation": "[答案]F [精解]由定位词定位至 F段①②句,这两句指出技术拯救论不切实际“不能指望科学家去创造技术奇迹来拯救我们,单凭天才和技术设计出的一个宏大计划难以拯救我们的星球”。试题是对上述观点的合"
+      },
+      "44": {
+        "answer": "I",
+        "explanation": "44.It is human nature to cherish hopes for a better world. 怀有对一个更美好的世界的向往是人之本性。􀪋[答案]I [精解]由定位词定位至I段⑤至⑦句,⑤句先指出“人类心灵产物中蕴藏着一个更美好的世界的轮廓”,⑥⑦句随后指出“憧憬自身潜力、生活在希望中,这些使得我们人之为人”,可见,三句意在说明“怀揣对美好世界的向往是人之本性”,试题是对此三句的合理归纳概括。"
+      },
+      "45": {
+        "answer": "B",
+        "explanation": "[答案]B [精解]由定位词定位至B段②③句,②句指出技术的正面作用“让人类得以改造和控制自然界”, ③句转而暗示其负面效果“使人类为此付出代价”。试题是对两句内容的归纳概括,其中the change契合③句中these advances的真实所指“技术带来的对自然界的改造和控制”。"
+      }
+    },
+    "references": {}
+  }
+}

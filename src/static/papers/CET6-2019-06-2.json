@@ -1,0 +1,1390 @@
+{
+  "schema_version": "1.0",
+  "year": 2019,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of mutual understanding and respect in interpersonal relationships. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of mutual understanding and respect in interpersonal relationships. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the importance of mutual understanding and respect in interpersonal relationships. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A) B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A) B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Why Roman Holiday was more famous than Breakfast at Tiffany's."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Why Audrey Hepburn had more female fans than male ones."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Why the woman wanted to be like Audrey Hepburn."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Why so many girls adored Audrey Hepburn."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her unique personality."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her shift of interest to performing arts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her physical condition."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her family's suspension of financial aid."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was not an outgoing person."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She was easy-going on the whole."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She was modest and hardworking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She was usually not very optimistic."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was influenced by the roles she played in the films."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her parents taught her to sympathize with the needy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She learned to volunteer when she was a child."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her family benefited from other people's help."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Give a presentation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Start a new company."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Raise some questions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Attend a board meeting."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It will cut production costs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "No staff will be dismissed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It will raise productivity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "No new staff will be hired."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The timeline of restructuring."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The reasons for restructuring."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The communication channels."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The company's new missions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By consulting their own department managers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By emailing questions to the man or the woman."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By exploring various channels of communication."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By visiting the company's own computer network."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It helps passengers to take care of their pet animals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has animals to help passengers carry their luggage."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It uses therapy animals to soothe nervous passengers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It allows passengers to have animals travel with them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Avoiding possible dangers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Identifying drug smugglers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Finding their way around."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Looking after sick passengers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Schedule their flights around the animal visits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Photograph the therapy animals at the airport."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Keep some animals for therapeutic purposes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Bring their pet animals on board their plane."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Beside a beautifully painted wall in Arles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Beside the gate of an ancient Roman city."
+                  },
+                  {
+                    "label": "C",
+                    "text": "At the site of an ancient Roman mansion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At the entrance to a reception hall in Rome."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A number of different images."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Various musical instruments."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A number of mythological heroes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Paintings by famous French artists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The originality and expertise shown."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The stunning images vividly depicted."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The worldly sophistication displayed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The impressive skills and costly dyes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His artistic taste is superb."
+                  },
+                  {
+                    "label": "B",
+                    "text": "His identity remains unclear."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was a collector of antiques."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He was a rich Italian merchant."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They encourage international cooperation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They lay stress on basic scientific research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They place great emphasis on empirical studies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They favour scientists from its member countries."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Many of them wish to win international recognition."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They believe that more hands will make light work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They want to follow closely the international trend."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many of their projects have become complicated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It requires mathematicians to work independently."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is faced with many unprecedented challenges."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It lags behind other disciplines in collaboration."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It calls for more research funding to catch up."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Scientists tried to send a balloon to Venus."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Scientists discovered water on Venus."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Scientists found Venus had atmosphere."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Scientists observed Venus from a space vehicle."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It resembles Earth in many aspects."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the same as fiction has portrayed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a paradise of romance for alien life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It undergoes geological changes like Earth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It might have been hotter than it is today."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It might have been a cozy habitat for life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It used to have more water than Earth."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It used to be covered with rainforests."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Causes of sleeplessness."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Cultural psychology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Cross-cultural communication."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Motivation and positive feelings."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They attach great importance to sleep."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They often have trouble falling asleep."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They pay more attention to sleep efficiency."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They generally sleep longer than East Asians."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By asking people to report their sleep habits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By observing people's sleep patterns in labs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By having people wear motion-detecting watches."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By videotaping people's daily sleeping processes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has made remarkable progress in the past few decades."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has not yet explored the cross-cultural aspect of sleep."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has not yet produced anything conclusive."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has attracted attention all over the world."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The dream of personalised flight is still vivid in the minds of many inventors, some developing cycle-powered craft, others 26 money into jetpacks (喷气飞行背包). However, the flying car has always remained the 27 symbol of personal transport freedom.\n\nSeveral companies around the world have produced 28 that can drive on roads and fly. Airbus has a futuristic modular (组件式的) concept involving a passenger capsule that can be 29\n\nfrom the road-going chassis (底盘) and picked up by a helicopter-type machine.\n\nBut all these concepts are massively expensive, require safety certification standards for road and air, need 30 controls, involve complex folding wings and propellers, and have to be flown from air-strips. So they are likely to remain rich people's playthings rather than practical transport solutions for the masses.\n\n\"A car that takes off from some London street and lands in another 31 street is unlikely to happen,\" says Prof. Gray, a leading aeronautical engineer. \"Sky taxis are much more likely.\" But that won't stop inventors from dreaming up new ways to fly and trying to persuade investors to back their sometimes 32 schemes.\n\nCivilian aviation is being disrupted, not by the age-old desires for speed, romanticism and 33, but by the pressing need to respond to a changing climate. New electric engines coupled with artificial intelligence and 34 systems will contribute to a more efficient, integrated transport system that is less polluting and less noisy. That may sound simple, but as Prof. Gray says, “When I travel somewhere I like this notion that when I finish my journey I feel better than when I started it. That’s completely at 35 with how I feel today.” Now that would be progress.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "autonomous"
+        },
+        {
+          "label": "I",
+          "text": "pouring"
+        },
+        {
+          "label": "B",
+          "text": "detached"
+        },
+        {
+          "label": "J",
+          "text": "prototypes"
+        },
+        {
+          "label": "C",
+          "text": "dual"
+        },
+        {
+          "label": "K",
+          "text": "random"
+        },
+        {
+          "label": "D",
+          "text": "glamour"
+        },
+        {
+          "label": "L",
+          "text": "repressing"
+        },
+        {
+          "label": "E",
+          "text": "imminent"
+        },
+        {
+          "label": "M",
+          "text": "segmented"
+        },
+        {
+          "label": "F",
+          "text": "odds"
+        },
+        {
+          "label": "N",
+          "text": "spectrum"
+        },
+        {
+          "label": "G",
+          "text": "opposites"
+        },
+        {
+          "label": "O",
+          "text": "ultimate"
+        },
+        {
+          "label": "H",
+          "text": "outrageous"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 124,
+          "end": 126
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 205,
+          "end": 207
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 296,
+          "end": 298
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 421,
+          "end": 423
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 613,
+          "end": 615
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 890,
+          "end": 892
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1128,
+          "end": 1130
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1233,
+          "end": 1235
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1358,
+          "end": 1360
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1653,
+          "end": 1655
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Companies Are Working with Consumers to Reduce Waste",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "As consumers, we are very wasteful. Annually, the world generates 1.3 billion tons of solid waste. This is expected to go up to 2.2 billion by 2025. The developed countries are responsible for 44% of waste, and in the U.S. alone, the average person throws away their body weight in rubbish every month."
+        },
+        {
+          "label": "B",
+          "text": "Conventional wisdom would seem to suggest that companies have no incentive to lengthen the life cycle of their products and reduce the revenue they would get from selling new goods. Yet, more and more businesses are thinking about how to reduce consumer waste. This is partly driven by the rising price of raw materials and metals. It is also partly due to both consumers and companies becoming more aware of the need to protect our environment."
+        },
+        {
+          "label": "C",
+          "text": "When choosing what products to buy and which brands to buy from, more and more consumers are looking into sustainability. This is opposed to just price and performance they were concerned about in the past. In a survey of 54 of the world's leading brands, almost all of them reported that consumers are showing increasing care about sustainable lifestyles. At the same time, surveys on consumers in the U.S. and the U.K. show that they also care about minimizing energy use and reducing waste."
+        },
+        {
+          "label": "D",
+          "text": "For the most part, consumers control what happens to a product. But some companies are realizing that placing the burden of recycling entirely on the consumer is not an effective strategy, especially when tossing something away seems like the easiest and most convenient option."
+        },
+        {
+          "label": "E",
+          "text": "Some retailers and manufacturers in the clothing, footwear, and electronics industries have launched environmental programs. They want to make their customers interested in preserving their products and preventing things that still have value from going to the garbage dump. By offering services to help expand the longevity of their products, they're promising quality and durability to consumers, and receiving the reputational gains for being environmentally friendly."
+        },
+        {
+          "label": "F",
+          "text": "For example, the Swedish jeans company Nudie Jeans offers free repair at twenty of their shops. Instead of discarding their old worn-out jeans, customers bring them in to be renewed. The company even provides mail-order repair kits and online videos, so that customers can learn how to fix a pair of jeans at home. Their philosophy is that extending the life of a pair of jeans is not only great for the environment, but allows the consumer to get more value out of their product. When customers do want to toss their pair, they can give them back to the store, which will repurpose and resell them. Another clothing company, Patagonia, a high-end outdoor clothing store, follows the same principle. It has partnered with DIY website iFixit to teach consumers how to repair their clothing, such as waterproof outerwear, at home. The company also offers a repair program for their customers for a modest fee. Currently, Patagonia repairs about 40,000 garments a year in their Reno, Nevada, service center. According to the company's CEO, Rose Marcario, this is about building a company that cares about the environment. At the same time, offering repair supports the perceived quality of its products."
+        },
+        {
+          "label": "G",
+          "text": "In Brazil, the multinational corporation Adidas has been running a shoe-recycling program called “Sustainable Footprint” since 2012. Customers can bring shoes of any brand into an\n\nAdidas store to be shredded and turned into alternative fuels for energy creation instead of being burned as trash. They are used to fuel cement ovens. To motivate visitors to bring in more old shoes, Adidas Brazil promotes the program in stores by showing videos to educate customers, and it even offers a discount each time a customer brings in an old pair of shoes. This boosts the reputation and image of Adidas by making people more aware of the company's values."
+        },
+        {
+          "label": "H",
+          "text": "Enormous opportunities also lie with e-waste. It is estimated that in 2014 the world produced some 42 million metric tons of e-waste (discarded electrical and electronic equipment and its parts) with North America and Europe accounting for 8 and 12 million metric tons respectively. The materials from e-waste include iron, copper, gold, silver, and aluminum—materials that could be reused, resold, salvaged, or recycled. Together, the value of these metals is estimated to be about \\$52 billion. Electronics giants like Best Buy and Samsung have provided e-waste take-back programs over the past few years, which aim to refurbish (翻新) old electronic components and parts into new products."
+        },
+        {
+          "label": "I",
+          "text": "For other companies interested in reducing waste, helping the environment, and providing the sustainable lifestyles that consumers seek, here are some first steps for building a relationship with customers that focuses on recycling and restoring value to products:"
+        },
+        {
+          "label": "J",
+          "text": "Find partners. If you are a manufacturer who relies on outside distributors, then retailers are the ideal partner for collecting old products. Power tool maker DeWalt partners with companies, such as Lowes and Napa Auto Parts, to collect old tools at their stores for recycling. The partnership benefits both sides by allowing unconventional partners (for example, two companies from two different industries) to work together on a specific aspect of the value chain, like, in this example, an engine firm with an accessory one."
+        },
+        {
+          "label": "K",
+          "text": "Create incentives. Environmental conscientiousness isn't always enough to make customers recycle old goods. For instance, DeWalt discovered that many contractors were holding on to their old tools, even if they no longer worked, because they were expensive purchases and it was hard to justify bringing them in to recycle. By offering instant discounts worth as much as \\$100, DeWalt launched a trade-in program to encourage people to bring back tools. As a result, DeWalt now reuses those materials to create new products."
+        },
+        {
+          "label": "L",
+          "text": "Start with a trial program, and expect to change the details as you go. Any take-back program will likely change over time, depending on what works for your customers and company goals. Maybe you see low customer participation at first, or conversely, so much success that the cost of recycling becomes too high. Best Buy, for instance, has been bearing the lion's share of e-waste volume since two of its largest competitors, Amazon and Wal-mart, do not have their own\n\nrecycling programs. Since the launch of its program, Best Buy changed its policy to add a \\$ 25 fee for recycling old televisions in order to keep the program going."
+        },
+        {
+          "label": "M",
+          "text": "Build a culture of collective values with customers. A stronger relationship between the retailer/producer and the consumer isn't just about financial incentives. By creating more awareness around your efforts to reduce waste, and by developing a culture of responsibility, repair, and reuse, you can build customer loyalty based on shared values and responsibilities."
+        },
+        {
+          "label": "N",
+          "text": "These examples are just the tip of the iceberg, but they demonstrate how helping customers get more use of their materials can transform value chains and operations. Reducing waste by incorporating used materials into production can cut costs and decrease the price of procurement (采购): less to be procured from the outside and more to be re-utilized from the inside.\n\n[ O ] Companies play a big role in creating a circular economy, in which value is generating less from extracting new resources and more from getting better use out of the resources we already have—but they must also get customers engaged in the process."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Some companies believe that products' prolonged lifespan benefits both the environment and customers."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "A survey shows shoppers today are getting more concerned about energy conservation and environmental protection when deciding what to buy."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Companies can build customer loyalty by creating a positive culture of environmental awareness."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "When companies launch environmental programs, they will have their brand reputation enhanced."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "One multinational company offers discounts to customers who bring in old footwear to be used as fuel."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Recycling used products can help manufacturers reduce production costs."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Electronic products contain valuable metals that could be recovered."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "It seems commonly believed that companies are not motivated to prolong their products' lifespan."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "It is advisable for companies to partner with each other in product recycling."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some businesses have begun to realize it may not be effective to let consumers take full responsibility for recycling."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Effective Friday, Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA) has declared a strike against 11 video game publishers over games that went into production after Feb. 17, 2015. The companies include some of the heavyweights of the industry, like Electronic Arts Productions, Insomniac Games, Activision and Disney.\n\nThe strike comes in light of an unsuccessful 19 months of negotiations after the existing labor contract known as the Interactive Media Agreement expired in late 2014. Overall, the strike is an effort to provide more secondary compensation along with other concerns, such as transparency upon hiring talent and on-set (制作中) safety precautions.\n\nThe video gaming industry has ballooned in recent years. The Los Angeles Times reports that the industry is in the midst of an intense increase in cash flow. In 2015, gaming produced \\$ 23.5 billion in domestic revenue.\n\nBut SAG-AFTRA says voice actors don't receive residuals (追加酬金) for their gaming work. Instead, they receive a fixed rate, which is typically about \\$825 for a standard four-hour vocal session. So the voice actors are pushing for the idea of secondary compensation—a performance bonus every time a game sells 2 million copies or downloads, or reaches 2 million subscribers, with a cap at 8 million.\n\n“It’s a very small number of games that would trigger this secondary compensation issue,” said voice actor Crispin Freeman, who’s a member of the union’s negotiating committee. “This is an important aspect of what it means to be a freelance (从事自由职业的) performer, who isn’t regularly employed every single day working on projects.”\n\nAnother major complaint from the actors is the secrecy of the industry. “I can’t imagine if there’s any other acting job in the world where you don’t know what show you’re in, when you’re hired,” says voice actor Keythe Farley, who chairs the SAG-AFTRA negotiating committee.\n\n“And yet that happens every day in the video game world,” Farley told reporters during a press conference Friday. “I was a main character in Fallout 4, a character by the name of Kellogg, and I never knew that I was doing vocal recording for that game throughout the year and a half.”\n\nScott Witlin, the lawyer representing the video game companies, says voice actors “represent less than one tenth of 1 percent of the work that goes into making a video game.” So “even though they’re the top craftsmen in their field,” Witlin says, “if we pay them under a vastly different system than the people who do the 99.9 percent of the work, that’s going to create far more problems for the video game companies.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "Why did SAG-AFTRA declare a strike against some video game publishers?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The labor contract between them had been violated."
+                },
+                {
+                  "label": "B",
+                  "text": "Its appeal to renegotiate the contract had been rejected."
+                },
+                {
+                  "label": "C",
+                  "text": "It had been cheated repeatedly in the 19 months of talks."
+                },
+                {
+                  "label": "D",
+                  "text": "The negotiations between them had broken down."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn from the passage about the video gaming industry?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has reaped huge profits in recent years."
+                },
+                {
+                  "label": "B",
+                  "text": "It has become more open and transparent."
+                },
+                {
+                  "label": "C",
+                  "text": "It has attracted many famous voice actors."
+                },
+                {
+                  "label": "D",
+                  "text": "It has invested a lot in its domestic market."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What are the voice actors demanding?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "More regular employment."
+                },
+                {
+                  "label": "B",
+                  "text": "A non-discriminatory contract."
+                },
+                {
+                  "label": "C",
+                  "text": "Extra pay based on sales revenues."
+                },
+                {
+                  "label": "D",
+                  "text": "A limit on the maximum work hours."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does Keythe Farley say about voice actors?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are kept in the dark about many details of their job."
+                },
+                {
+                  "label": "B",
+                  "text": "They are discriminated against in the gaming industry."
+                },
+                {
+                  "label": "C",
+                  "text": "They are not paid on a regular basis."
+                },
+                {
+                  "label": "D",
+                  "text": "They are not employed full-time."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is the argument of lawyer Scott Witlin?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Voice actors should have a pay raise if they prove to be top craftsmen."
+                },
+                {
+                  "label": "B",
+                  "text": "Changing the pay system would cause the industry more problems."
+                },
+                {
+                  "label": "C",
+                  "text": "Voice actors are mere craftsmen, not professional performers."
+                },
+                {
+                  "label": "D",
+                  "text": "Paying voice actors on an hourly basis is in line with the law."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Officials at the White House announced a new space policy focused on managing the increasing number of satellites that companies and governments are launching into space. Space Policy Directive-3 lays out general guidelines for the United States to mitigate (缓解) the effects of space debris and track and manage traffic in space.\n\nThis policy sets the stage for the Department of Commerce to take over the management of\n\ntraffic in space. The department will make sure that newly launched satellites don't use radio frequencies that would interfere with existing satellites, and schedule when such new satellites can be launched. This only applies to American space activities, but the hope is that it will help standardize a set of norms in the dawning commercial spaceflight industry throughout the world.\n\nSpace, especially the space directly around our planet, is getting more crowded as more governments and companies launch satellites. One impetus for the policy is that companies are already starting to build massive constellations (星座), comprising hundreds or thousands of satellites with many moving parts among them. With so much stuff in space, and a limited area around our planet, the government wants to reduce the chances of a collision. Two or more satellites slamming into each other could create many more out-of-control bits that would pose even more hazards to the growing collection of satellites in space.\n\nAnd it's not like this hasn't happened before. In 2009 an old Russian craft slammed into a communications satellite, creating a cloud of hundreds of pieces of debris and putting other hardware at risk. Journalist Sarah Scoles reports that NASA currently tracks about 24,000 objects in space, and in 2016 the Air Force had to issue 3,995,874 warnings to satellite owners alerting them to a potential nearby threat from another satellite or bit of debris.\n\nThat's why this new policy also includes directions to update the current U.S. Government Orbital Debris Mitigation Standard Practices, which already require any entity that launches a satellite or spacecraft to vigorously analyze the likelihood that any of their actions, from an unexpected failure or normal operations, will create more space debris. It includes accounting for any piece of debris they plan to release over 5mm that might stay in orbit for 25 years or more. It might seem surprising to think about an item staying in space for that long, but the oldest satellite still in orbit—Vanguard 1—turned 60 in 2018.\n\nAgencies and companies throughout the world are working on developing technology that would dispose of or capture space debris before it causes serious damage. But for now, the U.S. government is more focused on preventing new debris from forming than taking the trash out of orbit.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the purpose of the new U.S. space policy?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To lay out general guidelines for space exploration."
+                },
+                {
+                  "label": "B",
+                  "text": "To encourage companies to join in space programs."
+                },
+                {
+                  "label": "C",
+                  "text": "To make the best use of satellites in space."
+                },
+                {
+                  "label": "D",
+                  "text": "To improve traffic conditions in space."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is the Department of Commerce expected to do under the new policy?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Reduce debris in space."
+                },
+                {
+                  "label": "B",
+                  "text": "Monitor satellite operations."
+                },
+                {
+                  "label": "C",
+                  "text": "Regulate the launching of new satellites."
+                },
+                {
+                  "label": "D",
+                  "text": "Update satellite communications technology."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the U.S. government hope to do with the new space policy?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Set international standards for the space flight industry."
+                },
+                {
+                  "label": "B",
+                  "text": "Monopolize space industry by developing a set of norms."
+                },
+                {
+                  "label": "C",
+                  "text": "Facilitate commercial space flights throughout the world."
+                },
+                {
+                  "label": "D",
+                  "text": "Promote international collaboration in space exploration."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What is a space vehicle launching entity required to do according to the current U.S. Government Orbital Debris Mitigation Standard Practices?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Give an estimate of how long its debris will stay in space."
+                },
+                {
+                  "label": "B",
+                  "text": "Account for the debris it has released into space at any time."
+                },
+                {
+                  "label": "C",
+                  "text": "Provide a detailed plan for managing the space debris it creates."
+                },
+                {
+                  "label": "D",
+                  "text": "Make a thorough analysis of any possible addition to space debris."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What are space agencies and companies aiming to do at present?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Recycle used space vehicles before they turn into debris."
+                },
+                {
+                  "label": "B",
+                  "text": "Develop technology to address the space debris problem."
+                },
+                {
+                  "label": "C",
+                  "text": "Limit the amount of debris entering space."
+                },
+                {
+                  "label": "D",
+                  "text": "Cooperate closely to retrieve space debris."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "中国幅员辽阔,人口众多,很多地方人们都说自己的方言。方言在发音上差别最大,词汇和语法差别较小。有些方言,特别是北方和南方的方言,差异很大,以至于说不同方言的人常常很难听懂彼此的讲话。方言被认为是当地文化的一个组成部分,但近年来能说方言的人数不断减少。为了鼓励人们更多说本地方言,一些地方政府已经采取措施,如在学校开设方言课,在广播和电视上播放方言节目,以期保存本地的文化遗产。"
+      }
+    ]
+  },
+  "id": "CET6-2019-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "9": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。C) 概括 II 段主要内容“辛辛那提/北肯塔基国际机场引进迷你马/治疗马(miniature horses/therapy horses)安抚紧张的乘客(deliver a calming force)，为正确项。A) 将 II 段 miniature horses 腮断为“宠物”，而文中只提到“动物理疗师”，未提及宠物。B) 借短文中 luggage、horses、donkey 以及常识“马/驴多用于驮物”捏造干扰。D) 利用文中 passagers、animal 主观臆断，文中并未提及“乘客带动物出行”。"
+      },
+      "26": {
+        "answer": "I",
+        "explanation": "## 26. 答案: I) pouring"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "## 27. 答案: O) ultimate"
+      },
+      "28": {
+        "answer": "J",
+        "explanation": "## 28. 答案: J) prototypes"
+      },
+      "29": {
+        "answer": "B",
+        "explanation": "## 29. 答案: B) detached"
+      },
+      "30": {
+        "answer": "C",
+        "explanation": "## 30. 答案: C) dual"
+      },
+      "31": {
+        "answer": "K",
+        "explanation": "## 31. 答案: K) random"
+      },
+      "32": {
+        "answer": "H",
+        "explanation": "## 32. 答案: H) outrageous"
+      },
+      "33": {
+        "answer": "D",
+        "explanation": "## 33. 答案: D) glamour"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "## 34. 答案: A) autonomous"
+      },
+      "35": {
+        "answer": "F",
+        "explanation": "## 35. 答案: F) odds"
+      },
+      "46": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。第二段首句指出,2014年底现行劳工合同到期,而后双方持续了19个月的谈判,最后谈判失败触发了此次罢工。可见SAG-AFTRA宣布罢工的原因是谈判失败,D正确。"
+      },
+      "47": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。第三段指出,电子游戏业近年来迅速壮大,现金流猛增,2015年创造了巨额国内收入,可知该行业收益巨大,A正确。"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "[锁定答案] C)。第四段②句指出，配音演员们在努力争取二次付酬，即每款游戏达到一定销售额时（200万份销售量/下载量/用户），配音演员可获得绩效奖金(a performance bonus)。即，配音演员要求根据销售额支付额外工资，C正确。"
+      },
+      "49": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。第六段 Keythe Farley 提出，在电子游戏行业里，配音演员不知道自己在出演什么，也不知道自己什么时候被录用；第七段 Farley 讲述亲身经历“工作了一年半都不知道自己在为哪款游戏配音”。可见他提出配音演员对许多工作细节一无所知，A 正确。"
+      },
+      "50": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。末段 Scott Witlin 提出,对于电子游戏制作,配音演员的工作仅占所有工作的不到千分之一,如果对其采用与那些做了 99.9% 工作的人不同的薪酬体系,会给电子游戏公司带来更多问题,可见 Scott Witlin 认为改变薪酬体系会给电子游戏业带来更多问题,B 正确。"
+      },
+      "51": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。首段指出:新太空政策重在管理日益增多的太空卫星。第3号太空政策指令(新太空政策)为美国缓解太空碎片的影响以及追踪和管理太空交通制定了通用的指导方针,可见新政策旨在改善太空交通状况、减少太空碎片威胁,D正确。"
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "[锁定答案] C)。第二段指出新政策将令商务部接手太空交通管理,商务部将确保新发射卫星不使用会干扰现有卫星的无线电频率,并安排何时才可发射这种新卫星,C正确。"
+      },
+      "53": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。第二段③句指出,美国新政策虽仅适用于本国,但美国希望它有助商业航天业形成一套标准化的全球准则,可见,美国新政策的深层目标是“为商业航天业确立国际标准”,A正确。"
+      },
+      "54": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。第五段指出,现行“规范”要求“任何发射卫星或航天器的实体,均需分析其任一行动产生太空碎片的可能,包括对计划释放的任一片5毫米以上的、可能会在轨道上滞留25年及以上的碎片作出解释(即,详尽分析任一可能释放的碎片、并对特定危险性碎片作出解释)”,D正确。"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。末段①句指出,全世界的政府机构和企业都在努力开发可以处理或捕获太空碎片的技术,以防碎片造成严重损害,B正确。"
+      }
+    },
+    "references": {}
+  }
+}

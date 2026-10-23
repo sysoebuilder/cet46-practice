@@ -1,0 +1,1307 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 9,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose your class has just finished celebrating the Teachers' Day. You are now to write a report to the university newspaper on the celebration activities organized by your class. You will have 30 minutes to write the report. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "report",
+        "instructions": {
+          "directions": "Suppose your class has just finished celebrating the Teachers' Day. You are now to write a report to the university newspaper on the celebration activities organized by your class. You will have 30 minutes to write the report. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose your class has just finished celebrating the Teachers' Day. You are now to write a report to the university newspaper on the celebration activities organized by your class. You will have 30 minutes to write the report. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It examines the effect of cholesterol on people's health."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its participants all had high blood cholesterol levels."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It questions the benefits of a vegetarian protein diet."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its finding came as a surprise to the researchers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They do not know all the effects of eating meat."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Red meat itself does not cause heart diseases."
+                  },
+                  {
+                    "label": "C",
+                    "text": "White meat may be healthier than red meat."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Vegetarian protein may be easier to absorb."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may have been due to the lorry driver's drunk driving."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may affect the local supply of turkeys for Christmas."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It interrupted traffic for several hours running."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was caused by a lorry running into a trailer."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has been the scene of several fatal accidents recently."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the spot that causes the local police a lot of worry."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has witnessed several traffic accidents this year."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a location frequented by local traffic police."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Get approval to add more routes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Advertise it through a mobile app."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Attract more international tourists."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Make it affordable to common folk."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It costs more than twice as much as a car ride."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is gaining popularity among ordinary Indians."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It symbolizes India's advancement in high-tech."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can get any where in the city within 15 minutes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "International tourists."
+                  },
+                  {
+                    "label": "B",
+                    "text": "High-class travelers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Prominent superstars."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Customers in a hurry."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Treat her friends in a bar."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make some cheese."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take a trip to Washington."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Throw a party."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Spend no more than 30 dollars."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help him prepare the barbecue."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Buy different kinds of cheese."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Find out different people's tastes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is the best kind of hard cheese."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the most popular in Spain."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is more delicious than honey."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a good choice for children."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Buy what the man recommended."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Have a taste of both of the cheeses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Choose one of the two types of cheese."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ask the man to cut the cheese into slices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "New teachers and staff have to be recruited."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It might take some time for students to adapt."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It involves buying lots of tablets and software."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The software has to be constantly upgraded."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can greatly improve their learning efficiency."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can help them to interact more with teachers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can save their trouble of carrying printed books."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can develop their skills in using electronic devices."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They may have trouble comprehending texts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They may encounter technological problems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They may pay less respect to teachers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The y may get distracted more easily."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It generate s a great deal of electronic garbage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It does a lot of damage to the environment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It emits huge a mounts of harmful radiation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It accelerates the exhaustion of rare minerals."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Communicate with our coworkers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Encounter people in different places."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Judge people based on our first impressions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Engage in a variety of psychological activities."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is an objective evaluation of a person's character."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a mental process influenced by many factors."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It contributes to the formation of personal traits."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It varies greatly among different social groups."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can lead to incorrect judgments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can result in instant losses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can cause mistrust among people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can give rise to gender bias."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Both groups spend a lot of time on mobile devices."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Both groups attach importance to social connections."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are equally competent in using new technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are similar in terms of social skills."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their social skills were negatively affected."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their school performance was slightly lower."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their emotions were much harder to regulate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their relations with peers were badly strained."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may pose a threat to their children's safety."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may affect society's traditional values."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may hurt their relations with children."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may change their children's ethical values."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is motivating."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is incredible."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is passive."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is impracticable."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It results in short-term excitement."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It helps us avoid making mistakes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It breeds long-term passion and enthusiasm."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is bound to help us achieve greater success."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Drive us forward."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Spur us to action."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Bring us power."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give us ideas."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Listening to success stories."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Following the advice of experts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Applying ideas to one's life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consuming the world around us."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Public perception of success in the U.S. might be totally misguided.\n\nWhile 92% of people believe others care most about fame and _26_, fewer than 10% factor those qualities into their own success. This is according to the newly _27_ study by Harvard Graduate School of Education professor Todd Smith. Smith says he was _28_ by how past studies on success “assumed what people will care about.” In this study, his team “went the _29_ direction” by spending years carrying out individual interviews and group surveys to see what people really talk about when they talk about success.\n\nAs a scientist, Smith _30_ studied individuality for a living, and even he was surprised to find younger respondents cared more about having a _31_ in life. Those between the ages of 18 and 34 prioritized it most, and that prioritization dropped off as respondents' ages went up. Perhaps this is because older people had fewer options when they were starting their careers, at a time when values focused more on stable incomes than _32_ personal missions.\n\nOther trends included an emphasis on the importance of parenting. Being a parent _33_ very high across the priorities of all study participants. Ultimately, Smith hopes institutions will take note of these insights _34_.\n\nHigher education institutions tend to focus on preparing students for high-paying jobs. For such institutions, from universities to workplaces, to better _35_ people in the U.S., they'll need to understand \"what the American public highly prioritizes,\" Smith says.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "accommodate"
+        },
+        {
+          "label": "I",
+          "text": "opposite"
+        },
+        {
+          "label": "B",
+          "text": "accordingly"
+        },
+        {
+          "label": "J",
+          "text": "profession"
+        },
+        {
+          "label": "C",
+          "text": "acquiring"
+        },
+        {
+          "label": "K",
+          "text": "purpose"
+        },
+        {
+          "label": "D",
+          "text": "bothered"
+        },
+        {
+          "label": "L",
+          "text": "ranked"
+        },
+        {
+          "label": "E",
+          "text": "fortune"
+        },
+        {
+          "label": "M",
+          "text": "released"
+        },
+        {
+          "label": "F",
+          "text": "fulfilling"
+        },
+        {
+          "label": "N",
+          "text": "similarly"
+        },
+        {
+          "label": "G",
+          "text": "identify"
+        },
+        {
+          "label": "O",
+          "text": "wrong"
+        },
+        {
+          "label": "H",
+          "text": "literally"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 130,
+          "end": 134
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 229,
+          "end": 233
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 320,
+          "end": 324
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 429,
+          "end": 433
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 606,
+          "end": 610
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 727,
+          "end": 731
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1016,
+          "end": 1020
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1122,
+          "end": 1126
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1256,
+          "end": 1260
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1417,
+          "end": 1421
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How a rabbit study and an ex-student boost my hopes for a future of ‘love and dignity’",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "At whatever grade level teachers find themselves, from kindergarten to the final class at medical or law school, few moments stir the emotions as deeply as when former students reappear years and often decades later with an update on where their journey has taken them and what resiliencies (韧性) have been the pavement on which they've traveled."
+        },
+        {
+          "label": "B",
+          "text": "So it was when a recent letter came from Kelli Harding, a student 21 years ago in my Peace Studies summer course in Washington. The weekly tuition-free class, in a roomy space that Ralph Nader and his Public Citizen nonprofit group provided, was discussion-based and required no useless homework or exams. Just come in and figure out how to increase peace and decrease violence. And do it today, tomorrow is too late. The course attracted mostly congressional interns (实习生), with a few exceptions like Kelli who was in Washington as an AmeriCorps volunteer."
+        },
+        {
+          "label": "C",
+          "text": "Her year-long service included comforting AIDs patients at a free health clinic and delivering meals to the homebound. It was a world apart from her undergraduate days at the University of California- Berkeley majoring in political science. The Washington experience, which Kelli would later call u transformative, was the fuel that carried her into medicine to earn a master's degree in public health from Columbia University and a medical degree from the University of Rochester, and almost two decades of practice as an emergency-room psychiatrist (精神科医生) at New York-Presbyterian Hospital and a clinical professor of psychiatry at Columbia University Irving Medical Center."
+        },
+        {
+          "label": "D",
+          "text": "Kelli's letter, a literate update on both her personal and professional life, touched my heart, and especially so when saying that two decades later she still has the course text, \"Solutions to Violence,\" and that \"it remains one of my favorite possessions.\" She lives in Lower Manhattan with her husband, Padraic, whom she met on a flight to London, and their three boys."
+        },
+        {
+          "label": "E",
+          "text": "If Kelli stands out, it's because she is also a gifted writer. Last month, Atria Books published her book The Rabbit Effect: Live Longer, Happier, and Healthier with the Groundbreaking Science of Kindness."
+        },
+        {
+          "label": "F",
+          "text": "With a blending of free-flowing confessional prose and scholarly research found in 461 notes, Kelli met my expectations that her ideas and ideals would be sound and singular. \"Despite our scientific progress,\" she writes, \"Americans are remarkably unhealthy. In 2016, the United States ranked forty-third in the world for life expectancy.... It is also by far the world's most expensive place to get sick.\""
+        },
+        {
+          "label": "G",
+          "text": "Enter the rabbits-not those running around in our woodlands but ones serving in two month-long medical experiments to test the effects of eating a high-fat diet and the connections between cholesterol and heart disease. With similar diets, the expectations\n\nwere that all the rabbits would have similar cloggings of their arteries (动脉堵塞). Yet one group had 60% fewer of them."
+        },
+        {
+          "label": "H",
+          "text": "The reason? Instead of receiving the standard care given to lab animals, the 60% group was watched over by a newcomer to the lab who, Kelli writes, “handled the animals differently. When she fed her rabbits she talked to them and petted them. She didn’t just pass out food, she gave them love.... The studies indicate something is missing in the traditional biomedical model. It wasn’t diet or genetics that made a difference in which rabbits got sick and which stayed healthy. It was kindness.”"
+        },
+        {
+          "label": "I",
+          "text": "Amid the political noise about Obamacare, Medicare, Medicaid, health insurance and thieving pharmaceutical (医药的) companies, Kelli Harding stands apart from the crowd calling for quick fixes, the simpler the better. She has walked too many miles in the halls of hospitals visiting too many far-gone patients and seeing too many medical mistakes to go along with conventional thinking."
+        },
+        {
+          "label": "J",
+          "text": "“The rabbit effect,” she explains, means that “when it comes to our health, we’ve been missing some crucial pieces: hidden factors behind what really makes us healthy. Factors like love, friendship, and dignity. The designs of our neighborhoods, schools, and workplaces. There’s a social dimension to health that we’ve completely overlooked in our efforts to find the best and most cutting-edge medical care.... Ultimately, what affects our health in the most meaningful ways has more to do with how we treat one another, how we live, and how we think about what it means to be human than with anything that happens in the doctor’s office.”"
+        },
+        {
+          "label": "K",
+          "text": "In more than a few passages, she relates the stories of men and women who came up against assembly-line medicine where patients were treated mostly as pieces of flesh. “Clinically,” she writes, “it’s common to see two patients with the same condition, such as recovering from a heart attack, have two very different courses based on seemingly irrelevant factors, such as their family relationships or their educational levels. In my practice, the sickest people I see often share similar backgrounds: loneliness, abuse, poverty, or discrimination. For them, the medical model isn’t enough. It’s like fixing up an airplane engine and ignoring that the pilot is on his third drink at the bar and a massive storm is overhead.... To properly care for patients, we also need to care about the lives of the people getting the care.”"
+        },
+        {
+          "label": "L",
+          "text": "Kelli wastes no time taking potshots at (随意批评) the medical establishment and its body-centered biomedicine methods. Instead, she remains positive, holding up for praise one of her medical school professors, George Engel, “who always noticed not just a patient’s physical condition but little details about her life, such as if she had family pictures up in her hospital room or flowers delivered. He was the kind of trusted doctor you’d feel relieved to see and welcome into the room with a sick family member. He’d sit down to talk with the patient not just about medical problems, but about her life and priorities. He built a large consultation service to address the holistic (整体的) needs of hospitalized patients, including psychological and social factors.”"
+        },
+        {
+          "label": "M",
+          "text": "It's a guess how many George Engels in their white jackets are at work these days and another speculation on the number of Kelli Hardings the nation is blessed with. May the totals be large and getting larger."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Kelli Harding also distinguishes herself by her literary talent."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Kelli Harding doesn't think America's medical model is sufficient for patients who need help most."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Kelli Harding differs from those seeking quick and simple solutions to America's medical problems."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Kelli Harding was a participant in a summer course the author taught."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "According to Kelli Harding, scientific advances have not made Americans healthier, nor prolonged their life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "The author was deeply moved by what Kelli Harding wrote about her current life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "George Engel, in treating his patients, not only looks into their symptoms but also into things like the emotional support they receive."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "According to Kelli Harding, rabbits' health had more to do with humans' kindness to them than their diet or genetics."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "What Kelli Harding went through in Washington changed her life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "A social aspect to health has not been taken into account in trying to provide the best medical care."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Academic dishonesty is nothing new. As long as there have been homework assignments and tests, there have been cheaters. The way that cheating looks has changed over time, though, particularly now that technology has made it easier than ever. A study by the Josephson Institute of Ethics interviewed 23,000 high school students and asked them a variety of questions about academic ethics. Of the teens surveyed, 51 percent said that they had knowingly cheated at some point on an exam but that they did not feel uneasy about the behaviour. A Common Sense Media survey found that 35 -percent of students had cheated via smartphone, though the parents surveyed in that particular study did not believe their kids had ever cheated. In many cases, students did not realize that strategies like looking up answers on a smartphone were actually cheating at all.\n\nIn today's classrooms, students who cheat are rarely caught. There are no formulas written on the insides of hands or students looking across the aisle, or whispering answers to their classmates. Today's students use smartphones, tablets or even in-class computers to aid their cheating attempts and leave no trace of their crimes. Since cheating through technology is not listed specifically as being against the rules in many school policies, students do not view the actions unethical.\n\nThe technology is being adopted so quickly that school districts cannot adequately keep up with cheating policies, or even awareness campaigns that alert students to the problem with using technology to find answers in a certain way. From a young age, students learn that answers exist conveniently at their fingertips through search engines and expert websites.\n\nSchools must develop anti-cheating policies that include technology and these policies must be updated consistently. Teachers must stay on guard when it comes to what their students are doing in classrooms and how technology could be playing a negative role in the learning process. Parents must also talk to their kids about the appropriate ways to find academic answers and alert them to unethical behaviours that may seem innocent in their own eyes.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn from the study by the Josephson Institute of Ethics?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Over half of the students interviewed were unaware they were cheating."
+                },
+                {
+                  "label": "B",
+                  "text": "Cheating was becoming a way of life for a majority of high school teens."
+                },
+                {
+                  "label": "C",
+                  "text": "More than half of the interviewees felt no sense of guilt over cheating."
+                },
+                {
+                  "label": "D",
+                  "text": "Cheating was getting more and more difficult for high school students."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What did the Common Sense Media survey reveal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Most parents tended to overprotect their children."
+                },
+                {
+                  "label": "B",
+                  "text": "Many students committed cheating unknowingly."
+                },
+                {
+                  "label": "C",
+                  "text": "Students were in urgent need of ethical education."
+                },
+                {
+                  "label": "D",
+                  "text": "Parents and kids had conflicting ideas over cheating."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why do students rarely get caught cheating nowadays?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They copy formulas on their palms."
+                },
+                {
+                  "label": "B",
+                  "text": "They help each other to cover up their acts."
+                },
+                {
+                  "label": "C",
+                  "text": "They keep changing their ways of cheating."
+                },
+                {
+                  "label": "D",
+                  "text": "They make use of modern technology."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the author think schools should do to tackle cheating?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Bring policies against cheating up to date."
+                },
+                {
+                  "label": "B",
+                  "text": "Reform their exam methods constantly."
+                },
+                {
+                  "label": "C",
+                  "text": "Take advantage of the latest technologies."
+                },
+                {
+                  "label": "D",
+                  "text": "Alert parents to their children's behaviour."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author suggest teachers do in the classroom?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Prevent students from overusing electronic devices."
+                },
+                {
+                  "label": "B",
+                  "text": "Develop more effective anti-cheating strategies."
+                },
+                {
+                  "label": "C",
+                  "text": "Find more ways to curb students' unethical acts."
+                },
+                {
+                  "label": "D",
+                  "text": "Guard against students 5 misuse of technology."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Remote work is about more than just working from home—it means working differently. Organizations should reconsider the appropriateness of their performance evaluation procedures in light of the shift to remote work. This requires a fundamental rethinking of what organizations expect from employees and what companies would look for in a model employee in a remote work context.\n\nIt is likely that the “first to arrive and last to leave” mentality is no longer relevant, but should be replaced by a regard for the quality of an employee’s contribution to the organization. This means that work should be measured in terms of the quality of the work, not just the quality of the process. As remote work is largely unobservable to supervisors, employers need to think about how they can objectively measure the quality of work in a way that is consistent for employees of similar rank.\n\nFocusing on output alone can have unintended consequences. Employers should think instead about the values and soft skills they want to emphasize in a remote work environment. Qualities like flexibility and the ability to work under minimal supervision might become critical. Much has been written about the importance of timely feedback. In the context of a global pandemic (大流行病), firms may want to provide additional support to employees by providing more frequent communication. This allows managers to both keep an eye on struggling employees and provide ongoing feedback on how employees are adapting to their new work environment.\n\nCompensation also needs to be revisited. The purpose of performance evaluation is ultimately to determine how to reward employees for their work. This means that pay structures need to adapt to the reality of working from home. However, organizations also need to be honest with employees about the financial impact of COVID-19.\n\nFor organizations that have struggled to keep the lights on due to the pandemic, this might mean thinking of non-financial ways to reward employees, like unpaid time off or flexible work schedules. Employers can also consider how to bundle different types of compensation to help employees cope with their unique situations.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say companies should do in the context of remote work?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Reform performance evaluation."
+                },
+                {
+                  "label": "B",
+                  "text": "Rethink the organizational fundamentals."
+                },
+                {
+                  "label": "C",
+                  "text": "Reexamine its effects on employees' behaviors."
+                },
+                {
+                  "label": "D",
+                  "text": "Reflect on its differences from working in the office."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What should be prioritized in assessing employees' remote work?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The quantity of their output."
+                },
+                {
+                  "label": "B",
+                  "text": "The length of their work time."
+                },
+                {
+                  "label": "C",
+                  "text": "The quality of their contribution."
+                },
+                {
+                  "label": "D",
+                  "text": "The flexibility of their work schedules."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What quality in the employees would be of great importance in a remote work context?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The ability to produce quality work."
+                },
+                {
+                  "label": "B",
+                  "text": "The ability to maximize work efficiency."
+                },
+                {
+                  "label": "C",
+                  "text": "The ability to finish tasks in a timely manner."
+                },
+                {
+                  "label": "D",
+                  "text": "The ability to work with the least supervision."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why is it important for firms to provide timely feedback during the pandemic?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To evaluate their employees of similar rank in a consistent way."
+                },
+                {
+                  "label": "B",
+                  "text": "To keep a watchful eye on those employees who perform poorly."
+                },
+                {
+                  "label": "C",
+                  "text": "To help employees in need adapt to the new work environment."
+                },
+                {
+                  "label": "D",
+                  "text": "To maintain connections with their employees away from office."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What is the author's suggestion to employers who experience the financial impact of the pandemic?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Urging their employees to adapt to the new situation."
+                },
+                {
+                  "label": "B",
+                  "text": "Rewarding their employees in unconventional ways."
+                },
+                {
+                  "label": "C",
+                  "text": "Identifying employees who make little contribution."
+                },
+                {
+                  "label": "D",
+                  "text": "Allowing their employees to look for part-time jobs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "按照中国民间的传统习俗，春节期间长辈通常会给孩子发红包，俗称发压岁钱 (lucky money)，以表达对孩子的祝福，祝他们好运。如今，红包不仅是给孩子的礼物，而且经常也是给长辈或亲朋好友的礼物。近年来，随着微信用户数量的增加，微信红包变得愈加流行。欢度春节时，人们经常互发微信红包表达问候。这无疑是一种与远方亲友联系的便捷方式。\n\n注:2022年9月四级考试共考了1套听力、1套阅读、3篇写作与3篇翻译。"
+      }
+    ]
+  },
+  "id": "CET4-2022-09-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

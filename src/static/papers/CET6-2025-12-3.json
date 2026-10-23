@@ -1,0 +1,747 @@
+{
+  "schema_version": "1.0",
+  "year": 2025,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is believed that teachers can exert a profound influence on their students' academic pursuit and personal development.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is believed that teachers can exert a profound influence on their students' academic pursuit and personal development.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is believed that teachers can exert a profound influence on their students' academic pursuit and personal development.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "You should copy the sentence given in quotes at the beginning of your essay.\n\n✍️ 写作提示:文章需以指定句子开头，可从教师榜样作用、学术指导、品德培养、人生引路等角度论述。",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "It's best to think of an accent as a distinct, systematic and rule-governed way of speaking. Accent is not a 26 for dialect, but it's related. Dialect is an umbrella term for the way a community pronounces words, creates words, and orders words; accent refers to that first part only.\n\nMany 27 presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is 28 the best form of speech, but linguists often point out that the concept of a standard accent is better understood as an ideal rather than a 29. In other words, no one speaks “standard English”; rather, it is an imagined way of using language that exists only in grammar and style books.\n\nOne reason linguists agree there is no one true standard is that, through the years, there have been 30 supposed standards, depending on time and place. The standard for English in British newsreels from the 1950s, for example, differs greatly from the standard found on American national news broadcasts today. In fact, there has never been a single standard that's been fully agreed upon—and broadcast outlets across the 31 have never consistently held to those standards anyway.\n\nEven so, this idea of a standard accent is 32 and many workplace and educational environments perpetuate the idea that accents that 33 from the current standard are less appropriate, or even inappropriate. Scholars have found that southern U.S. accent features are more accepted in 34 such as government, law and serviceoriented workplaces, but less accepted in the technology sector. The acceptability of nonstandard accents may 35 with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "affix"
+        },
+        {
+          "label": "B",
+          "text": "correlate"
+        },
+        {
+          "label": "C",
+          "text": "deviate"
+        },
+        {
+          "label": "D",
+          "text": "domains"
+        },
+        {
+          "label": "E",
+          "text": "influential"
+        },
+        {
+          "label": "F",
+          "text": "inherently"
+        },
+        {
+          "label": "G",
+          "text": "laymen"
+        },
+        {
+          "label": "H",
+          "text": "multiple"
+        },
+        {
+          "label": "I",
+          "text": "properties"
+        },
+        {
+          "label": "J",
+          "text": "reality"
+        },
+        {
+          "label": "K",
+          "text": "reciprocally"
+        },
+        {
+          "label": "L",
+          "text": "specimen"
+        },
+        {
+          "label": "M",
+          "text": "spectrum"
+        },
+        {
+          "label": "N",
+          "text": "synonym"
+        },
+        {
+          "label": "O",
+          "text": "unanimous"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 109,
+          "end": 111
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 291,
+          "end": 293
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 436,
+          "end": 438
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 579,
+          "end": 581
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 828,
+          "end": 830
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1150,
+          "end": 1152
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1253,
+          "end": 1255
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1342,
+          "end": 1344
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1492,
+          "end": 1494
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1640,
+          "end": 1642
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The History and Meaning of Colored Traffic Lights (A-R paragraphs)",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Timed traffic lights are set according to schedules that are supposed to coordinate with peak traffic hours. Cities need to monitor and update signal light time schedules at least every two years to keep these systems effective. In Los Angeles, California, an ambitious project to go a step further and synchronize every red light in Los Angeles cost over 400 million dollars. Ask a resident of the city and they are likely to agree that saving time on the road is well worth it. If implemented nationwide, synchronization could shave 10% off traffic congestion and 20% off air pollution. Congestion costs time, money, and lives. Big data can help improve how millions of people safely share the road. However, none of this would be possible without the traffic light!"
+        },
+        {
+          "label": "B",
+          "text": "The first traffic light was invented in London in the 1860's, but it was hardly recognizable—or effective. It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868. The railroads used red gas lights at night to signal stops and green gas lights during the daytime. Knight installed a similar gas light, semaphore system near London's Westminster Bridge in December of 1868."
+        },
+        {
+          "label": "C",
+          "text": "The life of the first traffic light signal was short-lived. A gas leak caused one of the signal lights to explode on its police officer operator within a month of being installed."
+        },
+        {
+          "label": "D",
+          "text": "Automating traffic signals stalled after the London incident. Forty years passed before cars crowding city streets urged the development of traffic lights in the United States. London would not see another traffic light until 1929."
+        },
+        {
+          "label": "E",
+          "text": "The United States is a car culture like no other country. Unlike most European cities that started urban planning when horses were high-tech, many cities in the United States were designed around urban sprawl, suburban tracts, and motor cars."
+        },
+        {
+          "label": "F",
+          "text": "As traffic and cities grew, so did the race to solve growing traffic problems. The first traffic signals were semaphores. Semaphores are towers with moving arms signaling for traffic to stop or go. They could be manual or automatic. There was no consistent design. Various models were invented and put into place in cities as the need arose."
+        },
+        {
+          "label": "G",
+          "text": "In 1912, Lester Wire was a police officer exhausted by traffic at Main Street and 200 South. He developed a manually switched stop light. The four-sided box, raised on a ten-foot pole, looked like a birdhouse and was operated manually by an officer. The officer would flip a switch to change between the dipped red and green lights."
+        },
+        {
+          "label": "H",
+          "text": "Like the 1910 semaphore, the first electric signal used words. However, the words were no longer written on arms that raised and fell. The words “stop” or “move” were on lights. The posts lit up on each of four corner-posts around an intersection. It was not automated, though. A booth with an operator was required to flip the switches."
+        },
+        {
+          "label": "I",
+          "text": "The system allowed police officers to move from the middle of the street to a corner. From that vantage, an officer could oversee the crowd. If an emergency vehicle came, the officer could flip a switch and clear the intersection by triggering all red lights. The emergency vehicle could now pass effortlessly. Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917."
+        },
+        {
+          "label": "J",
+          "text": "In 1920, the first three-color light system was introduced in Detroit—also known as Motor City, USA. The evolution of traffic light signals could not have a more\n\nappropriate context than Motor City. Ford Motor Company was founded in Detroit in 1903 (and other motor companies followed). Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production."
+        },
+        {
+          "label": "K",
+          "text": "Stop and go were insufficient for the new volumes of cars zooming through intersections. Streets were full of new numbers of cars in addition to delivery wagons, bustling crowds, bicycles, horse-drawn carriages, and street cars. The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights."
+        },
+        {
+          "label": "L",
+          "text": "Stop lights were incredibly important in chaotic city streets. Crosswalks weren't even introduced until 1951. The first pedestrian fatality in the United States was in 1899."
+        },
+        {
+          "label": "M",
+          "text": "The development of the modern traffic light may have started in London, but it grew up in the United States. In Cleveland, an African-American inventor named Garrett Morgan came up with an affordable, patented traffic signal. The yellow light made intersections safer than the old stop and go system. The new design was inexpensive enough that it allowed the installation of a lot more lights."
+        },
+        {
+          "label": "N",
+          "text": "Morgan sold the patent to General Electric—and the spread of the traffic light was green lighted. Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light. Yellow means slow down and prepare to stop. It does not mean full-throttle ahead. While you may get away with gunning it into the intersection, running a yellow can lead to tickets and dangerous accidents. Red lights are a clear and consistent warning to stop. Even where right turns are allowed on red lights, you must come to a complete stop before turning right. You must also yield to any through traffic, which has the right of way. In most states and cities, you can take a right on red unless otherwise indicated. New York City does not allow a right on red."
+        },
+        {
+          "label": "O",
+          "text": "Red arrows mean you cannot turn right on a red in most states. The green arrow, in these cases, is the only time you can make the turn. However, you can take a right on a red arrow after a full stop in the states of Illinois, Kansas, Louisiana, Maryland,\n\nMichigan, New Hampshire, North Dakota, Oregon, South Carolina, Utah, Washington State and Wyoming."
+        },
+        {
+          "label": "P",
+          "text": "Flashing Red is the same as a stop sign, generally used at four-way intersections where there is minimal traffic. When arriving at a flashing red light, make a full and complete stop. Flashing Red Arrows similarly mean to stop and then proceed to take the turn. Flashing Yellow lights mean yield or signal caution, like outside of a fire station. There are no all-direction flashing yellow lights, since it is prohibited in the United States. If you have a flashing yellow light, you are to yield to oncoming traffic."
+        },
+        {
+          "label": "Q",
+          "text": "Flashing Yellow Arrows are part of a four-signal traffic light. These are used in some states after a protected green turn signal, or arrow, but before a steady yellow arrow. When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic. Steady Yellow Arrows maintain the normal yellow light caution in three-light signals, meaning to stop or prepare to stop. In a four-signal system that has a flashing yellow arrow, the steady yellow arrow is a signal that the yield period is ending. The red arrow is about to start. Vehicles should stop if safely possible. Traffic tickets are possible for running a steady yellow arrow."
+        },
+        {
+          "label": "R",
+          "text": "Traffic light meaning is fairly consistent across the board with various deviations. Green means it's safe to proceed (though you should still exercise caution). Yellow means caution and yield. Red means danger and stop. Always drive defensively and obey traffic signals."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Upon seeing a flashing yellow arrow, a driver should let pedestrians and traffic pass first before taking the turn."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The red and green automatic traffic light system originated in an American city."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Residents of an American city tend to share the opinion that time saved on the road justifies the cost of upgrading its traffic light system."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Mass production of cars made it possible for ordinary people to buy them."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "What a traffic light means is almost the same everywhere despite some variations."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Pedestrian crossings came into being only in the mid-twentieth century."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "People raced to address increasing traffic problems along with the expansion of cities and traffic."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "When the warning yellow light was introduced, driving became safer and traffic accidents reduced."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The signal system on the railroad served as the basis for the first traffic light."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Even though a green light signals \"go\", attention should be paid to traffic on either side in case some driver is being careless or ignoring a red light."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "Mindfulness has been shown to have a number of meaningful health benefits—it can help reduce anxiety and promote healing in those suffering from chronic illness.\n\nThe practice is based on an insight first described in ancient Buddhist texts that human beings have the capacity to observe experience without being caught up in it. This means simply that it is possible to observe ourselves having a craving, or a happy thought, or even a scary emotion, without reacting in the moment in a way that amplifies the feeling or sends the mind spiraling off into thinking about old memories or anticipating events.\n\nThis practice of mindfulness can help calm the mind and the body as we learn not to react to experience with likes and dislikes or judgments of good and bad. It does not make us cold or indifferent but more fully present.\n\nOne of the challenges of practicing mindfulness in our contemporary world is that there has been a profound transformation in human attention. The artist Jenny Odell argues that in our “attention economy” human attention has been transformed into a commodity that big corporations buy and sell. This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment.\n\nThe devices most people use are a perpetual diversion from the present moment. The result is that it can feel as though our ability to focus, and be fully present, has been stolen. But mindfulness can help us resist the attention economy and relish the things that make life special, like being together with those we love.\n\nMost mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others. It can help us build stronger, healthier relationships.\n\nThe sad truth is that living in the attention economy, most of us have become bad listeners. However, just as it is possible to watch ourselves having an experience without reacting, it's possible to watch another person have an experience without getting tied up in reactivity and judgment.\n\nThe gift of mindfulness is a practice of listening with compassion to others describe their experiences. To give this gift means putting away your phone, turning off social media, and setting aside other common distractions. It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.\n\nIf we judge the value of gifts based on their price, this gift may seem worthless, but in a distracted world, it is a precious one.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn from the passage about practicing mindfulness?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It triggers our mind to reflect on past experiences or anticipate future events."
+                },
+                {
+                  "label": "B",
+                  "text": "It focuses our attention on the present moment without making judgments."
+                },
+                {
+                  "label": "C",
+                  "text": "It concentrates our mind on our personal feelings, happy or scary."
+                },
+                {
+                  "label": "D",
+                  "text": "It helps our mind to stay calm when facing judgments from others."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we see in today's \"attention economy\" according to Jenny Odell?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Focus on technological advances continuously updates products and services."
+                },
+                {
+                  "label": "B",
+                  "text": "People's attention is turned into something that can be bought and sold."
+                },
+                {
+                  "label": "C",
+                  "text": "Businesses profit from selling mobile phones and revolutionizing social media."
+                },
+                {
+                  "label": "D",
+                  "text": "People tend to purchase products and services without careful thinking."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What happens with the prevalent use of mobile phones or social media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They keep distracting users from the here and now."
+                },
+                {
+                  "label": "B",
+                  "text": "They render users incapable of resisting temptation."
+                },
+                {
+                  "label": "C",
+                  "text": "They rob users of their ability to observe experience."
+                },
+                {
+                  "label": "D",
+                  "text": "They tempt users to endorse the attention economy."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What benefit can practicing mindfulness bring to us according to some scholars?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It prevents us from making arbitrary judgments about others."
+                },
+                {
+                  "label": "B",
+                  "text": "It shifts our attention from material things to spiritual pursuits."
+                },
+                {
+                  "label": "C",
+                  "text": "It is conducive to our forging better interpersonal relationships."
+                },
+                {
+                  "label": "D",
+                  "text": "It is helpful in regaining our ability to enjoy what we have in life."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author suggest we do in another person's presence?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Share each other's experience frankly and compassionately."
+                },
+                {
+                  "label": "B",
+                  "text": "Pay full attention to establishing close relationships with them."
+                },
+                {
+                  "label": "C",
+                  "text": "Be attentive listeners while refraining from making judgments."
+                },
+                {
+                  "label": "D",
+                  "text": "Remind them of the distraction from mobile phones and social media."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "The other day I had to log into a service I hadn't used before. Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.\n\nI was presented with an image of a roadside scene over which was laid a grid. My “challenge” was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image and another grid—also with a request to identify road signs. Like a lamb, I compiled, after which the website accepted my input.\n\nAnd then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labour to help improve the performance of autonomous vehicles.\n\nNeat, eh? But note also the delicious additional irony that the Captcha is described\n\nas an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans!\n\nThe strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been happening to us? Have we been conditioned to accept a world governed by \"smart\" tech, trading convenience to the point where we become a bit like machines ourselves?\n\nIn a recent startling and thoughtful book, two scholars—Brett Frischmann, a law professor, and Evan Selinger, a philosopher—argue that the answer to that question is “yes”.\n\nAnd they're right. There's nothing technophobic about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends. But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills designed by people who do not have our interests at heart. So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "How did the author respond to the Captcha test?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He clicked on the cells randomly."
+                },
+                {
+                  "label": "B",
+                  "text": "He accepted the challenge readily."
+                },
+                {
+                  "label": "C",
+                  "text": "He completed it confidently."
+                },
+                {
+                  "label": "D",
+                  "text": "He worked on it submissively."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is ironic about the Captcha test?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A machine can respond to the test as well as humans do."
+                },
+                {
+                  "label": "B",
+                  "text": "A machine can outperform humans in object identification."
+                },
+                {
+                  "label": "C",
+                  "text": "A test designed to test machines is now used by machines to test humans."
+                },
+                {
+                  "label": "D",
+                  "text": "A test conceived to tell a human from a robot can now do tricks humans can't."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why does the author use the metaphor of the boiling frog?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To show that humans are unwilling to trade convenience for control by smart tech."
+                },
+                {
+                  "label": "B",
+                  "text": "To show that humans are unaware of the potential danger brought by smart tech."
+                },
+                {
+                  "label": "C",
+                  "text": "To question whether humans are conditioned to accept digital tech."
+                },
+                {
+                  "label": "D",
+                  "text": "To question whether humans are as vulnerable as the boiling frog."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why does the author think that Brett Frischmann and Evan Selinger are right?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A large part of digital tech is now making use of humans to meet its own ends."
+                },
+                {
+                  "label": "B",
+                  "text": "Humans are now fast locked in a race against digital tech to control the world."
+                },
+                {
+                  "label": "C",
+                  "text": "Digital tech can serve human needs in ways previously thought impossible."
+                },
+                {
+                  "label": "D",
+                  "text": "Digital tech is now doing thinking while humans are doing repetitive work."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author imply by asking \"Are we smart enough to jump out before it's too late?\" at the end of the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is not sensible to expect digital tech to take humans' interest to heart."
+                },
+                {
+                  "label": "B",
+                  "text": "It is hard to say whether technology or humans will get the upper hand."
+                },
+                {
+                  "label": "C",
+                  "text": "We may have to search the web to get the answer to the question."
+                },
+                {
+                  "label": "D",
+                  "text": "We may not awake in time to the danger digital tech poses to us."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "【中文原文】\n\n节俭(frugality)是中华民族的传统美德。在中国古代，生产力低下，先人们深知劳动成果来之不易，因而秉持节俭的理念。到了物质极大丰富的今天，中国人民依然坚持节俭的生活方式，体现了理性消费的生活理念和对劳动的尊重。近年来，中国政府持续加强节约型社会的建设，倡导“光盘行动”，减少食物浪费，提倡简约低碳的生活方式，推进资源循环利用，反对过度消费。节约型社会的建设有力地推动了中国经济的高质量发展。\n\n本资源根据2025年12月六级真题（第三套）内容整理，完整保留所有原文及题目，仅用于学习交流，排版原创。题目版权归原考试机构所有，"
+      }
+    ]
+  },
+  "id": "CET6-2025-12-3",
+  "solutions": {
+    "origin": "external_reference",
+    "items": {
+      "26": {
+        "answer": "N",
+        "explanation": "| 26 | N | 27 | G | 28 | F | 29 | J | 30 | H | 31 | M |"
+      },
+      "27": {
+        "answer": "G",
+        "explanation": "| 26 | N | 27 | G | 28 | F | 29 | J | 30 | H | 31 | M |"
+      },
+      "28": {
+        "answer": "F",
+        "explanation": "| 26 | N | 27 | G | 28 | F | 29 | J | 30 | H | 31 | M |"
+      },
+      "29": {
+        "answer": "J",
+        "explanation": "| 26 | N | 27 | G | 28 | F | 29 | J | 30 | H | 31 | M |"
+      },
+      "30": {
+        "answer": "H",
+        "explanation": "| 26 | N | 27 | G | 28 | F | 29 | J | 30 | H | 31 | M |"
+      },
+      "31": {
+        "answer": "M",
+        "explanation": "| 26 | N | 27 | G | 28 | F | 29 | J | 30 | H | 31 | M |"
+      },
+      "32": {
+        "answer": "E",
+        "explanation": "| 32 | E | 33 | C | 34 | D | 35 | B | | | | |"
+      },
+      "33": {
+        "answer": "C",
+        "explanation": "| 32 | E | 33 | C | 34 | D | 35 | B | | | | |"
+      },
+      "34": {
+        "answer": "D",
+        "explanation": "| 32 | E | 33 | C | 34 | D | 35 | B | | | | |"
+      },
+      "35": {
+        "answer": "B",
+        "explanation": "| 32 | E | 33 | C | 34 | D | 35 | B | | | | |"
+      },
+      "36": {
+        "answer": "Q",
+        "explanation": "| 36 | Q | 37 | I | 38 | A | 39 | J | 40 | R | 41 | L |"
+      },
+      "37": {
+        "answer": "I",
+        "explanation": "| 36 | Q | 37 | I | 38 | A | 39 | J | 40 | R | 41 | L |"
+      },
+      "38": {
+        "answer": "A",
+        "explanation": "| 36 | Q | 37 | I | 38 | A | 39 | J | 40 | R | 41 | L |"
+      },
+      "39": {
+        "answer": "J",
+        "explanation": "| 36 | Q | 37 | I | 38 | A | 39 | J | 40 | R | 41 | L |"
+      },
+      "40": {
+        "answer": "R",
+        "explanation": "| 36 | Q | 37 | I | 38 | A | 39 | J | 40 | R | 41 | L |"
+      },
+      "41": {
+        "answer": "L",
+        "explanation": "| 36 | Q | 37 | I | 38 | A | 39 | J | 40 | R | 41 | L |"
+      },
+      "42": {
+        "answer": "F",
+        "explanation": "| 42 | F | 43 | K | 44 | B | 45 | N | | | | |"
+      },
+      "43": {
+        "answer": "K",
+        "explanation": "| 42 | F | 43 | K | 44 | B | 45 | N | | | | |"
+      },
+      "44": {
+        "answer": "B",
+        "explanation": "| 42 | F | 43 | K | 44 | B | 45 | N | | | | |"
+      },
+      "45": {
+        "answer": "N",
+        "explanation": "| 42 | F | 43 | K | 44 | B | 45 | N | | | | |"
+      },
+      "46": {
+        "answer": "B",
+        "explanation": "| 46 | B | 47 | B | 48 | A | 49 | C | 50 | C |"
+      },
+      "47": {
+        "answer": "B",
+        "explanation": "| 46 | B | 47 | B | 48 | A | 49 | C | 50 | C |"
+      },
+      "48": {
+        "answer": "A",
+        "explanation": "| 46 | B | 47 | B | 48 | A | 49 | C | 50 | C |"
+      },
+      "49": {
+        "answer": "C",
+        "explanation": "| 46 | B | 47 | B | 48 | A | 49 | C | 50 | C |"
+      },
+      "50": {
+        "answer": "C",
+        "explanation": "| 46 | B | 47 | B | 48 | A | 49 | C | 50 | C |"
+      },
+      "51": {
+        "answer": "D",
+        "explanation": "| 51 | D | 52 | C | 53 | B | 54 | A | 55 | D |"
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "| 51 | D | 52 | C | 53 | B | 54 | A | 55 | D |"
+      },
+      "53": {
+        "answer": "B",
+        "explanation": "| 51 | D | 52 | C | 53 | B | 54 | A | 55 | D |"
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "| 51 | D | 52 | C | 53 | B | 54 | A | 55 | D |"
+      },
+      "55": {
+        "answer": "D",
+        "explanation": "| 51 | D | 52 | C | 53 | B | 54 | A | 55 | D |"
+      }
+    },
+    "references": {}
+  }
+}

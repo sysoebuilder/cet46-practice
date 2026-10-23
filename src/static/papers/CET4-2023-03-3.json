@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "year": 2023,
+  "month": 3,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you have attended a lecture delivered by a famous scholar. Write a report to the campus newspaper, summarizing its most important points. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "report",
+        "instructions": {
+          "directions": "Suppose you have attended a lecture delivered by a famous scholar. Write a report to the campus newspaper, summarizing its most important points. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you have attended a lecture delivered by a famous scholar. Write a report to the campus newspaper, summarizing its most important points. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+        "materials": "|  |\n| --- |\n|  |\n|  |\n|  |\n|  |",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于2023年3月四级考试全国只考了一套听力,本套真题听力与第一套内容完全一样,只是顺序不一样,因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于 2023 年 3 月四级考试阅读理解部分全国只考了一套试题，本套真题阅读与第一套内容完全一样，只是顺序不一样，因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 40,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": null,
+    "paragraph_matching": null,
+    "passage_comprehension": null
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，越来越多的年轻人喜爱各种形式的自助旅游。许多自助旅游者选择徒步或者骑自行车出游。他们自己设计路线，自带帐篷、厨具以及其他必备的生活用品。在旅途中，自助旅游者能够发现一些新的美丽景点，但有时也会遇见意想不到的困难或突发事件。游客在旅行中拥抱自然、欣常美景，同时也增强了白己克服困难的勇气和野外生存的能力。"
+      }
+    ]
+  },
+  "id": "CET4-2023-03-3",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

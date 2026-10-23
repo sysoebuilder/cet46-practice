@@ -1,0 +1,1319 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 7,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the use of translation apps. You can start your essay with the sentence \"The use of translation apps is becoming increasingly popular.\" You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the use of translation apps. You can start your essay with the sentence \"The use of translation apps is becoming increasingly popular.\" You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the use of translation apps. You can start your essay with the sentence \"The use of translation apps is becoming increasingly popular.\" You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "watch the weather forecast."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Evacuate the area with the orange alert."
+                  },
+                  {
+                    "label": "C",
+                    "text": "avoid travel on Wednesday."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Prepare enough food and drink."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Pay more attention to the roads."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Stay at a safer Place."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Bring more mobile Phones."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Take a train home."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "There is only one ecosystem in Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Romania's wetlands thrive again."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The wildlife in Romania isn't well Protected."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There are 200 species of birds in Romania's wetlands."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Block the waterways."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Restore the fishing ban."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Use monitoring equipment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Prohibit fishing in the next 10 years."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He had a car accident."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He attended his graduation ceremony."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had a heart attack."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He gave a Performance in the auditorium."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "what happened to him."
+                  },
+                  {
+                    "label": "B",
+                    "text": "what date it was."
+                  },
+                  {
+                    "label": "C",
+                    "text": "when the graduation ceremony was."
+                  },
+                  {
+                    "label": "D",
+                    "text": "where he was."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was really touched by his classmates."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He didn't know what happened at all."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He couldn't remember what to say."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His Parents wore caps and gowns."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices Marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her children's disruption."
+                  },
+                  {
+                    "label": "B",
+                    "text": "quiet atmosphere."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A sense of isolation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Longer working hours."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It doesn't offer coffee."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It's too quiet."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It doesn't have free Wi-Fi."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It lacks the material he needs."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The sense of being out in the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The coffee it provides."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The coffee table."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The comfortable working condition."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People don't order anything."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People bring their laptops and paperwork."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People occupy valuable table space in quiet times."
+                  },
+                  {
+                    "label": "D",
+                    "text": "People of two occupy a table for six."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is not satisfied with the salary."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is not capable of the job."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She often works overtime."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She's received a job offer from another company."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They may be considered as less loyal."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They won't get the promotion opportunities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They should take more responsibility at work."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They will be given hiring priority."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She might have to do extra work everyday."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She might not get a pay rise."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She might not get enough vacation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She might not gain more experience."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Experience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Confidence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Fortune."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Opportunity."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It's a horrible feeling."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can be a blessing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It's boring and dangerous."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It's the most comfortable state."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To be active."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To meet up with your friends."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To travel abroad."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To seek advice from others."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It provides a chance for people to think deeply."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It makes us treasure the time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It enables one to identify true friends."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It helps us take care of problems more efficiently."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just he",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is a harsh person."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is mean to others."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is very demanding in his work."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He usually works very late."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He moved out and divorced."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was plagued by drugs and gang violence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He lived there for 20 years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His parents would move into his new house."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was only responsible for unloading food."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He had to sign his name on every label."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was a hard and tedious job."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He was required to work at Friday night."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By recording the time people spend on TV."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By tracking people's living habits."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By using memory and fluency tests."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By scanning people's brains."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "watching television for hours."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Playing video games."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Reading books and magazines."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Surfing the Internet."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Television viewing may be a potential factor for Alzheimer's disease."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Alzheimer's patients tend to watch television more than 3 hours a day."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Some research has confirmed the link between them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Television watching is beneficial to Alzheimer's patients."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "watch television no more than 3 hours each day."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Balance television viewing with other contrasting activities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "watch some educational TV programs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Take more physical exercise."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "\"Science and everyday life cannot and should not be separated.\" Those were the words uttered by pioneering British scientist Rosalind Franklin, who firmly believed that the pursuit of science should be 26 to all.\n\nAs a woman working in the first half of the 20th century, Franklin's contributions to some of the greatest scientific discoveries of our time including the structure of DN A—were sadly _27_ in her lifetime.\n\nMore than 60 years after Franklin's death, we are _28_ living in a different world, where women play an important part in every echelon (阶层) of our society—not least in science, innovation, higher education and research. UK universities are world leaders when it comes to advancing and _29_ gender equality.\n\nIn the past decade, we have seen a _30_ increase in England in the number of women accepted on to full-time undergraduate degrees in science, technology, engineering and maths (Stem subjects). And in the last academic year, women _31_ for more than half of all Stem postgraduates at UK universities.\n\nData shows us the _32_ to success gets harder for women to climb the further up they go. Although women make up the majority of undergraduates in our universities, just under half of academic staff are female. At _33_ levels, only a quarter of professors are women, and black women make up less than 2% of all female academic staff.\n\nThere are also stark differences in pay across grades. The gender pay gap based\n\non median salaries across the sector in 2016 - 2017 was 13.7%, _34_ there is still some way to go to ensure women are rising through the ranks to higher grade positions and being paid _35_.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "accessible"
+        },
+        {
+          "label": "B",
+          "text": "Accounted"
+        },
+        {
+          "label": "C",
+          "text": "Adaptation"
+        },
+        {
+          "label": "D",
+          "text": "Appropriately"
+        },
+        {
+          "label": "E",
+          "text": "Considerable"
+        },
+        {
+          "label": "F",
+          "text": "Effective"
+        },
+        {
+          "label": "G",
+          "text": "Ladder"
+        },
+        {
+          "label": "H",
+          "text": "Misread"
+        },
+        {
+          "label": "I",
+          "text": "Nomination"
+        },
+        {
+          "label": "J",
+          "text": "Overlooked"
+        },
+        {
+          "label": "K",
+          "text": "Promoting"
+        },
+        {
+          "label": "L",
+          "text": "Senior"
+        },
+        {
+          "label": "M",
+          "text": "Submission"
+        },
+        {
+          "label": "N",
+          "text": "Suggesting"
+        },
+        {
+          "label": "O",
+          "text": "thankfully"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 202,
+          "end": 204
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 399,
+          "end": 403
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 472,
+          "end": 476
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 708,
+          "end": 712
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 766,
+          "end": 770
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 961,
+          "end": 965
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1050,
+          "end": 1054
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1245,
+          "end": 1249
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1510,
+          "end": 1514
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1631,
+          "end": 1635
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How to Eat Well",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Why do so many Americans eat tons of processed food, the stuff that is correctly called junk (垃圾) and should really carry warning labels?"
+        },
+        {
+          "label": "B",
+          "text": "It's not because fresh ingredients are hard to come by. Supermarkets offer more variety than ever, and there are over four times as many farmers' markets in the US as there were 20 years ago. Nor is it for lack of available information. There are plenty of recipes (食谱), how-to videos and cooking classes available to anyone who has a computer, smart phone or television. If anything, the information is overwhelming."
+        },
+        {
+          "label": "C",
+          "text": "And yet we aren't cooking. If you eat three meals a day and behave like most Americans, you probably get at least a third of your daily calories (卡路里) outside the home. Nearly two-thirds of us grab fast food once a week, and we get almost 25% of our daily calories from snacks. So we're eating out or taking in, and we don't sit down or we do, but we hurry."
+        },
+        {
+          "label": "D",
+          "text": "Shouldn't preparing and consuming food be a source of comfort, pride, health, well-being, relaxation, sociability? Something that connects us to other humans? Why would we want to outsource (外包) this basic task, especially when\n\noutsourcing it is so harmful?"
+        },
+        {
+          "label": "E",
+          "text": "When I talk about cooking, I'm not talking about creating elaborate dinner parties or three-day science projects. I'm talking about simple,easy,everyday meals. My mission is to encourage green hands and those lacking time or money to feed themselves. That means we need modest, realistic expectations,and we need to teach people to cook food that's good enough to share with family and friends."
+        },
+        {
+          "label": "F",
+          "text": "Perhaps a return to real cooking needn't be far off. A recent Harris poll revealed that 79% of Americans say they enjoy cooking and 30% \"love it\"; 14% admit to not enjoying kitchen work and just 7% won't go near the stove at all. But this doesn't necessarily translate to real cooking, and the result of this survey shouldn't surprise anyone: 52% of those 65 or older cook at home five or more times per week; only a third of young people do."
+        },
+        {
+          "label": "G",
+          "text": "Back in the 1950s most of us grew up in households where mom cooked virtually every night. The intention to put a home-cooked meal on the table was pretty much universal. Most people couldn't afford to do otherwise"
+        },
+        {
+          "label": "H",
+          "text": "Although frozen dinners were invented in the '40s, their Popularity didn't boom until televisions became Popular a decade or so later. Since then, Packaged, pre-prepared meals have been what's for dinner. The microwave and fast-food chains were the biggest catalysts (催化剂), but the big food companies—which want to sell anything except the raw ingredients that go into cooking—made the home cook an endangered species."
+        },
+        {
+          "label": "I",
+          "text": "Still, I find it strange that only a third of young People report preparing meals at home regularly. Isn't this the same crowd that rails against Processed junk and champions craft cooking? And isn't this the generation who say they're concerned about their health and the well-being of the Planet? If these are truly the values of many young People, then their behavior doesn't match their beliefs."
+        },
+        {
+          "label": "J",
+          "text": "There have been half-hearted but well-Publicized efforts by some food companies to reduce calories in their Processed foods, but the Standard American Diet is still the Polar opposite of the healthy, mostly Plant-based diet that just about every expert says we should be eating. Considering that the government's standards are not nearly ambitious enough, the Picture is clear: by not cooking at home, we're not eating the right things, and the consequences are hard to overstate."
+        },
+        {
+          "label": "K",
+          "text": "To help quantify (量化) the costs of a Poor diet, I recently tried to estimate this impact in terms of a most famous food, the burger (汉堡包). I concluded that the Profit from burgers is more than offset (抵消) by the damage they cause in health Problems and environmental harm."
+        },
+        {
+          "label": "L",
+          "text": "Cooking real food is the best defense—not to mention that any meal you're likely to eat at home contains about 200 fewer calories than one you would eat in a restaurant."
+        },
+        {
+          "label": "M",
+          "text": "To those Americans for whom money is a concern, my advice is simple: Buy what you can afford, and cook it yourself. The common Prescription is to Primarily shop the grocery store, since that's where fresh Produce, meat and seafood, and dairy are. And to save money and still eat well you don't need local, organic ingredients; all you need is real food. I'm not saying local food isn't better; it is. But there is Plenty of\n\ndecent food in the grocery stores."
+        },
+        {
+          "label": "N",
+          "text": "The other sections you should get to know are the frozen foods and the canned goods. Frozen Produce is still Produce; canned tomatoes are still tomatoes. Just make sure you're getting real food without tons of added salt or sugar. Ask yourself, would Grandma consider this food? Does it look like something that might occur in nature? It's Pretty much common sense: you want to buy food, not unidentifiable food like objects."
+        },
+        {
+          "label": "O",
+          "text": "You don't have to hit the grocery store daily, nor do you need an abundance of skill. Since fewer than half of Americans say they cook at an intermediate level and only 20% describe their cooking skills as advanced, the crisis is one of confidence. And the only remedy for that is Practice. There's nothing mysterious about cooking the evening meal. You just have to do a little thinking ahead and redefine what qualifies as dinner. Like any skill, cooking gets easier as you do it more; every time you cook, you advance your level of skills. Someday you won't even need recipes. My advice is that you not Pay attention to the number of steps and ingredients, because they can be deceiving."
+        },
+        {
+          "label": "P",
+          "text": "Time, I realize, is the biggest obstacle to cooking for most People. You must adjust your Priorities to find\n\ntime to cook. For instance, you can move a TV to the kitchen and watch your favorite shows while you're standing at the sink. No one is asking you to give up activities you like, but if you're watching food shows on TV, try cooking instead."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Cooking benefits People in many ways and enables them to connect with one another."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Abundant information about cooking is available either online or on TV."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Young people do less cooking at home than the elderly these days."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Cooking skills can be improved with practice."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "In the mid-20th century, most families ate dinner at home instead of eating out."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Even those short of time or money should be encouraged to cook for themselves and their family."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Eating food not cooked by ourselves can cause serious consequences."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "To eat well and still save money, people should buy fresh food and cook it themselves."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "We get a fairly large portion of calories from fast food and snacks."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "The popularity of TV led to the popularity of frozen food."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices Marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "The wallet is heading for extinction. As a day-to-day essential, it will die off with the generation who read print newspapers. The kind of shopping—where you hand over notes and count out change in return—now happens only in the most minor of our retail encounters, like buying a bar of chocolate or a pint of milk, from a corner shop. At the shops where you spend any real money, that money is increasingly abstracted. And this is more and more true, the higher up the scale you go. At the most cutting-edge retail stores—Victoria Beckham on Dover Street, for instance—you don't go and stand at any kind of cash register, when you decide to pay. The staff are equipped with iPads to take your payment while you relax on a sofa.\n\nWhich is nothing more or less than excellent service, if you have the money. But across society, the abstraction of the idea of cash makes me uneasy. Maybe I'm just old-fashioned. But earning money isn't quick or easy for most of us. Isn't it a bit weird that spending it should happen in half a blink (眨眼) of an eye? Doesn't a wallet—that time-honoured Friday-night feeling of pleasing, promising fatness—represent something that matters?\n\nBut I'll leave the economics to the experts. What bothers me about the death of the wallet is the change it represents in our physical environment. Everything about the look and feel of a wallet—the way the fastenings and materials wear and tear and loosen with age, the plastic and paper and gold and silver, and handwritten phone numbers and printed cinema tickets—is the very opposite of what our world is becoming. The opposite of a wallet is a smart phone or an iPad. The rounded edges, cool glass, smooth and unknowable as a pebble (鹅卵石). Instead of digging through pieces of paper and peering into corners, we move our fingers left and right. No more counting out coins. Show your wallet, if you still have one. It may not be here much longer.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What is happening to the wallet?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is disappearing."
+                },
+                {
+                  "label": "B",
+                  "text": "It is being fattened."
+                },
+                {
+                  "label": "C",
+                  "text": "It is becoming costly."
+                },
+                {
+                  "label": "D",
+                  "text": "It is changing in style."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "How are business transactions done in big modern stores?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Individually."
+                },
+                {
+                  "label": "B",
+                  "text": "Electronically."
+                },
+                {
+                  "label": "C",
+                  "text": "In the abstract."
+                },
+                {
+                  "label": "D",
+                  "text": "Via a cash register."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What makes the author feel uncomfortable nowadays?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Saving money is becoming a thing of the past."
+                },
+                {
+                  "label": "B",
+                  "text": "The pleasing Friday-night feeling is fading."
+                },
+                {
+                  "label": "C",
+                  "text": "Earning money is getting more difficult."
+                },
+                {
+                  "label": "D",
+                  "text": "Spending money is so fast and easy."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why does the author choose to write about what's happening to the wallet?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It represents a change in the modern world."
+                },
+                {
+                  "label": "B",
+                  "text": "It has something to do with everybody's life."
+                },
+                {
+                  "label": "C",
+                  "text": "It marks the end of a time-honoured tradition."
+                },
+                {
+                  "label": "D",
+                  "text": "It is the concern of contemporary economists."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can we infer from the passage about the author?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He is resistant to social changes."
+                },
+                {
+                  "label": "B",
+                  "text": "He is against technological progress."
+                },
+                {
+                  "label": "C",
+                  "text": "He feels reluctant to part with the traditional wallet."
+                },
+                {
+                  "label": "D",
+                  "text": "He feels insecure in the ever-changing modern world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "It's late in the evening: time to close the book and turn off the computer. You're done for the day. What you may not realize, however, is that the learning process actually continues—in your dreams.\n\nIt might sound like science fiction, but researchers are increasingly focusing on the relationship between the knowledge and skills our brains absorb during the day and the fragmented, often bizarre imaginings they generate at night. Scientists have found that dreaming about a task we've learned is associated with improved performance in that activity (suggesting that there's some truth to the popular notion that we're \"getting\" a foreign language once we begin dreaming in it). What's more, researchers are coming to recognize that dreaming is an essential part of understanding, organizing and retaining what we learn.\n\nWhile we sleep, research indicates, the brain replays the patterns of activity it experienced during waking hours, allowing us to enter what one psychologist calls a neural (神经的) virtual reality. A vivid example of such replay can be seen in a video researchers made recently about sleep disorders. They taught a series of dance moves to a group of patients with conditions like sleepwalking, in which the sleeper engages in the kind physical movement that does not normally occur during sleep. They then videotaped the subjects as they slept. Lying in bed, eyes closed, one female patient on the tape performs the dance moves she learned earlier.\n\nThis shows that while our bodies are at rest, our brains are drawing what's important from the information and events we've recently encountered, then integrating that data into the vast store of what we already know. In a 2010 study, researchers at Harvard Medical School reported that college students who dreamed about a computer maze (迷宫) task they had learned showed a 10-fold improvement in their ability to find their way through the maze compared with participants who did not dream about the task.\n\nRobert Stickgold, one of the Harvard researchers, suggests that studying right before bedtime or taking a nap following a study session in the afternoon might increase the odds of dreaming about the material. Think about that as your head hits the pillow tonight.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is scientists' finding about dreaming?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It involves disconnected, weird images."
+                },
+                {
+                  "label": "B",
+                  "text": "It resembles fragments of science fiction."
+                },
+                {
+                  "label": "C",
+                  "text": "Dreaming about a learned task betters its performance."
+                },
+                {
+                  "label": "D",
+                  "text": "Dreaming about things being learned disturbs one's sleep."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What happens when one enters a dream state?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The body continues to act as if the sleeper were awake."
+                },
+                {
+                  "label": "B",
+                  "text": "The neural activity of the brain will become intensified."
+                },
+                {
+                  "label": "C",
+                  "text": "The brain behaves as if it were playing a virtual reality video game."
+                },
+                {
+                  "label": "D",
+                  "text": "The brain once again experiences the learning activities of the day."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the brain do while we are sleeping?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It systematizes all the data collected during the day."
+                },
+                {
+                  "label": "B",
+                  "text": "It substitutes old information with new data."
+                },
+                {
+                  "label": "C",
+                  "text": "It processes and absorbs newly acquired data."
+                },
+                {
+                  "label": "D",
+                  "text": "It classifies information and places it in different files."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does Robert Stickgold suggest about enhancing learning?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Having a little sleep after studying in the day."
+                },
+                {
+                  "label": "B",
+                  "text": "Staying up late before going to bed."
+                },
+                {
+                  "label": "C",
+                  "text": "Having a dream about anything."
+                },
+                {
+                  "label": "D",
+                  "text": "Thinking about the odds of dreaming about the material."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What can be inferred about dreaming from the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "We may enhance our learning through dreaming."
+                },
+                {
+                  "label": "B",
+                  "text": "Dreaming improves your language ability."
+                },
+                {
+                  "label": "C",
+                  "text": "All sleepwalkers perform dance moves when they are sleeping."
+                },
+                {
+                  "label": "D",
+                  "text": "Taking a nap after learning can help you find the way through the maze."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "在中国，火锅已有 2,000 多年的历史，最早流行于最寒冷的地区，然后在很多地区盛行，出现了具有地方特色的种类。吃火锅时，家人和朋友圈坐在桌边，桌子中间放着热腾腾的火锅。吃火锅时，人们可以根据自己的口味放肉、海鲜、蔬菜和其他配料，自己烹饪。人们可以一边尽情地聊天,一边享受美餐。"
+      }
+    ]
+  },
+  "id": "CET4-2020-07-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "source": "E:\\四六级题库\\六级真题\\2022.06\\听力音频\\2022年06月六级真题（全1套）.mp3",
+    "sha256": "baf049101a22b4b7077ad0a76c0e0145e4cea2aae9033378ee9da107eb13e1e2",
+    "paper_ids": [
+      "CET6-2022-06-1",
+      "CET6-2022-06-2",
+      "CET6-2022-06-3"
+    ],
+    "questions_sha256": "db44085e49626463a31724affb3ffb4673c530e2059f5dedc3c8fa5af9141aa5",
+    "transcript": "work\\audio-comparison\\1-transcript.json",
+    "evidence": [
+      {
+        "start": 56.18,
+        "end": 64.98,
+        "quote": "one. Mr. David Jackson, a staff writer at The New Yorker, is known for his nonfiction books",
+        "matches": "第1题选项包含 staff writer；录音人物为 David Jackson，The New Yorker 的撰稿人。"
+      },
+      {
+        "start": 116.58000000000001,
+        "end": 123.78,
+        "quote": "at this age, editorial guidance is less important than encouragement. Are there books that you",
+        "matches": "第3题询问帮助子女写作；录音明确比较 editorial guidance 与 encouragement。"
+      },
+      {
+        "start": 210.0,
+        "end": 239.0,
+        "quote": "Question 2. What does the man think of young teenagers?",
+        "matches": "录音第2题询问青少年，与该场三套第2题的选项主题一致。"
+      }
+    ]
+  },
+  {
+    "source": "E:\\四六级题库\\六级真题\\2022.09\\听力音频\\2022年09月六级真题（全1套）.mp3",
+    "sha256": "4b67329de56971b4edf2b55eacbfe2369e778f15365b49f7717e67814385e4bd",
+    "paper_ids": [
+      "CET6-2022-09-1",
+      "CET6-2022-09-2",
+      "CET6-2022-09-3"
+    ],
+    "questions_sha256": "fe3ba32769e9ebba8c436c0d6c2df2019d34e28b09c8ece9c81a1f623122633b",
+    "transcript": "work\\audio-comparison\\2-transcript.json",
+    "evidence": [
+      {
+        "start": 151.14,
+        "end": 154.78,
+        "quote": "be talking to Mary Johnson about budgeting.",
+        "matches": "第1题为节目帮助人们预算收支；录音 Money Matters 访谈主题为 budgeting。"
+      },
+      {
+        "start": 180.0,
+        "end": 185.84,
+        "quote": "done. I read recently that only 41% of Americans adhere to a",
+        "matches": "录音第2题询问男子最近读到的内容；信息为只有41%的美国人坚持预算。"
+      },
+      {
+        "start": 168.34,
+        "end": 171.9,
+        "quote": "Well, it's all about keeping track of your money.",
+        "matches": "第3题选项含 Keep track of his money；录音先要求跟踪资金再制定预算。"
+      },
+      {
+        "start": 295.52,
+        "end": 310.36,
+        "quote": "Question 3 What does the woman suggest the man do first",
+        "matches": "录音第3题询问避免负债的第一步，题号顺序与该场三套一致。"
+      }
+    ]
+  },
+  {
+    "source": "E:\\四六级题库\\六级真题\\2025.06\\听力音频\\2025年6月六级音频1.MP3",
+    "sha256": "32777b31c58942a0d2a5f24c1e4f1c5d4c8119604b6008e256c10c5f92975f85",
+    "paper_ids": [
+      "CET6-2025-06-1"
+    ],
+    "questions_sha256": "54669d120409a9e6f36b77485c6e1cb25c716d1f49fe02f30a7070582f166e4f",
+    "transcript": "work\\audio-comparison\\3-transcript.json",
+    "evidence": [
+      {
+        "start": 12.88,
+        "end": 17.080000000000002,
+        "quote": "someone from your office called our central office and I'm the engineer designated to",
+        "matches": "首段为 Alpha Maintenance 电脑维修，提到向 central office 报修；第1题选项涉及致电维修公司。"
+      },
+      {
+        "start": 37.239999999999995,
+        "end": 41.2,
+        "quote": "tell you is I got the call this week and came as soon as I could.",
+        "matches": "第2题询问收到电话后的行动；录音说接到电话后尽快赶来，对应该套第2题。"
+      },
+      {
+        "start": 41.2,
+        "end": 46.22,
+        "quote": "I see. Well, I'll have you know my manager is rather indignant that it's taking you",
+        "matches": "录音明确经理 indignant，对应该套第3题情绪选项；第2套开头则为招聘候选人讨论。"
+      }
+    ]
+  },
+  {
+    "source": "E:\\四六级题库\\六级真题\\2026.06\\听力音频\\2026年6月六级听力音频.mp3",
+    "sha256": "408b12bf018af7053270b270d51267e901f17a7ea8d5b87f528d733352b8b4bd",
+    "paper_ids": [
+      "CET6-2026-06-1"
+    ],
+    "questions_sha256": "53c857098eea6f417612346c511b7cb183790a993238306292e23a74637dd753",
+    "transcript": "work\\audio-comparison\\4-transcript.json",
+    "evidence": [
+      {
+        "start": 35.64,
+        "end": 40.92,
+        "quote": "Welcome to Business Matters. Today we have invited career development consultant Lucy",
+        "matches": "首段为职场发展顾问访谈，匹配第1套第1题职业进展主题；第2套开头为巴塞罗那度假。"
+      },
+      {
+        "start": 51.2,
+        "end": 57.2,
+        "quote": "One mistake people make is to limit communication only to their bosses. It's important to expand",
+        "matches": "录音称错误是只与上司沟通，匹配第1套第2题关于 restrict/limit communication 的选项。"
+      },
+      {
+        "start": 97.4,
+        "end": 104.12,
+        "quote": "in quality time, instead of just a large quantity of time. And these efforts can easily be demonstrated",
+        "matches": "录音明确建议 quality time，匹配第1套第3题同名选项。"
+      }
+    ]
+  },
+  {
+    "source": "E:\\四六级题库\\四级真题\\2025.06\\听力音频\\2025年6月四级音频1.MP3",
+    "sha256": "08ffbda6e40a3872e19453eafc34e022f45af0fde12488d4b938155b2f325e8f",
+    "paper_ids": [
+      "CET4-2025-06-1"
+    ],
+    "questions_sha256": "ac96cce28adc0537fc676b34ddfddd854f696f2a3ceeadc0e65eaaceed07b03a",
+    "transcript": "work\\audio-comparison\\5-transcript.json",
+    "evidence": [
+      {
+        "start": 0.0,
+        "end": 7.36,
+        "quote": "News report 1. Everything changed for 7-year-old Tariq when he slapped some butter on an ear of corn.",
+        "matches": "开头为 Tariq 玉米新闻，第1题提问如何改善玉米味道，选项含 butter。"
+      },
+      {
+        "start": 55.84,
+        "end": 60.84,
+        "quote": "to attend the honorary ceremony at the state's Corn Palace.",
+        "matches": "第2题提问赴南达科他州原因，录音明确参加 Corn Palace honorary ceremony。"
+      },
+      {
+        "start": 118.39999999999999,
+        "end": 124.8,
+        "quote": "the pair stole mail on multiple occasions using a postal key, according to a news release.",
+        "matches": "第2则新闻为邮政钥匙与多次窃取邮件，匹配第1套第3题；第2套开头为桥梁跑步比赛。"
+      }
+    ]
+  }
+]

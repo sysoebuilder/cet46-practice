@@ -1,0 +1,1291 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this task, you are to write an essay on the importance of developing a healthy lifestyle among college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "In this task, you are to write an essay on the importance of developing a healthy lifestyle among college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "In this task, you are to write an essay on the importance of developing a healthy lifestyle among college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A free car show."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A yearly concert."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A sports competition."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A pipe band contest."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Improve the image of Glasgow city."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Contribute a lot to the local economy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Enrich the local culture of Glasgow."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Entertain people in local communities."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Surprising rise in global sea levels."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Changing weather patterns in summer."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Dangerous ice melts in Greenland."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Record growth of Greenland's ice sheets."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It began in late May."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It started a month earlier than usual."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It lasted three months."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It ended a month earlier than before."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Bundles of £ 20 notes kept turning up."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A villager was searching for his lost cash."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Local policemen came across bundles of £ 20 notes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A bundle containing thousands of pounds got stolen."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They give it to charity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They hand it over to the local government."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They return it to the finder."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They place a notice in The Northern Echo."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They cooperated well with the police."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They enjoyed a fairly affluent life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were puzzled by the mystery."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They had a strong community spirit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Excited."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Indifferent."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Delighted."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Strange."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Search for the meaning of their life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Call on their relatives and friends."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Look back on their years at school."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Talk about future plans with friends."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He prefers to have them shown on social media."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He loves them but does not want to make a fuss."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He enjoys celebrating others' birthdays rather than his own."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He looks forward to receiving presents from his close friends."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Hold it on a modest scale to remove birthday anxieties."
+                  },
+                  {
+                    "label": "B",
+                    "text": "View it as a chance for people to socialize and have fun."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Extend invitation to those he trusts most."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Make it an occasion to collect donations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was absolutely exhausting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There was too long a delay."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There was a terrible smell."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She got off at the wrong station."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She hasn't saved enough money."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She hasn't passed the driving test yet."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is worried about traffic jams."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is used to taking public transport."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are popular."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are a bit expensive for her."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are dangerous."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are environmentally friendly."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By bus."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By jogging."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By renting a bike."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By sharing a ride."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is a sign language interpreter."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He doesn't like speaking at meetings."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is a deaf person working in IT."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He doesn't use email or text messages."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Improved communication skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Big advances in sign language."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Speech recognition technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Transformation in the IT industry."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He can avoid being mistaken."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He can understand with ease."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He can take notes on the spot."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He can see the speakers' images."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To find pure white walls shining."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To get a hug from family members."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To enter a house well looked after."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To see cheerful colours all around."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Choosing a colour because it is fashionable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Painting the interior of their cupboards."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Doing the painting job all by themselves."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Designing all window frames the same way."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Fit most of the cupboards into walls."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Hang landscape paintings all around."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Match the room's ceiling with all the furniture in colour."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Paint the wooden frameworks and walls the same colour."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Children must read at least 3 times a week."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Reading is a habit every child can develop."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Reading to their children is important."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Children should start reading at age 3."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The number of books they have read by age four."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The speed of their brain development in infancy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The number and quality of books parents read to them in infancy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The quality and quantity of time parents spend playing with them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Books with specifically labeled images."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Books describing the lives of animals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Books with pictures of dolls and toys."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Books telling very interesting stories."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Read as many books as possible to their children."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Choose carefully what to read to their children."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Share experience with other parents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Create picture books for their children."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Parenting brings fathers more joy than it does mothers, according to a new study. The research examined three studies _26_ more than 18,000 participants. Across all three, parenthood was _27_ with more positive wellbeing outcomes for dads than for mums.\n\nSo why are fathers happier than mothers? \"Fathers may fare better than mothers in part due to how they spend time with their children,\" said lead author Katherine Nelson-Coffey. In one study, the authors 28 that dads were more likely to take \"playing\" as an 29 activity both when caring for their kids\n\nand spending time with their kids. “Playing with their children likely offers parents opportunities to experience positive feelings and _30_ closeness with their children,” they say.\n\nFathers also did better than men without kids, reporting greater happiness, life satisfaction, and fewer _31_ symptoms. They also reported greater connectedness and autonomy (自主). For mums, _32_, compared to women without children, the results weren't quite as positive. Mums reported greater autonomy, but also \"greater trouble\" and fewer positive _33_.\n\nMums reported happier moods while interacting with their kids, compared to other experiences, but not while engaging _34_ in childcare. \"This difference suggests that how mothers and fathers spend time with their children might have important _35_ for their wellbeing,\" the authors write. They suspect that mums may be less happy than dads because they're more likely to have higher expectations about parenthood. As such, they're more likely to be \"let down\" by the experience.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "additional"
+        },
+        {
+          "label": "I",
+          "text": "implications"
+        },
+        {
+          "label": "B",
+          "text": "associated"
+        },
+        {
+          "label": "J",
+          "text": "interfered"
+        },
+        {
+          "label": "C",
+          "text": "composing"
+        },
+        {
+          "label": "K",
+          "text": "involving"
+        },
+        {
+          "label": "D",
+          "text": "cultivate"
+        },
+        {
+          "label": "L",
+          "text": "note"
+        },
+        {
+          "label": "E",
+          "text": "depressive"
+        },
+        {
+          "label": "M",
+          "text": "precisely"
+        },
+        {
+          "label": "F",
+          "text": "directly"
+        },
+        {
+          "label": "N",
+          "text": "superficial"
+        },
+        {
+          "label": "G",
+          "text": "emotions"
+        },
+        {
+          "label": "O",
+          "text": "therefore"
+        },
+        {
+          "label": "H",
+          "text": "however"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 118,
+          "end": 122
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 187,
+          "end": 191
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 459,
+          "end": 461
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 513,
+          "end": 515
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 694,
+          "end": 698
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 847,
+          "end": 851
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 932,
+          "end": 936
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1091,
+          "end": 1095
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1215,
+          "end": 1219
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1341,
+          "end": 1345
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Learning to say no",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Not doing something will always be faster than doing it. This philosophy applies in many areas of life. For example, there is no meeting that goes faster than not having a meeting at all. This is not to say you should never attend another meeting, but the truth is that we say \"yes\" to too many things we don't actually want to do."
+        },
+        {
+          "label": "B",
+          "text": "How often do people ask you to do something and you just reply, \"Sure.\" Three days later, you're overwhelmed by how much is on your to-do list. We become frustrated by our obligations even though we were the ones who said \"yes\" to them in the first place. Even worse, people will occasionally fight to do things that waste time. You don't have to do something just because it exists. It's worth asking if things are necessary. Many of them are not, and a simple \"no\" will be more productive than whatever work the most efficient person can cope with. But if the benefits of saying \"no\" are so obvious, then why do we say \"yes\" so often?"
+        },
+        {
+          "label": "C",
+          "text": "We say \"yes\" to many requests not because we want to do them, but because we don't want to be seen as rude or unhelpful. Often, we have to consider saying \"no\" to someone we will interact with again in the future—our co-worker, our spouse, our family and friends. Saying \"no\" to our superiors at work\n\ncan be particularly difficult. In these situations, I like the approach recommended in Essentialism by Greg McKeown. He writes, “Remind your superiors what you would be neglecting if you said ‘yes’ and force them to deal with the trade-off. For example, if your manager comes to you and asks you to do X, you can respond with ‘Yes, I’m happy to make this the priority. Which of these other projects should I deprioritize to pay attention to this new project?’”"
+        },
+        {
+          "label": "D",
+          "text": "Collaborating with others is an important element of life. The thought of straining the relationship outweighs the commitment of our time and energy. For this reason, it can be helpful to be gracious in your response. Do whatever favors you can, and be warm-hearted and direct when you have to say no. But even after we have accounted for these social considerations, many of us still seem to do a poor job of managing the trade-off between yes and no. We find ourselves over-committed to things that don't meaningfully improve or support those around us, and certainly don't improve our own lives."
+        },
+        {
+          "label": "E",
+          "text": "Perhaps one issue is how we think about the meaning of yes and no. The words “yes” and “no” get so often used in comparison with each other that it feels like they carry equal weight in conversation. In reality, they’re not just opposite in meaning, but of entirely different magnitudes in commitment. When you say “no”, you’re only saying “no” to one option. When you say “yes”, you’re saying “no” to every other option. I like how economist Tim Harford put it, “Every time we say ‘yes’ to a request, we’re also saying ‘no’ to anything else we might accomplish with the time.” Once you’re committed to something, you’ve already decided how that future block of time will be spent. In other words, saying “no” saves you time in the future. Saying “yes” costs you time in the future. “No” is a form of time credit. You retain the ability to spend your future time however you want. “Yes” is a form of time debt. You have to pay back your commitment at some point."
+        },
+        {
+          "label": "F",
+          "text": "“No” is a decision. “Yes” is a responsibility. Saying “no” is sometimes seen as a luxury that only those in power can afford. And it’s true: turning down opportunities is easier when you can fall back on the safety net provided by power, money, and authority. But it’s also true that saying “no” is not merely a privilege reserved for the successful. It’s also a strategy that can help you become successful. Saying “no” is an important skill to develop at any stage of your career because it retains the most important asset in life: your time. As investor Pedro Sorrentino put it, “If you don’t guard your time, people will steal it from you.” You need to say “no” to whatever isn’t leading you toward your goals."
+        },
+        {
+          "label": "G",
+          "text": "Nobody embodied this idea better than Steve Jobs, who said, “People think focus means saying ‘yes’ to the thing you’ve got to focus on. But that’s not what it means at all. It means saying ‘no’ to the hundred other good ideas that there are. You have to pick carefully.” Jobs had another great quote about saying “no”: “I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”"
+        },
+        {
+          "label": "H",
+          "text": "Over time, as you continue to improve and succeed, your strategy needs to change. The opportunity cost of your time increases as you become more successful. At first, you just eliminate the obvious distractions and explore the rest. As your skills improve and you learn to separate what works from what doesn't, you have to continually increase your threshold for saying \"yes\". You still need to say \"no\" to distractions, but you also need to learn to say \"no\" to opportunities that were previously good uses of time, so you can make space for better uses of time. It's a good problem to have, but it can be a tough skill to master."
+        },
+        {
+          "label": "I",
+          "text": "What is true about health is also true about productivity: an ounce of prevention is worth a pound of\n\ncure. More effort is wasted doing things that don't matter than is wasted doing things inefficiently. And if that is the case, elimination is a more useful skill than optimization. I'm reminded of the famous Peter Drucker quote, \"There is nothing so useless as doing efficiently that which should not be done at all.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "People often grant a request just because they want to appear polite and helpful."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "It's no easy job learning to say \"no\" to opportunities that were once considered worth grasping."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "When you decline a request, you are saving your future time."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "People sometimes struggle to do things that are simply a waste of time."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Doing efficiently what is not worth doing is the most useless effort."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It is especially difficult for people to decline to do what their superiors ask them to do."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "People agree to do too many things they are in fact unwilling to do."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "According to one famous entrepreneur, innovation means refusal to do an enormous number of things."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "It is an essential aspect of life to cooperate with other people."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Refusing a request is sometimes seen as a privilege not enjoyed by ordinary people."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "We're eating more fish than ever these days. At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s. What's really remarkable, though, is where that fish comes from.\n\nFor the first time in human history, most of our aquatic (水产的) food now comes from farming rather than fishing.\n\nPeople ate around 73 million tonnes of farmed fish—just more than half of the volume of fish that humans consumed—in 2014. That's out of a total fish supply of 167 million tonnes; the remaining 20 million or so tonnes go into things like animal feed and medical products.\n\nTo keep eating fish at the current rate, we're definitely going to need to keep aquaculture (水产养殖) developing. That's because the volume of fish caught in the wild has leveled off since the 1990s.\n\nBack in 1974, only $10\\%$ of marine fish stocks had been overfished. Now, more than three-tenths are. Only a tenth of our oceans' fish stocks could sustain heavier fishing than current levels.\n\nBut while catchings at sea have suffered, fish-farming has been growing at a fast rate. A lot of that is coming from China, which produces $60\\%$ of the world's farmed fish. In fact, some 35 countries, including China, now produce more farmed than wild-caught fish.\n\nThis shift toward aquaculture isn't just good for ensuring salmon (三文鱼) on your plate; it's also crucial to ensuring food security and sustainability. By 2050, the world will need to feed an estimated 9.7 billion people. They'll have to get their protein somewhere. However, raising cattle, pigs, and other land-based animals requires vast sums of grain and water. For example, pound for pound, beef requires 15 times more feed to raise than carp, a freshwater fish farmed all over Asia. That grain—and the water needed to grow it—could be consumed by people instead.\n\nHowever, aquaculture is no silver bullet. In some southeast Asian countries, shrimp farming does disastrous damage to marine ecosystems. Despite these problems, however, shrimp continues to be among the most popular seafoods worldwide.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say is remarkable about the fish we eat?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They reproduce quickly."
+                },
+                {
+                  "label": "B",
+                  "text": "They are mostly farmed."
+                },
+                {
+                  "label": "C",
+                  "text": "They have become as important as grain."
+                },
+                {
+                  "label": "D",
+                  "text": "They have a longer history than humans."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we need to do if we keep consuming fish at the current rate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Increase the fishing volume considerably."
+                },
+                {
+                  "label": "B",
+                  "text": "Develop more advanced fishing technology."
+                },
+                {
+                  "label": "C",
+                  "text": "Enlarge the marine fish stocks effectively."
+                },
+                {
+                  "label": "D",
+                  "text": "Expand the scale of fish-farming continuously."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author say about China in terms of aquatic food?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It places increasing emphasis on fishing now."
+                },
+                {
+                  "label": "B",
+                  "text": "It boasts of the world's largest fishing stocks."
+                },
+                {
+                  "label": "C",
+                  "text": "It raises more fish than caught from the wild."
+                },
+                {
+                  "label": "D",
+                  "text": "It supplies 60% of the world's fish products."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why does the author say aquaculture is so important these days?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a must for feeding the world's fast-growing population."
+                },
+                {
+                  "label": "B",
+                  "text": "It proves a reliable source of protein for humans and animals."
+                },
+                {
+                  "label": "C",
+                  "text": "It is essential to maintaining both mental and physical health."
+                },
+                {
+                  "label": "D",
+                  "text": "It ensures a balanced healthy diet for people the world over."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author imply by saying aquaculture is no silver bullet?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Shrimp-farming is a risky business."
+                },
+                {
+                  "label": "B",
+                  "text": "Fish-farming will not be sustainable."
+                },
+                {
+                  "label": "C",
+                  "text": "Fish-farming may cause serious problems too."
+                },
+                {
+                  "label": "D",
+                  "text": "Shrimp-farming can become quite expensive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "In 2020, the Nobel Peace Prize was awarded to the World Food Programme (WFP).\n\nWhy a Nobel Prize for the WFP, and why now? In 2019, the WFP assisted nearly 100 million people in 88 countries. It is the safety net for those who fall off the edge of existence. It is a response to solving the problem of food instability. Its Nobel Prize reminds us all of the moral hazard in imagining that the poor and vulnerable are somebody else's problem.\n\nThe WFP has been around since 1961 and has been the global coordinator of nationally based efforts to avoid disasters with food aid. Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment. Progress at reducing undernourishment has stopped despite gains through the 1990s and 2000s.\n\nDeveloped countries sometimes offer food and aid to developing ones, but at a price. One American philosopher stated that addressing the needs of the poor and vulnerable is about more than money—it is mostly about creating conditions under which prosperity and opportunity can thrive. When aid is offered\n\nwith heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order. This is why the work of the WFP is so vital.\n\nThe scientific community, however, can provide a helping hand to the WFP. By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems. By making its voice heard, science can lead by example. The ability to overcome food shortages that must be built into some of the poorest countries will not come from loans from wealthy countries, which may have food problems of their own, or world economic institutions. This ability will be built upon self-confident people using open and shared scientific knowledge to pull themselves out of their misery.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the WFP's winning of the Nobel Peace Prize make us realize?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "More and more people in the world are suffering from starvation."
+                },
+                {
+                  "label": "B",
+                  "text": "All of us can be affected by food instability one way or another."
+                },
+                {
+                  "label": "C",
+                  "text": "It is hazardous to leave millions of people poor and vulnerable."
+                },
+                {
+                  "label": "D",
+                  "text": "It is morally wrong to think helping the poor is not our business."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn about the WFP's effort to eliminate hunger?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has ensured a sufficient food supply to millions."
+                },
+                {
+                  "label": "B",
+                  "text": "It is still far from its goal despite the progress made."
+                },
+                {
+                  "label": "C",
+                  "text": "It has done a good job in combating natural disasters."
+                },
+                {
+                  "label": "D",
+                  "text": "It is preventing starvation occurring on a global scale."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What will happen when food aid is offered at a price?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The rich will become richer and the poor poorer."
+                },
+                {
+                  "label": "B",
+                  "text": "More people will be willing to join in the effort."
+                },
+                {
+                  "label": "C",
+                  "text": "More food will be made available to the needy."
+                },
+                {
+                  "label": "D",
+                  "text": "The relief effort will be rendered less sustainable."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "How can scientists help cope with poverty and hunger?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "By collaborating closely with world economic institutions."
+                },
+                {
+                  "label": "B",
+                  "text": "By sharing expertise with peers in poverty-stricken nations."
+                },
+                {
+                  "label": "C",
+                  "text": "By setting up more food research programs in developing countries."
+                },
+                {
+                  "label": "D",
+                  "text": "By building self-respect in people suffering from undernutrition."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What message does the author try to convey at the end of the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Wealthy nations should solve their own food problems first."
+                },
+                {
+                  "label": "B",
+                  "text": "Rich countries should be more generous in providing food aid."
+                },
+                {
+                  "label": "C",
+                  "text": "Poor nations should enhance their own ability to solve their food shortages."
+                },
+                {
+                  "label": "D",
+                  "text": "World economic institutions should play a bigger role in fighting hunger."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "立春(Start of Spring) 在中国农历中表示春天的开始。立春之后,白天变得更长,天气也愈发温暖,万物开始复苏,大地充满生机。人们常说“一年之计在于春”,农民在这个时节开始播种,为全年的丰收打下基础。中国人早在三千年前就已开始在立春这一天举行庆祝活动。数百年来,迎春一直是民间的重要习俗。在春暖花开的日子里,人们常常外出游玩,欣赏春天的美景。"
+      }
+    ]
+  },
+  "id": "CET4-2022-12-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

@@ -1,0 +1,1309 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying “Respect others, and you will be respected.” You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying “Respect others, and you will be respected.” You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay commenting on the saying “Respect others, and you will be respected.” You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They reward businesses that eliminate food waste."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They prohibit the sale of foods that have gone stale."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They facilitate the donation of unsold foods to the needy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They forbid businesses to produce more foods than needed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It imposed penalties on businesses that waste food."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It passed a law aiming to stop overproduction."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It voted against food import from outside Europe."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It prohibited the promotion of bulk food sales."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has warned its people against possible food shortages."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has penalized businesses that keep overproducing foods."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has started a nationwide campaign against food waste."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has banned supermarkets from dumping edible foods."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The confusion over food expiration labels."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The surplus resulting from overproduction."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Americans' habit of buying food in bulk."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A lack of regulation on food consumption."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has started a week-long promotion campaign."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has just launched its annual anniversary sales."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It offers regular weekend sales all the year round."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It specializes in the sale of ladies' designer dresses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Price reductions for its frequent customers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Coupons for customers with bulk purchases."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Free delivery of purchases for senior customers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Price adjustments within seven days of purchase."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Mail a gift card to her."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Allow her to buy on credit."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Credit it to her account."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give her some coupons."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Refunding for goods returned."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Prolonged goods warranty."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Free installing of appliances."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Complimentary tailoring."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are thin, tall, and unlike real human beings."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have more than twenty different hair textures."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have twenty-four different body shapes in total."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They represent people from virtually all walks of life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They do not reflect young girls' aspirations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their flat feet do not appeal to adolescents."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are not sold together with the original."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their body shapes have not changed much."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In toy stores."
+                  },
+                  {
+                    "label": "B",
+                    "text": "In shopping malls."
+                  },
+                  {
+                    "label": "C",
+                    "text": "On the Internet."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At Barbie shops."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Moveable metal type began to be used in printing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Chinese printing technology was first introduced."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The earliest known book was published."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Metal type was imported from Korea."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It had more than a hundred printing presses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was the biggest printer in the 16th century."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It helped the German people become literate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It produced some 20 million volumes in total."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It pushed handwritten books out of circulation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It made writing a very profitable career."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It boosted the circulation of popular works."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It provided readers with more choices."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It accelerated the extinction of the Latin language."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It standardized the publication of grammar books."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It turned translation into a welcome profession."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It promoted the growth of national languages."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They get bored after working for a period of time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They spend an average of one year finding a job."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They become stuck in the same job for decades."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They choose a job without thinking it through."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "See if there will be chances for promotion."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Find out what job choices are available."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Watch a film about ways of job hunting."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Decide which job is most attractive to you."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The qualifications you have."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The pay you are going to get."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The culture of your target company."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The work environment you will be in."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 22 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 22
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is as important as Christmas for African-Americans."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a cultural festival founded for African-Americans."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is an ancient festival celebrated by African-Americans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a religious festival celebrated by African-Americans."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To urge African-Americans to do more for society."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To call on African-Americans to worship their gods."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To help African-Americans to realize their goals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To remind African-Americans of their sufferings."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Faith in self-determination."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Unity and cooperative economics."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The first fruits of the harvest."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Creative work and achievement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They recite a principle."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They drink wine from the unity cup."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They take a solemn oath."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They call out their ancestors' names."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 23 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 23,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is one of the world's most healthy diets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It contains large amounts of dairy products."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It began to impact the world in recent years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It consists mainly of various kinds of seafood."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It involved 13,000 researchers from Asia, Europe and America."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was conducted in seven Mid-Eastern countries in the 1950s."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is regarded as one of the greatest researches of its kind."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has drawn the attention of medical doctors the world over."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They care much about their health."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They use little oil in cooking."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They eat foods with little fat."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have lower mortality rates."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "In the past 12 months, Nigeria has suffered from a shrinking economy, a sliding currency, and a prolonged fuel shortage. Now, Africa's largest economy is facing a food crisis as major tomato fields have been destroyed by an insect, leading to a nationwide shortage and escalating prices.\n\nThe insect, Tutaabsoluta, has destroyed 80% of farms in Kaduna, Nigeria's largest tomato-producing state, leading the government there to declare a state of _26_. The insect, also known as the tomato leaf miner, devastates crops by _27_ on fruits and digging into and moving through stalks. It _28_ incredibly quickly, breeding up to 12 generations per year if conditions are favorable. It is believed to have _29_ in South America in the early 1900s, and later spread to Europe before crossing over to sub-Saharan Africa.\n\nIn Nigeria, where tomatoes are a staple of local diets, the insect’s effects are devastating. Retail prices for a $_{30}$ of tomatoes at local markets have risen from \\$0.50 to \\$2.50. Farmers are reporting steep losses and a new \\$20 million tomato-paste factory has $_{31}$ production due to the shortages.\n\nGiven the moth's ability also to attack crops like pepper and potatoes, Audu Ogbeh, Nigeria's minister of agriculture, has warned that the pest may \"create serious problems for food _32_ \" in\n\nthe country. Ogbeh says experts are investigating how to control the pest's damage and prevent its spread, which has gone largely _33_ until now.\n\nDespite being the continent's second-largest producer of tomatoes, Nigeria is _34_ on \\$1 billion worth of tomato-paste imports every year, as around 75% of the local harvest goes to waste thanks to a lack of proper storage facilities. A further _35_ in local supplies is yet another unwelcome setback to the industry.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "dependent"
+        },
+        {
+          "label": "I",
+          "text": "originated"
+        },
+        {
+          "label": "B",
+          "text": "embarking"
+        },
+        {
+          "label": "J",
+          "text": "reduction"
+        },
+        {
+          "label": "C",
+          "text": "emergency"
+        },
+        {
+          "label": "K",
+          "text": "reproduces"
+        },
+        {
+          "label": "D",
+          "text": "feeding"
+        },
+        {
+          "label": "L",
+          "text": "security"
+        },
+        {
+          "label": "E",
+          "text": "grazes"
+        },
+        {
+          "label": "M",
+          "text": "terror"
+        },
+        {
+          "label": "F",
+          "text": "halted"
+        },
+        {
+          "label": "N",
+          "text": "unchecked"
+        },
+        {
+          "label": "G",
+          "text": "handful"
+        },
+        {
+          "label": "O",
+          "text": "untouched"
+        },
+        {
+          "label": "H",
+          "text": "multitude"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 446,
+          "end": 450
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 521,
+          "end": 525
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 583,
+          "end": 587
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 699,
+          "end": 703
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "$_{30}$",
+          "start": 927,
+          "end": 934
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "$_{31}$",
+          "start": 1081,
+          "end": 1088
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1305,
+          "end": 1309
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1446,
+          "end": 1450
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1541,
+          "end": 1545
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1709,
+          "end": 1713
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Who's Really Addicting You to Technology?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "“Nearly everyone I know is addicted in some measure to the Internet,” wrote Tony Schwartz in The New York Times. It’s a common complaint these days. A steady stream of similar headlines accuse the Net and its offspring apps, social media sites and online games of addicting us to distraction."
+        },
+        {
+          "label": "B",
+          "text": "There's little doubt that nearly everyone who comes in contact with the Net has difficulty disconnecting. Many of us, like Schwartz, struggle to stay focused on tasks that require more concentration than it takes to post a status update. As one person ironically put it in the comments section of Schwartz's online article, “As I was reading this very excellent article, I stopped at least half a dozen times to check my email.”"
+        },
+        {
+          "label": "C",
+          "text": "There's something different about this technology: it is both invasive and persuasive. But who's at fault for its overuse? To find solutions, it's important to understand what we're dealing with. There are four parties conspiring to keep you connected: the tech, your boss, your friends and you."
+        },
+        {
+          "label": "D",
+          "text": "The technologies themselves, and their makers, are the easiest suspects to blame for our diminishing attention spans. Nicholas Carr, author of The Shallows: What the Internet Is Doing to Our Brains, wrote, “The net is designed to be an interruption system, a machine geared to dividing attention.”"
+        },
+        {
+          "label": "E",
+          "text": "Online services like Facebook, Twitter and the like, are called out as masters of manipulation—making products so good that people can’t stop using them. After studying these products for several years, I wrote a book about how they do it. I learned it all starts with the business model. Since these services rely on advertising revenue, the more frequently you use them, the more money they make. It’s no wonder these companies employ teams of people focused on engineering their services to be as engaging as possible. These products aren’t habit-forming by chance; it’s by design. They have an incentive to keep us hooked."
+        },
+        {
+          "label": "F",
+          "text": "However, as good as these services are, there are simple steps we can take to keep them at bay. For example, we can change how often we receive the distracting notifications that trigger our urge to check. According to Adam Marchick, CEO of mobile marketing company Kahuna, less than 15 percent of smartphone users ever bother to adjust their notification settings—meaning the remaining 85 percent of us default to the app makers' every preset trigger. Google and Apple have made it far too difficult to adjust these settings so it's up to us to take steps to ensure we set these triggers to suit our own needs, not the needs of the app makers'."
+        },
+        {
+          "label": "G",
+          "text": "While companies like Facebook harvest attention to generate revenue from advertisers, other technologies have no such agenda. Take email, for example. This system couldn't care less how often you use it. Yet to many, email is the most habit-forming medium of all. We check email at all hours of the day—we're obsessed. But why? Because that's what the boss wants. For almost all white-collar jobs, email is the primary tool of corporate communication. A slow response to a message could hurt not only your reputation but also your livelihood."
+        },
+        {
+          "label": "H",
+          "text": "Your friends are also responsible for the addiction. Think about this familiar scene. People gathered around a table, enjoying food and each other's company. There's laughter and a bit of kidding. Then, during an interval in the conversation, someone takes out their phone to check who knows what. Barely anyone notices and no one says a thing."
+        },
+        {
+          "label": "I",
+          "text": "Now, imagine the same dinner, but instead of checking their phone, the person belches (打嗝)—loudly. Everyone notices. Unless the meal takes place in a beer house, this is considered bad manners. The impolite act violates the basic rules of etiquette. One has to wonder: why don’t we apply the same social norms to checking phones during meals, meetings and conversations as we do to other antisocial behaviors? Somehow, we accept it and say nothing when someone offends."
+        },
+        {
+          "label": "J",
+          "text": "The reality is, taking one's phone out at the wrong time is worse than belching because, unlike\n\nother minor offense, checking tech is contagious. Once one person looks at their phone, other people feel compelled to do the same, starting a chain reaction. The more people are on their phones, the fewer people are talking until finally you're the only one left not reading email or checking Twitter. From a societal perspective, phone checking is less like belching in public and more like another bad habit. Our phones are like cigarettes—something to do when we're anxious, bored or when our fingers need something to toy with. Seeing others enjoy a smoke, or sneak a quick glance, is too tempting to resist and soon everyone is doing it."
+        },
+        {
+          "label": "K",
+          "text": "The technology, your boss, and your friends, all influence how often you find yourself using (or overusing) these gadgets. But there's still someone who deserves scrutiny—the person holding the phone."
+        },
+        {
+          "label": "L",
+          "text": "I have a confession. Even though I study habit-forming technology for a living, disconnecting is not easy for me. I'm online far more than I'd like. Like Schwartz and so many others, I often find myself distracted and off task. I wanted to know why so I began self-monitoring to try to understand my behavior. That's when I discovered an uncomfortable truth. I use technology as an escape. When I'm doing something I'd rather not do, or when I'm someplace I'd rather not be, I use my phone to port myself elsewhere. I found that this ability to instantly shift my attention was often a good thing, like when passing time on public transportation. But frequently my tech use was not so benign. When I faced difficult work, like thinking through an article idea or editing the same draft for the hundredth time, for example, a more sinister screen would draw me in. I could easily escape discomfort, temporarily, by answering emails or browsing the web under the pretense of so-called “research.” Though I desperately wanted to lay blame elsewhere, I finally had to admit that my bad habits had less to do with new-age technology and more to do with old-fashioned procrastination (拖延)."
+        },
+        {
+          "label": "M",
+          "text": "It's easy to blame technology for being so distracting, but distraction is nothing new. Aristotle and Socrates debated the nature of “akrasia”—our tendency to do things against our interests. If we're honest with ourselves, tech is just another way to occupy our time and minds. If we weren't on our devices, we'd likely do something similarly unproductive."
+        },
+        {
+          "label": "N",
+          "text": "Personal technology is indeed more engaging than ever, and there's no doubt companies are engineering their products and services to be more compelling and attractive. But would we want it any other way? The intended result of making something better is that people use it more. That's not necessarily a problem, that's progress."
+        },
+        {
+          "label": "O",
+          "text": "These improvements don't mean we shouldn't attempt to control our use of technology. In order to make sure it doesn't control us, we should come to terms with the fact that it's more than the technology itself that's responsible for our habits. Our workplace culture, social norms and individual behaviors all play a part. To put technology in its place, we must be conscious not only of how technology is changing, but also of how it is changing us."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Online services are so designed that the more they are used, the more profit they generate."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The author admits using technology as an escape from the task at hand."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Checking phones at dinners is now accepted as normal but not belching."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "To make proper use of technology, we should not only increase our awareness of how it is changing but also how it is impacting us."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Most of us find it hard to focus on our immediate tasks because of Internet distractions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "When one person starts checking their phone, the others will follow suit."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The great majority of smartphone users don't take the trouble to adjust their settings to suit their own purposes."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The Internet is regarded by some as designed to distract our attention."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The author attributes his tech addiction chiefly to his habit of putting off doing what he should do right away."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "White-collar workers check email round the clock because it is required by their employers."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine. The “coca” in the name referred to the extracts of coca leaf that the drink’s originator, chemist John Pemberton, mixed with his sugary syrup (浆汁). At the time, coca leaf extract mixed with wine was a common tonic (滋补品), and Pemberton’s sweet brew was a way to get around local laws prohibiting the sale of alcohol. But the other half of the name represents another ingredient, less infamous (名声不好的), perhaps, but also strangely potent: the kola nut.\n\nIn West Africa, people have long chewed kola nuts as stimulants, because they contain caffeine that also occurs naturally in tea, coffee, and chocolate. They also have heart stimulants.\n\nHistorian Paul Lovejoy relates that the cultivation of kola nuts in West Africa is hundreds of years old. The leafy, spreading trees were planted on graves and as part of traditional rituals. Even though the nuts, which need to stay moist, can be somewhat delicate to transport, traders carried them\n\nhundreds of miles throughout the forests and grasslands.\n\nEuropeans did not know of them until the 1500s, when Portuguese ships arrived on the coast of what is now Sierra Leone. And while the Portuguese took part in the trade, ferrying nuts down the coast along with other goods, by 1620, when English explorer Richard Jobson made his way up the Gambia, the nuts were still peculiar to his eyes.\n\nBy the late 19th century, kola nuts were being shipped by the tonne to Europe and the US. Many made their way into medicines, intended as a kind of energy boost. One such popular medicinal drink was Vin Mariani, a French product consisting of coca extract mixed with red wine. It was created by a French chemist, Angelo Mariani, in 1863. So when Pemberton created his drink, it represented an ongoing trend. When cocaine eventually fell from grace as a beverage ingredient, kola-extract colas became popular.\n\nThe first year it was available, Coca-Cola averaged nine servings a day across all the Atlanta soda fountains where it was sold. As it grew more popular, the company sold rights to bottle the soda, so it could travel easily. Today about 1.9 billion Cokes are purchased daily. It's become so iconic that attempts to change its taste in 1985—sweetening it in a move projected to boost sales—proved disastrous, with widespread anger from consumers. “Coca-Cola Classic” returned to store shelves just three months after the “New Coke” was released.\n\nThese days, the Coca-Cola recipe is a closely guarded secret. But it's said to no longer contain kola nut extract, relying instead on artificial imitations to achieve the flavour.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn about chemist John Pemberton?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He used a strangely potent ingredient in a food supplement."
+                },
+                {
+                  "label": "B",
+                  "text": "He created a drink containing alcohol without breaking law."
+                },
+                {
+                  "label": "C",
+                  "text": "He became notorious because of the coca drink he developed."
+                },
+                {
+                  "label": "D",
+                  "text": "He risked breaking local law to make a drink with coca leaves."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the passage say about kola nuts?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their commercial value was first discovered by Portuguese settlers."
+                },
+                {
+                  "label": "B",
+                  "text": "They contain some kind of energy boost not found in any other food."
+                },
+                {
+                  "label": "C",
+                  "text": "Many were shipped to Europe in the late 19th century for medicinal use."
+                },
+                {
+                  "label": "D",
+                  "text": "They were strange to the Europeans when first imported from West Africa."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "How come kola-extract colas became popular?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Cocaine had become notorious."
+                },
+                {
+                  "label": "B",
+                  "text": "Alcoholic drinks were prohibited."
+                },
+                {
+                  "label": "C",
+                  "text": "Fountains were set up to sell them."
+                },
+                {
+                  "label": "D",
+                  "text": "Rights were sold to bottle the soda."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is known about the taste of Coca-Cola?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was so designed as to create addiction in consumers."
+                },
+                {
+                  "label": "B",
+                  "text": "It still relies on traditional kola nut extract."
+                },
+                {
+                  "label": "C",
+                  "text": "It has become more popular among the old."
+                },
+                {
+                  "label": "D",
+                  "text": "It has remained virtually unchanged since its creation."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is the passage mainly about?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The evolution of Coca-Cola."
+                },
+                {
+                  "label": "B",
+                  "text": "The success story of Coca-Cola."
+                },
+                {
+                  "label": "C",
+                  "text": "The medicinal value of Coca-Cola."
+                },
+                {
+                  "label": "D",
+                  "text": "The business strategy of Coca-Cola."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Twenty years ago, the Urban Land Institute defined the two types of cities that dominated the US landscape: smaller cities that operated around standard 9-5 business hours and large metropolitan areas that ran all 24 hours of the day. Analyzing and comparing cities using the lens of this basic divide gives interesting context to how investment capital flows and housing prices have shifted.\n\nIn recent years, many mid-sized cities have begun to adopt a middle-of-the-road approach incorporating the excitement and opportunity of large cities with small cities' quiet after midnight. These 18-hour cities are beginning to make waves in real estate rankings and attract more real estate investment. What is underlying this new movement in real estate, and why do these cities have so much appeal?\n\n18-hour cities combine the best of 24-hour and 9-5 cities, which contributes to downtown revitalization. For decades, many downtown cores in small to mid-sized cities were abandoned after work hours by workers who lived in the suburbs. Movement out of city centers was widespread, and downtown tenants were predominantly made up of the working poor. This generated little commerce for downtown businesses in the evenings, which made business and generating tax revenue for municipal upkeep difficult. With the rise of a new concept in urban planning that aims to make life easier and more convenient, however, increasing popularity for urban areas that caused the real estate pushes, in major cities like San Francisco or New York, has inspired a type of forward thinking urbanity and policy in smaller cities.\n\nTransforming downtown areas so that they incorporate modern housing and improved walkability to local restaurants, retail, and entertainment—especially when combined with improved infrastructure for cyclists and public transit—makes them appeal to a more affluent demographic. These adjustments encourage employers in the knowledge and talent industries to keep their offices downtown. Access to foot traffic and proximity to transit allow the type of entertainment-oriented businesses such as bars and restaurants to stay open later, which attracts both younger, creative workers and baby boomers nearing retirement alike. Because of their smaller size, most keep hours that allow people to enjoy themselves, then have some quiet after midnight, as opposed to large major cities like New York, where the buzz of activity is ongoing.\n\nThese 18-hour cities are rapidly on the rise and offer great opportunities for homeowner investment. In many of these cities such as Denver, a diverse and vigorous economy attracted to the urban core has offered stable employment for residents. The right urban mix has propped up home occupancy, increased property values, and attracted significant investment capital.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn about American cities twenty years ago?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They were divided into residential and business areas."
+                },
+                {
+                  "label": "B",
+                  "text": "Their housing prices were linked with their prosperity."
+                },
+                {
+                  "label": "C",
+                  "text": "There was a clear divide between large and small cities."
+                },
+                {
+                  "label": "D",
+                  "text": "They were places where large investment capital flowed."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What can be inferred from the passage about 18-hour cities?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They especially appeal to small businesses."
+                },
+                {
+                  "label": "C",
+                  "text": "They have replaced quiet with excitement."
+                },
+                {
+                  "label": "B",
+                  "text": "They have seen a rise in property prices."
+                },
+                {
+                  "label": "D",
+                  "text": "They have changed America's landscape."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Years ago, many downtown cores in small to mid-sized cities .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "had hardly any business activity"
+                },
+                {
+                  "label": "C",
+                  "text": "exhibited no signs of prosperity"
+                },
+                {
+                  "label": "B",
+                  "text": "were crowded in business hours"
+                },
+                {
+                  "label": "D",
+                  "text": "looked deserted in the evenings"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What characterizes the new downtown areas in 18-hour cities?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A sudden emergence of the knowledge industry."
+                },
+                {
+                  "label": "B",
+                  "text": "Flooding in of large crowds of migrant workers."
+                },
+                {
+                  "label": "C",
+                  "text": "Modernized housing and improved infrastructure."
+                },
+                {
+                  "label": "D",
+                  "text": "More comfortable life and greater upward mobility."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What have 18-hour cities brought to the local residents?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "More chances for promotion."
+                },
+                {
+                  "label": "B",
+                  "text": "Healthier living environment."
+                },
+                {
+                  "label": "C",
+                  "text": "Greater cultural diversity."
+                },
+                {
+                  "label": "D",
+                  "text": "Better job opportunities."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "太湖是中国东部的一个淡水湖,占地面积2250平方公里,是中国第三大淡水湖,仅次于鄱阳和洞庭。太湖约有90个岛屿,大小从几平方米到几平方公里不等。太湖以其独特的“太湖石”而闻名,太湖石常用于装饰中国传统园林。太湖也以高产的捕鱼业闻名。自上世纪70年代后期以来,捕捞鱼蟹对沿湖的居民来说极为重要,并对周边地区的经济作出了重大贡献。太湖地区是中国陶瓷(ceramics)业基地之一,其中宜兴的陶瓷厂家生产举世闻名的宜兴紫砂壶(clay teapot)。"
+      }
+    ]
+  },
+  "id": "CET6-2017-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

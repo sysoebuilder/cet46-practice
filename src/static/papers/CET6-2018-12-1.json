@@ -1,0 +1,1375 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on how to balance work and leisure. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on how to balance work and leisure. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on how to balance work and leisure. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can benefit professionals and non-professionals alike."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It lists the various challenges physicists are confronting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It describes how some mysteries of physics were solved."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is one of the most fascinating physics books ever written."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Physicists’ contribution to humanity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Stories about some female physicists."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Historical evolution of modern physics."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Women’s changing attitudes to physics."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By exposing a lot of myths in physics."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By describing her own life experiences."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By including lots of fascinating knowledge."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By telling anecdotes about famous professors."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It avoids detailing abstract concepts of physics."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It contains a lot of thought-provoking questions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It demonstrates how they can become physicists."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It provides experiments they can do themselves."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is too busy to finish his assignment in time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He does not know what kind of topic to write on."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He does not understand the professor’s instructions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has no idea how to proceed with his dissertation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is too broad."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a bit outdated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is challenging."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is interesting."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Biography."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Nature."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Philosophy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Beauty."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Improve his cumulative grade."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Develop his reading ability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Stick to the topic assigned."
+                  },
+                  {
+                    "label": "D",
+                    "text": "List the parameters first."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The unprecedented high temperature in Greenland."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The collapse of ice on the northern tip of Greenland."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The unusual cold spell in the Arctic area in October."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The rapid change of Arctic temperature within a day."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has created a totally new climate pattern."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It will pose a serious threat to many species."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It typically appears about once every ten years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has puzzled the climate scientists for decades."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Extinction of Arctic wildlife."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Iceless summers in the Arctic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Emigration of indigenous people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Better understanding of ecosystems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A good start."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A detailed plan."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A strong determination."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A scientific approach."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Most people get energized after a sufficient rest."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Most people tend to have a finite source of energy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is vital to take breaks between demanding mental tasks."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is most important to have confidence in one’s willpower."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They could keep on working longer."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could do more challenging tasks."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They found it easier to focus on work at hand."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They held more positive attitudes toward life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are part of their nature."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are subject to change."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are related to culture."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are beyond control."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre. Questions 16 to 18 are based on the recording you have just heard.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": null,
+            "question_range": null,
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "About half of current jobs might be automated."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The jobs of doctors and lawyers would be threatened."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The job market is becoming somewhat unpredictable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Machine learning would prove disruptive by 2013."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are widely applicable for massive open online courses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are now being used by numerous high school teachers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They could read as many as 10,000 essays in a single minute."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They could grade high-school essays just like human teachers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It needs instructions throughout the process."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It does poorly on frequent, high-volume tasks."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has to rely on huge amounts of previous data."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is slow when it comes to tracking novel things.\n\n2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The engineering problems with solar power."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The generation of steam with the latest technology."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The importance of exploring new energy sources."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The theoretical aspects of sustainable energy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Drive trains with solar energy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Upgrade the city’s train facilities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Build a new ten-kilometre railway line."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Cut down the city’s energy consumption."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Build a thank for keeping calcium oxide."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Find a new material for storing energy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Recover super-heated steam."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Collect carbon dioxide gas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The lack of supervision by both the national and local governments."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The impact of the current economic crisis at home and abroad."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The poor management of day centres and home help services."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The poor relation between national health and social care services."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was mainly provided by voluntary services."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It mainly caters to the needs of the privileged."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It called for a sufficient number of volunteers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has deteriorated over the past sixty years."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their longer lifespans."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Fewer home helpers available."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their preference for private services."
+                  },
+                  {
+                    "label": "D",
+                    "text": "More of them suffering serious illnesses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are unable to pay for health services."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have long been discriminated against."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are vulnerable to illnesses and diseases."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have contributed a great deal to society."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "Just off the coast of Southern California sits Santa Cruz Island, where a magical creature called the island fox 26 A decade ago, this island’s ecosystem was in 27 . Wild pigs attracted golden eagles from the mainland, and those flying 28 crashed the fox population. So the Nature Conservancy launched a 29 war against the pigs, complete with helicopters and sharp shooters.\n\nAnd it worked. Today, federal agencies are pulling the island fox from the Endangered Species List. It’s the fastest-ever recovery of a mammal, joining peers like the Louisiana black bear as glowing successes in the history of the Endangered Species Act.\n\nBut the recovery of Santa Cruz Island isn’t just about the fox. The Nature Conservancy has 30 war on a multitude\n\n3\n\nof invasive species here, from sheep to plants to the 31 Argentine ant. “Our philosophy with the island has always been, ‘OK, 32 the threats and let the island go back to what it was,’” says ecologist Christina Boser. And it appears to be working. Native plants are coming back, and the fox once again bounds about carefree.\n\nBut keeping those foxes from harm will occupy Boser and her colleagues for years to come. You see, humans are still allowed on Santa Cruz Island, and they bring dogs. So Boser has to vaccinate her foxes against various diseases. “We’re obligated to keep a pulse on the population for at least five years after the foxes are delisted,” says Boser. That includes tagging the foxes and 33 their numbers to ensure nothing goes wrong.\n\nThis is the story of the little fox that has come back, and the people who have 34 their lives to protecting it. This is the story of wildlife conservation in the age of mass 35 .",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "aggressive"
+        },
+        {
+          "label": "I",
+          "text": "hinders"
+        },
+        {
+          "label": "B",
+          "text": "chaos"
+        },
+        {
+          "label": "J",
+          "text": "mammal"
+        },
+        {
+          "label": "C",
+          "text": "configuration"
+        },
+        {
+          "label": "K",
+          "text": "monitoring"
+        },
+        {
+          "label": "D",
+          "text": "declared"
+        },
+        {
+          "label": "L",
+          "text": "predators"
+        },
+        {
+          "label": "E",
+          "text": "dedicated"
+        },
+        {
+          "label": "M",
+          "text": "remove"
+        },
+        {
+          "label": "F",
+          "text": "dwells"
+        },
+        {
+          "label": "N",
+          "text": "tempt"
+        },
+        {
+          "label": "G",
+          "text": "extinction"
+        },
+        {
+          "label": "O",
+          "text": "underlying"
+        },
+        {
+          "label": "H",
+          "text": "fierce"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 113,
+          "end": 115
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 161,
+          "end": 163
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 236,
+          "end": 238
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 304,
+          "end": 306
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 723,
+          "end": 725
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 803,
+          "end": 805
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 875,
+          "end": 877
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1458,
+          "end": 1460
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1586,
+          "end": 1588
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1681,
+          "end": 1683
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Do Parents Invade Children’s Privacy When They Post Photos Online?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "When Katlyn Burbidge’s son was 6 years old, he was performing some ridiculous song and dance typical of a first-grader. But after she snapped a photo and started using her phone, he asked her a serious question:“Are you going to post that online?” She laughed and answered, “Yes, I think I will.” What he said next stopped her. “Can you not?”"
+        },
+        {
+          "label": "B",
+          "text": "That’s when it dawned on her: She had been posting photos of him online without asking his permission. “We’re big advocates of bodily autonomy and not forcing him to hug or kiss people unless he wants to, but it never occurred to me that I should ask his permission to post photos of him online,” says Burbidge, a mom of two in Wakefield, Massachusetts. “Now when I post a photo of him online, I show him the photo and get his okay.”"
+        },
+        {
+          "label": "C",
+          "text": "When her 8-month-old is 3 or 4 years old, she plans to start asking him in an age-appropriate way, “Do you want other people to see this?” That’s precisely the approach that two researchers advocated before a room of pediatricians (儿科医生) last week at the American Academy of Pediatrics meeting, when they discussed the 21st century challenge of “sharenting,” a new term for parents’ online sharing about their children. “As advocates of children’s rights, we believe that children should have a voice about what information is shared about them if possible,” says Stacey Steinberg, a legal skills professor at the University of Florida Levin College of Law in Gainesville."
+        },
+        {
+          "label": "D",
+          "text": "Whether it’s ensuring that your child isn’t bullied over something you post, that their identity isn’t digitally “kidnapped”, or that their photos don’t end up on a half dozen child pornography (色情) sites, as one Australian mom discovered, parents and pediatricians are increasingly aware of the importance of protecting children’s digital presence. Steinberg and Bahareh Keith, an assistant professor of pediatrics at the University of Florida College of Medicine, say most children will likely never experience problems related to what their parents share, but a tension still exists between parents’ rights to share their experiences and their children’s rights to privacy."
+        },
+        {
+          "label": "E",
+          "text": "“We’re in no way trying to silence parents’ voices,” Steinberg says. “At the same time, we recognize that children might have an interest in entering adulthood free to create their own digital footprint.” They cited a study presented earlier this year of 249 pairs of parents and their children in which twice as many children as parents wanted rules on what parents could share. “The parents said, ‘We don’t need rules—we’re fine,’ and the children said, ‘Our parents need rules,’” Keith\n\n4\n\nsays. “The children wanted autonomy about this issue and were worried about their parents sharing information about them.”"
+        },
+        {
+          "label": "F",
+          "text": "Although the American Academy of Pediatrics offers guidelines recommending that parents model appropriate social media use for their children, it does not explicitly discuss oversharing by parents. “I think this is a very legitimate concern, and I appreciate their drawing our attention to it,” David Hill, a father of five, says. He sees a role for pediatricians to talk with parents about this, but believes the messaging must extend far beyond pediatricians’ offices. “I look forward to seeing researchers expand our understanding of the issue so we can translate it into effective education and policy,” he says."
+        },
+        {
+          "label": "G",
+          "text": "There’s been little research on the topic, Steinberg wrote in a law article about this issue. While states could pass laws related to sharing information about children online, Steinberg feels parents themselves are generally best suited to make these decisions for their families. “While we didn’t want to create any unnecessary panic, we did find some concerns that were troublesome, and we thought that parents or at least physicians should be aware of those potential risks,” Steinberg says. They include photos repurposed for inappropriate or illegal means, identity theft, embarrassment, bullying by peers or digital kidnapping."
+        },
+        {
+          "label": "H",
+          "text": "But that’s the negative side, with risks that must be balanced against the benefits of sharing. Steinberg pointed out that parental sharing on social media helps build communities, connect spread-out families, provide support and raise awareness around important social issues for which parents might be their children’s only voice."
+        },
+        {
+          "label": "I",
+          "text": "A C.S. Mott survey found among the 56 percent of mothers and 34 percent of fathers who discussed parenting on social media, 72 percent of them said sharing made them feel less alone, and nearly as many said sharing helped them worry less and gave them advice from other parents. The most common topics they discussed included kids’ sleep, nutrition, discipline, behavior problems and day care and preschool."
+        },
+        {
+          "label": "J",
+          "text": "“There’s this peer-to-peer nature of health care these days with a profound opportunity for parents to learn helpful tips, safety and prevention efforts, pro-vaccine messages and all kinds of other messages from other parents in their social communities,” says Wendy Sue Swanson, a pediatrician and executive director of digital health at Seattle Children’s Hospital, where she blogs about her own parenting journey to help other parents. “They’re getting nurtured by people they’ve already selected that they trust,” she says."
+        },
+        {
+          "label": "K",
+          "text": "“How do we weigh the risks, how do we think about the benefits, and how do we alleviate the risks?” she says. “Those are the questions we need to ask ourselves, and everyone can have a different answer.”"
+        },
+        {
+          "label": "L",
+          "text": "Some parents find the best route for them is not to share at all. Bridget O’Hanlon and her husband, who live in Cleveland, decided before their daughter was born that they would not post her photos online. When a few family members did post pictures, O’Hanlon and her husband made their wishes clear. “It’s been hard not to share pictures of her because people always want to know how babies and toddlers (学走路的孩子) are doing and to see pictures, but we made the decision to have social media while she did not,” O’Hanlon said. Similarly, Alison Jamison of New York decided with her husband that their child had a right to their own online identity. They did use an invitation-only photo sharing platform so that friends and family, including those far away, could see the photos, but they stood firm, simply refusing to put their child’s photos on other social media platforms."
+        },
+        {
+          "label": "M",
+          "text": "“For most families, it’s a journey. Sometimes it goes wrong, but most of the time it doesn’t,” says Swanson, who recommends starting to ask children permission to post narratives or photos around ages 6 to 8. “We’ll learn more and more what our tolerance is. We can ask our kids to help us learn as a society what’s okay and what’s not.”"
+        },
+        {
+          "label": "N",
+          "text": "Indeed, that learning process goes both ways. Bria Dunham, a mother in Somerville, Massachusetts, was so excited to watch a moment of brotherly bonding while her first-grader and baby took a bath together that she snapped a few photos. But when she considered posting them online, she took the perspective of her son: How would he feel if his classmates parents saw photos of him chest-up in the bathtub? “It made me think about how I’m teaching him to have ownership of his own body and how what is shared today endures into the future,” Dunham says. “So I kept the pictures to myself and accepted this as one more step in supporting his increasing autonomy.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Steinberg argued parental sharing online can be beneficial."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "According to an expert, when children reach school age, they can help their parents learn what can and cannot be done."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "One mother refrained from posting her son’s photos online when she considered the matter from her son’s\n\n5\n\nperspective."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "According to a study, more children than parents think there should be rules on parents’ sharing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Katlyn Burbidge had never realized she had to ask her son’s approval to put his photos online."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "A mother decided not to post her son’s photo online when he asked her not to."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "A woman pediatrician tries to help other parents by sharing her own parenting experience."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "There are people who decide simply not to share their children’s photos online."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Parents and physicians should realize sharing information online about children may involve risks."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Parents who share their parenting experiences may find themselves intruding into their children’s privacy."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some question or unfinished statements. For each of them there are four choices marked A), B), C)and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Perhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have become shepherds, too. Commercial growing fields are astronomically huge and take thousands of man-hours to operate. One prime example is one of Australia’s most isolated cattle stations, Suplejack Downs in the Northern Territory, extending across 4,000 square kilometers, taking over 13 hours to reach by car from the nearest major town—Alice Springs.\n\nThe extreme isolation of these massive farms leaves them often unattended, and monitored only once or twice a year, which means if the livestock falls ill or requires assistance, it can be a long time for farmers to discover.\n\nHowever, robots are coming to the rescue.\n\nRobots are currently under a two-year trial in Wales which will train “farmbots” to herd, monitor the health of livestock, and make sure there is enough pasture for them to graze on. The robots are equipped with many sensors to identify conditions of the environment, cattle and food, using thermal and vision sensors that detect changes in body temperature.\n\n“You’ve also got color, texture and shape sensors looking down at the ground to check pasture quality,” says Salah Sukkarieh of the University of Sydney, who will carry out trials on several farms in central New South Wales.\n\nDuring the trials, the robot algorithms (算法) and mechanics will be fine-tuned to make it better suited to ailing livestock and ensure it safely navigates around potential hazards including trees, mud, swamps, and hills.\n\n“We want to improve the quality of animal health and make it easier for farmers to maintain large landscapes where animals roam free,” says Sukkarieh.\n\nThe robots are not limited to herding and monitoring livestock. They have been created to count individual fruit, inspect crops, and even pull weeds.\n\nMany robots are equipped with high-tech sensors and complex learning algorithms to avoid injuring humans as they work side by side. The robots also learn the most efficient and safest passages, and allow engineers and farmers to analyze and better optimize the attributes and tasks of the robot, as well as provide a live stream giving real-time feedback on exactly what is happening on the farms.\n\nOf course, some worry lies in replacing agricultural workers. However, it is farmers that are pushing for the advancements due to ever-increasing labor vacancies, making it difficult to maintain large-scale operations.\n\nThe robots have provided major benefits to farmers in various ways, from hunting and pulling weeds to monitoring the condition of every single fruit. Future farms will likely experience a greater deal of autonomy as robots take up more and more farm work efficiently.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What may farmers be able to do with robots appearing on the farming scene?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Upgrade farm produce"
+                },
+                {
+                  "label": "B",
+                  "text": "Enjoy more leisure hours."
+                },
+                {
+                  "label": "C",
+                  "text": "Modify the genes of crops."
+                },
+                {
+                  "label": "D",
+                  "text": "Cut down farming costs."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What will “farmbots” be expected to do?\n\n6",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Take up many of the farmers’ routines."
+                },
+                {
+                  "label": "B",
+                  "text": "Provide medical treatments for livestock."
+                },
+                {
+                  "label": "C",
+                  "text": "Lead the trend in farming the world over."
+                },
+                {
+                  "label": "D",
+                  "text": "Improve the quality of pastures for grazing."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What can robots do when equipped with high-tech sensors and complex learning algorithms?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Help farmers choose the most efficient and safest passages."
+                },
+                {
+                  "label": "B",
+                  "text": "Help farmers simplify their farming tasks and management."
+                },
+                {
+                  "label": "C",
+                  "text": "Allow farmers to learn instantly what is occurring on the farm."
+                },
+                {
+                  "label": "D",
+                  "text": "Allow farmers to give them real-time instructions on what to do."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why are farmers pressing for robotic farming?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Farming costs are fast increasing."
+                },
+                {
+                  "label": "B",
+                  "text": "Robotics technology is maturing."
+                },
+                {
+                  "label": "C",
+                  "text": "Robotic farming is the trend."
+                },
+                {
+                  "label": "D",
+                  "text": "Labor short is worsening"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author think future farms will be like?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "More and more automated."
+                },
+                {
+                  "label": "B",
+                  "text": "More and more productive."
+                },
+                {
+                  "label": "C",
+                  "text": "Larger and larger in scale."
+                },
+                {
+                  "label": "D",
+                  "text": "Better and better in condition."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The public must be able to understand the basics of science to make informed decisions. Perhaps the most dramatic example of the negative consequences of poor communication between scientists and the public is the issue of climate change, where a variety of factors, not the least of which is a breakdown in the transmission of fundamental climate data to the general public, has contributed to widespread mistrust and misunderstanding of scientists and their research.\n\nThe issue of climate change also illustrates how the public acceptance and understanding of science (or the lack of it) can influence governmental decision-making with regard to regulation, science policy and research funding.\n\nHowever, the importance of effective communication with a general audience is not limited to hot issues like climate change. It is also critical for socially charged neuroscience issues such as the genetic basis for a particular behavior, the therapeutic potential of stem cell therapy for neurodegenerative diseases, or the use of animal models, areas where the public understanding of science can also influence policy and funding decisions. Furthermore, with continuing advances in individual genome (基因组) sequencing and the advent of personalized medicine, more non-scientists will need to be comfortable analyzing complex scientific information to make decisions that directly affect their quality of life.\n\nScience journalism is the main channel for the popularization of scientific information among the public. Much has been written about how the relationship between scientists and the media can shape the efficient transmission of scientific advances to the public. Good science journalists are specialists in making complex topics accessible to a general audience, while adhering to scientific accuracy.\n\nUnfortunately, pieces of science journalism can also oversimplify and generalize their subject material to the point that the basic information conveyed is obscured or at worst, obviously wrong. The impact of a basic discovery on human health can be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the significance of the study is far more limited.\n\nEven though scientists play a part in transmitting information to journalists and ultimately the public, too often the blame for ineffective communication is placed on the side of the journalists. We believe that at least part of the problem lies in places other than the interaction between scientists and members of the media, and exists because for one thing we underestimate how difficult it is for scientists to communicate effectively with a diversity of audiences, and for another most scientists do not receive formal training in science communication.\n\n7",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the example of climate change serve to show?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The importance of climate data is increasingly recognized."
+                },
+                {
+                  "label": "B",
+                  "text": "Adequate government funding is vital to scientific research."
+                },
+                {
+                  "label": "C",
+                  "text": "Government regulation helps the public understand science."
+                },
+                {
+                  "label": "D",
+                  "text": "Common folks’ scientific knowledge can sway policy making."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What should non-scientists do to ensure their quality of life?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Seek personalized medical assistance from doctors."
+                },
+                {
+                  "label": "B",
+                  "text": "Acquire a basic understanding of medical science."
+                },
+                {
+                  "label": "C",
+                  "text": "Have their individual genome sequenced."
+                },
+                {
+                  "label": "D",
+                  "text": "Make informed use of animal models."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why is it important for scientists to build a good relationship with the media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It helps them to effectively popularize new scientific information."
+                },
+                {
+                  "label": "B",
+                  "text": "It enables the public to develop a positive attitude toward science."
+                },
+                {
+                  "label": "C",
+                  "text": "It helps them to establish a more positive public image."
+                },
+                {
+                  "label": "D",
+                  "text": "It enables them to apply their findings to public health."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say is the problem with science journalism?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is keen on transmitting sensational information."
+                },
+                {
+                  "label": "B",
+                  "text": "It tends to oversimplify people’s health problems."
+                },
+                {
+                  "label": "C",
+                  "text": "It may give inaccurate or distorted information to the public."
+                },
+                {
+                  "label": "D",
+                  "text": "It may provide information open to different interpretations."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What should scientists do to impart their latest findings to the public more effectively?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Give training to science journalists."
+                },
+                {
+                  "label": "B",
+                  "text": "Stimulate public interest in science."
+                },
+                {
+                  "label": "C",
+                  "text": "Seek timely assistance from the media."
+                },
+                {
+                  "label": "D",
+                  "text": "Improve their communication skills."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，中国越来越多的博物馆免费向公众开放。博物馆展览次数和参观人数都明显增长。在一些广受欢迎的博物馆门前，排长队已很常见。这些博物馆必须采取措施限制参观人数。如今，展览形式越来越多样。一些大型博物馆利用多媒体和虚拟现实等先进技术，使展览更具吸引力。不少博物馆还举办在线展览，人们可在网上观赏珍稀展品。然而，现场观看展品的体验对大多数参观者还是更具吸引力。\n\n8"
+      }
+    ]
+  },
+  "id": "CET6-2018-12-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "F",
+        "explanation": "grasp。详解 struggle to do sth. 意为“挣扎着做某事”, 这里的 to 为不定式符号, 因此空格处应填入动词原形。空格前的 already 暗示这些学生本来就对课堂内容理解困难, 故填入 F) grasp“理解, 领悟”。干扰项 I) obscure 意为“使模糊, 使费解”, 学生不会挣扎着使课堂内容更费解, 不符合逻辑, 故排除。"
+      },
+      "27": {
+        "answer": "C",
+        "explanation": "evaluated。详解 空格位于两个名词之间,应填入动词作谓语。本段的时态为一般过去时,故应填入动词的过去式。空格前出现了 measure“衡量”,可推测研究人员对这 500 名学生进行了评估,故填入 C) evaluated“评估,评价”。干扰项 D) evaporated“蒸发,消逝”为不及物动词,其后不能直接跟宾语且放在此处不符合句意,故排除。"
+      },
+      "28": {
+        "answer": "A",
+        "explanation": "aptitude。详解 空格位于形容词之后,应填入名词。“used...as...”意为“把……用作……”,这里是指研究人员把这些学生的大学入学考试成绩用作评估手段,用来评估他们的智力水平,故填入A) aptitude“天资,资质”。干扰项G) legacy“遗产,遗赠”,intellectual legacy表示“知识遗产”,放在此处不符合句意,故排除。"
+      },
+      "29": {
+        "answer": "E",
+        "explanation": "filtering。详解 空格位于介词之后,应填入名词或动名词,空格后出现了 out,因此空格填入动名词的可能性较大。be better at doing sth. 意为“更善于做某事”,故填入 E) filtering“过滤,滤掉”,此处意为“智力水平高的人更善于过滤使他们分心的事物”。干扰项 K) raising“提出,提及”不符合句意,也不和 out 搭配使用,故排除。"
+      },
+      "30": {
+        "answer": "M",
+        "explanation": "significant。详解 空格位于冠词和名词之间,应填入形容词。空格下一句用 but 表示转折,指出“那些课上上网的学生确实在考试中表现更差,无论他们之前入学考试的成绩如何”,因此推测空格所在句意为“研究人员本以为入学考试分数高的学生不会因使用数码产品而表现出明显的成绩下滑”,故填入 M) significant“显著的,明显的”。"
+      },
+      "31": {
+        "answer": "K",
+        "explanation": "raising。详解 空格位于系动词和名词之间,前面还出现了副词,应填入动词分词表示现在进行时。根据下一段内容可知,高校教师们针对学生课上使用数码产品的情况采取了一系列措施,空格后的 alarm bells 意为“警钟,警告”,因此推测这里想要表达“高校教师们警示人们数码产品带来的负面作用”之意,故填入 K) raising“提起,提出”。raise alarm bells 意为“发出警告”。"
+      },
+      "32": {
+        "answer": "O",
+        "explanation": "typical。详解 空格位于冠词和名词之间,应填入形容词。这里是在陈述研究结果:平均每个学生在一堂课上查看数码产品的次数高达11次,这是一个普遍现象,故填入O) typical“平常的,一贯如此的”。干扰项I) obscure“费解的,难懂的”虽然也能修饰class,但它是元音音素开头,不能使用a来修饰,故排除。"
+      },
+      "33": {
+        "answer": "N",
+        "explanation": "suffer。详解 空格位于短语 cause sb. / sth. to 之后, 这里的 to 是不定式符号, 因此空格处应填入动词原形。文章一直在陈述课上使用数码产品对学生成绩造成的负面影响, 因此这里应填入 N) suffer “变差, 遭受”。本题考查熟词僻义, suffer 最常见的意思是“遭受”, 但也可表示“变差, 恶化”。H) minimize“使减少, 降低”虽然符合句意, 但它是及物动词, 后面需要跟宾语, 不符合此处语法, 故排除。"
+      },
+      "34": {
+        "answer": "H",
+        "explanation": "minimize。详解 本句中的 designed“制定,设计”是过去分词作后置定语,修饰前面的 policies,空格前的 to 为不定式符号,表示目的。老师们实行这些政策是为了减少或消除学生课上使用数码产品的行为,故填入 H) minimize“使减少,降低”。干扰项 L) resist 表示“抵挡,忍住”时,后面跟的宾语一般是表示“变革”“攻击”之类的词,这与空格后面的宾语不搭,故排除。"
+      },
+      "35": {
+        "answer": "L",
+        "explanation": "resist。详解 空格位于短语 be able to 之后,应填入动词原形。空格后的宾语 pull 用作名词时,表示“吸引力,诱惑”。until 引导的从句表示条件,意为“除非学生能够抵挡住吸引力,否则他们将继续在课上苦苦挣扎。”故填入 L) resist“抵挡,忍住”。干扰项 J) obsess“使着迷,使迷恋”和句意相反,并且一般用于被动语态,当用在主动句中时,句子的主语一般为让某人着迷的事物,故排除。"
+      },
+      "46": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 the author 和 ordinary Americans 定位到文章首段: While human achievements in mathematics continue to reach new levels of complexity, many of us who aren't mathematicians at heart (or engineers by trade) may struggle to remember the last time we used calculus (微积分)."
+      },
+      "47": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 general complaint、America's math education 和 Hacker 定位到文章第四段第一句:“We hear on all sides that we're not teaching enough mathematics, and the Chinese are running rings around us,” Hacker says."
+      },
+      "48": {
+        "answer": "B",
+        "explanation": "。定位 根据题干中的 Numeracy 101 定位到文章第五段第一句: Instead, Hacker is pushing for more courses like the one he teaches at Queens College: Numeracy 101. 和第三句: Such courses, Hacker argues, are a remedy for the numerical illiteracy of adults who have completed high-level"
+      },
+      "49": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Maria Droujkova 和 in class 定位到文章第七段第二句: For Droujkova, high-level math is important, and what it could use in American classrooms is an injection of childlike wonder. 2018.12/21 (第2套)"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 Japan 定位到文章第三段第一句: Japan is ahead of the curve when it comes to this trend."
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 Terapio 定位到文章第三段最后一句: This type of robot will likely be one of the first to be implemented in hospitals because it has fairly minimal patient contact."
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 telepresence robots 和 designed 定位到文章第四段第二句: Telepresence robots such as MantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or doctors to remotely monitor patients or Skype them, often via a screen where the robot's 'face' would be."
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Actroid F 定位到文章第六段第一句和第二句: On the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the difference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use"
+      },
+      "55": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 the last paragraph 定位到文章最后一段: It's important to note that robotic nurses don't decide courses of treatment or make diagnoses (though robot doctors and surgeons may not be far off). Instead, they perform routine and laborious tasks, freeing nurses up to attend to patients with immediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement."
+      }
+    },
+    "references": {}
+  }
+}

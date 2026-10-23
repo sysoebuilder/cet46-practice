@@ -1,0 +1,1488 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30minutes to write a short essay on the importance of reading ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30minutes to write a short essay on the importance of reading ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30minutes to write a short essay on the importance of reading ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The return of a bottled message to its owner's daughter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A New Hampshire man's joke with friends on his wife."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A father's message for his daughter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The history of a century-old motel."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She wanted to show gratitude for his kindness."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She wanted to honor her father's promise."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She had been asked by her father to do so."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She was excited to see her father's handwriting."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People were concerned about the number of bees."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Several cases of Zika disease had been identified."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Two million bees were infected with disease."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Zika virus had destroyed some bee farms."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It apologized to its customers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was forced to kill its bees."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It lost a huge stock of bees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It lost 2.5 million dollars."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It stayed in the air for about two hours."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It took off and landed on a football field."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It proved to be of high commercial value."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It made a series of sharp turns in the sky."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Engineering problems."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The air pollution it produced.\n\n1"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Inadequate funding."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The opposition from the military."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It uses the latest aviation technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It flies faster than a commercial jet."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a safer means of transportation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is more environmentally friendly."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will bespo ken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It seems a depressing topic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It sounds quite alarming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has little impact on our daily life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is getting more serious these days."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The man doesn't understand Spanish."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The woman doesn't really like dancing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They don't want something too noisy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can't make it to the theatre in time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It would be more fun without Mr. Whitehead hosting."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has too many acts to hold the audience's attention."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is the most amusing show he has ever watched."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a show inappropriate for a night of charity."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Watch a comedy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Go and see the dance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Book the tickets online."
+                  },
+                  {
+                    "label": "D",
+                    "text": "See a film with the man."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Most of her schoolmates are younger than she is."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She simply has no idea what school to transfer to."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There are too many activities for her to cope with."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She worries she won't fit in as a transfer student."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Seek advice from senior students."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Pick up some meaningful hobbies."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Participate in after-school activities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Look into what the school offers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Give her help whenever she needs it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Accept her as a transfer student."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find her accommodation on campus."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Introduce her to her roommates."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She has interests similar to Mr. Lee's."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She has become friends with Catherine.\n\n2"
+                  },
+                  {
+                    "label": "C",
+                    "text": "She has chosen the major Catherine has."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She has just transferred to the college."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.Afte r you hear a question, you must choose the best answer from the four choices marked A),B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To investigate how being overweight impacts on health."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To find out which physical drive is the most powerful."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To discover what most mice like to eat."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To determine what feelings mice have."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When they are hungry."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When they are thirsty."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When they smell food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When they want company."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They search for food in groups."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are overweight when food is plenty."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They prefer to be with other mice."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They enjoy the company of other animals."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its construction started before World War I."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its construction cost more than \\$ 40 billion."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is efficiently used for transport."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is one of the best in the world."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To improve transportation in the countryside."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To move troops quickly from place to place."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To enable people to travel at a higher speed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To speed up the transportation of goods."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In the 1970s."
+                  },
+                  {
+                    "label": "B",
+                    "text": "In the 1960s."
+                  },
+                  {
+                    "label": "C",
+                    "text": "In the 1950s."
+                  },
+                  {
+                    "label": "D",
+                    "text": "In the 1940s."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Chatting while driving."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Messaging while driving."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Driving under age."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Speeding on highways."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A gadget to hold a phone on the steering wheel."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A gadget to charge the phone in a car."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A device to control the speed of a vehicle."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A device to ensure people drive with both hands."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The car keeps flashing its headlights.\n\n3"
+                  },
+                  {
+                    "label": "B",
+                    "text": "The car slows down gradually to a halt."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are alerted with a light and a sound."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They get a warning on their smart phone."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Installing a camera."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Using a connected app."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Checking their emails."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Keeping a daily record"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with10 blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with10 blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "An office tower on Miller Street in Manchester is completely covered in solar panels. They are used to create some of the energy used by the insurance company inside. When the tower was first 26 in 1962, it was covered with thin square stones. These small square stones became a problem for the building and continued to fall off the face for 40 years until a major renovation was 27 . During this renovation the building's owners, CIS, 28 the solar panel company, Solar century. They agreed to cover the entire building in solar panels. In 2004, the completed CIS tower became Europe's largest 29 of vertical solar panels. A vertical solar project on such a large 30 has never been repeated since.\n\nCovering a skyscraper with solar panels had never been done before, and the CIS tower was chosen as one of the \"10 best green energy projects\". For a long time after this renovation project, it was the tallest building in the United Kingdom, but it was 31_ overtaken by the Mill bank Tower.\n\nGreen buildings like this aren't 32 cost-efficient for the investor, but it does produce much less pollution than that caused by energy 33 through fossil fuels. As solar panels get 34 , the world is likely to see more skyscrapers covered in solar panels, collecting energy much like trees do. Imagine a world where building the tallest skyscraper wasn't a race of 35 , but rather one to collect the most solar energy.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "cheaper"
+        },
+        {
+          "label": "B",
+          "text": "cleaner"
+        },
+        {
+          "label": "C",
+          "text": "collection"
+        },
+        {
+          "label": "D",
+          "text": "competed"
+        },
+        {
+          "label": "E",
+          "text": "constructed"
+        },
+        {
+          "label": "F",
+          "text": "consulted"
+        },
+        {
+          "label": "G",
+          "text": "dimension"
+        },
+        {
+          "label": "H",
+          "text": "discovered"
+        },
+        {
+          "label": "I",
+          "text": "eventually"
+        },
+        {
+          "label": "J",
+          "text": "height"
+        },
+        {
+          "label": "K",
+          "text": "necessarily"
+        },
+        {
+          "label": "L",
+          "text": "production"
+        },
+        {
+          "label": "M",
+          "text": "range"
+        },
+        {
+          "label": "N",
+          "text": "scale"
+        },
+        {
+          "label": "O",
+          "text": "undertaken"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 192,
+          "end": 194
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 381,
+          "end": 383
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 437,
+          "end": 439
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 595,
+          "end": 597
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 665,
+          "end": 667
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 953,
+          "end": 955
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1025,
+          "end": 1027
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1128,
+          "end": 1130
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1173,
+          "end": 1175
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1356,
+          "end": 1358
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "4\n\nSome College Students Are Angry That They Have to Pay to Do Their Homework",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Digital learning systems now charge students for access codes needed to complete coursework, take quizzes, and turn in homework. As universities go digital, students are complaining of a new hit to their finances that's replacing—and sometimes joining—expensive textbooks: pricey online access codes that are required to complete coursework and submit assignments."
+        },
+        {
+          "label": "B",
+          "text": "The codes—which typically range in price from \\$ 80 to \\$ 155 per course—give students online access to systems developed by education companies like McGraw Hill and Pearson. These companies, which long reaped big profits as textbook publishers, have boasted that their new online offerings, when pushed to students through universities they partner with, represent the future of the industry."
+        },
+        {
+          "label": "C",
+          "text": "But critics say the digital access codes represent the same profit-seeking ethos (观念) of the textbook business, and are even harder for students to opt out of. While they could once buy second-hand textbooks, or share copies with friends, the digital systems are essentially impossible to avoid."
+        },
+        {
+          "label": "D",
+          "text": "\"When we talk about the access code we see it as the new face of the textbook monopoly (垄断), a new way to lock students around this system,\" said Ethan Senack, the higher education advocate for the U.S. Public Interest Research Group, to BuzzFeed News. \"Rather than \\$250 (for a print textbook) you're paying \\$ 120,\" said Senack. \"But because it's all digital it eliminates the used book market and eliminates any sharing and because homework and tests are through an access code, it eliminates any ability to opt out.\""
+        },
+        {
+          "label": "E",
+          "text": "Sarina Harpet, a 19-year-old student at Virginia Tech, was faced with a tough dilemma when she first started college in 2015—pay rent or pay to turn in her chemistry homework. She told BuzzFeed News that her freshman chemistry class required her to use Connect, a system provided by McGraw Hill where students can submit homework, take exams and track their grades. But the code to access the program cost \\$ 120—a big sum for Harper, who had already put down \\$ 450 for textbooks, and had rent day approaching."
+        },
+        {
+          "label": "F",
+          "text": "She decided to wait for her next work-study paycheck, which was typically \\$ 150- \\$ 200, to pay for the code. She knew that her chemistry grade may take a dive as a result. \"It's a balancing act,\" she said. \"Can I really afford these access codes now?\" She didn't hand in her first two assignments for chemistry, which started her out in the class with a failing grade."
+        },
+        {
+          "label": "G",
+          "text": "The access codes may be another financial headache for students, but for textbook businesses, they're the future. McGraw Hill, which controls 21% of the higher education market, reported in March that its digital content sales exceeded print sales for the first time in 2015. The company said that 45% of its \\$ 140 million revenue in 2015 \"was derived from digital products.\""
+        },
+        {
+          "label": "H",
+          "text": "A Pearson spokesperson told BuzzFeed News that \"digital materials are less expensive and a\n\n5\n\ngood investment\" that offer new features, like audio texts, personalized knowledge checks and expert videos. Its digital course materials save students up to 60% compared to traditional printed textbooks, the company added. McGraw Hill didn't respond to a request for comment, but its CEO David Levin told the Financial Times in August that \"in higher education, the era of the printed textbook is now over.\""
+        },
+        {
+          "label": "I",
+          "text": "The textbook industry insists the online systems represent a better deal for students. \"These digital products aren't just mechanisms for students to submit homework, they offer all kinds of features,\" David Anderson, the executive director of higher education with the Association of American Publishers, told BuzzFeed News. \"It helps students understand in a way that you can't do with print homework assignments.\""
+        },
+        {
+          "label": "J",
+          "text": "David Hunt, an associate professor in sociology at Augusta University, which has rolled out digital textbooks across its math and psychology departments, told BuzzFeed News that he understands the utility of using systems that require access codes. But he doesn't require his students to buy access to a learning program that controls the class assignments. \"I try to make things as inexpensive as possible,\" said Hunt, who uses free digital textbooks for his classes but designs his own curriculum. \"The online systems may make my life a lot easier but I feel like I'm giving up control. The discussions are the things where my expertise can benefit the students most.\""
+        },
+        {
+          "label": "K",
+          "text": "A 20-year-old junior at Georgia Southern University told BuzzFeed News that she normally spends \\$ 500-\\$ 600 on access codes for class. In one case, the professor didn't require students to buy a textbook, just an access code to turn in homework. This year she said she spent \\$ 900 on access codes to books and programs. \"That's two months of rent,\" she said. \"You can't sell any of it back. With a traditional textbook you can sell it for \\$ 30 - \\$ 50 and that helps to pay for your new semester's books. With an access code, you're out of that money. \""
+        },
+        {
+          "label": "L",
+          "text": "Benjamin Wolverton, a 19-year-old student at the University of South Carolina, told BuzzFeed News that \"it's ridiculous that after paying tens of thousands in tuition we have to pay for all these access codes to do our homework.\" Many of the access codes he's purchased have been required simply to complete homework or quizzes. \"Often it's only 10% of your grade in class.\" he said. \"You're paying so much money for something that hardly affects your grade—but if you didn't have it, it would affect your grades enough. It would be bad to start out at a B or C.\" Wolverton said he spent \\$ 500 on access codes for digital books and programs this semester."
+        },
+        {
+          "label": "M",
+          "text": "Harper, a poultry (家禽) science major, is taking chemistry again this year and had to buy a new access code to hand in her homework. She rented her economics and statistics textbooks for about \\$ 20 each. But her access codes for homework, which can't be rented or bought second-hand, were her most expensive purchases: \\$ 120 and \\$ 85.\n\n6"
+        },
+        {
+          "label": "N",
+          "text": "She still remembers the sting of her first experience skipping an assignment due to the high prices. \"We don't really have a missed assignment policy,\" she said. \"If you miss it, you just miss it. I just got zeros on a couple of first assignments. I managed to pull everything back up. But as a scared freshman looking at their grades, it's not fun.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "A student's yearly expenses on access codes may amount to their rent for two months."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The online access codes may be seen as a way to tie the students to the digital system."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "If a student takes a course again, they may have to buy a new access code to submit their assignments."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "McGraw Hill accounts for over one-fifth of the market share of college textbooks."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Many traditional textbook publishers are now offering online digital products, which they believe will be the future of the publishing business."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "One student complained that they now had to pay for access codes in addition to the high tuition."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Digital materials can cost students less than half the price of traditional printed books according to a publisher."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "One student decided not to buy her access code until she received the pay for her part-time job."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Online systems may deprive teachers of opportunities to make the best use of their expertise for their students."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Digital access codes are criticized because they are profit-driven just like the textbook business.Section C"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Losing your ability to think and remember is pretty scary. We know the risk of dementia (痴呆症) increases with age. But if you have memory slips, you probably needn't worry. There are pretty clear differences between signs of dementia and age-related memory loss.\n\nAfter age 50, it's quite common to have trouble remembering the names of people, places and things quickly, says Dr. Kirk Daffner of Brigham and Women's Hospital in Boston.\n\nThe brain ages just like the rest of the body. Certain parts shrink, especially areas in the brain that are important to learning, memory and planning. Changes in brain cells can affect communication between different regions of the brain. And blood flow can be reduced as blood vessels narrow.\n\n7\n\nForgetting the name of an actor in a favorite movie, for example, is nothing to worry about. But if you forget the plot of the movie or don't remember even seeing it, that's far more concerning, Daffner says.\n\nWhen you forget entire experiences, he says, that's \"a red flag that something more serious may be involved.\" Forgetting how to operate a familiar object like a microwave oven, or forgetting how to drive to the house of a friend you've visited many times before can also be signs of something going wrong.\n\nBut even then, Daffner says, people shouldn't panic. There are many things that can cause confusion and memory loss, including health problems like temporary stoppage of breathing during sleep, high blood pressure, or depression, as well as medications ( 药 物 ) like antidepressants.\n\nYou don't have to figure this out on your own. Daffner suggests going to your doctor to check on medications, health problems and other issues that could be affecting memory. And the best defense against memory loss is to try to prevent it by building up your brain's cognitive (认知的) reserve, Daffner says.\n\n\"Read books, go to movies, take on new hobbies or activities that force one to think in novel ways,\" he says. In other words, keep your brain busy and working. And also get physically active, because exercise is a known brain booster.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "Why does the author say that one needn't be concerned about memory slips?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Not all of them are symptoms of dementia."
+                },
+                {
+                  "label": "B",
+                  "text": "They occur only among certain groups of people."
+                },
+                {
+                  "label": "C",
+                  "text": "Not all of them are related to one's age."
+                },
+                {
+                  "label": "D",
+                  "text": "They are quite common among fifty-year-olds."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What happens as we become aged according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Our interaction skills deteriorate."
+                },
+                {
+                  "label": "B",
+                  "text": "Some parts of our brain stop functioning."
+                },
+                {
+                  "label": "C",
+                  "text": "Communication within our brain weakens."
+                },
+                {
+                  "label": "D",
+                  "text": "Our whole brain starts shrinking."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Which memory-related symptom should people take seriously?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Totally forgetting how to do one's daily routines."
+                },
+                {
+                  "label": "B",
+                  "text": "Inability to recall details of one's life experiences."
+                },
+                {
+                  "label": "C",
+                  "text": "Failure to remember the names of movies or actors."
+                },
+                {
+                  "label": "D",
+                  "text": "Occasionally confusing the addresses of one's friends."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What should people do when signs of serious memory loss show up?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Check the brain's cognitive reserve."
+                },
+                {
+                  "label": "B",
+                  "text": "Stop medications affecting memory."
+                },
+                {
+                  "label": "C",
+                  "text": "Turn to a professional for assistance."
+                },
+                {
+                  "label": "D",
+                  "text": "Exercise to improve their well-being."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is Dr. Daffner's advice for combating memory loss?\n\n8",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Having regular physical and mental checkups."
+                },
+                {
+                  "label": "B",
+                  "text": "Taking medicine that helps boost one's brain."
+                },
+                {
+                  "label": "C",
+                  "text": "Engaging in known memory repair activities."
+                },
+                {
+                  "label": "D",
+                  "text": "Staying active both physically and mentally.Passage Two"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "A letter written by Charles Darwin in 1875 has been returned to the Smithsonian Institution Archives (档案馆) by the FBI after being stolen twice.\n\n\"We realized in the mid-1970s that it was missing,\" says Effie Kapsalis, head of the Smithsonian Insitution Archives. \"It was noted as missing and likely taken by an intern (实习生), from what the FBI is telling us. Word got out that it was missing when someone asked to see the letter for research purposes,\" and the intern put the letter back. \"The intern likely took the letter again once nobody was watching it.\"\n\nDecades passed. Finally, the FBI received a tip that the stolen document was located very close to Washington, D.C. Their art crime team recovered the letter but were unable to press charges because the time of limitations had ended. The FBI worked closely with the Archives to determine that the letter was both authentic and definitely Smithsonian's property.\n\nThe letter was written by Darwin to thank an American geologist, Dr. Ferdinand Vandeveer Hayden, for sending him copies of his research into the geology of the region that would become Yellowstone National Park.\n\nThe letter is in fairly good condition, in spite of being out of the care of trained museum staff for so long. \"It was luckily in good shape,\" says Kapsalis, \"and we just have to do some minor things in order to be able to unfold it. It has some glue on it that has colored it slightly, but nothing that will prevent us from using it. After it is repaired, we will take digital photos of it and that will be available online. One of our goals is to get items of high research value or interest to the public online.\"\n\nIt would now be difficult for an intern, visitor or a thief to steal a document like this. \"Archiving practices have changed greatly since the 1970s,\" says Kapsalis, \"and we keep our high value documents in a safe that I don't even have access to.\"",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What happened to Darwin's letter in the 1970s?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was recovered by the FBI."
+                },
+                {
+                  "label": "B",
+                  "text": "It was stolen more than once."
+                },
+                {
+                  "label": "C",
+                  "text": "It was put in the archives for research purposes."
+                },
+                {
+                  "label": "D",
+                  "text": "It was purchased by the Smithsonian Archives."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What did the FBI do after the recovery of the letter?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They proved its authenticity."
+                },
+                {
+                  "label": "B",
+                  "text": "They kept it in a special safe.\n\n9"
+                },
+                {
+                  "label": "C",
+                  "text": "They arrested the suspect immediately."
+                },
+                {
+                  "label": "D",
+                  "text": "They pressed criminal charges in vain."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What is Darwin's letter about?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The evolution of Yellowstone National Park."
+                },
+                {
+                  "label": "B",
+                  "text": "His cooperation with an American geologist."
+                },
+                {
+                  "label": "C",
+                  "text": "Some geological evidence supporting his theory."
+                },
+                {
+                  "label": "D",
+                  "text": "His acknowledgement of help from a professional."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What will the Smithsonian Institution Archives do with the letter according to Kapsalis?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Reserve it for research purposes only."
+                },
+                {
+                  "label": "B",
+                  "text": "Turn it into an object of high interest."
+                },
+                {
+                  "label": "C",
+                  "text": "Keep it a permanent secret."
+                },
+                {
+                  "label": "D",
+                  "text": "Make it available online."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What has the past half century witnessed according to Kapsalis?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Growing interest in rare art objects."
+                },
+                {
+                  "label": "B",
+                  "text": "Radical changes in archiving practices."
+                },
+                {
+                  "label": "C",
+                  "text": "Recovery of various missing documents."
+                },
+                {
+                  "label": "D",
+                  "text": "Increases in the value of museum exhibits."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "过去，乘飞机出行对大多数中国人来说是难以想象的。如今，随着经济的发展和生活水平的提高，越来越多的中国人包括许多农民和外出务工人员都能乘飞机出行。他们可以乘飞机到达所有大城市，还有很多城市也在筹建机场。航空服务不断改进，而且经常会有廉价机票。近年来，节假日期间选择乘飞机外出旅游的人数在不断增加。\n\n10"
+      }
+    ]
+  },
+  "id": "CET4-2018-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "详解:新闻开篇指出，新罕布什尔州的一位先生把一个装有便条的瓶子扔到海里，五十年后被人在 1,500 英里外的海滩捡到并归还给这位先生的女儿。由此可知，新闻的主要内容是漂流瓶中的便条归还主人女儿，答案为 A。"
+      },
+      "2": {
+        "answer": "B",
+        "explanation": "详解:新闻中提到，Buffington 飞往新罕布什尔州，将便条给了 Paula Pierce. Paula Pierce 遵守父亲的承诺，给予Buffington 便条中所说的 150 美元的奖励。由此可知，Paula Pierce 给 Buffington 奖励就是为了遵守父亲当年的承诺，答案为 B。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "详解:新闻中提到，大部分死亡的蜜蜂来自一个叫作 Flowertown 的养蜂场，死亡蜜蜂约 250 万只。因此答案为 C。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "详解:新闻开头指出，世界上最大的飞机 Airalnder 10 第一次升空。该飞机在英国贝德福德郡的科丁顿机场起飞，飞行了将近两个小时。因此答案为 A。"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "详解:新闻中提到，Airlander 10 最初是作为远程间谍飞机位美国政府开发的，但（政府）预算削减后就被放弃了。由此可知，美国政府放弃 Airlander 10 的原因是资金不足，答案为 C。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "详解:新闻中提到，Airlander 10 耗资 2,500 万英镑，比大型喷气飞机载重大，然而它的噪音却更小，污染也更少。由此可知，Airlander 10 为更加环保型的飞机，答案为 D。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "详解:对话开头，男士说有一场关于气候变化的电影，问女士要不要去看，女士说气候变化是个重要的话题，但是她没有心情看令人沮丧的内容，即女士认为气候变化是一个令人沮丧的话题，答案为 A。"
+      },
+      "9": {
+        "answer": "D",
+        "explanation": "详解:对话中女士表示不喜欢有关气候变化的电影，继而追问是否还有其他娱乐项目，当男士告知女士 7 点半有西班牙舞蹈节表演的时候，女士表示没有足够的时间赶到那里。因此答案为 D。"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "详解:对话中，男士告知女士剧院今晚喜剧特别节目，评论员在当地报纸上说这是他看过的最滑稽的表演。因此答案为 C。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "详解:女士非常担心自己年龄小不能适应新学校的生活。男士说她可以参加学校的各种课外活动，这样就能认识不同年龄段的朋友。由此可知，男士鼓励女士参加课外活动，故答案为 C。"
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "详解:对话中，男士建议女士参加课外活动，并安慰女士不要太担心，尽量充分利用学校提供的一切，并告诉女士如果需哟啊帮助可以随时找他。因此答案为 A。"
+      },
+      "15": {
+        "answer": "D",
+        "explanation": "详解:对话末尾，男士指出，Bree 和女士一样，也是新来的学生。因此答案为 D。"
+      },
+      "16": {
+        "answer": "B",
+        "explanation": "详解:短文中提到，对老鼠的一项新研究解释了为什么饥饿是强大的动力源泉，饥饿战胜了其他身体本能的需求，包括恐惧、口渴和社交需求。为了确定哪种感觉的影响更胜一筹，研究人员做了一系列的实验。因此答案为 B。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "详解:短文中提到，在第二个实验中研究者把老鼠的饥饿与恐惧作对照研究，结果表明，当老鼠饿了的时候，它们会冒险进入不安全的地方寻找食物。因此答案为 A。"
+      },
+      "18": {
+        "answer": "C",
+        "explanation": "详解:短文末尾提到，老鼠通常是群居动物，喜欢成群结伴。因此答案为 C。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "详解:短文开头指出，美国拥有世界上最好的高速公路系统之一。因此答案为 D。"
+      },
+      "20": {
+        "answer": "B",
+        "explanation": "建造公路的最初动机是部队转移的需求，答案为 B。"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "详解:短文末尾提到，从 20 世纪 50 年代起，美国国会拨款建造公路系统，直到 1974 年，公路系统建造基本完成。因此答案为 A。"
+      },
+      "22": {
+        "answer": "B",
+        "explanation": "详解:短文开头提到，开车时发短信被列为 2013 年美国年轻人死于交通事故的一个主要原因。因此答案为 B。"
+      },
+      "23": {
+        "answer": "D",
+        "explanation": "详解:短文中提到，为提醒开车时发短信的驾驶员，Evarts 发明了智能方向盘（Smart Wheel），该设备适用于多数标准车辆的方向盘，可以检测驾驶员是否一直用双手驾驶。因此答案为 D。"
+      },
+      "24": {
+        "answer": "C",
+        "explanation": "详解:短文中提到，当驾驶员单手驾驶时，智能方向盘就会亮灯并发出声音以示警告；当驾驶员重新双手驾驶时，灯就会重新变为绿色，声音也会消失。因此答案为 C。"
+      },
+      "25": {
+        "answer": "B",
+        "explanation": "详解:短文末尾提到，智能方向盘收集的数据都会传到相应的 App，父母只要安装了这个应用程序，就能追踪到孩子的驾驶习惯。因此答案为 B。"
+      },
+      "26": {
+        "answer": "E",
+        "explanation": "详解:动词辨析题。空格前有系动词 was，因此空格处应填入形容词作表语或动词的分词形式与 was 一起作谓语，备选项中的两个形容词均不符合句意，因此应填入动词的分词形式。本句意为，当这座大楼于 1962 年首次\\_\\_\\_\\_时，它的外墙都是薄薄的方形石板。接下来提到了“翻新”（renovation），由此推知，1962 年是首次建造，故答案为E)constructed 建造，构筑。备选项中的其他动词均不符合文意，故排除。"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "## 27.答案:O)undertaken 开始进行，着手做"
+      },
+      "28": {
+        "answer": "F",
+        "explanation": "详解:动词辨析题。空格前是名词词组 the building’s owners，空格后仍然是名词词组 the solar panel company，句子缺少谓语，因此空格处应填入动词。本句意为，在这次翻新期间，大楼的所有者 CIS 公司 \\_太阳能电池板公司 Solarcentury。下一句提到，他们就用太阳能电池板覆盖整幢大楼达成一致。由此推断，CIS 公司向 Solarcentury公司咨询了相关事情，两家公司商量后达成一致，故答案为 F)consulted 咨询，商量。由时间状语 during this renovation可知，空格处应填入动词的过去式，而且是及物动词，因此排除 D)competed、M)range 和 N)scale；又因为 Solarcentury这家公司一直存在，并不是新发现的，所以排除 H)discovered。"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "29.答案:C)collection 收集，采集，组群"
+      },
+      "32": {
+        "answer": "K",
+        "explanation": "32.答案:K)necessarily 必然，必定"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "详解:名词辨析题。空格前是介词 by，后面应该跟名词词组，因此空格处应填入名词。此处意为，但是它产生的污染确实比通过化石燃料来\\_\\_\\_\\_\\_\\_ \\_能源所造成的污染少。由句意可知，这里是对比两种方式产生能源的污染情况，因此答案为 L)production 生产，产生。energy 是从 fossil fuels 中得来的，因此空格处应填入由动词转化来的名词，其余备选名词均不符合，故排除。"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "详解:形容词辨析题。空格前是动词 get，可以填入名词作宾语，但备选名词均不符合此处句意，而 get 也可以作为系统词，后面跟形容词作表语，因此此处应填入形容词。此处意为，随着太阳能电池板变得 \\_\\_\\_\\_，世界上有可能会看到更多被太阳能电池板覆盖的摩天大楼。本段第一句提到，这种绿色建筑未必划算，而本句又提到以后会有更多太阳能电池板覆盖的摩天大楼，说明太阳能电池板的成本会降低，故答案为 A)cheaper 更便宜。太阳能电池板本身就是清洁能源，不可能“更清洁”，因此排除 B)cleaner。"
+      },
+      "35": {
+        "answer": "J",
+        "explanation": "详解:名词辨析题。空格前是介词 of，后面应该跟名词或动名词，备选项中没有动名词，因此空格处应填入名词。本句意为，想象这样一个世界:建造最高的摩天大楼不再是一个关于 的竞赛，而是一个关于收集最多太阳能的竞赛。由空格前的 tallest 可知，摩天大楼比的是高度，因此本题答案为 J) height 高度。其余备选名词均不符合此处句意，故排除。"
+      },
+      "36": {
+        "answer": "K",
+        "explanation": "详解:K)段第三、四句指出，佐治亚南方大学一名 20 岁的大三学生这一年在书本和程序的访问代码上花费了 900美元。“那可是两个月的房租啊，”她说道。由此可知，学生每年在访问代码上花费可能相当于两个月的房租。题干是对定位句的同义转述，故答案为 K)。"
+      },
+      "37": {
+        "answer": "D",
+        "explanation": "详解:D)段第一句提到，“说起这些访问代码，我们认为这是教科书垄断的新形式，是一种把学生锁在这个系统中的新方式，”美国公共利益研究集团高等教育倡导者伊桑·斯奈克对 BuzzFeed 新闻说道。题干中的 tie the stydents to the digital system 对应原文中的 lock students around this system，故答案为 D)。"
+      },
+      "44": {
+        "answer": "J",
+        "explanation": "详解:定位句提到，亨特老师指出，“线上系统或许能让我的生活轻松很多，但是我觉得好像自己不再有控制权。课上讨论才是我的专业知识最能带给学生益处的地方。”由此推断，线上系统可能会剥夺老师们充分利用专业知识为学生服务的机会。题干中的 deprive…of opportunities to 是对原文中 giving up control 的同义转述，故答案为 J)。"
+      },
+      "45": {
+        "answer": "C",
+        "explanation": "详解:C)段首句提到，但批评家认为这些数字访问代码代表着和教科书生意相同的寻利观念。由此可知，数字访问代码受到批判是因为它们和教科书生意一样都寻求利益。题干中的 criticized 和 profit-driven 分别对应原文中的critics 和 profit-seeking，题干是对定位句的同义转述，故答案为 C)。"
+      },
+      "46": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章首段第三、四句指出，如果你有时健忘，你很可能不需要担心。因为痴呆症的症状与年龄相关的记忆缺失的症状有很明显的区别。由此可见，健忘并不一定就是痴呆症的症状，故答案为 A。"
+      },
+      "47": {
+        "answer": "C",
+        "explanation": "详解:事实细节题。文章第三段指出，大脑像身体的其它部位一样衰老。某些部位会萎缩，尤其是大脑中那些对学习、记忆和计划十分重要的区域。脑细胞的变化会影响大脑不同区域之间的交流。由此可见，大脑中不同区域间的交流会逐渐衰退，故答案为 C。"
+      },
+      "48": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章第五段指出，当你忘记整个经历，那就是“一面红色的信号旗，意味着可能存在更严重的问题。”忘记如何操作一个熟悉的物品，如微波炉，或是忘记如何开车到一个你以前拜访过很多次的朋友家时，这也是大脑出现问题的征兆。选项 A)中的 do one’s daily routines 是对原文中 operate a familiar object like a microwave oven 和 drive to the house of a friend you’ve visited many times before 的概括，故答案为 A。"
+      },
+      "49": {
+        "answer": "C",
+        "explanation": "详解:事实细节题。第七段前两句提到，你不必自己弄明白这些事情。达夫勒建议人们去看医生，检查药物、健康问题和其它会影响记忆的因素。由此可见，当出现严重的记忆缺失症状时，人们应该寻求专业人士的帮助，故答案为 C。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "详解:推理判断题。文章最后一段指出，读书、看电影、培养新的兴趣或活动都可以迫使一个人用新奇的方式思考。换言之，就是让大脑忙碌和运转起来。同样，身体也要动起来，因为锻炼是著名的大脑助推器。由此推断，要应对记忆的缺失，人们需要在精神和身体两个方面保持积极状态，故答案为 D。"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "详解:推理判断题。第二段首句指出，史密森学会档案馆的负责人艾菲·卡普萨里斯说:“我们在二十世纪七十年代中期发现这封信丢失了。”该段末句指出，“这个实习生很有可能在没人看管时又将这封信拿走了。”由此可见，这封信被盗了不止一次，故答案为 B)。"
+      },
+      "52": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章第三段第三、四句指出，艺术品犯罪小组找回了这封信，但是却不能提起诉讼，因为已经过了诉讼的时限。联邦调查局与档案馆密切合作最终确定该信件为真迹，故答案为 A)。"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。第四段提到，达尔文写这封信是为了感谢美国的一位地质学家费迪纳得·万德韦尔·海登博士，感谢他给自己寄送一个区域地质研究的复印件。由此可见，这封信是一封感谢信。故答案为 D。"
+      },
+      "54": {
+        "answer": "D",
+        "explanation": "详解:实施细节题。文章第五段第四句提到，将它修复后，档案馆会拍摄数码照片并将其上传至网上为大家所用。由此可见，档案馆修复文件后，会将这封信的电子版本上传至网络，为大众所用。故答案为 D。"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "详解:实施细节题。最后一段第二句提到，自从二十世纪七十年代以来，档案馆流程已经发生了巨大的变化，故答案为 B。"
+      }
+    },
+    "references": {}
+  }
+}

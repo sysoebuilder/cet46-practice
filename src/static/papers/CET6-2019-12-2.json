@@ -1,0 +1,1417 @@
+{
+  "schema_version": "1.0",
+  "year": 2019,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "missing",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "tasks": []
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It focuses exclusively on jazz."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It sponsors major jazz concerts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has several branches in London."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It displays albums by new music talents."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It originated with cowboys."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its market has now shrunk."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its listeners are mostly young people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It remains as widespread as hip hop music."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its definition is varied and complicated."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is still going through experimentation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is frequently accompanied by singing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its style has remained largely unchanged."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Learn to play them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Listen to them yourself."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take music lessons."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consult jazz musicians."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She paid her mortgage."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She made a business plan."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She called on the man."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She went to the bank."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her previous debt hadn't been cleared yet."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She had apparently asked for too much."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her credit history was considered poor."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She didn't pay her mortgage in time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Pay a debt long overdue."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Start her own business."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Buy a piece of property."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Check her credit history."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Seek advice from an expert about fundraising."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ask for smaller loans from different lenders."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Build up her own finances step by step."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Revise her business proposal carefully."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is profitable and environmentally friendly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is well located and completely automated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is small and unconventional."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is fertile and productive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their urge to make farming more enjoyable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their desire to improve farming equipment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their hope to revitalize traditional farming."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their wish to set a new farming standard"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It saves a lot of electricity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It causes hardly any pollution."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It needs little maintenance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It loosens soil while weeding."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has turned certain insects into a new food source."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has started to expand business outside the UK."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has imported some exotic foods from overseas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has joined hands with Sainsbury's to sell pet insects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was really unforgettable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It hurt his throat slightly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was a pleasant surprise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It made him feel strange."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are more tasty than beef, chicken or pork."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are more nutritious than soups and salads."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They contain more protein than conventional meats."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They will soon gain popularity throughout the world."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is environmentally friendly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a promising industry."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It requires new technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It saves huge amounts of labour."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To categorize different types of learners."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To find out what students prefer to learn."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To understand the mechanism of the human brain."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To see if they are inherent traits affecting learning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was defective."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was misguided."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was original in design."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was thought-provoking."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Auditory aids are as important as visual aids."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Visual aids are helpful to all types of learners."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Reading plain texts is more effective than viewing pictures."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Scientific concepts are hard to understand without visual aids."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Not playing a role in a workplace revolution."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Not benefiting from free-market capitalism."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Not earning enough money to provide for the family."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Not spending enough time on family life and leisure."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People would be working only fifteen hours a week now."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The balance of power in the workplace would change."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Technological advances would create many new jobs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Most workers could afford to have house of their own."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Loss of workers' personal dignity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Deprivation of workers' creativity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Deterioration of workers' mental health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Unequal distribution of working hours."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is the worst managed airport in German history."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is now the biggest and busiest airport in Europe."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has become something of a joke among Germans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has become a typical symbol of German efficiency."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The city's airports are outdated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The city wanted to boost its economy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The city had just been reunified."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The city wanted to attract more tourists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The municipal government kept changing hands."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The construction firm breached the contract."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Shortage of funding delayed its construction."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Problems of different kinds kept popping up."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Tourism industry in Berlin suffers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Huge maintenance costs accumulate."
+                  },
+                  {
+                    "label": "B",
+                    "text": "All kinds of equipment gets rusted."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Complaints by local residents increase."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The persistent haze over many of our cities is a reminder of the polluted air that we breathe. Over $80\\%$ of the world's urban population is breathing air that fails to meet World Health Organisation guidelines, and an estimated 4.5 million people died 26 from outdoor air pollution in 2015.\n\nGlobally, urban populations are expected to double in the next 40 years, and an extra 2 billion people will need new places to live, as well as services and ways to move around their cities. What is more important, the decisions that we make now about the design of our cities will _27_ the everyday lives and health of the coming generations. So what would a smog-free, or at least low-pollution, city be like?\n\nTraffic has become _28_ with air pollution, and many countries intend to ban the sale of new petrol and diesel cars in the next two decades. But simply _29_ to electric cars will not mean pollution-free cities. The level of emissions they cause will depend on how the electricity to run them is _30_, while brakes, tyres and roads all create tiny airborne _31_ as they wear out.\n\nAcross the developed world, car use is in decline as more people move to city centers, while young people especially are _32_ for other means of travel. Researchers are already asking if motor vehicle use has reached its _33_ and will decline, but transport planners have yet to catch up with this _34_, instead of laying new roads to tackle traffic jams. As users of London's orbital M25 motorway will know, new roads rapidly fill with more traffic. In the US, studies have shown that doubling the size of a road can _35_ double the traffic, taking us back to the starting point.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "alternate"
+        },
+        {
+          "label": "I",
+          "text": "particles"
+        },
+        {
+          "label": "B",
+          "text": "crown"
+        },
+        {
+          "label": "J",
+          "text": "peak"
+        },
+        {
+          "label": "C",
+          "text": "determine"
+        },
+        {
+          "label": "K",
+          "text": "prematurely"
+        },
+        {
+          "label": "D",
+          "text": "generated"
+        },
+        {
+          "label": "L",
+          "text": "simply"
+        },
+        {
+          "label": "E",
+          "text": "locating"
+        },
+        {
+          "label": "M",
+          "text": "switching"
+        },
+        {
+          "label": "F",
+          "text": "merged"
+        },
+        {
+          "label": "N",
+          "text": "synonymous"
+        },
+        {
+          "label": "G",
+          "text": "miniatures"
+        },
+        {
+          "label": "O",
+          "text": "trend"
+        },
+        {
+          "label": "H",
+          "text": "opting"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 254,
+          "end": 256
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 576,
+          "end": 580
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 726,
+          "end": 730
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 859,
+          "end": 863
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 1002,
+          "end": 1006
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1063,
+          "end": 1067
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1208,
+          "end": 1212
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1308,
+          "end": 1312
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1385,
+          "end": 1389
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1605,
+          "end": 1609
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How Much Protein Do You Really Need?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "The marketing is tempting: Get stronger muscles and healthier bodies with minimal effort by adding protein powder to your morning shake or juice drink. Or grab a protein bar at lunch or for a quick snack. Today, you can find protein supplements everywhere — online or at the pharmacy, grocery store or health food store. They come in powders, pills and bars. With more than \\$ 12 billion in sales this year, the industry is booming and, according to the market research company, Grand View Research, is on track to sell billions more by 2025. But do we really need all this supplemental protein? It depends. There are pros, cons and some other things to consider."
+        },
+        {
+          "label": "B",
+          "text": "For starters, protein is critical for every cell in our body. It helps build nails, hair, bones and muscles. It can also help you feel fuller longer than eating foods without protein. And, unlike nutrients that are found only in a few foods, protein is present in all foods. “The typical American diet is a lot higher in protein than a lot of us think,” says registered dietitian Angela Pipitone. “It’s in foods many of us expect, such as beef, chicken and other types of meat and dairy. But it’s also in foods that may not come immediately to mind like vegetables, fruit, beans and grains.”"
+        },
+        {
+          "label": "C",
+          "text": "The U.S. government's recommended daily allowance (RDA) for the average adult is 50 to 60 grams of protein a day. This may sound like a lot, but Pipitone says: “We get bits of protein here and there and that really adds up throughout the day.” Take, for example, breakfast. If you eat two eggs topped with a little bit of cheese and an orange on the side, you already have 22 grams of protein. Each egg gives you 7 grams, the cheese gives you about 6 grams and the orange — about 2 grams. Add a lunch of chicken, rice and broccoli (西兰花), and you are already over the recommended 50 grams. “You can get enough protein and meet the RDA before you even get to dinner,” says Pipitone."
+        },
+        {
+          "label": "D",
+          "text": "So if it's so easy to get your protein in food, why add more in the form of powders, snack bars or a boost at your local juice bar? No need to, says Pipitone, because, in fact, most of us already get enough protein in our diet. “Whole foods are always the best option rather than adding supplements,” she says, noting the FDA does not regulate supplements as rigorously as foods or drugs. So there could be less protein, more sugar and some additives you wouldn't expect, such as caffeine (咖啡因)."
+        },
+        {
+          "label": "E",
+          "text": "If you are considering a supplement, read the list of ingredients, she says, although this is not always reliable. “I’ve seen very expensive protein supplements that claim to be high quality but\n\nthey might not really be beneficial for the average healthy adult,\" she says. \"It could just be a waste of money.\""
+        },
+        {
+          "label": "F",
+          "text": "But there are certain situations that do warrant extra protein. “Anytime you’re repairing or building muscle,” Pipitone says, such as if you’re an extreme endurance athlete, training for a marathon, or you’re a body builder. If you’re moderately exercising for 150 minutes a week, as the Centers for Disease Control and Prevention recommends, or less than that, you’re probably not an extreme athlete. Extreme athletes expend lots of energy breaking down and repairing and building muscles. Protein can give them the edge they need to speed that process."
+        },
+        {
+          "label": "G",
+          "text": "Vegans can benefit from protein supplements since they do not eat animal-based protein sources like meat, dairy or eggs. And, for someone always on-the-go who may not have time for a meal, a protein snack bar can be a good option for occasional meal replacement. Also, individuals recovering from surgery or an injury can also benefit from extra protein. So, too, can older people. At around age 60, “muscles really start to break down,” says Kathryn Starr, an aging researcher, “and because of that, the protein needs of an older adult actually increase.”"
+        },
+        {
+          "label": "H",
+          "text": "In fact, along with her colleague Connie Bales, Starr recently conducted a small study that found that adding extra protein foods to the diet of obese older individuals who were trying to lose weight strengthened their muscles. Participants in the study were separated into two groups — one group was asked to eat 30 grams of protein per meal in the form of whole foods. That meant they were eating 90 grams of protein a day. The other group — the control group — was put on a typical low-calorie diet with about 50 to 60 grams of protein a day. After six months, researchers found the high protein group had significantly improved their muscle function — almost twice as much as the control group. “They were able to walk faster, had improved balance, and were also able to get up out of a chair faster than the control group,” Starr says. All 67 participants were over 60 years of age, and both groups lost about the same amount of weight."
+        },
+        {
+          "label": "I",
+          "text": "Starr is now looking into whether high-protein diets also improve the quality of the muscle itself in seniors. She's using CT scans to measure muscle size and fat, and comparing seniors on a high-protein diet to those on regular diets. She says her findings should be available in a couple of months."
+        },
+        {
+          "label": "J",
+          "text": "In the meantime, 70-year-old Corliss Keith, who was in the high protein group in Starr's latest study, says she feels a big difference. “I feel excellent,” she says. “I feel like I have a different body, I have more energy, I’m stronger.” She says she is able to take Zumba exercise classes three times a week, work out on the treadmill (跑步机), and take long, brisk walks. Keith also lost more than 15 pounds. “I’m a fashionable person, so now I’m back in my 3-inch heels,” she says."
+        },
+        {
+          "label": "K",
+          "text": "As people age, Starr says muscle strength is key to helping them stay strong and continue living on their own in their own home. “I feel very much alive now,” says Keith. “I feel like I could stay by myself until I’m 100.”"
+        },
+        {
+          "label": "L",
+          "text": "But can people overdo protein? Pipitone says you do have to be careful. Other researchers say too much protein can cause cramps (痉挛), headaches, and fatigue. Dehydration(脱水) is also a risk when you eat too much protein. Pipitone says if you increase protein, you also have to increase your fluid intake. “I always tell people to make sure they’re drinking enough fluids,” which for the average person is 60 to 70 ounces a day, which translates into eight 8-ounce glasses of water or liquid per day."
+        },
+        {
+          "label": "M",
+          "text": "There have been some indications that extra protein makes the kidneys work harder, which could be problematic for individuals with a history of kidney disease and for them, the supplements may increase the risk of kidney stones, she says."
+        },
+        {
+          "label": "N",
+          "text": "Bottom line, if you think you need more protein in your diet, consider these questions: Are you an extreme athlete; are you recovering from injury or surgery; or are you 60 years or older? If so, adding high protein foods like eggs and meat products to your diet can be beneficial. And, if you're not sure, it is always a good idea to check with your primary care provider."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "It is quite easy for one to take in the recommended amount of protein."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Pipitone claims that healthy adults need not spend money on protein supplements."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The protein supplement business is found to be thriving."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Protein can speed the repairing of damaged muscles."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Protein supplements may overburden some internal organ, thus leading to its malfunctioning."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Older adults need to take in more protein to keep their muscles strong."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Protein is found in more foods than people might realize."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Additional protein was found to help strengthen the muscles of overweight seniors seeking weight loss."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Pipitone believes that whole foods provide the best source of protein."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "People are advised to drink more liquid when they take in more protein."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Last year, a child was born at a hospital in the UK with her heart outside her body. Few babies survive this rare condition, and those who do must endure numerous operations and are likely to have complex needs. When her mother was interviewed, three weeks after her daughter's birth, she was asked if she was prepared for what might be a daunting (令人生畏的) task caring for her. She answered without hesitation that, as far as she was concerned, this would be a “privilege”.\n\nRarely has there been a better example of the power of attitude, one of our most powerful psychological tools. Our attitudes allow us to turn mistakes into opportunities, and loss into the chance for new beginnings. An attitude is a settled way of thinking, feeling and/or behaving towards particular objects, people, events or ideologies. We use our attitudes to filter, interpret and react to the world around us. You weren't born with attitudes; rather they are all learned, and this happens in a number of ways.\n\nThe most powerful influences occur during early childhood and include both what happened to you directly, and what those around you did and said in your presence. As you acquire a distinctive identity, your attitudes are further refined by the behavior of those with whom you identify—your family, those of your gender and culture, and the people you admire, even though you may not know them personally. Friendships and other important relationships become increasingly important, particularly during adolescence. About that same time and throughout adulthood, the information you receive, especially when ideas are repeated in association with goals and achievements you find attractive, also refines your attitudes.\n\nMany people assume that our attitudes are internally consistent, that is, the way you think and\n\nfeel about someone or something predicts your behavior towards them. However, many studies have found that feelings and thoughts don't necessarily predict behavior. In general, your attitudes will be internally consistent only when the behavior is easy, and when those around you hold similar beliefs. That's why, for example, many say they believe in the benefits of recycling or exercise, but don't behave in line with their views, because it takes awareness, effort and courage to go beyond merely stating that you believe something is a good idea.\n\nOne of the most effective ways to change an attitude is to start behaving as if you already feel and think the way you'd prefer to. Take some time to reflect on your attitudes, to think about what you believe and why. Is there anything you consider a burden rather than a privilege? If so, start behaving—right now—as if the latter is the case.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn from the passage about attitude?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It shapes our beliefs and ideologies."
+                },
+                {
+                  "label": "B",
+                  "text": "It improves our psychological wellbeing."
+                },
+                {
+                  "label": "C",
+                  "text": "It determines how we respond to our immediate environment."
+                },
+                {
+                  "label": "D",
+                  "text": "It changes the way we think, feel and interact with one another."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What can contribute to the refinement of one's attitude, according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their idols' behaviors."
+                },
+                {
+                  "label": "C",
+                  "text": "Their contact with the opposite gender."
+                },
+                {
+                  "label": "B",
+                  "text": "Their educational level."
+                },
+                {
+                  "label": "D",
+                  "text": "Their interaction with different cultures."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do many studies find about people's feelings and thoughts?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may not suggest how a person is going to behave."
+                },
+                {
+                  "label": "B",
+                  "text": "They are in a way consistent with a person's mentality."
+                },
+                {
+                  "label": "C",
+                  "text": "They may not find expression in interpersonal relations."
+                },
+                {
+                  "label": "D",
+                  "text": "They are in line with a person's behavior no matter what."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "How come many people don't do what they believe is good?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can't afford the time."
+                },
+                {
+                  "label": "C",
+                  "text": "They are hypocritical."
+                },
+                {
+                  "label": "B",
+                  "text": "They have no idea how to."
+                },
+                {
+                  "label": "D",
+                  "text": "They lack willpower."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is proposed as a strategy to change attitude?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Changing things that require one's immediate attention."
+                },
+                {
+                  "label": "B",
+                  "text": "Starting to act in a way that embodies one's aspirations."
+                },
+                {
+                  "label": "C",
+                  "text": "Adjusting one's behavior gradually over a period of time."
+                },
+                {
+                  "label": "D",
+                  "text": "Considering ways of reducing one's psychological burdens."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Industrial fishing for krill (鱗虾) in the unspoilt waters around Antarctica is threatening the future of one of the world's last great wildernesses, according to a new report.\n\nThe study by Greenpeace analysed the movements of krill fishing vessels in the region and found they were increasingly operating “in the immediate vicinity of penguin colonies and whale feeding grounds”. It also highlights incidents of fishing boats being involved in groundings, oil spills and accidents, which posed a serious threat to the Antarctic ecosystem.\n\nThe report, published on Tuesday, comes amid growing concern about the impact of fishing and climate change on the Antarctic. A global campaign has been launched to create a network of ocean sanctuaries to protect the seas in the region and Greenpeace is calling for an immediate halt to fishing in areas being considered for sanctuary status.\n\nFrida Bengtsson from Greenpeace's Protect the Antarctic campaign said: “If the krill industry wants to show it’s a responsible player, then it should be voluntarily getting out of any area which is being proposed as an ocean sanctuary, and should instead be backing the protection of these huge tracts of the Antarctic.”\n\nA global campaign has been launched to turn a huge tract of Antarctic seas into ocean sanctuaries, protecting wildlife and banning not just krill fishing, but all fishing. One was created in the Ross Sea in 2016, another reserve is being proposed in a vast area of the Weddell Sea, and a third sanctuary is under consideration in the area west of the Antarctic Peninsula—a key krill fishing area.\n\nThe Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) manages the seas around Antarctica. It will decide on the Weddell Sea sanctuary proposal at a conference in Australia in October, although a decision on the peninsula sanctuary is not expected until later.\n\nKeith Reid, a science manager at CCAMLR, said that the organisation sought “a balance between protection, conservation and sustainable fishing in the Southern Ocean.” He said although more fishing was taking place nearer penguin colonies it was often happening later in the season when these colonies were empty.\n\n“The creation of a system of marine protected areas is a key part of ongoing scientific and policy discussions in CCAMLR,” he added. “Our long-term operation in the region depends on a healthy and thriving Antarctic marine ecosystem, which is why we have always had an open dialogue with the environmental non-governmental organisations. We strongly intend to continue this dialogue, including talks with Greenpeace, to discuss improvements based on the latest scientific data. We are not the ones to decide on the establishment of marine protected areas, but we hope to contribute positively with our knowledge and experience.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does Greenpeace's study find about krill fishing?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It caused a great many penguins and whales to migrate."
+                },
+                {
+                  "label": "B",
+                  "text": "It was depriving penguins and whales of their habitats."
+                },
+                {
+                  "label": "C",
+                  "text": "It was carried out too close to the habitats of penguins and whales."
+                },
+                {
+                  "label": "D",
+                  "text": "It posed an unprecedented threat to the wildlife around Antarctica."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "For what purpose has a global campaign been launched?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To reduce the impact of climate change on Antarctica."
+                },
+                {
+                  "label": "B",
+                  "text": "To establish conservation areas in the Antarctic region."
+                },
+                {
+                  "label": "C",
+                  "text": "To regulate krill fishing operations in the Antarctic seas."
+                },
+                {
+                  "label": "D",
+                  "text": "To publicise the concern about the impact of krill fishing."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What is Greenpeace's recommendation to the krill industry?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Opting to operate away from the suggested conservation areas."
+                },
+                {
+                  "label": "B",
+                  "text": "Volunteering to protect the endangered species in the Antarctic."
+                },
+                {
+                  "label": "C",
+                  "text": "Refraining from krill fishing throughout the breeding season."
+                },
+                {
+                  "label": "D",
+                  "text": "Showing its sense of responsibility by leading the global campaign."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What did CCAMLR aim to do according to its science manager?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Raise public awareness of the vulnerability of Antarctic species."
+                },
+                {
+                  "label": "B",
+                  "text": "Ban all commercial fishing operations in the Southern Ocean."
+                },
+                {
+                  "label": "C",
+                  "text": "Keep the penguin colonies from all fishing interference."
+                },
+                {
+                  "label": "D",
+                  "text": "Sustain fishing without damaging the Antarctic ecosystem."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "How does CCAMLR define its role in the conservation of the Antarctic environment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A coordinator in policy discussions."
+                },
+                {
+                  "label": "C",
+                  "text": "A provider of the needed expertise."
+                },
+                {
+                  "label": "B",
+                  "text": "An authority on big data analysis."
+                },
+                {
+                  "label": "D",
+                  "text": "An initiator of marine sanctuaries."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "梅花(plum blossom)位居中国十大名花之首,源于中国南方,已有三千多年的栽培和种植历史。隆冬时节,五颜六色的梅花不畏严寒,迎着风雪傲然绽放。在中国传统文化中,梅花象征着坚强、纯洁、高雅,激励人们不畏艰难、砥砺前行。自古以来,许多诗人和画家从梅花中获取灵感,创作了无数不朽的作品。普通大众也都喜爱梅花,春节期间常用于家庭装饰。南京市已将梅花定为市花,每年举办梅花节,成千上万的人冒着严寒到梅花山踏雪赏梅"
+      }
+    ]
+  },
+  "id": "CET6-2019-12-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "It focuses exclusively on jazz."
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "It originated with cowboys."
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "Its definition is varied and complicated. A)它的定义复杂多样。B)It is still going through experimentation.B)它仍在实验阶段。C)It is frequently accompanied by singing.C)它常常伴有人声。D)Its style has remained largely unchanged.D)它的风格基本没变。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "Learn to play them."
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "She paid her mortgage."
+      },
+      "6": {
+        "answer": "A",
+        "explanation": "Her previous debt hadn't been cleared yet."
+      },
+      "7": {
+        "answer": "A",
+        "explanation": "Pay a debt long overdue."
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "Seek advice from an expert about fundraising."
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "It is profitable and environmentally friendly."
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "Their urge to make farming more enjoyable."
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "It saves a lot of electricity."
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "It has turned certain insects into a new food source."
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "It was really unforgettable."
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "They are more tasty than beef, chicken or pork."
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "It is environmentally friendly. A) 它是环保的。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "To categorize different types of learners."
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "It was defective."
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "Auditory aids are as important as visual aids."
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "Not playing a role in a workplace revolution."
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "People would be working only fifteen hours a week now."
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "Loss of workers' personal dignity. A) 劳动者丧失个人尊严。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "It is the worst managed airport in German history."
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "The city's airports are outdated."
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "The municipal government kept changing hands."
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "Tourism industry in Berlin suffers."
+      },
+      "26": {
+        "answer": "K",
+        "explanation": "prematurely。[确定词性] 空格词位于固定短语 die from 中, 应为副词修饰 died。[锁定答案] ②句两"
+      },
+      "27": {
+        "answer": "C",
+        "explanation": "determine。[确定词性] 空格前为情态动词 will, 后为并列名词短语 the everyday lives... generations, 空格词应为及物动词原形。[锁定答案] 空格前句指出“未来新增 20 亿城市人口需要新的住所及城市交通服务”, “目前所做城市规划决策\\_\\_\\_\\_未来子孙后代的日常生活及健康”, 而借由空格句句首插入语 What is more important 可知两句间为语义递进关联, 共同指向“当前所做城市规划决策的重要性”, 且空格句是在①句“解决住房及交通”基础上指向更高层次作用, 空格词应传递“决定/影响”等意, 故 C) 正确。"
+      },
+      "28": {
+        "answer": "N",
+        "explanation": "synonymous。[确定词性] 空格前为系动词 become, 后为介宾短语 with air pollution, 空格词可能为形容词、ing 分词、ed 分词、名词, 且能与 with 搭配。[锁定答案] 空格所在分句指出“来往车辆已经变得/成为\\_\\_\\_\\_空气污染”, 后一分句指出许多国家的计划“禁止销售新的汽油和柴油汽车”。借由两分句间 and 所传递的并列语义关联可知, 汽油和柴油汽车指向来往车辆, 禁止销售此类车辆指向减少空气污染, 因此空格词应传递出来往车辆与空气污染之间的这种密切关联/因果关联/等同一致等, N) 正确。"
+      },
+      "29": {
+        "answer": "M",
+        "explanation": "switching。[确定词性] simply \\_\\_\\_\\_ to electric cars 作句子主语, 空格前为副词 simply, 空格后为介宾短语 to electric cars, 空格词应为不及物动词的 ing 分词形式, 且可与 to 搭配。[锁定答案] 空格句前文指出“多国计划禁售汽油、柴油汽车以减少空气污染”, 空格句转而指出“仅仅\\_\\_\\_\\_电动汽车并不一定能实现无污染城市”, 可见, “\\_\\_\\_\\_电动汽车”应体现空格前句“禁止销售汽油、燃油汽车(非清洁能源汽车)”隐含之意“转而销售电动汽车(清洁能源汽车)”, 故空格词应传递“转向/转变/改变”等意, M) 正确。"
+      },
+      "30": {
+        "answer": "D",
+        "explanation": "generated 31. I) particles。[确定词性](depend on 的)宾语从句 how...is 30 中缺少谓语,空格词可能为 ing 分词、ed 分词。空 31 前为形容词 tiny、airborne,后为状语从句 as they wear out,空格词应为名词。[锁定答案] 空格句指出,电动汽车 (they 回指 electric cars)产生的污染排放水平取决于驱动它们的电力如何 30 ,刹车、轮胎、道路磨损时也会产生微小的大气 31 。可见,空格句意在解释上句“转向电动汽车≠无污染城市”的原因:电动汽车污染水平受电的影响,刹车、轮胎、道路磨损也会产生大气污染。再结合常识“发电方式不同,大气污染程度不同;刹车、轮胎等磨损时会产生污浊空气、粉尘等”可知,空 30 应表“生产、制造”等语义,空 31 应传递“污染/尘埃/雾霾”等语义,故两空分别选 D)、I)。"
+      },
+      "32": {
+        "answer": "H",
+        "explanation": "opting。[确定词性] 空格所在状语从句主干结构为: people(主语)+are+\\_\\_\\_\\_+for other means(介宾短语),空格词可能为形容词(主系表结构)、ing 分词(进行时态)、ed 分词(被动语态),且能与 for 搭配。[锁定答案] 空格句先描述现象“发达国家的汽车使用量正在减少”,随后以两个状语从句 as...while...especially 递进呈现原因:更多的人搬到市中心→尤其是年轻人\\_\\_\\_\\_其他出行方式。前一项原因指向“开车通勤的客观需求减少”,后一项原因应指向“选择开车的主观意愿下降”,空格词应表示“选择/倾向/偏爱(除开车以外的其他出行方式)”,H)正确。"
+      },
+      "33": {
+        "answer": "J",
+        "explanation": "peak 34. O) trend。[确定词性] 空 33 前为形容词性物主代词 its, 后为 and + will decline (与 has reached 为并列谓语), 空格词应为名词 (作 reached 的宾语)。空 34 前为“固定短语 catch up with + this”, 后为逗号, 空格词可能为名词 (this 34 作 with 的宾语)、副词 (this 作 with 的宾语)。[锁定答案] 空格句以 but、instead of 传递句内双重转折“研究人员早已开始猜测机动车使用量是否已达到 33 并即将下降, 但是交通规划者尚未跟上这一 34 , 反而还铺设新道路以期解决拥堵”。由“铺设新路与汽车用量减少之间的矛盾对立”可推知交通规划者未认清现实状况/趋势/现象等, O) 符合空 34 语境; 反推可知, 研究人员早已意识到汽车用量达到极限/瓶颈/峰值等, B) crown 通常指“(某物的)顶部, 顶端”, 而 J) peak 则通常指向一个点/数值的“峰值”, 故 J) 符合空 33 语境。"
+      },
+      "35": {
+        "answer": "L",
+        "explanation": "simply。[确定词性] 空格所在宾语从句 that doubling... double the traffic 中主谓宾成分已完整,空格词应为副词修饰其后 double。[锁定答案] 末段③④句分别说明英、美两国道路使用情况:伦敦新建 M25 环形高速公路很快挤满更多车辆;美国每拓宽一倍道路会\\_\\_\\_\\_交通量增加一倍。可见,两句意在以发达国家现实经验说明②句隐藏文意“铺设新道路解决交通堵塞这种思路是错误的:不仅无力解决,还增加交通流量”,空格词应表“只会/反而”以强调“新建道路于解决拥堵毫无用处/适得其反”之意,故 L) 正确。"
+      }
+    },
+    "references": {}
+  }
+}

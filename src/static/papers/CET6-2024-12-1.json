@@ -1,0 +1,1301 @@
+{
+  "schema_version": "1.0",
+  "year": 2024,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"To increase the likelihood of success, one should set realistic goals and work persistently towards them, \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"To increase the likelihood of success, one should set realistic goals and work persistently towards them, \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"To increase the likelihood of success, one should set realistic goals and work persistently towards them, \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "You should copy the sentence given in quotes at the beginning of your essay.",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Preparing for a job interview."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Writing a work report together."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Going through a couple of issues the company faces."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Discussing the woman's annual performance review."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The overall culture of the company."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The honesty of the manager."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The instruction from her supervisor."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The recognition of her merits."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her inadequate language proficiency."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her inability to interact with colleagues properly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her inappropriate behavior at company meetings."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her simplistic approach to dealing with others."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To avoid offending the recipients."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To save time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To show her unique writing style."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To be frank."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Provide medical service to the community."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Obtain a doctoral degree in internal medicine."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make healthcare in her hometown the best."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Have a profound impact on people around her."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have constantly urged her to study hard."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have worked hard to finance her education."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have tried to create a positive learning environment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have pursued the family's dreams together with her."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is a key medical branch conducive to realizing her dreams."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It connects many other specialties with its broad coverage."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has a long history in the man's prestigious institution."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a medical branch both of her parents specialize in."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Problematic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Inconsistent."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Competitive."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Trustworthy.\n\n2024 年 12 月英语六级真题\n\n第 1 页，共 9 页"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To prevent hackers from cracking our secret codes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To show that all the guidelines are being followed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To provide evidence that passwords are forgotten."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To convince our computer that we are human."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Put an end to the hacking phenomenon."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Reduce the intricacy of the password itself."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Help people remember their passwords."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Explain the need for different email accounts."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Innovate technologies to ensure the safety of users' accounts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Provide incentives for the application of creative passwords."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Explore the possibility of using simpler secret codes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Take steps to encourage users to log in more often."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her work no longer interested her."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her fitness fell into a slump."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her training app did not fit her."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her business deteriorated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Help users keep track of their fitness levels."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Strengthen ties among users worldwide."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Design personalised training programmes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Select well-qualified human coaches."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are never repeated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are of no extreme intensity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They help enrich her life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They keep her focused on her goal."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They will not be able to take the place of human personal trainers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They will not be able to comprehend some of the profiles users put in."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They cannot lead to optimal results with their mathematical approach."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They cannot match humans in arranging meticulous workout schedules."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All societies are built upon the cornerstones of basic values."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Everyone everywhere demonstrates seven character traits."
+                  },
+                  {
+                    "label": "C",
+                    "text": "All societies are kept together by seven basic moral rules."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Everyone everywhere shares a universal moral standard."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Ascertain whether deferring to authority was confined to right-wing people."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Find out whether different societies had different versions of morality."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make clear whether all societies faced the same moral issues."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Find out whether left-wing people still had a group loyalty."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Make independent descriptions of cultures around the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Strive to understand the basic differences between peoples.\n\n2024 年 12 月英语六级真题第 1 套\n\n第 2 页，共 9 页"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Appreciate the foundational value of the existing data."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Carry out systematic field studies to gather new data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They might be the most important part of our eating experience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can activate our brain functions in a most direct fashion."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can be viewed as the windows to our soul."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They could mislead us in more ways than one."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It attracts food companies' growing attention."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It invariably determines how food sells."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It adversely impacts one's eating experience."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It changes the way people taste food."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Enhance the taste."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Identify distinct flavors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make predictions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Enrich the eating experience."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Social status."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Meaning."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Financial resources."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Happiness."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their effect on people's happiness has long been overstated."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their influence on people's life varies with social contexts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can affect people's experience of meaning."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can ensure people's overall well-being."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It used questions totally different from those in their first study."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It focused on the sense of meaning of French participants."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It analysed cases from a daily poll of US residents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It examined data collected from multiple countries."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They might have more access to external sources of happiness."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They might focus on an individual sense of satisfaction or meaning."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They might be less easily affected by a community's overall feeling."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They might be less adversely impacted by failure to achieve a purpose."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "With the rapid progress in the economy, it is natural that people's ideology is bound for change. Being 26_ is no longer a virtue to some people, and they are not alone in holding this view. Each might have different viewpoints on how to lead one's lifestyle: some prefer simplicity, some love luxuries, some spend 27_, some accumulate as much as they can like a country mouse. As I was born poor and in the countryside, the simple rural life seldom loses its _28_ to me, but as my station changes, I have an opportunity to _29_ with the newly rich, an experience which has revolutionized my view of lifestyle.\n\nIt is evil or sinful to spend little and to save much, an idea only recently being revealed to me. Actually the whole world is in a _30_ to borrow and to spend, with the USA leading the trend. The USA is still the richest and most powerful country in the world, but the _31_ is that they borrow money from us. Though a 32_ of economics, at least I know that investing with borrowed money will turn the borrower into the _33_ rather than the decent and kind lender. An apparent case is real estate. Those who are _34_ and have got loans from the bank become relatively rich by selling their purchased home at a price several folds higher. Even education is not immune from this theory. Many of those poor parents who have the vision to send their children to college have benefited from this investment, even though they have to _35_ a living. It is reasonable to conclude that spending is praiseworthy. supposing it is not beyond your means.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "appeal"
+        },
+        {
+          "label": "I",
+          "text": "meadow"
+        },
+        {
+          "label": "B",
+          "text": "extravagantly"
+        },
+        {
+          "label": "J",
+          "text": "mingle"
+        },
+        {
+          "label": "C",
+          "text": "intrinsically"
+        },
+        {
+          "label": "K",
+          "text": "predator"
+        },
+        {
+          "label": "D",
+          "text": "irony"
+        },
+        {
+          "label": "L",
+          "text": "rage"
+        },
+        {
+          "label": "E",
+          "text": "layman"
+        },
+        {
+          "label": "M",
+          "text": "scrape"
+        },
+        {
+          "label": "F",
+          "text": "literally"
+        },
+        {
+          "label": "N",
+          "text": "shrewd"
+        },
+        {
+          "label": "G",
+          "text": "majestic"
+        },
+        {
+          "label": "O",
+          "text": "thrifty"
+        },
+        {
+          "label": "H",
+          "text": "malicious"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 104,
+          "end": 106
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 315,
+          "end": 317
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 460,
+          "end": 464
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 524,
+          "end": 528
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 744,
+          "end": 748
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 882,
+          "end": 886
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 931,
+          "end": 933
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1032,
+          "end": 1036
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1124,
+          "end": 1128
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1440,
+          "end": 1444
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by making the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Are Forgotten Crops the Future of Food?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "On a small fruit farm near the Straits of Malacca, Lim Kok Ann is down to just one tree growing kedondong, a crunchy, sour berry that Malaysians mostly use in pickles (腌菜) and salads. \"It's not very well-known,\" says the 45-year-old, who is instead focusing on longan (龙眼) berries and pineapples, which have bigger markets. \"We have to grow what is profitable,\" he says.\n\nВ) But less than an hour away in the Malaysian countryside, inside three giant, silver domes, scientists are trying to change the future of food. They're pushing the boundaries of what humans eat by growing and processing so-called \"alternative\" crops-such as kedondong. At the headquarters of global research centre Crops For the Future (CFF) this particular under-used fruit has been turned into a sugar-free juice, high in vitamin C and getting top marks in sensory evaluations. \"Anything you see here is a forgotten crop,\" says Sayed Azam-Ali of the abundant plants weaving through the gardens of CFF outside Malaysia's capital Kuala Lumpur."
+        },
+        {
+          "label": "C",
+          "text": "Prof Azam-Ali explains that just four crops-wheat, maize, rice and soybean-provide two-thirds of the world's food supply. \"We're dependent on these four.\" he says. \"But actually there're 7,000 crops we've been farming for thousands of years. We ignore all of those.\" Researchers are trying to unlock the potential of these ignored crops—plants they describe as forgotten, under-used or \"alternative\" as they are displaced by increasingly uniform diets fuelled by processed ingredients from the major crops.\n\n2024 年 12 月英语六级真题第 1 套\n\n第 4 页，共 9 页"
+        },
+        {
+          "label": "D",
+          "text": "It's a timely quest. The food sector is already responsible for nearly a third of global greenhouse gas emissions. By 2050 it estimates the world must produce 50% more food to feed the projected global population of 10 billion. Meeting this demand without contributing to climate change calls for urgent solutions."
+        },
+        {
+          "label": "E",
+          "text": "Forgotten crops hold key answers. By investing in neglected local plants, countries can reduce their reliance on imported crops and their carbon-heavy supply chains. Bringing back the variety of crops humans once ate also boosts food security at a time warming climates threaten existing crops. On top of that forgotten crops are among the most climate-resilient ( 具有气候韧性的 ) and nutritious, argues Azam-Ali. His summary is plain: \"Dietary diversification is critical to the future of humanity.\""
+        },
+        {
+          "label": "F",
+          "text": "Food security experts agree. \"There is no food insecurity in the world, there is food ignorance,\" says Cecilia Tortajada, a senior research fellow at the Institute of Water Policy at the National University of Singapore. \"Whenever we have native crops we tend to disregard them as if they were not valuable but they are,\" she adds."
+        },
+        {
+          "label": "G",
+          "text": "Azam-Ali knows that scepticism firsthand. He came across alternative crops in the 1980s through the work of women farmers he met in Niger. The then-PhD student remembers marvelling at the crops they grew in their backyards, without the benefits of technology, to feed their families when the big crops failed. He saw a tremendous opportunity to build alternative food systems. But \"the resistance was enormous,\" he recalls."
+        },
+        {
+          "label": "H",
+          "text": "Undeterred, he ploughed on. Project after project helped prove these crops were viable in different environments as alternatives to the staple ones. But the question of whether these crops would be marketable remained. \"That's the critical thing,\" he says. In one of the centre's domes, food technologist Tan Xinlin uses powdered moringa (辣木) leaves in place of some wheat flour to bake a cake lower in gluten (谷胶) and higher in nutrients. Tan's job is to create recipes with these still-unfamiliar ingredients that will appeal to both local and international tastes. In recent years she has used some of the forgotten crops grown at CFF, such as moringa and bambara groundnut, to make everything from instant soup to Indian snacks. \"I try to modernise forgotten crops instead of using old recipes.\" says Tan, who is also a trained chef. It's a strategy to appeal to the world's growing middle classes who are increasingly turning to the fast and processed food industries. It's also a way to help counter perceptions of local crops as \"old or poor people's food\" or as inferior \"women's crops\", adds Tan."
+        },
+        {
+          "label": "I",
+          "text": "The roots of these connotations about local foods can run deep. The bambara groundnut, a protein-rich native crop of sub-Saharan Africa that is also grown in parts of southeast Asia, can trace its marginalisation to colonial rule. \"African women who grew bambara groundnut were actually punished for growing it,\" says Azam-Ali. \"Colonial powers said you can't grow that because there's no oil. We can't get a market for it.\" But today the bambara murukku is one of CFF's best reviewed foods and they are aiming to get it into grocery stores, pointing to the success of crops like quinoa to potential investors. Some 30 years ago, quinoa was virtually unheard of outside its native mountains in Bolivia and Peru. Today the nutritious grain is found on the menus of lavish restaurants across the world."
+        },
+        {
+          "label": "J",
+          "text": "Measuring crops by nutrition instead of yield is at the heart of the forgotten foods enterprise. Ever since the green revolution\" of the 1960s, high-yielding crops have dominated modern agriculture. That was in part a crucial response to devastating famines at a time when the world needed to increase its food supply. Today \"nutrition is becoming a time bomb\", says Azam-Ali, as growing carbon dioxide levels strip crops of their minerals. Instead of bio-fortifying major crops we should be investing in those forgotten crops that are already more nutritious, he asserts.\n\n2024 年 12 月英语六级真题\n\n第 5 页，共 9 页"
+        },
+        {
+          "label": "K",
+          "text": "In the bowels of CFF's third dome, lab manager Gomathy Sethuraman opens a window into the centre's \"crown jewels\", revealing vines of winged beans growing under a bright yellow light. It's one of multiple chambers where scientists are studying the impact of higher temperatures and carbon dioxide levels on the nutritional make-up of alternative crops. This research is \"the game changer\", says Azam-Ali, ensuring that \"future crops\" are also the healthiest ones in warmer climates."
+        },
+        {
+          "label": "L",
+          "text": "There is a growing global momentum around forgotten foods, says Danielle Nierenberg, president of Food Tank, a US-based think tank. Other than CFF, which bills itself as the world's first research centre dedicated solely to under-utilised crops, there are other key groups championing agricultural diversity including Crop Trust, Slow Food, Icrisat and Bioversity International. Add to that more middle-income consumers searching for nutritious foods and others eager to try the unprocessed foods their grandparents once ate, she says."
+        },
+        {
+          "label": "M",
+          "text": "But the rising interest in forgotten foods in some quarters is overtaken by the global spread of Western-style diets heavy in sugar, fat and processed foods in others."
+        },
+        {
+          "label": "N",
+          "text": "A key obstacle to promoting fading local crops in Malaysia, for example, is \"the obsession with imported products\", says Jenifer Kuah, co-founder of a restaurant that champions locally-sourced food in an affluent suburb of Kuala Lumpur. Customers at Sitka, regarded as a pioneer in the country's small farm-to-table dining scene, still seek foreign ingredients as a \"status symbol\", she says."
+        },
+        {
+          "label": "O",
+          "text": "The argument for forgotten foods feels intuitive. Some analysts say it is in fact inevitable. \"Climate change is going to mean almost certainly tastes are going to be forced to change,\" says Tim Lang, professor of food policy at City, University of London. We \"have to get used to eating other crops\" as yields of staple crops fall, he says."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "According to a senior researcher, we will have secure food supply if we rid ourselves of ignorance about native crops."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Most of the world's food supply comes from a tiny number out of thousands of crops that have been grown for centuries."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "To provide their family with food when the staple crops failed, some African women farmers grew local crops in their backyards."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "High-yielding crops have occupied a dominant position in modern agriculture since the green revolution in the last century."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Growing alternative crops proved feasible in a variety of environments, but the critical question was whether they would be marketable."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "According to a professor, when the yields of staple crops fall, we will have to adapt to eating foods from alternative crops."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Urgent measures have to be taken to provide food for the projected world population without aggravating the climate."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Colonial rule marginalised local crops by punishing Africans who grew them."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "As existing crops are endangered by global warming, we can increase food security by bringing back the many forgotten food crops."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Researchers are trying to find out how higher temperatures and CO, levels affect the nutritional composition of alternative crops.\n\n2024 年 12 月英语六级真题\n\n第 6 页，共 9 页"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A) ,B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Imagine you're an alien sent to Earth to document the behaviour of the mammals inhabiting the planet. You stumble into a movie theatre that's showing the latest Hollywood horror film.\n\nSeveral dozen humans are gathered together in a dark, undecorated room. They're all staring at a rectangular area on which patterns of light change rapidly.\n\nThey are clearly in a state of high arousal. Their heart rate is elevated, they occasionally glance around nervously, and they sometimes jump collectively in their seats, and emit high-pitched warning calls.\n\nEventually, the lights come up and the rectangular screen goes black. The humans stand up and leave the room, chatting and laughing, and showing signs of pleasure.\n\nWhy do these humans voluntarily expose themselves to what appears to be a deeply unpleasant experience? And why do they react so strongly to those patterns of light on a screen?\n\nI am fascinated with the paradox of horror-the strange fact that many people seek out scary entertainment.\n\nI think the answer to the puzzle lies in human nature.\n\nMy research suggests that we humans evolved to find pleasure in situations that allow us to experience negative emotions in a safe context. You can see these elements of horror in children's games. Take hide-and-seek for example, which is a simulation of a predator-prey interaction. The kid hides and the adult pretends to be a predator, searching for the child while howling like a dangerous beast.\n\nThis simulation gives the child crucial information about how to avoid becoming prey, and children tend to find that kind of activity deeply satisfying, presumably because it gives them a safe experience of a potentially catastrophic scenario.\n\nThey find it pleasurable, and pleasure is evolution's way of motivating us toward adaptive behaviour.\n\nHorror is pleasurable to many people because it lets us play with negative emotions and develop coping strategies. We learn what it feels like to be truly afraid, and we learn how to handle negative emotion.\n\nHow, then, does horror work? My research suggests that horror works by exploiting an ancient set of biological defence mechanisms-an evolved fear system, which we share with other animals. But humans are uniquely imaginative, and we use our evolved imagination to travel into virtual worlds that are full of danger.\n\nThere are good reasons for watching a horror film, even if you're not a loyal horror fan. If you make it through the film in one piece, you'll probably experience a strong sense of mastery, a sense that you were able to make it through an appalling experience. Anyway, watching a horror film makes you better at handling your own fear, and who knows when that will become critically relevant?",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "The alien finds the audience in the movie theatre clearly in a state of",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "total mindfulness"
+                },
+                {
+                  "label": "C",
+                  "text": "spiritual elevation"
+                },
+                {
+                  "label": "B",
+                  "text": "extreme excitement"
+                },
+                {
+                  "label": "D",
+                  "text": "intense curiosity"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why do many people seek out scary entertainment, according to the author's research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They gain experience in overcoming horror in real life."
+                },
+                {
+                  "label": "B",
+                  "text": "They find joy in going through simulated horrible experiences.\n\n2024 年 12 月英语六级真题第 1 套\n\n第 7 页，共 9 页"
+                },
+                {
+                  "label": "C",
+                  "text": "They have learned from hide-and-seek as kids the thrill involved."
+                },
+                {
+                  "label": "D",
+                  "text": "They have evolved to gain pleasure in escaping life-threatening situations."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do children learn from hide-and-seek?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "How to avoid falling prey to an attacker."
+                },
+                {
+                  "label": "B",
+                  "text": "How to simulate a predator-prey interaction."
+                },
+                {
+                  "label": "C",
+                  "text": "How to keep themselves from catastrophic errors."
+                },
+                {
+                  "label": "D",
+                  "text": "How to turn a dangerous scenario into a safe one."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why is horror gratifying to many people?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It reminds them of an ancient set of biological defence mechanisms."
+                },
+                {
+                  "label": "B",
+                  "text": "It triggers their imagination to travel into dangerous virtual worlds."
+                },
+                {
+                  "label": "C",
+                  "text": "It allows them to learn what fear feels like and how to tackle it."
+                },
+                {
+                  "label": "D",
+                  "text": "It activates their evolved fear system and their unique fantasy."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What will one experience if they watch a horror film through without being hurt?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A strong sense of clear relevance."
+                },
+                {
+                  "label": "C",
+                  "text": "A profound sense of intense relief."
+                },
+                {
+                  "label": "B",
+                  "text": "A profound sense of good fortune."
+                },
+                {
+                  "label": "D",
+                  "text": "A strong sense of being in control."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "An awakening has been taking place in the physical world against the beauty model that has been dictated to us for years. But in the digital arena, social media determines what is considered beautiful.\n\nThe two opposing struggles are taking place in parallel. In the physical world, the struggle goes against the underlying pressure exerted on women to conform to an unrealistic beauty ideal. As part of the struggle, various media outlets have presented women whose bodies don't correspond to the so-called ideal. All those women who had previously been excluded from the covers of magazines, television series and the public agenda, have become \"legitimate\". At the same time, a group of influencers have begun to upload to social media photos of themselves without makeup, and even photos in which they highlight supposed flaws.\n\nTechnology has reshaped our beauty ideal and is doing a great job communicating that message to the masses. One of the bizarre legacies of the past decade is the popularity of the \"cyborg look\", which illustrates what Americans will look like in 2050.\n\nThe cyborg look spread rapidly. Today, however, the Instagram face has become the new beauty ideal.\n\nThe internalization of accepted beauty norms is much more effective when there is active involvement in the learning process. The active involvement of users is reflected in the gamified ( 游 戏 化 的 ) interaction offered by the social media platforms-the ability to like, write a comment, compare, share.\n\nOnce the desired beauty ideal has been internalized, users are given tools or features to change their appearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right background.\n\nA survey conducted in the United States revealed that more than 50% filter the images before posting them. And you will not be surprised to hear that the majority of them are women. One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side.\n\nThe effect of the filters is already far beyond amiable amusement. The filters and the entire game played on the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and\n\n2024 年 12 月英语六级真题第 1 套\n\n第 8 页，\n\nFaceTune allow users to achieve a level of perfection that was previously only observed in beauty magazines.\n\nEven though humanity has always cherished beauty, in the last decade our obsession with looks has reached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn about beauty in the digital arena?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It dictates the taste of digital media."
+                },
+                {
+                  "label": "C",
+                  "text": "It has ushered in a new awakening."
+                },
+                {
+                  "label": "B",
+                  "text": "It has been in the making for years."
+                },
+                {
+                  "label": "D",
+                  "text": "It is defined by social media."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the passage say about beauty in the physical world?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Women are under constant pressure to keep up with beauty models."
+                },
+                {
+                  "label": "B",
+                  "text": "Women are encouraged to pursue a beauty ideal that has never existed."
+                },
+                {
+                  "label": "C",
+                  "text": "A fight is going on to remove pressure on women to conform to an absurd beauty ideal."
+                },
+                {
+                  "label": "D",
+                  "text": "Media outlets have begun to present as beauty models trendy women without any makeup."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn from the passage about the Instagram face?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is now regarded as the new beauty ideal."
+                },
+                {
+                  "label": "B",
+                  "text": "It is what most women will go after in 2050."
+                },
+                {
+                  "label": "C",
+                  "text": "It is being much talked about on social media."
+                },
+                {
+                  "label": "D",
+                  "text": "It is a perfect illustration of the ultimate beauty."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What has obsessive filtering resulted in?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A good many women striving to reach an impossible level of perfection."
+                },
+                {
+                  "label": "B",
+                  "text": "An urge to turn the entire game played on the network to one's advantage."
+                },
+                {
+                  "label": "C",
+                  "text": "A tendency to regard one's body as an object of observation and judgment."
+                },
+                {
+                  "label": "D",
+                  "text": "An increasing number of women filtering their images before uploading them."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author want to emphasize at the end of the passage regarding Americans' obsession with looks?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Cosmetic surgery should be made more accessible to the masses."
+                },
+                {
+                  "label": "B",
+                  "text": "Psychological intervention should be introduced to alleviate it."
+                },
+                {
+                  "label": "C",
+                  "text": "Their time spent on social media should be strictly controlled."
+                },
+                {
+                  "label": "D",
+                  "text": "Its root cause should be meticulously examined and analyzed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "北斗（Beidou）卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经过不懈努力，攻克了一系列技术难题，北斗系统最终实现了全球覆盖和高精度定位，使中国成为世界上少数几个独立拥有全球卫星导航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。北斗系统现在已经在国际上得到广泛认可，开始为越来越多的国家和地区提供优质服务。\n\n2024 年 12 月英语六级真题第 1 套\n\n第 9 页，共 9 页"
+      }
+    ]
+  },
+  "id": "CET6-2024-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

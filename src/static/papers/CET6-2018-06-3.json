@@ -1,0 +1,703 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of building trust between businesses and consumers. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of building trust between businesses and consumers. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the importance of building trust between businesses and consumers. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "特别说明"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "When Elon Musk says that his new priority is using artificial intelligence to build domestic robots, we should look forward to the day in admiration.\n\nMr. Musk is a guy who gets things done. The founder of two tech companies, Tesla Motors and SpaceX, is bringing electric vehicles to mass market and 26 humans to live on other planets. This sounds like so much hot air, but the near \\$13 billion fortune this entrepreneur has 27 comes from practical achievements rather than hypothetical ones.\n\nA lot of clever people are 28 about artificial intelligence, fearing that robots will one day become so 29 that they'll murder all of us. These fears are mostly 30 : as with hysteria about genetic modification, we humans are generally wise enough to manage these problems with speed and care.\n\nAnd just think of how wonderful it would be if you had a live-in robot. It could, 31, be like having a babysitter and a nurse rolled into one — or, if that required 32 intelligence beyond the power of Mr. Musk's imagined machine, at least someone to chop the carrots, wash the car and mow the lawn. Once purchased and trained, this would allow the 33 user to save money and time, freeing up 34 space in our busy lives to read a good book.\n\nThat is why we welcome Mr. Musk's latest _35_, and wish him well. As long as robots add to the sum of human happiness, reduce suffering, and create time to read world-class journalism, we should be their fans, especially since journalism is one job robots will never do.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "amassed"
+        },
+        {
+          "label": "I",
+          "text": "misleading"
+        },
+        {
+          "label": "B",
+          "text": "casual"
+        },
+        {
+          "label": "J",
+          "text": "precious"
+        },
+        {
+          "label": "C",
+          "text": "emotional"
+        },
+        {
+          "label": "K",
+          "text": "reward"
+        },
+        {
+          "label": "D",
+          "text": "enabling"
+        },
+        {
+          "label": "L",
+          "text": "smart"
+        },
+        {
+          "label": "E",
+          "text": "eventually"
+        },
+        {
+          "label": "M",
+          "text": "sphere"
+        },
+        {
+          "label": "F",
+          "text": "exaggerated"
+        },
+        {
+          "label": "N",
+          "text": "terrified"
+        },
+        {
+          "label": "G",
+          "text": "extravagant"
+        },
+        {
+          "label": "O",
+          "text": "venture"
+        },
+        {
+          "label": "H",
+          "text": "generously"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 300,
+          "end": 302
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 426,
+          "end": 428
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 522,
+          "end": 524
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 599,
+          "end": 601
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 656,
+          "end": 658
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 871,
+          "end": 873
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 954,
+          "end": 956
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1137,
+          "end": 1139
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1180,
+          "end": 1182
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1270,
+          "end": 1274
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "In the real world, nobody cares that you went to an Ivy League school",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "As a high school junior, everything in my life revolved around getting into the right college. I diligently attended my SAT, ACT, and Advanced Placement test preparation courses. I juggled (尽力应付) cross-country and track schedules, newspaper staff, and my church's youth group and drama team. I didn't drink, party, or even do much dating. The right college, I thought, was one with prestige, one with a name. It didn't have to be the Ivy League, but it needed to be a \"top school.\""
+        },
+        {
+          "label": "B",
+          "text": "Looking back now, nine years later, I can't remember exactly what it was about these universities that made them seem so much better. Was it a curriculum that appeared more rigorous, perhaps? Or an alumni network that I hoped would open doors down the line? Maybe. \"I do think there are advantages to schools with more recognition,\" notes Marybeth Gasman, a professor of higher education at the University of Pennsylvania. \"I don't necessarily think that's a reason to go to one.\""
+        },
+        {
+          "label": "C",
+          "text": "In reflection, my firm belief in the power of the brand was naive, not to mention a bit snobby. I quickly passed over state schools and southern schools, believing their curriculums to be automatically inferior to northeastern or western counterparts. Instead, I dreamed of living in New York City and my parents obliged me with a visit to New York University's (NYU) campus. During the tour, tuition fees were discussed. (NYU is consistently ranked one of the country's most expensive schools, with room and board costs totaling upwards of \\$64,000 a year.) Up until then, I hadn't truly realized just how expensive an education can be. Over the next few months, I realized not only could I not afford my dream school, I couldn't even afford\n\nthe ones where I'd been accepted. City University of New York (CUNY), Rutgers University, and Indiana University were out of reach as were Mississippi State and the University of Alabama, where I would have to pay out-of-state fees. Further complicating my college search was a flourishing track career—I wanted to keep running but my times weren't quite fast enough to secure a scholarship."
+        },
+        {
+          "label": "D",
+          "text": "And so, at 11 pm on the night of Georgia State University's (GSU) midnight deadline, I applied online. Rated No. 466 overall on Forbes' Lists Top Colleges, No. 183 in Research Universities, and No. 108 in the South, I can't say it was my top choice. Still, the track coach had offered me a walk-on spot, and I actually found the urban Atlanta campus a decent consolation prize after New York City."
+        },
+        {
+          "label": "E",
+          "text": "While it may have been practical, it wasn't prestigious. But here's the thing: I loved my \"lower-tier\" (低层次的) university. (I use the term \"low-tier\" cautiously, because GSU is a well-regarded research institution that attracts high quality professors and faculty from all over the country.) We are taught to believe that only by going to the best schools and getting the best grades can we escape the rat race and build a better future. But what if lower-tier colleges and universities were the ticket to escaping the rat race? After all, where else can you leave school with a decent degree—but without a lifetime of debt?"
+        },
+        {
+          "label": "F",
+          "text": "My school didn't come pre-packaged like the more popular options, so we were left to take care of ourselves, figuring out city life and trying to complete degree programs that no one was championing for us to succeed in. What I'm saying is, I loved my university because it taught us all to be resourceful and we could make what we wanted out of it."
+        },
+        {
+          "label": "G",
+          "text": "I was lucky enough to have my tuition covered by a lottery-funded scholarship called HOPE (Helping Outstanding Pupils Educationally). When I started college, the HOPE scholarship was funded by the state of Georgia and offered to graduating high school seniors with a GPA of 3.0 or higher. Living costs and books I paid for with money earned during high school, supplemented by a small college fund my deceased grandfather left for me and a modest savings account my parents created when I was born."
+        },
+        {
+          "label": "H",
+          "text": "So what about all that name recognition? Sure, many of my colleagues and competitors have more glamorous alma maters (母校) than I do. As a journalist, I have competed against NYU, Columbia, and Northeastern graduates for jobs. And yet, not a single interviewer has ever asked me about my educational background. In fact, almost every interview I've ever had was due to a connection — one that I've gained through pure determination, not a school brand."
+        },
+        {
+          "label": "I",
+          "text": "According to The Boston Globe, students who earned their bachelor's in 2012 have an average monthly loan payment of \\$312, which is one-third more than those who graduated in 2004. Ultimately, that's the thing universities don't want to admit. Private universities are money-making\n\ninstitutions. If you can afford to buy prestige, that's your choice. For the rest of us, however, our hearty lower-tiered universities are just fine, thank you."
+        },
+        {
+          "label": "J",
+          "text": "Wealthy universities talk up the benefits their name will give graduates: namely, strong alumni networks, star faculty, and a résumé boost. But you needn't attend an Ivy League school to reap those rewards. Ludacris and the former CEO of Bank of America Ken Lewis are alumni of my college, as well as VICE's first female editor-in-chief, Ellis Jones. Successful people tend to be successful no matter where they go to school, and lower-tier schools can have alumni networks just as strong as their big name counterparts. In fact, lower-tier school alumni networks are arguably stronger, because fellow alumni recognize that you didn't necessarily have an easy path to follow. They might be more willing to offer career help, because your less famous school denotes that, like them, you are also full of energy and perseverance."
+        },
+        {
+          "label": "K",
+          "text": "The Washington Post reported on a recent study by Princeton economists, in which college graduates who applied to the most selective schools in the 12th grade were compared to those who applied to slightly less selective schools. They found that students with more potential earned more as adults, and the reverse held true as well, no matter where they went to school."
+        },
+        {
+          "label": "L",
+          "text": "Likewise, star faculty are not always found where you'd expect. Big name schools are not necessarily the best places for professors; plus, many professors split teaching time between multiple colleges and/or universities. This means, for instance, a CUNY student could reasonably expect to receive the same quality of instruction from a prestigious professor as they would if they were enrolled in the same class at NYU."
+        },
+        {
+          "label": "M",
+          "text": "It's possible that some hiring managers may be drawn to candidates with a particular educational résumé, but it's no guarantee. According to a 2012 survey described in The Atlantic, college reputation ranked lowest in relative importance of attributes in evaluating graduates for hire, beaten out by top factors like internships, employment during college, college major, volunteer experience, and extracurriculars."
+        },
+        {
+          "label": "N",
+          "text": "Maybe students who choose less prestigious universities are bound to succeed because they are determined to. I tend to think so. In any case, if I could do it again, I'd still make the same choice. Today I'm debt-free, resourceful—and I understand that even the shiniest packaging can't predict what you'll find on the inside."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Modest institutions can also have successful graduates and strong alumni networks."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The money the author made in high school helped pay for her living expenses and books at college."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The author came to see how costly college education could be when she was trying to choose a university to attend."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "A recent study found that a graduate's salary is determined by their potential, not the university they attended."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "The author cannot recall for sure what made certain top universities appear a lot better."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "None of the author's job interviewers cared which college she went to."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The author thinks she did the right thing in choosing a less prestigious university."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "In order to be admitted to a prestigious university, the author took part in various extracurricular activities and attended test preparation courses."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The author liked her university which was not prestigious but less expensive."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Colleges are reluctant to admit that graduates today are in heavier debt."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Economically speaking, are we better off than we were ten years ago? Twenty years ago?\n\nIn their thirst for evidence on this issue, commentators seized on the recent report by the Census Bureau, which found that average household income rose by 5.2% in 2015. Unfortunately, that conclusion puts too much weight on a useful, but flawed and incomplete, statistic. Among the more significant problems with the Census's measure are that: 1) it excludes taxes, transfers, and compensation like employer-provided health insurance; and 2) it is based on surveys rather than data. Even if precisely measured, income data exclude important determinants of economic well-being, such as the hours of work needed to earn that income.\n\nWhile thinking about the question, we came across a recently published article by Charles Jones and Peter Klenow, which proposes an interesting new measure of economic welfare. While by no means perfect, it is considerably more comprehensive than average income, taking into account not only growth in consumption per person but also changes in working time, life expectancy, and inequality. Moreover, it can be used to assess economic performance both across countries and over time.\n\nThe Jones-Klenow method can be illustrated by a cross-country example. Suppose we want to compare the economic welfare of citizens of the U.S. and France in 2005.\n\nIn 2005, as the authors observe, real consumption per person in France was only 60% as high as\n\nthe U.S., making it appear that Americans were economically much better off than the French on average. However, that comparison omits other relevant factors: leisure time, life expectancy, and economic inequality. The French take longer vacations and retire earlier, so typically work fewer hours; they enjoy a higher life expectancy, presumably reflecting advantages with respect to health care, diet, lifestyle, and the like; and income and consumption are somewhat more equally distributed there than in the U.S. Because of these differences, comparing France's consumption with the U.S.'s overstates the gap in economic welfare.\n\nSimilar calculations can be used to compare the U.S. and other countries. For example, this calculation puts economic welfare in the United Kingdom at 97% of U.S. levels, but estimates Mexican well-being at 22%.\n\nThe Jones-Klenow measure can also assess an economy's performance over time. According to this measure, as of the early-to-mid-2000s, the U.S. had the highest economic welfare of any large country. Since 2007, economic welfare in the U.S. has continued to improve. However, the pace of improvement has slowed markedly.\n\nMethodologically, the lesson from the Jones-Klenow research is that economic welfare is multidimensional. Their approach is flexible enough that in principle other important quality-of-life changes could be incorporated—for example, decreases in total emissions of pollutants and declines in crime rates.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author think of the 2015 report by the Census Bureau?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is based on questionable statistics."
+                },
+                {
+                  "label": "B",
+                  "text": "It reflects the economic changes."
+                },
+                {
+                  "label": "C",
+                  "text": "It evidences the improved welfare."
+                },
+                {
+                  "label": "D",
+                  "text": "It provides much food for thought."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author say about the Jones-Klenow method?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is widely used to compare the economic growth across countries."
+                },
+                {
+                  "label": "B",
+                  "text": "It revolutionizes the way of measuring ordinary people's livelihood."
+                },
+                {
+                  "label": "C",
+                  "text": "It focuses on people's consumption rather than their average income."
+                },
+                {
+                  "label": "D",
+                  "text": "It is a more comprehensive measure of people's economic well-being."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do Jones and Klenow think of the comparison between France and the U.S. in terms of real consumption per person?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It reflected the existing big gap between the two economies."
+                },
+                {
+                  "label": "B",
+                  "text": "It neglected many important indicators of people's welfare."
+                },
+                {
+                  "label": "C",
+                  "text": "It covered up the differences between individual citizens."
+                },
+                {
+                  "label": "D",
+                  "text": "It failed to count in their difference in natural resources."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is an advantage of the Jones-Klenow method?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can accurately pinpoint a country's current economic problems."
+                },
+                {
+                  "label": "B",
+                  "text": "It can help to raise people's awareness of their economic well-being."
+                },
+                {
+                  "label": "C",
+                  "text": "It can diagnose the causes of a country's slowing pace of economic improvement."
+                },
+                {
+                  "label": "D",
+                  "text": "It can compare a country's economic conditions between different periods of time."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can we infer from the passage about American people's economic well-being?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is much better than that of their European counterparts."
+                },
+                {
+                  "label": "B",
+                  "text": "It has been on the decline ever since the turn of the century."
+                },
+                {
+                  "label": "C",
+                  "text": "It has not improved as much as reported by the Census Bureau."
+                },
+                {
+                  "label": "D",
+                  "text": "It has not been accurately assessed and reported since mid-2000s."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "If you've ever started a sentence with, \"If I were you...\" or found yourself scratching your head at a colleague's agony over a decision when the answer is crystal-clear, there's a scientific reason behind it. Our own decision-making abilities can become depleted over the course of the day causing indecision or poor choices, but choosing on behalf of someone else is an enjoyable task that doesn't suffer the same pitfalls.\n\nThe problem is “decision fatigue,” a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading psychologist.\n\nPhysicians who have been on the job for several hours, for example, are more likely to prescribe antibiotics to patients when it's unwise to do so. “Presumably it's because it's simple and easy to write a prescription and consider a patient case closed rather than investigate further,” Polman says.\n\nBut decision fatigue goes away when you are making the decision for someone else. When people imagine themselves as advisers and imagine their own choices as belonging to someone else, they feel less tired and rely less on decision shortcuts to make those choices. \"By taking upon the role of adviser rather than decision maker, one does not suffer the consequences of decision fatigue,\" he says. \"It's as if there's something fun and liberating about making someone else's choice.\"\n\nGetting input from others not only offers a fresh perspective and thought process, it often also includes riskier choices. While this sounds undesirable, it can be quite good, says Polman. “When people experience decision fatigue—when they are tired of making choices—they have a tendency to choose to go with the status quo (现状),” he says. “But the status quo can be problematic, since a change in the course of action can sometimes be important and lead to a positive outcome.”\n\nIn order to achieve a successful outcome or reward, some level of risk is almost always essential. \"People who are susceptible to decision fatigue will likely choose to do nothing over something,\" he says. \"That's not to say that risk is always good, but it is related to taking action, whereas decision fatigue assuredly leads to inaction and the possible chagrin (懊恼) of a decision maker who might otherwise prefer a new course but is unfortunately hindered.\"\n\nJust because you can make good choices for others doesn't mean you'll do the same for yourself, Polman cautions. \"Research has found that women negotiate higher salaries for others than they do for themselves,\" he says, adding that people slip in and out of decision roles.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about people making decisions?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may become exhausted by making too many decisions for themselves."
+                },
+                {
+                  "label": "B",
+                  "text": "They are more cautious in making decisions for others than for themselves."
+                },
+                {
+                  "label": "C",
+                  "text": "They tend to make decisions the way they think advantageous to them."
+                },
+                {
+                  "label": "D",
+                  "text": "They show considerable differences in their decision-making abilities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the example about the physicians illustrate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Patients seldom receive due care towards the end of the day."
+                },
+                {
+                  "label": "B",
+                  "text": "Prescription of antibiotics can be harmful to patients' health."
+                },
+                {
+                  "label": "C",
+                  "text": "Decision fatigue may prevent people making wise decisions."
+                },
+                {
+                  "label": "D",
+                  "text": "Medical doctors are especially susceptible to decision fatigue."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "When do people feel less decision fatigue?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When they take decision shortcuts."
+                },
+                {
+                  "label": "B",
+                  "text": "When they help others to make decisions."
+                },
+                {
+                  "label": "C",
+                  "text": "When they have major decisions to make."
+                },
+                {
+                  "label": "D",
+                  "text": "When they have advisers to turn to."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What are people likely to do when decision fatigue sets in?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They turn to physicians for advice."
+                },
+                {
+                  "label": "B",
+                  "text": "They tend to make risky decisions."
+                },
+                {
+                  "label": "C",
+                  "text": "They adopt a totally new perspective."
+                },
+                {
+                  "label": "D",
+                  "text": "They refrain from trying anything new."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the passage say about taking some risk in decision making?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is vital for one to reach the goal desired."
+                },
+                {
+                  "label": "B",
+                  "text": "It is likely to entail serious consequences."
+                },
+                {
+                  "label": "C",
+                  "text": "It will enable people to be more creative."
+                },
+                {
+                  "label": "D",
+                  "text": "It will more often than not end in regret."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "自行车曾经是中国城乡最主要的交通工具,中国一度被称为“自行车王国”。如今,随着城市交通拥堵和空气污染日益严重,骑自行车又开始流行起来。近来,中国企业家将移动互联网技术与传统自行车结合在一起,发明了一种称为共享单车(shared bikes)的商业模式。共享单车的出现使骑车出行更加方便,人们仅需一部手机就可以随时使用共享单车。为了鼓励人们骑车出行,很多城市修建了自行车道。现在,越来越多的中国人也喜欢通过骑车健身。"
+      }
+    ]
+  },
+  "id": "CET6-2018-06-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "K",
+        "explanation": "详解:空格所在句是现在完成时，空格位于助动词 has 之后，宾语 experts 之前，因此应填及物动词的过去分词形式。此处意为“数百年来，这座金字塔的实际尺寸一直 学者们”。上文提到，这座金字塔是世界七大奇迹中最古老的，据此推断学者们以前不清楚这座金字塔的实际尺寸，故此处应填入含有“困扰，不清楚”等意思的词，故答案为 K) puzzled 使迷惑，使困惑。"
+      },
+      "27": {
+        "answer": "M",
+        "explanation": "详解:分析句子结构可知，空格位于 as 引导的原因状语从句中，作谓语，在系动词 were 之后，由此判断应填入动词的过去分词形式，构成被动语态，备选动词中符合要求的有 established 和 removed。又因为从句的主语是 stones “石头”，而石头不能 be established“被建立”，故答案为 M）removed 移走，去除。此处意为“‘超过 21 英亩的坚硬白色围石’原本覆盖在这座金字塔上，但很久以前被移走了”。"
+      },
+      "28": {
+        "answer": "A",
+        "explanation": "详解:空格位于 which 引导的定语从句中，作谓语，宾语是 the work，因此应填入及物动词，本句意为“AERAGRAM是一份用来 古埃及研究协会所做工作的简报，在其最新一期的报道中，工程师……。”根据句意推断，简报应该是“记录工作”，故答案为 A)chronicles 记录，将……载入编年史中。"
+      },
+      "29": {
+        "answer": "L",
+        "explanation": "详解:空格位于起修饰作用的现在分词 surviving 之后，介词 of 之前，因此应填入名词。此处意为“寻找任何幸存下来的外壳 \\_”。根据上文可知，原本覆盖在金字塔上的白色围石很久以前就被移走了，因此幸存下来的外壳应该是残余物，故答案为 L）remnants 残余部分，残余物。"
+      },
+      "30": {
+        "answer": "F",
+        "explanation": "详解:空格位于不定冠词 a 之后，介词 of 之前，因此应填入可数名词的单数形式。本句意为“他们发现金字塔东侧的长度 比西侧的长度短 5.5 英寸。”根据上文可知，金字塔并不完全对称，但实际相差也不是很多，因此推断此处表示最多相差 5.5 英寸，故答案为 F)maximum 最大值，最大量。a maximum of 为固定搭配，表示“最多，最大”。"
+      },
+      "31": {
+        "answer": "D",
+        "explanation": "31.答案:D) fascinates 深深吸引，迷住"
+      },
+      "32": {
+        "answer": "I",
+        "explanation": "32.答案:I）perfect 完美的"
+      },
+      "33": {
+        "answer": "J",
+        "explanation": "东侧的长度最多比西侧的长度短 5.5 英寸可知，此处在再次强调金字塔的“精准性”，故答案为 J) precision 精确性，精度。"
+      },
+      "34": {
+        "answer": "E",
+        "explanation": "详解:空格位于形容词性物主代词 his 之后，从句谓语动词 is 之前，故应填入单数名词。上文提到，达什说人们只能猜测埃及人是如何做到精准铺线的，由 speculate“猜测，推测”可知，此处提到的埃及人把设计图画在坐标网格上也是推测，是达什的假设，故答案为 E)hypothesis 假设。"
+      },
+      "35": {
+        "answer": "O",
+        "explanation": "详解:空格位于谓语动词 is oriented 之后，应填入副词。此处意为“大金字塔仅 偏离主方向”。由下文列举出的具体数据可知，大金字塔的南北轴线与正南北轴线之间的差异很小，大金字塔的东西轴线与正东西轴线之间的差异也很小，故答案为 O）slightly 略微，稍微。"
+      },
+      "46": {
+        "answer": "C",
+        "explanation": "详解:推理判断题。从定位句可以看出，作者提到西班牙内战是为了说明埃布罗河三角洲的知名度，而从后面内容可知，目前发生的另一场战争也具有重大影响。由此推断，作者提及西班牙内战的目的在于影射埃布罗河三角洲的农民正经历一场同等重要的战争，故答案为 C。"
+      },
+      "47": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。原文第一段第一句指出，稻农面临两大敌人的挑战:巨头苹果蜗牛和上升的海平面，随后第二段解释了这两大“敌人”对稻米的影响，第二第二段最后一句明确指出，对付这两大敌人的最好方法就是利用一个敌人去对付另一个，故答案为 D。"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "## 48. 答案:C"
+      },
+      "49": {
+        "answer": "B",
+        "explanation": "## 49. 答案:B"
+      },
+      "50": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。定位句指出，这项研究的目的就是开发可以耐受盐分的稻米品种，随后的两句再次强调科学家的研究目的是培育出既能够耐受盐分，又能够保留 97%欧洲稻米基因组的品种，故答案为 A。"
+      },
+      "51": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章开篇即指出，摄影曾经是一件昂贵且耗时费力的事情，仅用于生命记录生命中的重大事件。题干中的 photo-taking 和 in the past 分别对应定位句中的 photography 和 once，而 A 项中的 painstaking 和recording life’s major events 分别对应定位句中的 laborious ordeal 和 reserved for life’s greatest milestones，故答案为 A。"
+      },
+      "52": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。定位句指出，迪尔和她的同事想知道这样是不是真的不好，于是进行了一系列实验，由定位句可知，that 指代的是第二段最后一句“...you shouldn’t take all these photos and interrupt the experience, and it’s bad for you, and we’re not living in the present moment...”,即“拍照会干扰你的个人体验，这对你不好，因为你没有活在当下”，故答案为 D。"
+      },
+      "53": {
+        "answer": "C",
+        "explanation": "## 53. 答案:C"
+      },
+      "54": {
+        "answer": "B",
+        "explanation": "## 54. 答案:B"
+      },
+      "55": {
+        "answer": "D",
+        "explanation": "详解:推理判断题。最后一段用设问句引出迪尔对拍照的看法，即“仅仅是有拍照的这个打算一样能产生增加愉悦感的效果”以及“哪怕只是想一想你打算拍什么照片也能让你更加投入其中”。D 中的 the very thought of taking a photo 对应定位段中的 the act of planning to take a photo 和 Thinking about what you would want to photograph；have a positive effect 对应原文中的 had the same joy-boosting effect 和 also gets you more engaged，故答案为 D。"
+      }
+    },
+    "references": {}
+  }
+}

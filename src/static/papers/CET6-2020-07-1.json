@@ -1,0 +1,1334 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 7,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the saying “ The best preparation for tomorrow is doing your best today. ” You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the saying “ The best preparation for tomorrow is doing your best today. ” You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the saying “ The best preparation for tomorrow is doing your best today. ” You should write at least 150 words but no more than 200 words.",
+        "materials": "请用黑色签字笔在答题卡 1 指定区域内作答作文题,在试题册上的作答无效!\n\n请认真填写以下信息:\n\n姓 名:\n\n错填、未填以上信息,按违规处理!",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is a great athlete."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is a famous scientist."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is a famed speaker."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is a noted inventor."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How knowledge of human biochemistry has been evolving."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How nutrition helps athletes􀆳 performance in competitions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How scientific training enables athletes to set new records."
+                  },
+                  {
+                    "label": "D",
+                    "text": "How technology has helped athletes to scale new heights."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Our physical structures."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Our biochemical process."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Our scientific knowledge."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Our concept of nutrition."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may increase the expenses of sports competitions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may lead to athletes􀆳 over reliance on equipment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may give an unfair advantage to some athletes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may change the nature of sports competitions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Experience."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Family background."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Flexibility."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Business connections."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Buying directly from factories."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Shipping goods in bulk by sea."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Having partners in many parts of the world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Using the same container back and forth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Warehouses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Investors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Factories."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Retailers.\n\n6· 1"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Trendy style."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Lower import duties."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Unique design."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Lower shipping costs."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A) , B) , C) and D) . Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It helps employees to reduce their stress."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It prevents employees from feeling bored."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It strengthens harmony among employees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It helps employees to view things positively."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Weekends are conducive to reducing stress."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Humor is vital to interpersonal relationships."
+                  },
+                  {
+                    "label": "C",
+                    "text": "All workers experience some emotional stress."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Humor can help workers excel at routine tasks."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Smash the toys to release their bottled-up resentments."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take the boss doll apart as long as they reassemble it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Design and install stress-reducing gadgets."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Strike at the boss doll as hard as they like."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The recent finding of a changed gene in obese mice."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A breakthrough in understanding gene modification."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A newly discovered way for people to lose weight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The self-repairing ability of a gene in obese mice."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It renders an organism unable to fight diseases."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It prevents the mice􀆳s fatty tissues from growing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It helps organisms adapt to environmental changes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It renders mice unable to sense when to stop eating.\n\n6· 2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Human beings have more obesity genes than most mice do."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Half of a person􀆳s total weight variation can be controlled."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People are born with a tendency to have a certain weight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The function of the obesity genes is yet to be explored."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The worsening of natural environment."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The abundant provision of rich foods."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The accelerated pace of present-day life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The adverse impact of the food industry."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A) , B) , C) and D) . Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Similarity in interests."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Openness."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Mental stimulation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Compassion."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The willingness to offer timely help."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Personal bonds."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The joy found in each other􀆳s company."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Emotional factors."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Failure to keep a promise."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Feelings of betrayal."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Lack of frankness."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Loss of contact."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Along the low-lying Colorado River."
+                  },
+                  {
+                    "label": "B",
+                    "text": "At the Dinosaur National Monument."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Along the border of the U.S. and Canada."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At museums of natural history in large cities."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Volcanic explosions could bring whole animal species to extinction."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some natural disaster killed a whole herd of dinosaurs in the area."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The pit should be carefully preserved for the study of dinosaurs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The whole region must have been struck by a devastating flood.\n\n6· 3"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They floated down an eastward flowing river."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They lay buried deep in the sand for millions of years."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were skeletons of dinosaurs inhabiting the locality."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were remains of dinosaurs killed in a volcanic explosion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Indulging in seeking leisure and material comfort."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Attaching too much importance to independence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Failing to care for parents in the traditional way."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Leaving their parents on the verge of starvation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have great difficulty living by themselves."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have little hope of getting any family care."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have fond memories of their good old days."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have a sense of independence and autonomy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People in many parts of the world preferred small-sized families."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There have been extended families in most parts of the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Many elderly people were unwilling to take care of their grandchildren."
+                  },
+                  {
+                    "label": "D",
+                    "text": "So many young Americans refused to live together with their parents."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Leave their younger generations alone."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Avoid being a burden to their children."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Stay healthy by engaging in joyful activities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "View things from their children’s perspective."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The United Nations issued a report last week warning that humans are destroying nature at such a rate that life on Earth is at risk. When the report came out, it naturally 26 headlines. But obviously it didn􀆳t hijack the news agenda in the manner of a major terrorist attack or 27 of war.\n\n6· 4\n\nThe report from the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) is clear on what􀆳s at 28 and what needs to change. IPBES chair Robert Watson says the “ 29 evidence” presents an “ominous (凶兆的) picture”. “The health of ecosystems on which we and all other species depend is 30 more rapidly than ever,” Robert Watson said. “We are 31 the very foundations of our economies, livelihoods, food security, health and quality of life worldwide.” The report says it􀆳s not too late if we make “transformative change”—fundamental, system-wide reorganization—at every level from local to global,and we need to focus on how to make that happen.\n\nFirst, don􀆳t indulge in despair, because despair leads to inertia and doing nothing means certain 32 . Every action to save nature will improve our collective and personal futures and the only way to respond to a threat of this scale is with 33 action rooted in headstrong optimism. Second, we need relentless focus, just like when paramedics (救护人员) arrive on a scene and use the concept of “triage (伤员鉴别分类)” to ensure the most 34 cases get treated first. Saving the natural world needs that kind of thinking. We don􀆳t have the 35 to do everything at once. We need to make hard choices.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "capacity"
+        },
+        {
+          "label": "I",
+          "text": "junction"
+        },
+        {
+          "label": "B",
+          "text": "declaration"
+        },
+        {
+          "label": "J",
+          "text": "monotonous"
+        },
+        {
+          "label": "C",
+          "text": "deteriorating"
+        },
+        {
+          "label": "K",
+          "text": "overwhelming"
+        },
+        {
+          "label": "D",
+          "text": "determined"
+        },
+        {
+          "label": "L",
+          "text": "stagnation"
+        },
+        {
+          "label": "E",
+          "text": "disaster"
+        },
+        {
+          "label": "M",
+          "text": "stake"
+        },
+        {
+          "label": "F",
+          "text": "eroding"
+        },
+        {
+          "label": "N",
+          "text": "stifled"
+        },
+        {
+          "label": "G",
+          "text": "grabbed"
+        },
+        {
+          "label": "O",
+          "text": "urgent"
+        },
+        {
+          "label": "H",
+          "text": "inventory"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 172,
+          "end": 174
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 278,
+          "end": 280
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 427,
+          "end": 429
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 493,
+          "end": 495
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 613,
+          "end": 615
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 669,
+          "end": 671
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1071,
+          "end": 1073
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1215,
+          "end": 1217
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1401,
+          "end": 1403
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1501,
+          "end": 1503
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Children Understand Far More About Other Minds Than Long Believed",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Until a few decades ago, scholars believed that young children know very little, if anything, about what others are thinking. Swiss psychologist Jean Piaget, who is credited with founding the scientific study of children􀆳s thinking, was convinced that preschool children cannot consider what goes on in the minds of others. The interviews and experiments he conducted with kids in the middle of the 20th century suggested that they were trapped in their subjective viewpoints,\n\n6· 5\n\nincapable of imagining what others think, feel or believe."
+        },
+        {
+          "label": "B",
+          "text": "Much of the subsequent research on early childhood thinking was highly influenced by Piaget􀆳s ideas. Scholars sought to refine his theory and empirically confirm his views. But it became increasingly clear that Piaget seemed to have gravely underestimated the intellectual powers of very young kids before they can make themselves understood by speech. Researchers began to devise ever more ingenious ways of figuring out what goes on in the minds of babies, and the resulting picture of their abilities shows subtle variations. Consequently, the old view of children􀆳s egocentric (自我中心的) nature and intellectual weaknesses has increasingly fallen out of favor and become replaced by a more generous position that sees a budding sense not only of the physical world but also of other minds, even in the “youngest young.”"
+        },
+        {
+          "label": "C",
+          "text": "Historically, children didn􀆳t receive much respect for their mental powers. Piaget not only believed that children were “ egocentric” in the sense that they were unable to differentiate between their own viewpoint and that of others; he was also convinced that their thinking was characterized by systematic errors and confusions. When playing with others, they don􀆳t cooperate because they do not realize there are different roles and perspectives. He was convinced that children literally cannot “get their act together”: instead of playing cooperatively and truly together, they play side by side, with little regard for others. And when speaking with others, a young child supposedly cannot consider the listener􀆳s viewpoint but “ talks to himself without listening to others.”"
+        },
+        {
+          "label": "D",
+          "text": "Piaget and his followers maintained that children go through something like a dark age of intellectual development before slowly and gradually becoming enlightened by reason and rationality as they reach school age. Alongside this enlightenment develops an ever growing understanding of other persons, including their attitudes and views of the world."
+        },
+        {
+          "label": "E",
+          "text": "Today, a very different picture of children􀆳s mental development emerges. Psychologists continually reveal new insights into the depth of young children􀆳s knowledge of the world, including their understanding of other minds. Recent studies suggest that even infants are sensitive to others􀆳 perspectives and beliefs."
+        },
+        {
+          "label": "F",
+          "text": "Part of the motivation to revise some of Piaget􀆳s conclusions stemmed from an ideological shift about the origin of human knowledge that occurred in the second half of the 20th century. It became increasingly unpopular to assume that a basic understanding of the world can be built entirely from experience. This was in part prompted by theorist Noam Chomsky, who argued that something as complex as the rules of grammar cannot be picked up from exposure to speech, but is supplied by an inborn “language faculty.” Others followed suit and defined further “core areas” in which knowledge allegedly cannot be pieced together from experience but must be possessed at birth. One such area is our knowledge of others􀆳 minds. Some even argue that a basic knowledge of others􀆳 minds is not only possessed by human infants, but must be evolutionarily old and hence\n\n6· 6\n\nshared by our nearest living relatives, the great apes."
+        },
+        {
+          "label": "G",
+          "text": "To prove that infants know more in this realm than had been acknowledged, researchers needed to come up with innovative ways of showing it. A big part of why we now recognize so much more of kids􀆳 intellectual capacities is the development of much more sensitive research tools than Piaget had at his disposal."
+        },
+        {
+          "label": "H",
+          "text": "Instead of engaging babies in dialog or having them execute complex motor tasks, the newer methods capitalize on behaviors that have a firm place in infants􀆳 natural behavior repertoire: looking, listening, sucking, making facial expressions, gestures and simple manual actions. The idea of focusing on these “small behaviors” is that they give kids the chance to demonstrate their knowledge implicitly and spontaneously without having to respond to questions or instructions. For example, children might look longer at an event that they did not expect to happen, or they might show facial expressions indicating that they have sympathetic concern for others. When researchers measure these less demanding, and often involuntary, behaviors, they can detect a sensitivity to others􀆳 mental states at a much younger age than with the more taxing methods that Piaget and his followers deployed."
+        },
+        {
+          "label": "I",
+          "text": "In the 1980s, these kinds of implicit measures became customary in developmental psychology. But it took a while longer before these tools were employed to measure children􀆳s grasp of the mental lives of others."
+        },
+        {
+          "label": "J",
+          "text": "In a set of experiments, my colleagues at the University of Southern California and I found evidence that babies can even anticipate how others will feel when their expectations are disappointed. We acted out several puppet (木偶) shows in front of two-year-old children. In these puppet shows, a protagonist (Cookie Monster) left his precious belongings (cookies) on stage and later returned to fetch them. What the protagonist did not know was that an antagonist had come and messed with his possessions. The children had witnessed these acts and attentively watched the protagonist return. We recorded children􀆳s facial and bodily expressions. Children bit their lips, wrinkled their nose or wiggled (扭动) in their chair when the protagonist came back, as if they anticipated the bewilderment and disappointment he was about to experience. Importantly, children showed no such reactions and remained calm when the protagonist had seen the events himself and thus knew what to expect. Our study reveals that by the tender age of two, kids not only track what others believe or expect; they can even foresee how others will feel when they discover reality."
+        },
+        {
+          "label": "K",
+          "text": "Studies like this reveal that there is much more going on in small kids􀆳 and even infants􀆳 minds than was previously believed. With the explicit measures used by Piaget and successors, these deeper layers of kids􀆳 understanding cannot be accessed. The new investigative tools demonstrate that kids know more than they can say: when we scratch beneath the surface, we find an emerging\n\n6· 7\n\nunderstanding of relations and perspectives that Piaget probably did not dream of."
+        },
+        {
+          "label": "L",
+          "text": "Despite these obvious advances in the study of young children􀆳s thinking, it would be a grave mistake to dismiss the careful and systematic analyses compiled by Piaget and others before the new tests dominated the scene because the original methods revealed essential facts about how children think that the new methods cannot uncover."
+        },
+        {
+          "label": "M",
+          "text": "There􀆳s no consensus in today􀆳s science community about how much we can infer from a look, a facial expression or a hand gesture. These behaviors clearly indicate a curiosity about what goes on in the mind of others, and probably a set of early intuitions coupled with a willingness to learn more. They pave the way to richer and more explicit forms of understanding of the minds of others. But they can in no way replace the child􀆳s growing ability to articulate and refine her understanding of how people behave and why."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Piaget believed that small children could not collaborate with others while playing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The author and his colleagues􀆳 study shows two-year-olds may be able to predict other people􀆳s feelings."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "In the latter half of the last century, fewer and fewer people believed the basis for our understanding of the world is wholly empirical."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Research conducted by Jean Piaget in the last century suggested babies were insensitive to others􀆳 thinking."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Our improved understanding of babies􀆳 intellectual power is attributable to better research tools."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It has been found in recent research that even small babies are sensitive to other people􀆳s points of view."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Scientists are still debating what inference can be drawn from certain physical expressions of a child."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The newer research methods focus on infants􀆳 simple behaviors instead of requiring them to answer questions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "With the progress in psychology, the traditional view of children􀆳s self-centered nature and limited thinking abilities has become less and less influential."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Even though marked advances have been made, it is wrong to dismiss Piaget􀆳s fundamental contributions to the study of kids􀆳 cognitive abilities.\n\n6· 8"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A) , B) , C) and D) . You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "People often discuss the dangers of too much stress, but lately a very different view of stress is gaining popularity: this view of stress, held by members of the positive stress movement, argues that stress might actually be beneficial. The positive stress movement is made up of people such as Zachary Rapp who are looking for an edge in a competitive world, and Rapp􀆳s routine is a good example of followers of the movement. He wakes up most mornings at dawn, goes for a run, sips black coffee while ripping through emails, and then steps into a freezing cold shower. This is a routine designed to reduce the stress of running simultaneously three different health and biotechnology companies for 18 hours a day.\n\nAlthough Rapp􀆳s practices may sound extreme, he is part of a growing movement, consisting largely of tech industry workers who claim that such radical tactics will help them live better and longer. Inspired by influential figures in different fields, including entertainers, athletes, entrepreneurs and scientists, positive stress practitioners seek out some combination of extreme temperatures, restrictive diets, punishing exercise routines and general discomfort.\n\nRapp argues that positive stress keeps him balanced. In addition to running and freezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices such as eliminating dairy, sugar, alcohol and various other foods high in carbohydrates. He believes that these practices, which put stress on his body, actually make him feel less stress from work. However, Rapp does not credit anyone in particular for his choices: he said he started using these methods in college, where he got into the habit of taking ice baths to recover from sports. He got back into it while trying to get his three companies off the ground.\n\nRapp works long hours and sleeps only five to seven hours a night but he said he only gets sick once a year. For him, the difference between day-to-day stress, like the kind we feel when moving apartments, and positive stress is that the latter involves pushing the body to extremes and forcing it to build up a tolerance.\n\nOne thought leader in the positive stress world is Dutch extreme athlete Wim Hof, who earned the name “ ice man” for his ability to withstand severe cold using deep breathing exercises. Hof􀆳s ideas have become popular among tech industry elites and, thanks to Hof, cold showers are now a trend; indeed, some even call it a form of therapy.\n\nBut it is important to note that not everyone agrees with these practitioners; indeed, some\n\n6· 9\n\nmedical professionals argue that positive stress is not for everyone, and that it might even be dangerous for people who are unhealthy or older.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn about followers of the positive stress movement?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are usually quite sensitive to different types of stress."
+                },
+                {
+                  "label": "B",
+                  "text": "They hold a different view on stress from the popular one."
+                },
+                {
+                  "label": "C",
+                  "text": "They derive much pleasure from living a very hectic life."
+                },
+                {
+                  "label": "D",
+                  "text": "They gain a competitive edge by enjoying good health."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do followers of the positive stress movement usually do to put their ideas into practice?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They keep changing their living habits."
+                },
+                {
+                  "label": "B",
+                  "text": "They network with influential figures."
+                },
+                {
+                  "label": "C",
+                  "text": "They seek jobs in tech industries."
+                },
+                {
+                  "label": "D",
+                  "text": "They apply extreme tactics."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does Zachary Rapp say about his unconventional practices?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They help him combat stress from work."
+                },
+                {
+                  "label": "B",
+                  "text": "They enable him to cut down living expenses."
+                },
+                {
+                  "label": "C",
+                  "text": "They enable him to recover from injuries and illnesses."
+                },
+                {
+                  "label": "D",
+                  "text": "They help him get three companies enlisted all at once."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What can be inferred from the passage about day-to-day stress?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is harmful to one􀆳s physical and mental health."
+                },
+                {
+                  "label": "B",
+                  "text": "It does not differ in essence from positive stress."
+                },
+                {
+                  "label": "C",
+                  "text": "It is something everybody has to live with."
+                },
+                {
+                  "label": "D",
+                  "text": "It does not help build up one􀆳s tolerance."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do some medical professionals think of positive stress?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its true effect remains to be verified."
+                },
+                {
+                  "label": "B",
+                  "text": "Its side effect should not be ignored."
+                },
+                {
+                  "label": "C",
+                  "text": "Its effect varies considerably from person to person."
+                },
+                {
+                  "label": "D",
+                  "text": "Its practitioners should not take it as a form of therapy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Is hunting good or bad for the environment? Like so many hot button issues, the answer to this question depends upon who you ask. On the one hand, some say, nothing could be more natural than\n\n6·10\n\nhunting, and indeed just about every animal species—including humans—has been either predator or prey at some point in its evolution. And, ironic as it sounds, since humans have wiped out many animal predators, some see hunting as a natural way to reduce the herds of prey animals that now reproduce beyond the environment􀆳s carrying capacity.\n\nOn the other hand, many environmental and animal advocates see hunting as savage, arguing that it is morally wrong to kill animals, regardless of practical considerations. According to Glenn Kirk of the California-based The Animals􀆳 Voice, hunting “causes immense suffering to individual wild animals...” and is “ irrationally cruel because unlike natural predation ( 捕食 ), hunters kill for pleasure...” He adds that, despite hunters􀆳 claims that hunting keeps wildlife populations in balance, hunters􀆳 license fees are used to “manipulate a few game species into overpopulation at the expense of a much larger number of non-game species, resulting in the loss of biological diversity, genetic integrity and ecological balance.”\n\nBeyond moral issues, others contend that hunting is not practical. According to the Humane Society of the United States, the vast majority of hunted species—such as waterfowl, rabbits, upland birds and mourning doves—“provide minimal nutrition and do not require population control.”\n\nAuthor Gary E. Varner suggests in his book, In Nature􀆳s Interests, that some types of hunting may be morally justifiable while others may not be. Hunting “designed to secure the aggregate welfare of the target species, the integrity of its ecosystem, or both ” —what Varner terms “ therapeutic hunting”—is defensible, while subsistence and sport hunting—both of which only benefit human beings—is not.\n\nRegardless of one􀆳s individual stance, fewer Americans hunt today than in recent history. Data gathered by the U.S. Fish & Wildlife Service in 2006 show that only five percent of Americans— some 12.5 million individuals—consider themselves hunters today, down from nine percent in 2001 and 15 percent in 1996.\n\nPublic support for hunting, however, is on the rise. A 2007 survey by Responsive Management Inc. found that eighty percent of respondents agreed that “ hunting has a legitimate place in modern society,” and the percentage of Americans indicating disapproval of hunting declined from 22 percent in 1995 to 16 percent in 2007.\n\nPerhaps matching the trend among the public, green leaders are increasingly advocating cooperation between hunters and environmental groups: After all, both deplore urban sprawl and habitat destruction.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say sounds ironic?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Some predators may often turn out to be prey of other predators."
+                },
+                {
+                  "label": "B",
+                  "text": "Hunting may also be a solution to the problem caused by hunting."
+                },
+                {
+                  "label": "C",
+                  "text": "The species of prey animals continue to vary despite humans􀆳 hunting."
+                },
+                {
+                  "label": "D",
+                  "text": "The number of prey animals keeps rising despite environmental change.\n\n6·11"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does Glenn Kirk think of charging hunters license fees?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It keeps game population under control."
+                },
+                {
+                  "label": "B",
+                  "text": "It turns hunting into a sport of the rich."
+                },
+                {
+                  "label": "C",
+                  "text": "It leads to ecological imbalance."
+                },
+                {
+                  "label": "D",
+                  "text": "It helps stop killing for pleasure."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What is the argument of the Humane Society of the United States against hunting?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Overpopulation is not an issue for most hunted animals."
+                },
+                {
+                  "label": "B",
+                  "text": "Hunting deprives animal populations of their food sources."
+                },
+                {
+                  "label": "C",
+                  "text": "Many birds and small animals are being irrationally killed."
+                },
+                {
+                  "label": "D",
+                  "text": "Hunting is universally acknowledged as a savage behavior."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "When is hunting morally justifiable according to Gary E. Varner?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When it benefits animals and their ecosystem."
+                },
+                {
+                  "label": "B",
+                  "text": "When it serves both human and animal interests."
+                },
+                {
+                  "label": "C",
+                  "text": "When it is indispensable to humans􀆳 subsistence."
+                },
+                {
+                  "label": "D",
+                  "text": "When it stabilizes the population of animal species."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What concept are green leaders trying to promote?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Effective protection of animal habitats."
+                },
+                {
+                  "label": "B",
+                  "text": "Strict control over urban development."
+                },
+                {
+                  "label": "C",
+                  "text": "Coordinated efforts of hunters and environmentalists."
+                },
+                {
+                  "label": "D",
+                  "text": "A compromise between development and animal protection."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "《三国演义》(The Romance of the Three Kingdoms)是中国一部著名的历史小说,写于十四世纪。 这部文学作品以三国时期的历史为背景,描写了从公元二世纪下半叶到公元三世纪下半叶的魏、蜀、吴三国之间的战争。 小说中刻画了近千个人物和无数的历史事件。 这些人物和事件虽然大都基于真实的历史,但都不同程度地被浪漫化和戏剧化了。 《三国演义》是一部公认的文学杰作。 自面世以来,这部小说不断吸引着一代又一代的读者,并且对中国文化产生了广泛而持久的影响。\n\n6·12\n\n未得到监考教师指令前,不得翻阅该试题册!"
+      }
+    ]
+  },
+  "id": "CET6-2020-07-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "46": {
+        "answer": "B",
+        "explanation": "【锁定答案】B。文首句 借由转折词 but 就常规看法（oft en）与新近非常规看法（lat ely a very different i ew）作出详细对比∶普通大众通常认为，压力过大危害重重 vs 积极压力运动者们则认为，压力实 际可能有益。由此可知B正确，They hold a different vi ew on st ress from...改写 a very different vi ew of st ress..held y...，the popular one 对应 People oft en...。"
+      },
+      "47": {
+        "answer": "D",
+        "explanation": "【锁定答案】D。第二段①句首先指出.以拉普为代表的积极压力运动参与者采取的是极端做法、激进策略;②句随后阐释，实践者们寻求极端温度、限制性饮食、魔鬼式锻炼等的混合体验。可见，该运动的实践者/追随者将 想 法付诸 实 践的具 体做法是使用极 端的策略，D 正确，ext reme t act i cs 是对段中 pract i ces... xtreme、radical tactics、some combination of extreme temperatures,restrictive dicts, punishing exercise out i nes and gener al di scomfort 所展示语义场的高度凝练。"
+      },
+      "48": {
+        "answer": "A",
+        "explanation": "【锁定答案】A。第三段②句提到拉普的非常规做法，③句进而给出拉普的观点\"这些做法实际上可以让感受到的工作压力更少\"，即\"有助于他应对工作压力\"，故 A 正确。"
+      },
+      "49": {
+        "answer": "D",
+        "explanation": "【锁定答案】 D。第四段②句指出日常压力与积极压力的区 别;后者（即积极压力）能通过把身体推向极限的方式来提高身体忍耐力。换言之，日常压力无助于增强人体忍耐力，故 D 正确，同时排除 B。"
+      },
+      "50": {
+        "answer": "C",
+        "explanation": "【精准定位】 本题考查医学专家对积极压力的看法。由题干关键词 some medical pr olfessionals 定位至末段。【锁定答案】 C。末段引出医学专家的看法∶积极压力并不适合所有人，它可能会给本身健康欠佳的人群或老年人群带来健康风险，可知积极压力的效果因人而异（对某些人有好处，对另一些人有风险）.C 正确。"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "【锁定答案】 B。第一段④句引出作者感到奇怪的现象∶一方面狩猎令捕食者数量减少，（由此）被捕食者数量激增、超出环境承载 力，但另一方面狩猎又可帮助减少这些数量过 多的动物，即狩猎可解决其本 身带来的问题，B 正确提炼这一奇怪现象。a sol ut i on t o 对应文中 a nat ur al way t o，t he pr obl em 概括文中\"被捕食者超过环境承载力（pr ey animals...r epr oduce beyond the envir onment's car rying capacity）\"这一问题。"
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "【锁定答案】C。该句指出 Gl enn Ki r k 称，向狩猎者收取的执照费造成狩猎物种（game speci es）过度繁殖，伤害了大量非狩猎物种（non-game spccics），最终导致了生物多样性、基因完整性及生态平衡三方面的破坏。cological imbalance 同义替换原文 the loss of...ecological balance，体现收取执照费的糟糕后果之一，故正确。"
+      },
+      "53": {
+        "answer": "A",
+        "explanation": "【锁定答案】A。该段①句介绍部分人对狩猎的反对观点\"不实用（not pract i cal）\".②句引出代表性组织人道主义协会\"两大反对理由;绝大多数被捕猎的物种提供的营养极少，且不需要种群控制（即狩猎既，无，益干人体健康，也无助于生态平衡，不具实用价值）.A 契合第二个反对理由.故正确。"
+      },
+      "55": {
+        "answer": "C",
+        "explanation": "【锁定答案】 C。该段指出绿色领袖适应公众支持狩猎的倾向，立足狩猎者和环保组织的共同态度\"反对城市的无计划扩张和对栖息地的破坏\"，积极倡导双方开展合作，C 正确。"
+      }
+    },
+    "references": {}
+  }
+}

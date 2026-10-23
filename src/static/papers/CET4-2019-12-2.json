@@ -1,0 +1,1296 @@
+{
+  "schema_version": "1.0",
+  "year": 2019,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write a letter to a foreign friend who wants to learn Chinese. Please recommend a place to him. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "letter",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write a letter to a foreign friend who wants to learn Chinese. Please recommend a place to him. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write a letter to a foreign friend who wants to learn Chinese. Please recommend a place to him. You should write at least 120 words but no more than 180 words.",
+        "materials": "(1) $\\because {AD} = {BD} = 3\\sqrt{2} + 5\\sqrt{2} = {AB} = {AC} = 4\\sqrt{2}$",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The number of nurses has dropped to a record low."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There is a growing shortage of medical personnel."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There is discrimination against male nurses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The number of male nurses has gone down."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cultural bias."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Educational system."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Inadequate pay."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Working conditions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He fell out of a lifeboat."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was almost drowned."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He lost his way on a beach."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He enjoyed swimming in the sea."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The beach is a popular tourist resort."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The emergency services are efficient."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The beach is a good place to watch the tide."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The lifeboats patrol the area round the clock."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It became an online star."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It escaped from a local zoo."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It broke into an office room."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It climbed 25 storeys at one go."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Send it back to the zoo."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Return it to its owner."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Release it into the wild."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give it a physical checkup."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A raccoon can perform acts no human can."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A raccoon can climb much higher than a cat."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The raccoon became as famous as some politicians."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The raccoon did something no politician could."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She got a well-paying job in a bank."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She received her first monthly salary."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She received a bonus unexpectedly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She got a pay raise for her performance."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Several years ago."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Right after graduation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Two decades ago."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Just last month."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He sent a small check to his parents."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He immediately deposited it in a bank."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He took a few of his friends to a gym."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He treated his parents to a nice meal."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Buy some professional clothes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Join her colleagues for gym exercise."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Budget her salary carefully."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Visit her former university campus."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has a difficult decision to make."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has just quarreled with his girlfriend."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has been overworked recently."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has just too many things to attend to."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Give priority to things more urgent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Think twice before making the decision."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Turn to his girlfriend for assistance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Seek advice from his family and advisor."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His parents and advisor have different opinions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is not particularly keen on the job offered."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He lacks the money for his doctoral program."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His girlfriend does not support his decision."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They need time to make preparations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They haven't started their careers yet."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They need to save enough money for it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They haven't won their parents' approval."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Acquiring information and professional knowledge."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Using information to understand and solve problems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Enriching social and intellectual lives."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Expressing ideas and opinions freely."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Improving mind-reading strategies."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Playing games that challenge one's mind."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Reading classic scientific literature."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Traveling to different places in the world."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Give others freedom to express themselves."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Discard personal biases and prejudices."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Expose themselves to different cultures."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Participate in debates or discussions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The nature of relationships between dogs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The reason a great many people love dogs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Why dogs can be faithful friends of humans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "How dogs feel about their bonds with humans."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have an unusual sense of responsibility."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can respond to humans' questions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can fall in love just like humans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They behave like other animals in many ways."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have their own joys and sorrows."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They help humans in various ways."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They experience true romantic love."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They stay with one partner for life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A cow bone."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A rare animal."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A historical site."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A precious stone."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Measuring it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Preserving it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Dating it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Identifying it."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The site should have been protected."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The boy should have called an expert."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The boy's family had acted correctly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The channel needs to interview the boy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Search for similar fossils elsewhere."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Conduct a more detailed search."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ask the university to reward Jude."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Seek additional funds for the search."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Finally, some good news about airplane travel. If you are on a plane with a sick passenger, you are unlikely to get sick. That is the 26 of a new study that looked at how respiratory (呼吸道) viruses 27 on airplanes. Researchers found that only people who were seated in the same row as a passenger with the flu, for example—or one row in front of or behind that individual—had a high risk of catching the illness. All other passengers had only a very 28 chance of getting sick, according to the findings. Media reports have not necessarily presented 29 information about the risk of getting infected on an airplane in the past. Therefore, these new findings should help airplane passengers to feel less 30 to catching respiratory infections while traveling by air.\n\nPrior to the new study, little was known about the risks of getting _31_ infected by common respiratory viruses, such as the flu or common cold, on an airplane, the researchers said. So, to _32_ the risks of infection, the study team flew on 10 different _33_ in the U.S. during the flu season. The researchers found that passengers sitting within two seats on _34_ side of a person infected with the flu, as well as those sitting one row in front of or behind this individual, had about an 80 percent chance of getting sick. But other passengers were _35_ safe from infection. They had a\n\nless than 3 percent chance of catching the flu.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "accurate"
+        },
+        {
+          "label": "I",
+          "text": "nearby"
+        },
+        {
+          "label": "B",
+          "text": "conclusion"
+        },
+        {
+          "label": "J",
+          "text": "respond"
+        },
+        {
+          "label": "C",
+          "text": "directly"
+        },
+        {
+          "label": "K",
+          "text": "slim"
+        },
+        {
+          "label": "D",
+          "text": "either"
+        },
+        {
+          "label": "L",
+          "text": "spread"
+        },
+        {
+          "label": "E",
+          "text": "evaluate"
+        },
+        {
+          "label": "M",
+          "text": "summit"
+        },
+        {
+          "label": "F",
+          "text": "explorations :"
+        },
+        {
+          "label": "N",
+          "text": "vividly"
+        },
+        {
+          "label": "G",
+          "text": "flights"
+        },
+        {
+          "label": "O",
+          "text": "vulnerable"
+        },
+        {
+          "label": "H",
+          "text": "largely"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 134,
+          "end": 136
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 197,
+          "end": 199
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 449,
+          "end": 451
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 548,
+          "end": 550
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 701,
+          "end": 703
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 832,
+          "end": 836
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 954,
+          "end": 958
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1019,
+          "end": 1023
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1125,
+          "end": 1129
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1316,
+          "end": 1320
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Is Breakfast Really the Most Important Meal of the Day?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Along with old classics like “carrots give you night vision” and “Santa doesn’t bring toys to misbehaving children”, one of the most well-worn phrases of tired parents everywhere is that breakfast is the most important meal of the day. Many of us grow up believing that skipping breakfast is a serious mistake, even if only two thirds of adults in the UK eat breakfast regularly, according to the British Dietetic Association, and around three-quarters of Americans."
+        },
+        {
+          "label": "B",
+          "text": "“The body uses a lot of energy stores for growth and repair through the night,” explains diet specialist Sarah Elder. “Eating a balanced breakfast helps to up our energy, as well as make up for protein and calcium used throughout the night.” But there’s widespread disagreement over whether breakfast should keep its top spot in the hierarchy (等级) of meals. There have been concerns around the sugar content of cereal and the food industry’s involvement in pro-breakfast research—and even one claim from an academic that breakfast is “dangerous”."
+        },
+        {
+          "label": "C",
+          "text": "What's the reality? Is breakfast a necessary start to the day or a marketing tactic by cereal companies? The most researched aspect of breakfast (and breakfast-skipping) has been its links to obesity. Scientists have different theories as to why there's a relationship between the two. In one US study that analysed the health data of 50,000 people over seven years, researchers found that those who made breakfast the largest meal of the day were more likely to have a lower body mass index (BMI) than those who ate a large lunch or dinner. The researchers argued that breakfast helps reduce daily calorie intake and improve the quality of our diet—since breakfast foods are often higher in fibre and nutrients."
+        },
+        {
+          "label": "D",
+          "text": "But as with any study of this kind, it was unclear if that was the cause—or if breakfast-skippers were just more likely to be overweight to begin with. To find out, researchers designed a study in which 52 obese women took part in a 12-week weight loss programme. All had the same number of calories over the day, but half had breakfast, while the other half did not. What they found was that it wasn't breakfast itself that caused the participants to lose weight: it was changing their normal routine."
+        },
+        {
+          "label": "E",
+          "text": "If breakfast alone isn't a guarantee of weight loss, why is there a link between obesity and breakfast-skipping? Alexandra Johnstone, professor of appetite research at the University of Aberdeen, argues that it may simply be because breakfast-skippers have been found to be less knowledgeable about nutrition and health. “There are a lot of studies on the relationship between breakfast eating and possible health outcomes, but this may be because those who eat breakfast choose to habitually have health-enhancing behaviours such as regular exercise and not smoking,” she says."
+        },
+        {
+          "label": "F",
+          "text": "A 2016 review of 10 studies looking into the relationship between breakfast and weight management concluded there is “limited evidence” supporting or refuting (反驳) the argument that breakfast influences weight or food intake, and more evidence is required before breakfast recommendations can be used to help prevent obesity."
+        },
+        {
+          "label": "G",
+          "text": "Researches from the University of Surrey and University of Aberdeen are halfway through research looking into the mechanisms behind how the time we eat influences body weight. Early findings suggest that a bigger breakfast is beneficial to weight control. Breakfast has been found to affect more than just weight. Skipping breakfast has been associated with a 27% increased risk of heart disease, a 21% higher risk of type 2 diabetes in men, and a 20% higher risk of type 2 diabetes in women. One reason may be breakfast's nutritional value—partly because cereal is fortified (增加营养价值) with vitamins. In one study on the breakfast habits of 1,600 young people in the UK, researchers found that the fibre and micronutrient intake was better in those who had breakfast regularly. There have been similar findings in Australia, Brazil, Canada and the US."
+        },
+        {
+          "label": "H",
+          "text": "Breakfast is also associated with improved brain function, including concentration and language use. A review of 54 studies found that eating breakfast can improve memory, though the effects on other brain functions were inconclusive. However, one of the review's researchers, Mary Beth Spitznagel, says there is “reasonable” evidence breakfast does improve concentration—there just needs to be more research. “Looking at studies that tested concentration, the number of studies showing a benefit was exactly the same as the number that found no benefit,” she says. “And no studies found that eating breakfast was bad for concentration.”"
+        },
+        {
+          "label": "I",
+          "text": "What's most important, some argue, is what we eat for breakfast. High-protein breakfasts have been found particularly effective in reducing the longing for food and consumption later in the day, according to research by the Australian Commonwealth Scientific and Industrial Research Organisation. While cereal remains a firm favourite among breakfast consumers in the UK and US, a recent investigation into the sugar content of ‘adult’ breakfast cereals found that some cereals contain more than three-quarters of the recommended daily amount of free sugars in each portion, and sugar was the second or third highest ingredient in cereals."
+        },
+        {
+          "label": "J",
+          "text": "But some research suggests if we're going to eat sugary foods, it's best to do it early. One study recruited 200 obese adults to take part in a 16-week-long diet, where half added dessert to their breakfast, and half didn't. Those who added dessert lost an average of 40 pounds more—however, the study was unable to show the long-term effects. A review of 54 studies found that there is no consensus yet on what type of breakfast is healthier, and concluded that the type of breakfast doesn't matter as much as simply eating something."
+        },
+        {
+          "label": "K",
+          "text": "While there's no conclusive evidence on exactly what we should be eating and when, the consensus is that we should listen to our own bodies and eat when we're hungry. \"Breakfast is most important for people who are hungry when they wake up,\" Johnstone says. \"Each body starts the day differently—and those individual differences need to be researched more closely,\" Spitznagel says.\n\n\"A balanced breakfast is really helpful, but getting regular meals throughout the day is more important to leave blood sugar stable through the day, which helps control weight and hunger levels,\" says Elder. \"Breakfast isn't the only meal we should be getting right.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "According to one professor, obesity is related to a lack of basic awareness of nutrition and health."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Some scientists claim that people should consume the right kind of food at breakfast."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Opinions differ as to whether breakfast is the most important meal of the day."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "It has been found that not eating breakfast is related to the incidence of certain diseases in some countries."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Researchers found it was a change in eating habits rather than breakfast itself that induced weight loss."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "To keep oneself healthy, eating breakfast is more important than choosing what to eat."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "It is widely considered wrong not to eat breakfast."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "More research is needed to prove that breakfast is related to weight loss or food intake."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "People who prioritise breakfasts tend to have lower calorie but higher nutritional intake."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Many studies reveal that eating breakfast helps people memorise and concentrate."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Textbooks represent an 11 billion dollar industry, up from \\$8 billion in 2014. Textbook publisher Pearson is the largest publisher—of any kind—in the world.\n\nIt costs about \\$1 million to create a new textbook. A freshman textbook will have dozens of contributors, from subject-matter experts through graphic and layout artists to expert reviewers and classroom testers. Textbook publishers connect professors, instructors and students in ways that alternatives, such as open e-textbooks and open educational resources, simply do not. This connection happens not only by means of collaborative development, review and testing, but also at conferences where faculty regularly decide on their textbooks and curricula for the coming year.\n\nIt is true that textbook publishers have recently reported losses, largely due to students renting or buying used print textbooks. But this can be chalked up to the excessively high cost of their books—which has increased over 1,000 percent since 1977. A restructuring of the textbook industry may well be in order. But this does not mean the end of the textbook itself.\n\nWhile they may not be as dynamic as an iPad, textbooks are not passive or lifeless. For example, over the centuries, they have simulated (模拟) dialogues in a number of ways. From 1800 to the present day, textbooks have done this by posing questions for students to answer inductively (归纳性地). That means students are asked to use their individual experience to come up with answers to general questions. Today's psychology texts, for example, ask: \"How much of your personality do you think you inherited?\" while ones in physics say: \"How can you predict where the ball you tossed will land?\"\n\nExperts observe that “textbooks come in layers, something like an onion.” For an active learner,\n\nengaging with a textbook can be an interactive experience. Readers proceed at their own pace. They \"customize\" their books by engaging with different layers and linkages. Highlighting, Post-It notes, dog-ears and other techniques allow for further customization that students value in print books over digital forms of books.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the passage say about open educational resources?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They contribute to teaching as much as to learning."
+                },
+                {
+                  "label": "B",
+                  "text": "They don't profit as much as traditional textbooks do."
+                },
+                {
+                  "label": "C",
+                  "text": "They can't connect professors and students as textbooks do."
+                },
+                {
+                  "label": "D",
+                  "text": "They compete fiercely for customers with textbook producers."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What is the main cause of the publishers' losses?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Failure to meet student need."
+                },
+                {
+                  "label": "C",
+                  "text": "Emergence of e-books."
+                },
+                {
+                  "label": "B",
+                  "text": "Industry restructuring."
+                },
+                {
+                  "label": "D",
+                  "text": "Falling sales."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the textbook industry need to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Reform its structures."
+                },
+                {
+                  "label": "B",
+                  "text": "Cut its retail prices."
+                },
+                {
+                  "label": "C",
+                  "text": "Find replacements for printed textbooks."
+                },
+                {
+                  "label": "D",
+                  "text": "Change its business strategy periodically."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What are students expected to do in the learning process?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Think carefully before answering each question."
+                },
+                {
+                  "label": "B",
+                  "text": "Ask questions based on their own understanding."
+                },
+                {
+                  "label": "C",
+                  "text": "Answer questions using their personal experience."
+                },
+                {
+                  "label": "D",
+                  "text": "Give answers showing their respective personality."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do experts say about students using textbooks?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can digitalize the prints easily."
+                },
+                {
+                  "label": "B",
+                  "text": "They can learn in an interactive way."
+                },
+                {
+                  "label": "C",
+                  "text": "They can purchase customized versions."
+                },
+                {
+                  "label": "D",
+                  "text": "They can adapt the material themselves."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "When we think of animals and plants, we have a pretty good way of dividing them into two distinct groups: one converts sunlight into energy and the other has to eat food to make its energy.\n\nWell, those dividing lines come crashing down with the discovery of a sea slug (海蛞蝓) that's truly half animal and half plant. It's pretty incredible how it has managed to hijack the genes of the algae (藻类) on which it feeds.\n\nThe slugs can manufacture chlorophyll, the green pigment (色素) in plants that captures energy from sunlight, and hold these genes within their body. The term kleptoplasty is used to describe the practice of using hijacked genes to create nutrients from sunlight. And so far, this green sea slug is the only known animal that can be truly considered solar-powered, although some animals do exhibit some plant-like behaviors. Many scientists have studied the green sea slugs to confirm that they are actually able to create energy from sunlight.\n\nIn fact, the slugs use the genetic material so well that they pass it on to their future generations. Their babies retain the ability to produce their own chlorophyll, though they can't generate energy from sunlight until they've eaten enough algae to steal the necessary genes, which they can't yet produce on their own.\n\n\"There's no way on earth that genes from an alga should work inside an animal cell,\" says Sidney Pierce from the University of South Florida. \"And yet here, they do. They allow the animal to rely on sunshine for its nutrition. So if something happens to their food source, they have a way of not starving\n\nto death until they find more algae to eat.\"\n\nThe sea slugs are so good at gathering energy from the sun that they can live up to nine months without having to eat any food. They get all their nutritional needs met by the genes that they've hijacked from the algae.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the distinctive feature of a sea slug?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It looks like both a plant and an animal."
+                },
+                {
+                  "label": "B",
+                  "text": "It converts some sea animals into plants."
+                },
+                {
+                  "label": "C",
+                  "text": "It lives half on animals and half on plants."
+                },
+                {
+                  "label": "D",
+                  "text": "It gets energy from both food and sunlight."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What enables the sea slug to live like a plant?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The genes it captures from the sea plant algae."
+                },
+                {
+                  "label": "B",
+                  "text": "The mechanism by which it conserves energy."
+                },
+                {
+                  "label": "C",
+                  "text": "The nutrients it hijacks from other species."
+                },
+                {
+                  "label": "D",
+                  "text": "The green pigment it inherits from its ancestors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author say about baby sea slugs?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can live without sunlight for a long time."
+                },
+                {
+                  "label": "B",
+                  "text": "They can absorb sunlight right after their birth."
+                },
+                {
+                  "label": "C",
+                  "text": "They can survive without algae for quite some time."
+                },
+                {
+                  "label": "D",
+                  "text": "They can produce chlorophyll on their own."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does Sidney Pierce say about genes from an alga?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are stolen from animals like the sea slug."
+                },
+                {
+                  "label": "B",
+                  "text": "They can't function unless exposed to sunlight."
+                },
+                {
+                  "label": "C",
+                  "text": "They don't usually function inside animal cells."
+                },
+                {
+                  "label": "D",
+                  "text": "They can readily be converted to sea slug genes."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What do we learn about sea slugs from the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They behave the way most plant species do."
+                },
+                {
+                  "label": "B",
+                  "text": "They can survive for months without eating."
+                },
+                {
+                  "label": "C",
+                  "text": "They will turn into plants when they mature."
+                },
+                {
+                  "label": "D",
+                  "text": "They will starve to death without sunlight."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "中国的家庭观念与其文化传统有关。和睦的大家庭曾非常令人羡慕。过去四代同堂并不少见。由于这个传统，许多年轻人婚后继续与父母同住。今天，这个传统正在改变。随着住房条件的改善，越来越多年轻夫妇选择与父母分开住。但他们之间的联系仍然很密切。许多老年人仍然帮着照看孙辈。年轻夫妇也抽时间探望父母，特别是在春节和中秋节等重要节日。"
+      }
+    ]
+  },
+  "id": "CET4-2019-12-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

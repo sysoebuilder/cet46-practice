@@ -1,0 +1,1299 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Education. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "unknown",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Education. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Education. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Many people have been attacked by Devil Firefish."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The Mediterranean is a natural habitat of Devil Firefish."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Invasive species are driving away certain native species."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A deadly fish has been spotted in the Mediterranean waters."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It could badly pollute the surrounding waters."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It could pose a threat to other marine species."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It could disrupt the food chains there."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It could add to greenhouse emissions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cars will not be allowed to enter the city."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Pedestrians will have free access to the city."
+                  },
+                  {
+                    "label": "C",
+                    "text": "About half of its city center will be closed to cars."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Buses will be the only vehicles allowed on its streets."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The unbearable traffic noise."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The worsening global warming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The ever-growing cost of petrol."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The rising air pollution in Paris."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His house was burnt down in a fire."
+                  },
+                  {
+                    "label": "C",
+                    "text": "His good luck charm sank into the sea."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Many of his possessions were stolen."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His fishing boat got wrecked on a rock."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Change his fishing locations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sell the pearl he had kept for years."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Find a job in a travel agency."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Spend a few nights on a small island."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His pearl could be displayed in a museum."
+                  },
+                  {
+                    "label": "B",
+                    "text": "His monstrous pearl was extremely valuable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The largest pearl in the world weighs 14 pounds."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A New York museum has the world's biggest pearl.\n\n四级 2020 年 12 月 1"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It boasts a fairly long history."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has 75 offices around the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has over 50 business partners."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It produces construction materials."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was started by his father."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is over 100 years old."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has about 50 employees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a family business."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Outdated product design."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Shortage of raw material supply."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Loss of competitive edge."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Legal disputes in many countries."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Introducing innovative marketing strategies."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Seeking new ways to increase its exports."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Providing training for its staff members."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Conducting a financial analysis for it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is a real expert at house decorations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is really impressed by the man's house."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is well informed about the design business."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is attracted by the color of the sitting room."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "From a construction businessman."
+                  },
+                  {
+                    "label": "C",
+                    "text": "From home design magazines."
+                  },
+                  {
+                    "label": "B",
+                    "text": "From his younger brother Greg."
+                  },
+                  {
+                    "label": "D",
+                    "text": "From a professional interior designer."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The cost was affordable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The style was fashionable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The effort was worthwhile."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The effect was unexpected."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She'd like him to talk with Jonathan about a new project."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She'd like to show him around her newly-renovated house."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She wants to discuss the house decoration budget with him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She wants him to share his renovation experience with her."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Paying hospital bills for emergency cases."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Doing research on ear, nose and throat diseases."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Removing objects from patients' noses and ears."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Providing routine care for small children."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Children aged one to four are often more curious than older children."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Five- to nine-year-olds are the most likely to put things in their ears."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Many children like to put foreign objects in their mouths."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many children like to smell things they find or play with.\n\n四级2020年12月.2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They want to attract attention."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are unaware of the potential risks."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to act out of impulse."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are curious about these body parts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It gave her a used bicycle."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It delivered her daily necessities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It paid for her English lessons."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It provided her with physical therapy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Expanding bike-riding lessons."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Offering walking tours to visitors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Providing free public transport."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Asking local people for donations."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is a sports club."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a counseling center."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a language school."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a charity organization."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How animals deal with lack of gravity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How mice interact in a new environment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How low gravity affects the human body."
+                  },
+                  {
+                    "label": "D",
+                    "text": "How mice imitate human behavior in space."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They found the space in the cage too small to stay in."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They found it difficult to figure out where they were."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were not used to the low-gravity environment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were not sensitive to the changed environment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They continued to behave as they did in the beginning."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They already felt at home in the new environment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They had found a lot more activities to engage in."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They tried everything possible to escape from the cage."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They changed their routines in space."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They behaved as if they were on Earth."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They began to eat less after some time."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They repeated their activities every day."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Trust is fundamental to life. If you can't trust anything, life becomes intolerable. You can't have relationships without trust, let alone good ones.\n\nIn the workplace, too, trust is _26_. An organization without trust will be full of fear and _27_. If you work for a boss who doesn't trust their employees to do things right, you'll have a _28_ time. They'll be checking up on you all the time, correcting \"mistakes\" and _29_ reminding you to do this or that. Colleagues who don't trust one another will need to spend more time _30_ their backs than doing any useful work.\n\nOrganizations are always trying to cut costs. Think of all the additional tasks caused by lack of trust. Audit（审计）departments only exist because of it. Companies keep large volumes of _31_ because they don't trust their suppliers, their contractors or their customers. Probably more than half of all\n\n四级2020年12月3\n\nadministrative work is only there because of an ever-existing sense that \"you can't trust anyone these days.\" If even a small part of such valueless work could be _32_, the savings would run into millions of dollars.\n\nAll this is extra work we _33_ onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them _34_ —or at all. If we took all that away, how much extra time would we suddenly find in our life? How much of our work _35_ would disappear?",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "constantly"
+        },
+        {
+          "label": "F",
+          "text": "load"
+        },
+        {
+          "label": "K",
+          "text": "removed"
+        },
+        {
+          "label": "B",
+          "text": "credible"
+        },
+        {
+          "label": "G",
+          "text": "miserable"
+        },
+        {
+          "label": "L",
+          "text": "stacks"
+        },
+        {
+          "label": "C",
+          "text": "essential"
+        },
+        {
+          "label": "H",
+          "text": "pressure"
+        },
+        {
+          "label": "M",
+          "text": "suspicion"
+        },
+        {
+          "label": "D",
+          "text": "exploring"
+        },
+        {
+          "label": "I",
+          "text": "properly"
+        },
+        {
+          "label": "N",
+          "text": "tracked"
+        },
+        {
+          "label": "E",
+          "text": "gather"
+        },
+        {
+          "label": "J",
+          "text": "records"
+        },
+        {
+          "label": "O",
+          "text": "watching"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 183,
+          "end": 187
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 244,
+          "end": 248
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 341,
+          "end": 345
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 422,
+          "end": 426
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 529,
+          "end": 533
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 759,
+          "end": 763
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1052,
+          "end": 1056
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1133,
+          "end": 1137
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1284,
+          "end": 1288
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1404,
+          "end": 1408
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2,",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Place Where the Poor Once Thrived",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "This is the land of opportunity. If that weren't already implied by the landscape—rolling green hills, palm trees, sun-kissed flowers—then it's evident in the many stories of people who grew up poor in these sleepy neighborhoods and rose to enormous success. People like Tri Tran, who fled Vietnam on a boat in 1986, showed up in San Jose with nothing, made it to MIT, and then founded the food-delivery start-up Munchery, which is valued at \\$300 million."
+        },
+        {
+          "label": "B",
+          "text": "Indeed, data suggests that this is one of the best places to grow up poor in America. A child born in the early 1980s into a low-income family in San Jose had a 12.9 percent chance of becoming a high earner as an adult, according to a landmark study released in 2014 by the economist Raj Chetty and his colleagues from Harvard and Berkeley. That number—12.9 percent—may not seem remarkable, but it was: Kids in San Jose whose families fell in the bottom quintile (五分位数) of income nationally had the best shot in the country at reaching the top quintile."
+        },
+        {
+          "label": "C",
+          "text": "By contrast, just 4.4 percent of poor kids in Charlotte moved up to the top; in Detroit the figure was 5.5 percent. San Jose had social mobility comparable to Denmark's and Canada's and higher than other progressive cities such as Boston and Minneapolis."
+        },
+        {
+          "label": "D",
+          "text": "The reasons kids in San Jose performed so well might seem obvious. Some of the world's most innovative companies are located here, providing opportunities such as the one seized by a 12-year-old Mountain View resident named Steve Jobs when he called William Hewlett to ask for spare parts and subsequently received a summer job. This is a city of immigrants—38 percent of the city's population today is foreign-born—and immigrants and their children have historically experienced significant upward mobility in America. The city has long had a large foreign-born population (26.5 percent in 1990), leading to broader diversity, which, the Harvard and Berkeley economists say, is a good predictor of mobility.\n\n四级2020年12月4"
+        },
+        {
+          "label": "E",
+          "text": "Indeed, the streets of San Jose seem, in some ways, to embody the best of America. It's possible to drive in a matter of minutes from sleek (光亮的) office towers near the airport where people pitch ideas to investors, to single-family homes with orange trees in their yards, or to a Vietnamese mall. The libraries here offer programs in 17 languages, and there are areas filled with small businesses owned by Vietnamese immigrants, Mexican immigrants, Korean immigrants, and Filipino immigrants, to name a few."
+        },
+        {
+          "label": "F",
+          "text": "But researchers aren't sure exactly why poor kids in San Jose did so well. The city has a low prevalence of children growing up in single-parent families, and a low level of concentrated poverty, both factors that usually mean a city allows for good intergenerational mobility. But San Jose also performs poorly on some of the measures correlated with good mobility. It is one of the most unequal places out of the 741 that the researchers measured, and it has high degrees of racial and economic segregation (隔离). Its schools underperform based on how much money there is in the area, said Ben Scuderi, a predoctoral fellow at the Equality of Opportunity Project at Harvard, which uses big data to study how to improve economic opportunities for low-income children. \"There's a lot going on here which we don't totally understand,\" he said. \"It's interesting, because it kind of defies our expectations.\""
+        },
+        {
+          "label": "G",
+          "text": "The Chetty data shows that neighborhoods and places mattered for children born in the San Jose area of the 1980s. Whether the city still allows for upward mobility of poor kids today, though, is up for debate. Some of the indicators such as income inequality, measured by the Equality of Opportunity Project for the year 2000, have only worsened in the past 16 years."
+        },
+        {
+          "label": "H",
+          "text": "Some San Jose residents say that as inequality has grown in recent years, upward mobility has become much more difficult to achieve. As Silicon Valley has become home to more successful companies, the flood of people to the area has caused housing prices to skyrocket. By most measures, San Jose is no longer a place where low-income, or even middle-income families, can afford to live. Rents in San Jose grew 42.6 percent between 2006 and 2014, which was the largest increase in the country during that time period. The city has a growing homelessness problem, which it tried to address by shutting down \"The Jungle,\" one of the largest homeless encampments (临时住地) in the nation, in 2014. Inequality is extreme. The Human Development Index—a measure of life expectancy, education and per capita (人均的) income—gives East San Jose a score of 4.85 out of 10, while nearby Cupertino, where Apple's headquarters sits, receives a 9.26. San Jose used to have a happy mix of factors—cheap housing, closeness to a rapidly developing industry, tightly-knit immigrant communities—that together opened up the possibility of prosperity for even its poorest residents. But in recent years, housing prices have skyrocketed, the region's rich and poor have segregated, and middle-class jobs have disappeared. Given this, the future for the region's poor doesn't look nearly as bright as it once did."
+        },
+        {
+          "label": "I",
+          "text": "Leaders in San Jose are determined to make sure that the city regains its status as a place where even poor kids can access the resources to succeed. With Silicon Valley in its backyard, it certainly has the chance to do so. “I think there is a broad consciousness in the Valley that we can do better than to leave thousands of our neighbors behind through a period of extraordinary success,” San Jose Mayor Sam Liccardo said."
+        },
+        {
+          "label": "J",
+          "text": "But in today's America—a land of rising inequality, increasing segregation, and stagnating (不增长的) middle-class wages—can the San Jose region really once again become a place of opportunity?\n\n四级2020年12月5"
+        },
+        {
+          "label": "K",
+          "text": "The idea that those at the bottom can rise to the top is central to America's ideas about itself. That such mobility has become more difficult in San Jose raises questions about the endurance of that foundational belief. After all, if the one-time land of opportunity can't be fixed, what does that say for the rest of America?"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "According to some people living in San Jose, it has become much harder for the poor to get ahead due to the increased inequality."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "In American history, immigrants used to have a good chance to move upward in society."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "If the problems of San Jose can't be solved, one of America's fundamental beliefs about itself can be shaken."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "San Jose was among the best cities in America for poor kids to move up the social ladder."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Whether poor kids in San Jose today still have the chance to move upward is questionable."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "San Jose's officials are resolved to give poor kids access to the resources necessary for success in life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "San Jose appears to manifest some of the best features of America."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "As far as social mobility is concerned, San Jose beat many other progressive cities in America."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Due to some changes like increases in housing prices in San Jose, the prospects for its poor people have dimmed."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Researchers do not have a clear idea why poor children in San Jose achieved such great success several decades ago."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Three children in every classroom have a diagnosable mental health condition. Half of these are behavioural disorders, while one third are emotional disorders such as stress, anxiety and depression, which often become outwardly apparent through self-harm. There was an astonishing 52 per cent jump in hospital admissions for children and young people who had harmed themselves between 2009 and 2015.\n\nSchools and teachers have consistently reported the scale of the problem since 2009. Last year, over half of teachers reported that more of their pupils experience mental health problems than in the past. But teachers also consistently report how ill-equipped they feel to meet pupils' mental health needs, and often cite a lack of training, expertise and support from the National Health Service (英国国家医疗服务体系).\n\nPart of the reason for the increased pressure on schools is that there are now fewer ‘early intervention (干预)’ and low-level mental health services based in the community. Cuts to local authority budgets since 2010 have resulted in a significant decline of these services, despite strong evidence of their effectiveness in preventing crises further down the line.\n\nThe only way to break the pressures on both mental health services and schools is to reinvest in early intervention services inside schools.\n\nThere are strong arguments for why schools are best placed to provide mental health services. Schools see young people more than any other service, which gives them a unique ability to get to hard-to-reach children and young people and build meaningful relationships with them over time. Recent studies have\n\n四级2020年12月\n\n6\n\nshown that children and young people largely prefer to see a counsellor in school rather than in an outside environment. Young people have reported that for low-level conditions such as stress and anxiety, a clinical setting can sometimes be daunting (令人却步的).\n\nThere are already examples of innovative schools which combine mental health and wellbeing provision with a strong academic curriculum. This will, though, require a huge cultural shift. Politicians, policymakers, commissioners and school leaders must be brave enough to make the leap towards reimagining schools as providers of health as well as education services.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What are teachers complaining about?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There are too many students requiring special attention."
+                },
+                {
+                  "label": "B",
+                  "text": "They are under too much stress counselling needy students."
+                },
+                {
+                  "label": "C",
+                  "text": "Schools are inadequately equipped to implement any intervention."
+                },
+                {
+                  "label": "D",
+                  "text": "They lack the necessary resources to address pupils' mental problems."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn from the passage about community health services in Britain?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have deteriorated due to budget cuts."
+                },
+                {
+                  "label": "B",
+                  "text": "They facilitate local residents' everyday lives."
+                },
+                {
+                  "label": "C",
+                  "text": "They prove ineffective in helping mental patients."
+                },
+                {
+                  "label": "D",
+                  "text": "They cover preventative care for the local residents."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Where does the author suggest mental health services be placed?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "At home."
+                },
+                {
+                  "label": "B",
+                  "text": "At school."
+                },
+                {
+                  "label": "C",
+                  "text": "In hospitals."
+                },
+                {
+                  "label": "D",
+                  "text": "In communities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do we learn from the recent studies?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Students prefer to rely on peers to relieve stress and anxiety."
+                },
+                {
+                  "label": "B",
+                  "text": "Young people are keen on building meaningful relationships."
+                },
+                {
+                  "label": "C",
+                  "text": "Students are more comfortable seeking counselling in school."
+                },
+                {
+                  "label": "D",
+                  "text": "Young people benefit from various kinds of outdoor activities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author mean by a cultural shift (Line 2, Para. 6)?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Simplification of schools' academic curriculums."
+                },
+                {
+                  "label": "B",
+                  "text": "Parents' involvement in schools' policy-making."
+                },
+                {
+                  "label": "C",
+                  "text": "A change in teachers' attitudes to mental health."
+                },
+                {
+                  "label": "D",
+                  "text": "A change in the conception of what schools are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Picture this: You're at a movie theater food stand loading up on snacks. You have a choice of a small, medium or large soda. The small is \\$3.50 and the large is \\$5.50. It's a tough decision: The small size may not last you through the whole movie, but \\$5.50 for some sugary drink seems ridiculous. But there's a third option, a medium soda for \\$5.25. Medium may be the perfect amount of soda for you, but the large is only a quarter more. If you're like most people, you end up buying the large (and taking a bathroom break midshow).\n\nIf you're wondering who would buy the medium soda, the answer is almost no one. In fact, there's a good chance the marketing department purposely priced the medium soda as a decoy (诱饵), making you more likely to buy the large soda rather than the small.\n\nI have written about this peculiarity in human nature before with my friend Dan Ariely, who studied this phenomenon extensively after noticing pricing for subscriptions (订阅) to The Economist. The digital\n\n四级2020年12月7\n\nsubscription was \\$59, the print subscription was \\$125, and the print plus digital subscription was also \\$125. No one in their right mind would buy the print subscription when you could get digital as well for the same price, so why was it even an option? Ariely ran an experiment and found that when only the two “real” choices were offered, more people chose the less-expensive digital subscription. But the addition of the bad option made people much more likely to choose the more expensive print plus digital option.\n\nBrain scientists call this effect “asymmetric dominance” and it means that people gravitate toward the choice nearest a clearly inferior option. Marketing professors call it the decoy effect, which is certainly easier to remember. Lucky for consumers, almost no one in the business community understands it.\n\nThe decoy effect works because of the way our brains assign value when making choices. Value is almost never absolute; rather, we decide an object's value relative to our other choices. If more options are introduced, the value equation changes.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "Why does the author ask us to imagine buying food in the movie theater?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To illustrate people's peculiar shopping behavior."
+                },
+                {
+                  "label": "B",
+                  "text": "To illustrate the increasing variety of snacks there."
+                },
+                {
+                  "label": "C",
+                  "text": "To show how hard it can be to choose a drink there."
+                },
+                {
+                  "label": "D",
+                  "text": "To show how popular snacks are among movie fans."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Why is the medium soda priced the way it is?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To attract more customers to buy it."
+                },
+                {
+                  "label": "B",
+                  "text": "To show the price matches the amount."
+                },
+                {
+                  "label": "C",
+                  "text": "To ensure customers drink the right amount of soda."
+                },
+                {
+                  "label": "D",
+                  "text": "To make customers believe they are getting a bargain."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn from Dan Ariely's experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Lower-priced goods attract more customers."
+                },
+                {
+                  "label": "B",
+                  "text": "The Economist's promotional strategy works."
+                },
+                {
+                  "label": "C",
+                  "text": "The Economist's print edition turns out to sell the best."
+                },
+                {
+                  "label": "D",
+                  "text": "More readers choose the digital over the print edition."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "For what purpose is \"the bad option\" (Line 7, Para. 3) added?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To cater to the peculiar needs of some customers."
+                },
+                {
+                  "label": "B",
+                  "text": "To help customers to make more rational choices."
+                },
+                {
+                  "label": "C",
+                  "text": "To trap customers into buying the more pricey item."
+                },
+                {
+                  "label": "D",
+                  "text": "To provide customers with a greater variety of goods."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "How do we assess the value of a commodity, according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "By considering its usefulness."
+                },
+                {
+                  "label": "B",
+                  "text": "By comparing it with other choices."
+                },
+                {
+                  "label": "C",
+                  "text": "By taking its quality into account."
+                },
+                {
+                  "label": "D",
+                  "text": "By examining its value equation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "生活在中国不同地区的人们饮食多种多样。北方人主要吃面食,南方人大多吃米饭。在沿海地区,海鲜和淡水水产品在人们饮食中占有相当大的比例,而在其他地区人们的饮食中,肉类和奶制品更为常见。四川、湖南等省份的居民普遍爱吃辛辣食物,而江苏和浙江人更喜欢甜食。然而,因为烹饪方式各异,同类食物的味道可能会有所不同。\n\n四级2020年12月8"
+      }
+    ]
+  },
+  "id": "CET4-2020-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

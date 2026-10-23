@@ -1,0 +1,1311 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write a short essay on the challenges of studying abroad. You should write at least120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write a short essay on the challenges of studying abroad. You should write at least120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write a short essay on the challenges of studying abroad. You should write at least120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 25,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A man was pulled to safety after a building collapse."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A beam about ten feet long collapsed to the ground."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A rescue worker got trapped in the basement."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A deserted 100-year-old building caught fire."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He suffered a fatal injury in an accident."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He once served in a fire department."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was collecting building materials."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He moved into his neighbor’s old house."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Improve the maths skills of high school teachers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Change British people’s negative view of maths."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help British people understand their paychecks."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Launch a campaign to promote maths teaching."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Children take maths courses at an earlier age."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The public sees the value of maths in their life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "British people know how to do elementary calculations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Primary school teachers understand basic maths concepts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He owns a fleet of aircraft."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is learning to be a pilot."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He regards his royal duties as a burden."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He held a part-time job for over 20 years."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He can demonstrate his superior piloting skills."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He can change his focus of attention and relax."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He can show his difference from other royalty."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He can come into closer contact with his people."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They enjoyed his company."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They liked him in his uniform."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They rarely recognised him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were surprised to see him.\n\n1"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were skilled carpenters themselves."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It didn’t need much capital to start with."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Wood supply was plentiful in Romania."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They saw a business opportunity there."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Provide quality furniture at affordable prices."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Attract foreign investment to expand business."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Enlarge their company by hiring more workers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Open some more branch companies in Germany."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are from her hometown."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are imported from Germany."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They all come from Romania."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They come from all over the conti"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All across Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Throughout the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Mostly in Bucharest."
+                  },
+                  {
+                    "label": "D",
+                    "text": "In Romania only."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Go to a concert with him and his girlfriend."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Try out a new restaurant together in town."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Go with him to choose a pearl for Susan."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Attend the opening of a local restaurant."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is sponsored by local restaurants."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It specializes in food advertizing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is especially popular with the young."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It provides information on local events."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They design a special set of menus for themselves."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They treat themselves to various entertainments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They go to eat at different stylish restaurants."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They participate in a variety of social events."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "More restaurants will join Restaurant Week."
+                  },
+                  {
+                    "label": "B",
+                    "text": "This year’s Restaurant Week will start soon."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Bigger discounts will be offered this Restaurant Week."
+                  },
+                  {
+                    "label": "D",
+                    "text": "More types of food will be served this Restaurant Week."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Rewarding them for eating vegetables."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Exposing them to vegetables repeatedly.\n\n2"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Improving the taste of vegetable dishes for them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Explaining the benefits of eating vegetables to them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were disliked most by children."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were considered most nutritious."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were least used in Belgian cooking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were essential to children’s health."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Vegetables differ in their nutritional value."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Children’s eating habits can be changed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Parents watch closely what children eat."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Children’s choices of food vary greatly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Space exploration has serous consequences."
+                  },
+                  {
+                    "label": "B",
+                    "text": "India has many space exploration programs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There is quite a lot to learn about the moon."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A lot of garbage has been left on the moon."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is costly to bring back."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is risky to destroy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is of no use on Earth."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is damaged by radiation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Record details of space exploration."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Monitor the change of lunar weather."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Study the effect of radiation and vacuum on its materials."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Explore the possibility of human settlement on the moon."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is likely to remain a means of business communication."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is likely to be a competitor of various messaging apps."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It will gradually be replaced by social media."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It will have to be governed by specific rules."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Save the message in their file."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make a timely response."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Examine the information carefully."
+                  },
+                  {
+                    "label": "D",
+                    "text": "See is any action needs to be taken."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is to be passed on."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is mostly junk."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It requires no reply."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It causes no concern."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Make it as short as possible."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Use simple and clear language."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Adopt an informal style of writing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Avoid using capitals for emphasis."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "3\n\nHave you ever used email to apologize to a colleague? Delivered a 26 to a subordinate (下属) with a voice-mail message? Flown by plane across the country just to deliver important news in person? The various communication options at our fingertips today can be good for 27 and productivity—and at the same time very troublesome. With so many ways to communicate, how should a manager choose the one that's best— 28 when the message to be delivered is bad or unwelcome news for the recipient? We've 29 business communication consultants and etiquette (礼仪) experts to come up with the following guidelines for 30 using the alternative ways of delivering difficult messages.\n\nFirst of all, choose how personal you want to be. A face-to-face communication is the most 31 . Other choices, in descending order of personalization, are: a real-time phone call, a voice-mail message, a handwritten note, a typewritten letter, and the most 32 is email. Some of these may change order according to the 33 situation or your own preferences; for example, a handwritten note might seem more personal than voice-mail. How do you decide on the best choice for the difficult message you've got to deliver? “My 34 concern is: How can I soften or civilize this message?” says etiquette expert Dana Casperson. “So when I apologize, I usually choose in-person first, or a phone conversation as my top alternative, and maybe a handwritten note next. Apologizing by email is something I now totally 35 ”",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "avoid"
+        },
+        {
+          "label": "I",
+          "text": "reward"
+        },
+        {
+          "label": "B",
+          "text": "convenience"
+        },
+        {
+          "label": "J",
+          "text": "silent"
+        },
+        {
+          "label": "C",
+          "text": "effectively"
+        },
+        {
+          "label": "D",
+          "text": "escape"
+        },
+        {
+          "label": "K",
+          "text": "specific"
+        },
+        {
+          "label": "E",
+          "text": "intimate"
+        },
+        {
+          "label": "L",
+          "text": "surveyed"
+        },
+        {
+          "label": "F",
+          "text": "particularly"
+        },
+        {
+          "label": "M",
+          "text": "unfriendly"
+        },
+        {
+          "label": "G",
+          "text": "primary"
+        },
+        {
+          "label": "N",
+          "text": "warning"
+        },
+        {
+          "label": "H",
+          "text": "prompt"
+        },
+        {
+          "label": "O",
+          "text": "witnessed"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 69,
+          "end": 71
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 271,
+          "end": 273
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 413,
+          "end": 415
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 499,
+          "end": 501
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 609,
+          "end": 611
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 765,
+          "end": 767
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 931,
+          "end": 933
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 992,
+          "end": 994
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1194,
+          "end": 1196
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1477,
+          "end": 1479
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How a Poor, Abandoned Parisian Boy Became a Top Chef",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "The busy streets in Paris were uneven and caked in thick mud, but there was always a breathtaking sight to see in the shop windows of Patisserie de la Rue de la Paix. By 1814, people crowded outside the bakery, straining for a glimpse of the latest sweet food created by the young chef who worked inside."
+        },
+        {
+          "label": "B",
+          "text": "His name was Marie-Antoine Carême, and he had appeared, one day, almost out of nowhere. But in his short lifetime, which ended exactly 184 years ago today, he would forever revolutionize French gourmet food （美食）, write best-selling cook books and think up magical dishes for royals and other important people."
+        },
+        {
+          "label": "C",
+          "text": "Carême's childhood was one part tragedy, equal part mystery. Born the 16th child to poor parents in Paris in either 1783 or 1784, a young Carême was suddenly abandoned at the height of the French Revolution. At 8 years old, he worked as a kitchen boy for a restaurant in Paris in exchange for room and board. By age 15, he had become an apprentice （学徒）to Sylvain Bailly, a well-known dessert chef with a successful bakery in one of Paris's most fashionable neighborhoods."
+        },
+        {
+          "label": "D",
+          "text": "Carême was quick at learning in the kitchen. Bailly encouraged his young apprentice to learn to read and write. Carême would often spend his free afternoons at the nearby National Library reading books on art and architecture. In the back room of the little bakery, his interest in design and his baking talent combined to work wonders—he shaped delicious masterpieces out of flour, butter and sugar.\n\n4"
+        },
+        {
+          "label": "E",
+          "text": "In his teenage years, Carême fashioned eatable copies of the late 18th century's most famous buildings—cookies in the shape of ruins of ancient Athens and pies in the shape of ancient Chinese palaces and temples. Sylvain Bailly, his master, displayed these luxuriant creations—often as large as 4 feet tall—in his bakery windows."
+        },
+        {
+          "label": "F",
+          "text": "Carême's creations soon captured the discriminating eye of a French diplomat, Charles Maurice de Talleyrand-Périgord. Around 1804, Talleyrand challenged Carême to produce a full menu for his personal castle, instructing the young baker to use local, seasonal fruits and vegetables and to avoid repeating main dishes over the course of an entire year. The experiment was a grand success and Talleyrand's association with French nobility would prove a profitable connection for Carême."
+        },
+        {
+          "label": "G",
+          "text": "French Emperor Napoleon Bonaparte was known to be unimpressed by the declining taste of early 18th century cooking, but under pressure to entertain Paris's high society, he too called Carême to his kitchen at Tuileries Palace. In 1810, Carême designed the extraordinary cake for the wedding of Napoleon and his second bride, Marie-Louise of Austria. He became one of the first modern chefs to focus on the appearance of his table, not just the flavor of his dishes. “I want order and taste. A well-displayed meal is enhanced one hundred percent in my eyes,” he later wrote in one of his cook books."
+        },
+        {
+          "label": "H",
+          "text": "In 1816, Carême began a culinary (烹饪的) journey which would forever mark his place as history's first top chef. He voyaged to England to cook in the modern Great Kitchen of the prince regent (摄政王)， George Ⅳ, and crossed continents to prepare grand banquets for the tables of Tsar Alexander Ⅰ of Russia. Never afraid to talk up his own accomplishments, a boastful Carême made a fortune as wealthy families with social ambitions invited him to their kitchens. Later, in his cook books, he would often include a sketch of himself, so that people on the street would be able to recognize—and admire—him."
+        },
+        {
+          "label": "I",
+          "text": "Carême's cooking displays became the symbol of fine French dining; they were plentiful, beautiful and imposing. Guests would fall silent in wonder as servants carried Carême's fancy creations into the dining hall. For a banquet celebrating the Grand Duke Nicholas of Russia's visit to George Ⅳ's Brighton Pavillion on Jan. 18, 1817, the menu featured 120 different dishes, highlighting eight different soups, 40 main courses, and 32 desserts."
+        },
+        {
+          "label": "J",
+          "text": "As he traveled through the homes of early 19th century nobility, Carême forged the new art of French gourmet food. Locked in hot kitchens, Carême created his four “mother sauces.” These sauces—béchamel, velouté, espagnole and allemande—formed the central building blocks for many French main courses. He also perfected the soufflé—a baked egg dish, and introduced the standard chef's uniform—the same double-breasted white coat and tall white hat still worn by many chefs today. The white clothing conveyed an image of cleanliness, according to Carême—and in his realm, appearance was everything."
+        },
+        {
+          "label": "K",
+          "text": "Between meals, Carême wrote cook books that would be used in European kitchens for the next century. His manuals including The Royal Parisian Baker and the massive five-volume Art of French Cooking Series (1833-1847, completed after his death) first systematized many basic principles of cooking, complete with drawings and step-by-step directions. Long before television cooking shows, Carême walked readers through common kitchen tasks, instructing them to “try this for yourself, at home” as famous American Chef Julia Child might do, many years later."
+        },
+        {
+          "label": "L",
+          "text": "In the end, however， it was the kitchen that did Carême in. Decades of working over coal fires in tight, closed spaces with little fresh air (to ensure his dishes would not get cold) had fatally damaged his lungs. On Jan. 12, 1833, Carême died just before he turned 50."
+        },
+        {
+          "label": "M",
+          "text": "But in his lifetime, Carême, ever confident, could see beyond his short domination in the kitchen. He wanted to “set the standard for beauty in classical and modern cooking, and prove to the distant future that the French chefs of the 19th century were the most famous in the world,” as he wrote in his papers."
+        },
+        {
+          "label": "N",
+          "text": "Decades later, chef Auguste Escoffier would build upon Carême's concept of French cuisine （烹饪）. But in the very beginning, there was just Carême, the top chef who elevated dining into art."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Carême was among the first chefs who stressed both the appearance and flavor of dishes."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Carême wanted to show to later generations that French chefs of his time were most outstanding in the world.\n\n5"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Carême benefited greatly from serving a French diplomat and his connections."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Carême learned his trade from a famous dessert chef in Paris."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Carême's creative works were exhibited in the shop windows by his master."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Carême's knowledge of art and architecture helped him create extraordinary desserts out of ordinary ingredients."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Many people in Paris were eager to have a look at the latest sweet food made by Carême."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Carême became extremely wealthy by cooking for rich and socially ambitious families."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Carême's writings dealt with fundamental cooking principles in a systematic way."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Carême's contribution to French cooking was revolutionary."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 and 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Roughly the size of a soda can, sitting on a bookshelf, a relatively harmless gadget may be turning friends away from your home. The elephant in your living room is your Internet-connected security camera, a device people are increasingly using for peace of mind in their homes. But few stop to think about the effect these devices may have on house guests. Should you tell your friends, for instance, that they're being recorded while you all watch the big game together?\n\n“It's certainly new territory, especially as home security cameras become easier to install,” says Lizzie Post, president of the Emily Post Institute, America's foremost manners advisors. “I think it will be very interesting to see what etiquette（礼仪） emerges in terms of whether you tell people you have a camera or not, and whether guests have a right to ask that it be turned off, if it's not a security issue.”\n\nPost wants to make clear that she's not talking about legal rights, but rather personal preferenc. She also wants to explain that there are no right or wrong answers regarding manners on this front yet, because the technology is just now becoming mainstream. Besides, the Emily Post Institute doesn't dictate manners.\n\nWhen it comes to security cameras, Post says it's a host's responsibility to make sure guests feel comfortable within their home. “I'm always a fan of being open and honest.” For instance, if the host casually acknowledges that there is a camera in the room by telling a story about it, that may be enough to provide an opening for a guest to say if they are uncomfortable.\n\nHowever, if a contractor is working in your home, you don't need to tell them that there are cameras watching. Then again, the air of accountability that the camera generates can also work in contractors' favor. “If anything does go wrong while they're in the house, they don't want to be blamed for it,” she says. “In fact, the camera could be the thing that proves that they didn't steal the \\$20, or knock the vase off the table.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "For what reason may your friends feel reluctant to visit your home?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The security camera installed may intrude into their privacy."
+                },
+                {
+                  "label": "B",
+                  "text": "They don’t want their photos to be circulated on the Internet."
+                },
+                {
+                  "label": "C",
+                  "text": "The security camera may turn out to be harmful to their health."
+                },
+                {
+                  "label": "D",
+                  "text": "They may not be willing to interact with your family members."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does Lizzie Post say is new territory?\n\n6",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The effect of manners advice on the public."
+                },
+                {
+                  "label": "B",
+                  "text": "Cost of applying new technologies at home."
+                },
+                {
+                  "label": "C",
+                  "text": "The increasing use of home security devices."
+                },
+                {
+                  "label": "D",
+                  "text": "Etiquette around home security cameras."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What is Lizzie Post mainly discussing with regard to the use of home security cameras?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Legal rights."
+                },
+                {
+                  "label": "C",
+                  "text": "Likes and dislikes of individuals."
+                },
+                {
+                  "label": "B",
+                  "text": "Moral issues"
+                },
+                {
+                  "label": "D",
+                  "text": "The possible impact on manners."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is a host’s responsibility regarding security cameras, according to Lizzie Post?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Making their guests feel at ease."
+                },
+                {
+                  "label": "B",
+                  "text": "Indicating where they are."
+                },
+                {
+                  "label": "C",
+                  "text": "Turning them off in time."
+                },
+                {
+                  "label": "D",
+                  "text": "Ensuring their guests’ privacy."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "In what way can the home security camera benefit visitors to your home?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can satisfy their curiosity."
+                },
+                {
+                  "label": "B",
+                  "text": "It can prove their innocence."
+                },
+                {
+                  "label": "C",
+                  "text": "It can help them learn new technology."
+                },
+                {
+                  "label": "D",
+                  "text": "It can make their visit more enjoyable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "PepsiCo is to spend billions of dollars to develop drinks and snacks and reformulate existing ones with lower sugar, salt and fat, as consumers demand healthier options and regulatory pressure intensifies amid an obesity epidemic （流行病）.\n\nThe maker of Mountain Dew and Gatorade has been one of the earlier movers in the industry to offer products with reduced levels of unhealthy ingredients—PepsiCo claims a packet of its chips now contains less salt than a slice of white bread. However, its new 10-year plan makes clear it believes it still has a long way to go.\n\nShifting eating habits, including a sharp drop in consumption of sparkling drinks, have forced radical change on the industry. But those shifts have yet to be reflected in record obesity levels, which stand at 36.5% overall in the US.\n\nIndra Nooyi, PepsiCo chairman, said the plan to make its products healthier was important for the company's growth. But on the subject of obesity, she pointed out that consumers’ lifestyles have changed significantly, with many people being more sedentary （久坐不动的） not least because more time is spent in front of computers. She said PepsiCo's contribution was to produce healthier snacks that still tasted good.\n\n“Society has to change its habits,” she added. “We can't do much to alter sedentary lifestyles, but we can provide consumers with great-tasting products, low in salt, sugar and fat. In the past we had to have a taste trade-off. But we're breaking that trade-off.”\n\nPepsiCo's plan for its foods and drinks is based on guidelines from the World Health Organisation, which last week backed using taxes on sparkling drinks to reduce sugar consumption. Initiatives also include efforts to reduce its environmental impact, water consumption and materials used in packaging by 2025.\n\n7\n\nPepsiCo did not say exactly how much it planned to invest to reach its goals. However, Dr Mehmood Khan, chief scientific officer, said the company had doubled research and development spending in the past five years and was “committed to sustaining investment”, adding that companies cannot cost-cut their way to increasing sales. PepsiCo's research and development budget in 2015 was \\$754 million.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "Why is PepsiCo making a policy change?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To win support from the federal government."
+                },
+                {
+                  "label": "B",
+                  "text": "To be more competitive in the global market."
+                },
+                {
+                  "label": "C",
+                  "text": "To satisfy the growing needs for healthy foods."
+                },
+                {
+                  "label": "D",
+                  "text": "To invest more wisely in the soft drink industry."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does PepsiCo think it will have to do in the future?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Invest more to develop new snacks."
+                },
+                {
+                  "label": "B",
+                  "text": "Reduce levels of obesity in the US."
+                },
+                {
+                  "label": "C",
+                  "text": "Change consumers’ eating habits."
+                },
+                {
+                  "label": "D",
+                  "text": "Keep on improving its products."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why does PepsiCo plan to alter its products, according to Indra Nooyi?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To ensure the company’s future development."
+                },
+                {
+                  "label": "B",
+                  "text": "To adapt to its customers’ changed taste."
+                },
+                {
+                  "label": "C",
+                  "text": "To help improve its consumers’ lifestyles."
+                },
+                {
+                  "label": "D",
+                  "text": "To break the trade-off in its product design."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does Indra Nooyi say about the obesity epidemic?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is mainly caused by overconsumption of snacks."
+                },
+                {
+                  "label": "B",
+                  "text": "It results from high sugar and salt consumption."
+                },
+                {
+                  "label": "C",
+                  "text": "It is attributable to people’s changed lifestyles."
+                },
+                {
+                  "label": "D",
+                  "text": "It has a lot to do with longer working hours."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What has PepsiCo been doing to achieve its objective?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Studying WHO’s guidelines."
+                },
+                {
+                  "label": "B",
+                  "text": "Increasing its research funding."
+                },
+                {
+                  "label": "C",
+                  "text": "Expanding its market overseas."
+                },
+                {
+                  "label": "D",
+                  "text": "Cutting its production costs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "越来越多的中国人现在的确离不开手机了。他们中的许多人，包括老年人，都使用手机应用程序(apps)保持联系并拓宽朋友圈。他们也用手机购物、查找信息，因为手机便于携带。此外，使用手机应用程序通信比传统电话便宜。然而，这种新趋势导致人们在社交时过度依赖手机。事实上，一些年轻人已经变得十分上瘾，以至于忽视了与家人和朋友面对面的交流。\n\n8"
+      }
+    ]
+  },
+  "id": "CET4-2018-12-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

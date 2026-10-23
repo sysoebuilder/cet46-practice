@@ -1,0 +1,647 @@
+{
+  "schema_version": "1.0",
+  "year": 2021,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in poverty alleviation. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in poverty alleviation. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in poverty alleviation. You should write at least 150 words but no more than 200 words.",
+        "materials": "Sources: China's National Bureau of Statistics, China's State Council Leading Group Office of Poverty Alleviation and Development",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于2021年6月六级考试全国共考了2套听力,本套真题听力与前2套内容完全一样,只是顺序不一样,因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "At 43, I've reached the stage where women are warned to watch out for the creeping sadness of middle age. We're served up an endless stream of advice on \"how to survive your 40s\", as if we're in the endurance stage of a slow limp toward _26_. This is the age women start to become \"invisible\"—our value, attractiveness and power supposedly _27_ by the vanishing of youth. But I don't feel like I'm fading into _28_. I feel more seen than I ever have, and for the first time in my life, I have a clear-eyed view of myself that is _29_, compassionate and accepting.\n\nWhen I look in the mirror, I'm proud of who I am—even those “broken” parts that for so long seemed impossible to love. So when advertisers try to sell me ways to “turn back the clock”, I have to _30_ a laugh. I wouldn't go back to the crippling self-consciousness of my youth if you paid me. This hard-won sense of self-acceptance is one of the joys of being an older woman. But it's a narrative often _31_ out by the shame that marketers rely on to peddle us their diet pills, miracle face creams and breathable yoga pants—as if self-love is a _32_ commodity.\n\nFor some women I know, this sense of trust and self-belief later in life gave them the courage to leave dysfunctional relationships or _33_ on new career paths. Others talked about enjoying their own company, of growth through _34_, deepening bonds of friendships, the ability to be more compassionate, less judgmental and to listen more and appreciate the small pleasures. Life past 40 is far from smooth sailing, but it's so much more than the reductive _35_ we see in women's magazines and on the Hollywood big screen.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "adversity"
+        },
+        {
+          "label": "F",
+          "text": "drowned"
+        },
+        {
+          "label": "K",
+          "text": "outlines"
+        },
+        {
+          "label": "B",
+          "text": "authentic"
+        },
+        {
+          "label": "G",
+          "text": "embark"
+        },
+        {
+          "label": "L",
+          "text": "prevalent"
+        },
+        {
+          "label": "C",
+          "text": "convey"
+        },
+        {
+          "label": "H",
+          "text": "fragility"
+        },
+        {
+          "label": "M",
+          "text": "purchasable"
+        },
+        {
+          "label": "D",
+          "text": "depictions"
+        },
+        {
+          "label": "I",
+          "text": "neglected"
+        },
+        {
+          "label": "N",
+          "text": "submit"
+        },
+        {
+          "label": "E",
+          "text": "diminished"
+        },
+        {
+          "label": "J",
+          "text": "obscurity"
+        },
+        {
+          "label": "O",
+          "text": "suppress"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 237,
+          "end": 241
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 340,
+          "end": 344
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 410,
+          "end": 414
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 529,
+          "end": 533
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 760,
+          "end": 764
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 967,
+          "end": 971
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1110,
+          "end": 1114
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1262,
+          "end": 1266
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1354,
+          "end": 1358
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1583,
+          "end": 1587
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "What Are the Ethics of CGI Actors—And Will They Replace Real Ones?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Digital humans are coming to a screen near you. As computer-generated imagery (CGI) has become cheaper and more sophisticated, the film industry can now convincingly recreate people on screen—even actors who have been dead for decades. The technology's ability to effectively keep celebrities alive beyond the grave is raising questions about public legacies and image rights."
+        },
+        {
+          "label": "B",
+          "text": "Late in 2019, it was announced that US actor James Dean, who died in 1955, will star in a Vietnam War film scheduled for release later this year. In the film, which will be called Finding Jack, Dean will be recreated on screen with CGI based on old footage (影片镜头) and photographs, with another actor voicing him. The news was met with excitement by those keen to see Dean digitally brought back to life for only his fourth film, but it also drew sharp criticism. “This is puppeteering the dead for their fame alone,” actress Zelda Williams wrote on Twitter. “It sets such an awful precedent for the future of performance.” Her father, Robin Williams, who died in 2014, was keen to avoid the same fate. Before his death, he filed a deed protecting the use of his image until 2039, preventing others from recreating him using CGI to appear in a film, TV show or as a hologram (全息影像)."
+        },
+        {
+          "label": "C",
+          "text": "The James Dean film is a way to keep the actor's image relevant for younger generations, says Mark Roesler of CMG Worldwide, the firm that represents Dean's estate. “I think this is the beginning of an entire wave,” says Travis Cloyd, CEO of Worldwide XR, one of the companies behind the digital recreation of Dean. “Moving into the future, we want James Dean to be brought into different gaming environments, or different virtual reality environments, or augmented reality environments,” he says."
+        },
+        {
+          "label": "D",
+          "text": "Other actors have been revived, with the permission of their estates, for advertising purposes: for example, a 2011 advertisement for Dior featured contemporary actress Charlize Theron alongside iconic 20th-century stars Marilyn Monroe, Grace Kelly and Marlene Dietrich. Later, Audrey Hepburn was digitally recreated for a chocolate commercial in 2013. In the same year, a CGI Bruce Lee appeared in a Chinese-language ad for a whisky brand, which offended many fans because Lee was widely known not to drink alcohol at all. “In the last five years, it’s become more affordable and more achievable in a whole movie,” says Tim Webber at UK visual effects firm Framestore, the company behind the Hepburn chocolate ad. Framestore used body doubles with resemblance to Hepburn’s facial structure and body shape as a framework for manual animation. The process was extremely difficult and expensive, says Webber, but the technology has moved on."
+        },
+        {
+          "label": "E",
+          "text": "Now, a person can be animated from scratch. “If they’re alive today, you can put them in scanning rigs, you can get every detail of their body analysed very carefully and that makes it much easier, whereas working from available photographs is tricky,” says Webber, who won an Academy Award for his visual effects work on the 2013 film Gravity. “I also see a lot of actors today who will have the desire to take advantage of this technology: to have their likeness captured and stored for future content,” says Cloyd. “They foresee this being something that could give their estates and give their families the ability to make money from their likeness when they’re gone.”"
+        },
+        {
+          "label": "F",
+          "text": "A hidden hazard of digitally recreating a deceased (已故的) celebrity is the risk of damaging their legacy. “We have to respect the security and the integrity of rights holders,” says John Canning at Digital Domain, a US firm that created a hologram rapper (说唱艺人) Tupac Shakur, which appeared at the Coachella music festival in 2012, 15 years after his death."
+        },
+        {
+          "label": "G",
+          "text": "Legally, a person's rights to control the commercial use of their name and image beyond their death differ between and even within countries. In certain US states, for example, these rights are treated similarly to property rights, and are transferable to a person's heirs. In California, under the Celebrities Rights Act, the personality rights for a celebrity last for 70 years after their death. “We’ve got a societal debate going on about access to our public commons, as it were, about famous faces,” says Lilian Edwards at Newcastle University, UK. Should the public be allowed to use or reproduce images of famous people, given how iconic they are? And what is in the best interest of a deceased person’s legacy may conflict with the desires of their family or the public, says Edwards."
+        },
+        {
+          "label": "H",
+          "text": "A recreation, however lifelike, will never be indistinguishable from a real actor, says Webber. “When we are bringing someone back, representing someone who is no longer alive on the screen, what we are doing is extremely sophisticated digital make-up,” he says: “A performance is a lot more than a physical resemblance.”"
+        },
+        {
+          "label": "I",
+          "text": "As it becomes easier to digitally recreate celebrities and to entirely manufacture on-screen identities, could this kind of technology put actors out of jobs? “I think actors are worried about this,” says Edwards. “But I think it will take a very long time.” This is partly because of the risk that viewers find virtual humans scary. Edwards cites widespread backlash to the digital recreation of Carrie Fisher as a young Princess Leia in Rogue One, a trick later repeated in the recent Star Wars: The Rise of Skywalker, which was filmed after Fisher’s death in 2016. “People didn’t like it,” she says. “They discovered the uncanny valley (诡异谷).”"
+        },
+        {
+          "label": "J",
+          "text": "This refers to the idea that when objects trying to resemble humans aren't quite perfect, they can make viewers feel uneasy because they fall somewhere between obviously non-human and fully human. \"That's always a danger when you're doing anything human or human-like,\" says Webber. \"There're a thousand things that could go wrong with a computer-generated facial performance, and any one of those could make it fall into the uncanny valley,\" he says: \"Your brain just knows there's something wrong.\" The problem often arises around the eyes or mouth, says Webber. \"They're the areas that you look at when you're talking to someone.\""
+        },
+        {
+          "label": "K",
+          "text": "An unfamiliar digital human that has been created through CGI will also face the same challenge as an unknown actor: they don't have the appeal of an established name. “You have to spend substantial capital in creating awareness around their likeness and making sure people are familiar with who they are,” says Cloyd. This is now starting to happen. “The way you pre-sell a movie in a foreign market is based on relevant talent,” he says. “I think we’re a long way away from having virtual beings that have the ability to pre-sell content.”"
+        },
+        {
+          "label": "L",
+          "text": "Webber expects that we will see more digital humans on screen. “It’s happening because it can happen,” he says. Referring to a line from Jurassic Park (侏罗纪公园), he adds: “People are too busy thinking about what they can do to think about whether they should do it.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "There is an ongoing debate among the public as to whether the images of deceased celebrities should be recreated."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The CGI technology allows the image of the deceased James Dean to be presented to young people in new settings."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "It is very likely that the CGI-recreated image of a deceased celebrity will fail to match the real actor especially in facial expressions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The use of digital technology can bring images of deceased celebrities back to the screen."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Recreating a deceased famous actor or actress may violate their legitimate rights."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "More CGI-recreated images of deceased celebrities are expected to appear on screen."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The image of James Dean will be recreated on screen with his voice dubbed by someone else."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "However advanced the CGI technology is, the recreated image will differ in a way from the real actor."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "A lot of actors today are likely to make use of the CGI technology to have their images stored for the benefit of their families."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some actors are concerned that they may lose jobs because of the CGI technology."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "You can't see it, smell it, or hear it, and people disagree on how precisely to define it, or where exactly it comes from. It isn't a school subject or an academic discipline, but it can be learned. It is a quality that is required of artists, but it is also present in the lives of scientists and entrepreneurs. All of us benefit from it and we thrive mentally and spiritually when we are able to wield it. It is a delicate thing, easily stamped out; in fact, it flourishes most fully when people are playful and childlike. Meanwhile, it works best in conjunction with deep knowledge and expertise.\n\nThis mysterious—but teachable—quality is creativity, the subject of a recently-published report by Durham Commission on Creativity and Education. The report concludes that creativity should not inhabit the school curriculum only as it relates to drama, music, art and other obviously creative subjects, but that creative thinking ought to run through all of school life, infusing (充满) the way humanities and natural sciences are learned.\n\nThe authors, who focus on education in England, offer a number of sensible recommendations, some of which are an attempt to alleviate the uninspiring and fact-based approach to education that has crept into policy in recent years. When children are regarded as vessels to be filled with facts, creativity does not prosper; nor does it when teachers' sole objective is coaching children towards exams. One suggestion from the commission is a network of teacher-led “creativity collaboratives”, along the lines of existing maths hubs (中心), with the aim of supporting teaching for creativity through the school curriculum.\n\nNevertheless, it is arts subjects through which creativity can most obviously be fostered. The value placed on them by the independent education sector is clear. One only has to look at the remarkable arts facilities at Britain's top private schools to comprehend this. But in the state sector the excessive focus on English, maths and science threatens to crush arts subjects; meanwhile, reduced school budgets mean diminishing extracurricular activities. There has been a $28.1\\%$ decline in students taking creative subjects at high schools since 2014, though happily, art and design have seen a recent increase.\n\nThis discrepancy between state and private education is a matter of social justice. It is simply wrong and unfair that most children have a fraction of the access to choirs, orchestras, art studios and drama that\n\ntheir more privileged peers enjoy. As lives are affected by any number of looming challenges—climate crisis, automation in the workplace—humans are going to need creative thinking more than ever. For all of our sakes, creativity in education, and for all, must become a priority.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn from the passage about creativity?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It develops best when people are spiritually prepared."
+                },
+                {
+                  "label": "B",
+                  "text": "It is most often wielded by scientists and entrepreneurs."
+                },
+                {
+                  "label": "C",
+                  "text": "It is founded on scientific knowledge and analytical skills."
+                },
+                {
+                  "label": "D",
+                  "text": "It contributes to intellectual growth but can easily be killed."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What is the conclusion of a recently-published report?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Natural sciences should be learned the way humanities courses are."
+                },
+                {
+                  "label": "B",
+                  "text": "Cultivation of creativity should permeate the entire school curriculum."
+                },
+                {
+                  "label": "C",
+                  "text": "Art courses should be made compulsory for all students."
+                },
+                {
+                  "label": "D",
+                  "text": "Students should learn more obviously creative subjects."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the report say is detrimental to the fostering of creativity?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Alleviation of pressure."
+                },
+                {
+                  "label": "C",
+                  "text": "Test-oriented teaching."
+                },
+                {
+                  "label": "B",
+                  "text": "Teacher-led school activities."
+                },
+                {
+                  "label": "D",
+                  "text": "Independent learning."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do we learn about the private schools in the UK?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They encourage extracurricular activities."
+                },
+                {
+                  "label": "B",
+                  "text": "They attach great importance to arts education."
+                },
+                {
+                  "label": "C",
+                  "text": "They prioritize arts subjects over maths and sciences."
+                },
+                {
+                  "label": "D",
+                  "text": "They cater to students from different family backgrounds."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What should be done to meet the future challenges?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Increasing government investment in school education."
+                },
+                {
+                  "label": "B",
+                  "text": "Narrowing the existing gap between the rich and the poor."
+                },
+                {
+                  "label": "C",
+                  "text": "Providing all children with equal access to arts education."
+                },
+                {
+                  "label": "D",
+                  "text": "Focusing on meeting the needs of under-privileged students."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Emulating your conversation partner's actions is a common human behavior classified as “mirroring” and has been known and studied by psychologists for years. We all tend to subconsciously copy gestures of people we like. But why do we act like this?\n\nAs a rule, mirroring means that conversationalists enjoy their communication and that there's a certain level of agreement between them. The topic of discussion is equally interesting for both and they know their interests meet.\n\nRepeating someone's behavior is typical of talented communicators, not always because the person is sympathetic, but because there is a goal to be achieved. This way new idols have been brought to the stage: politicians, celebrities, and other big names. Popular culture makes people want to look popular, and act and speak like popular people.\n\nNowadays celebrities steal lyrics from each other and struggle with copyright violation accusations or straightforwardly claim themselves to be the authors, even though all the work was done by other people.\n\nAmong celebrities, it's trendy nowadays to use their own speech writers as politicians do. The so-called “ghostwriting” can take various forms: books, articles, autobiographies, and even social media posts.\n\nWho is a true copycat (抄袭者) and who gets copycatted? Sometimes, it is a hard nut to crack without an expert's help. But new authorship defending methods based on identifying individual writing patterns are already here. Their aim is to protect intellectual property. Using scientific methods, some of them can\n\ndefine authorship with $85\\%$ accuracy.\n\nWriting is not an easy craft to master. If you want to write like a professional without plagiarism (抄袭), there are a few lessons to learn and the first one is: \"Copy from one, it's plagiarism; copy from two, it's research.\" The correct interpretation of this statement is not about copying, but rather about creating your own style. When you study an author's writing style, don't stop on a single one, but explore numerous styles instead. Examine types of sentences they use, pay attention to their metaphors, and focus on stories you feel you could write a pretty cool sequel (续篇) to.\n\nImitation is rather paradoxical. As an integral part of learning, it brings about positive changes, making people develop and grow. However, it may do a lot of harm. Copying someone's thoughts, ideas or inventions is completely unacceptable. It infringes on intellectual property rights of others.\n\nStill, many things we do are about copying others one way or another. So if you want to compliment someone on the work they have done and imitate it, just make sure you do it the right way to avoid committing plagiarism.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do people tend to do while engaging in a conversation?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Repeat what their partners say one way or another."
+                },
+                {
+                  "label": "B",
+                  "text": "Focus as much as possible on topics of mutual interest."
+                },
+                {
+                  "label": "C",
+                  "text": "Imitate their partners' gestures without their knowing it."
+                },
+                {
+                  "label": "D",
+                  "text": "Observe carefully how their partners make use of gestures."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "When does mirroring usually take place in a conversation?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When both sides are sympathetic with each other."
+                },
+                {
+                  "label": "B",
+                  "text": "When both sides have a lot of things in common."
+                },
+                {
+                  "label": "C",
+                  "text": "When both sides make interesting contributions."
+                },
+                {
+                  "label": "D",
+                  "text": "When both sides try to seek common ground."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn about popular culture?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It encourages people to imitate."
+                },
+                {
+                  "label": "B",
+                  "text": "It appeals mostly to big names."
+                },
+                {
+                  "label": "C",
+                  "text": "It acquaints young people with their idols."
+                },
+                {
+                  "label": "D",
+                  "text": "It can change people's mode of cognition."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why is the saying “copy from two, it’s research” a lesson to learn?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It facilitates the creation of one’s own writing style."
+                },
+                {
+                  "label": "B",
+                  "text": "It helps to protect one’s intellectual property rights."
+                },
+                {
+                  "label": "C",
+                  "text": "It fosters correct interpretation of professional writing."
+                },
+                {
+                  "label": "D",
+                  "text": "It enables one to write intriguing sequels to famous stories."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "Why does the author say imitation is rather paradoxical?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is liable to different interpretations."
+                },
+                {
+                  "label": "B",
+                  "text": "It is by and large a necessary evil."
+                },
+                {
+                  "label": "C",
+                  "text": "It can give rise to endless disputes."
+                },
+                {
+                  "label": "D",
+                  "text": "It may do harm as well as good."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "云南是位于中国西南的一个省份,平均海拔1500米。云南历史悠久,风景秀丽,气候宜人。云南生态环境优越,生物多种多样,被誉为野生动植物的天堂。云南还有多种矿藏和充足的水资源,为全省经济的可持续发展提供了有利条件。\n\n云南居住着25个少数民族，他们大多有自己的语言、习俗和宗教。云南独特的自然景色和丰富的民族文化使其成为中国最受欢迎的旅游目的地之一，每年都吸引着大批国内外游客前往观光旅游。"
+      }
+    ]
+  },
+  "id": "CET6-2021-06-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "36": {
+        "answer": "G",
+        "explanation": "G)【精析】同义转述题。G)段定位句提到,人们正在进行一场社会辩论,主要围绕此话题展开:是否应该允许公众使用或复制名人的肖像?题干中的ongoing debate对应原文中的a societal debate going on,题干中的celebrities是对原文中famous people的同义转述,题干中的recreated是原文中reproduce的同义词,故答案为G)。"
+      },
+      "37": {
+        "answer": "C",
+        "explanation": "C) 【精析】细节推断题。C) 段定位句提到, 这部詹姆斯·迪恩电影是一种让年轻一代了解该演员的形象的方式, 说明 CGI 技术能够将詹姆斯·迪恩的形象置于当代的新场景中, 题干是对该内容的理解和推断, 故答案为 C)。"
+      },
+      "38": {
+        "answer": "J",
+        "explanation": "J) 【精析】细节归纳题。J) 段第一句提到, 人们试图利用 CGI 技术, 使“重生”后的对象尽可能与人类相像, 但效果并非那么完美。之后由第三句可知, 计算机生成的面部表情经常可能出错。后文又提到在眼睛或嘴巴周围也容易出现问题。综合可知, 题干中的 fail to match the real actor especially in facial expressions 是对本段的归纳概括, 故答案为 J)。"
+      },
+      "39": {
+        "answer": "A",
+        "explanation": "(CGI),题干中的 deceased celebrities 对应原文中的 actors who have been dead for decades,题干中的“bring...back to the screen”是对原文中 recreate people on screen 的同义转述,故答案为 A)。"
+      },
+      "40": {
+        "answer": "F",
+        "explanation": "F) 【精析】同义转述题。F) 段定位句提到, 数字化再现已故名人的一个隐患是有可能损坏他们的遗产。题干中的 famous actor or actress 对应原文中的 celebrity, 题干中的 violate their legitimate rights 是原文中 damaging their legacy 的同义表达, 故答案为 F)。"
+      },
+      "41": {
+        "answer": "L",
+        "explanation": "L)【精析】同义转述题。L)段第一句中，韦伯提到我们将在银幕上看到更多的数字人物。题干中的CGI-recreated images对应原文中的digital humans，题干中的“More...are expected to appear on screen.”是对原文中“expects that we will see more...on screen”的同义转述，故答案为L)。"
+      },
+      "42": {
+        "answer": "B",
+        "explanation": "B) 【精析】同义转述题。B) 段定位句提到，在电影《寻找杰克》中，技术人员将依据迪恩生前的影像资料，利用 CGI 技术使他重返大银幕，同时让另一位演员来为其配音。题干的主句部分和原文内容基本相同，题干中的 with his voice dubbed by someone else 是对原文中 with another actor voicing him 的同义转述，故答案为 B)。"
+      },
+      "43": {
+        "answer": "H",
+        "explanation": "H)【精析】同义转述题。H)段定位句中提到,被再现的人无论多么逼真,也做不到与真实演员难以区分。题干中的 however advanced 对应原文中的 however lifelike,题干中的 will differ in a way from 是对原文中 will never be indistinguishable from 的同义转述,故答案为 H)。"
+      },
+      "44": {
+        "answer": "E",
+        "explanation": "资产,也可以让他们的家人在其去世后凭借此肖像获得收入。题干中的 have their images stored for the benefit of their families 是对原文中这两句话的归纳概括,故答案为 E)。"
+      }
+    },
+    "references": {}
+  }
+}

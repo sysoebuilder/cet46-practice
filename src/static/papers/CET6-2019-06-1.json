@@ -1,0 +1,1390 @@
+{
+  "schema_version": "1.0",
+  "year": 2019,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of team spirit and communication in the workplace. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of team spirit and communication in the workplace. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the importance of team spirit and communication in the workplace. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A six-month-long negotiation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Preparations for the party."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A project with a troublesome client."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Gift wrapping for the colleagues."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Take wedding photos."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Start a small business."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Advertise her company."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Throw a celebration party."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Hesitant."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Flattered."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Nervous."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Surprised."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Start her own bakery."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Share her cooking experience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improve her baking skill."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Prepare for the wedding."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have to spend more time studying."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have to participate in club activities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have to be more responsible for what they do."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have to choose a specific academic discipline."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Get ready for a career."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make a lot of friends."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Set a long-term goal."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Behave like adults."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Those who share her academic interests."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Those who respect her student commitments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Those who can help her when she is in need."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Those who go to the same clubs as she does."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Those helpful for tapping their potential."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Those conducive to improving their social skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Those helpful for cultivating individual interests."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Those conducive to their academic studies."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They break away from traditional ways of thinking."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are prepared to work harder than anyone else."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are good at refining old formulas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They bring their potential into full play."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They contributed to the popularity of skiing worldwide."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They resulted in a brand-new style of skiing technique."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They promoted the scientific use of skiing poles."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They made explosive news in the sports world."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was recognized as a genius in the world of sports."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He competed in all major skiing events in the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He won three gold medals in one Winter Olympics."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He broke three world skiing records in three years."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They appear restless."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They become upset."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They lose consciousness."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They die almost instantly."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has an instant effect on your body chemistry."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It keeps returning to you every now and then."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It leaves you with a long lasting impression."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It contributes to the shaping of your mind."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To succeed while feeling irritated."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To feel happy without good health."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To be free from frustration and failure."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To enjoy good health while in dark moods."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are closely connected."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They function in a similar way."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are too complex to understand."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They reinforce each other constantly."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They differ in their appreciation of music."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They focus their attention on different things."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They finger the piano keys in different ways."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They choose different pieces of music to play."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They manage to cooperate well with their teammates."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They use effective tactics to defeat their competitors."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They try hard to meet the spectators' expectations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They attach great importance to high performance."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It marks a breakthrough in behavioral science."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It adopts a conventional approach to research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It supports a piece of conventional wisdom."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It gives rise to controversy among experts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People's envy of slim models."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People's craze for good health."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The increasing range of fancy products."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The great variety of slimming products."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They appear vigorous."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They look charming."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They appear strange."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They look unhealthy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Culture and upbringing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Peer pressure."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Wealth and social status."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Media influence."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The relation between hair and skin."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The color of human skin."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The growing interest in skin studies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The need of skin protection."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The necessity to save energy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The need to breathe with ease."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Adaptation to the hot environment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Dramatic climate changes on earth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Leaves and grass."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their skin coloring."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Man-made shelter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Hair on their skin."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their genetic makeup began to change."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their communities began to grow steadily."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their children began to mix with each other."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their pace of evolution began to quicken."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Pasta is no longer off the menu, after a new review of studies suggested that the carbohydrate can form part of a healthy diet, and even help people lose weight. For years, nutritionists have recommended that pasta be kept to a 26 , to cut calories, prevent fat build-up and stop blood sugar 27 up.\n\nThe low-carbohydrate food movement gave birth to such diets as the Atkins, Paleo and Keto, which advised swapping foods like bread, pasta and potatoes for vegetables, fish and meat. More recently the trend of swapping spaghetti for vegetables has been _28_ by clean-eating experts.\n\nBut now a 29 review and analysis of 30 studies by Canadian researchers found that not only does pasta not cause weight gain, but three meals a week can help people drop more than half a kilogram over four months. The reviewers found that pasta had been unfairly demonized (妖魔化) because it had been 30 in with other, more fat-promoting carbohydrates.\n\n\"The study found that pasta didn't _31_ to weight gain or increase in body fat,\" said lead author Dr John Sievenpiper. \"In _32_ the evidence, we can now say with some confidence that\n\npasta does not have an _33_ effect on body weight outcomes when it is consumed as part of a healthy dietary pattern.\" In fact, analysis actually showed a small weight loss _34_ to concerns. Perhaps pasta can be part of a healthy diet.\n\nThose involved in the _35_ trials on average ate 3.3 servings of pasta a week instead of other carbohydrates, one serving equaling around half a cup. They lost around half a kilogram over an average follow-up of 12 weeks.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "adverse"
+        },
+        {
+          "label": "I",
+          "text": "minimum"
+        },
+        {
+          "label": "B",
+          "text": "championed"
+        },
+        {
+          "label": "J",
+          "text": "radiating"
+        },
+        {
+          "label": "C",
+          "text": "clinical"
+        },
+        {
+          "label": "K",
+          "text": "ration"
+        },
+        {
+          "label": "D",
+          "text": "contrary"
+        },
+        {
+          "label": "L",
+          "text": "shooting"
+        },
+        {
+          "label": "E",
+          "text": "contribute"
+        },
+        {
+          "label": "M",
+          "text": "subscribe"
+        },
+        {
+          "label": "F",
+          "text": "intimate"
+        },
+        {
+          "label": "N",
+          "text": "systematic"
+        },
+        {
+          "label": "G",
+          "text": "lumped"
+        },
+        {
+          "label": "O",
+          "text": "weighing"
+        },
+        {
+          "label": "H",
+          "text": "magnified"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 228,
+          "end": 230
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 292,
+          "end": 294
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 552,
+          "end": 556
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 593,
+          "end": 595
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 881,
+          "end": 883
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 969,
+          "end": 973
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1057,
+          "end": 1061
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1141,
+          "end": 1145
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1290,
+          "end": 1294
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1376,
+          "end": 1380
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Best Retailers Combine Bricks and Clicks",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Retail profits are falling sharply. Stores are closing. Malls are emptying. The depressing stories just keep coming. Reading the earnings announcements of large retail stores like Macy's, Nordstrom, and Target is about as uplifting as a tour of an intensive care unit. The Internet is apparently taking down yet another industry. Brick and mortar stores (实体店) seem to be going the way of the yellow pages. Sure enough, the Census Bureau just released data showing that online retail sales surged 15.2 percent between the first quarter of 2015 and the first quarter of 2016."
+        },
+        {
+          "label": "B",
+          "text": "But before you dump all of your retail stocks, there are more facts you should consider. Looking only at that 15.2 percent “surge” would be misleading. It was an increase that was on a small base of 6.9 percent. Even when a tiny number grows by a large percentage terms, it is often still tiny."
+        },
+        {
+          "label": "C",
+          "text": "More than 20 years after the Internet was opened to commerce, the Census Bureau tells us that brick and mortar sales accounted for 92.3 percent of retail sales in the first quarter of 2016. Their data show that only 0.8 percent of retail sales shifted from offline to online between the beginning of 2015 and 2016."
+        },
+        {
+          "label": "D",
+          "text": "So, despite all the talk about drone(无人机) deliveries to your doorstep, all the retail executives expressing anxiety over consumers going online, and even a Presidential candidate exclaiming that Amazon has a “huge antitrust problem,” the Census data suggest that physical retail is thriving. Of course, the closed stores, depressed executives, and sinking stocks suggest otherwise. What’s the real story?"
+        },
+        {
+          "label": "E",
+          "text": "Many firms operating brick and mortar stores are in trouble. The retail industry is getting reinvented, as we describe in our new book Matchmakers. It's standing in the path of what Schumpeter called a gale(大风) of creative destruction. That storm has been brewing for some time, and as it has reached gale force, most large retailers are searching for a response. As the CFO of Macy's put it recently, “We're frankly scratching our heads.”"
+        },
+        {
+          "label": "F",
+          "text": "But it's not happening as experts predicted. In the peak of the dot.com bubble, brick-and-mortar retail was one of those industries the Internet was going to kill—and quickly. The dot.com bust discredited most predictions of that sort. And in the years that followed, conventional retailers' confidence in the future increased as Census continued to report weak online sales. And then the gale hit."
+        },
+        {
+          "label": "G",
+          "text": "It is becoming increasingly clear that retail reinvention isn't a simple battle to the death between bricks and clicks. It is about devising retail models that work for people who are making increasing use of a growing array of Internet-connected tools to change how they search, shop, and buy. Creative retailers are using the new technologies to innovate just about everything stores do from managing inventory, to marketing, to getting paid."
+        },
+        {
+          "label": "H",
+          "text": "More than drones dropping a new supply of underwear on your doorstep, Apple's massively successful brick-and-mortar-and-glass retail stores and Amazon's small steps in the same direction are what should keep old-fashioned retailers awake at night. Not to mention the large number of creative new retailers, like Bonobos, that are blending online and offline experiences in creative ways."
+        },
+        {
+          "label": "I",
+          "text": "Retail reinvention is not a simple process, and it's also not happening on what used to be called “Internet Time.” Some Internet-driven changes have happened quickly, of course. Craigslist quickly overtook newspaper classified ads and turned newspaper economics upside down. But many widely anticipated changes weren't quick, and some haven't really started. With the benefit of hindsight (后见之明), it looks like the Internet will transform the economy at something like\n\nthe pace of other great inventions like electricity. B2B commerce, for example, didn't move mainly online by 2005 as many had predicted in 2000, nor even by 2016, but that doesn't mean it won't do so over the next few decades."
+        },
+        {
+          "label": "J",
+          "text": "But the gale is still blowing. The sudden decline in foot traffic in recent years, even though it hasn't been accompanied by a massive decline in physical sales, is a critical warning. People can shop more efficiently online and therefore don't need to go to as many stores to find what they want. There's a surplus of physical shopping space for the crowds, which is one reason why stores are downsizing and closing."
+        },
+        {
+          "label": "K",
+          "text": "The rise of the mobile phone has recently added a new level of complexity to the process of retail reinvention. Even five years ago most people faced a choice. Sit at your computer, probably at home or at the office, search and browse, and buy. Or head out to the mall, or Main Street, look and shop, and buy. Now, just about everyone has a smartphone, connected to the Internet almost everywhere almost all the time. Even when a retailer gets a customer to walk in the store, she can easily see if there's a better deal online or at another store nearby."
+        },
+        {
+          "label": "L",
+          "text": "So far, the main thing many large retailers have done in response to all this is to open online stores, so people will come to them directly rather than to Amazon and its smaller online rivals. Many are having the same problem that newspapers have had. Even if they get online traffic, they struggle to make enough money online to compensate for what they are losing offline."
+        },
+        {
+          "label": "M",
+          "text": "A few seem to be making this work. Among large traditional retailers, Walmart recently reported the best results, leading its stock price to surge, while Macy's, Target, and Nordstrom's dropped. Yet Walmart's year-over-year online sales only grew 7 percent, leading its CEO to lament (哀叹), \"Growth here is too slow.\" Part of the problem is that almost two decades after Amazon filed the one-click patent, the online retail shopping and buying experience is filled with frictions. A recent study graded more than 600 Internet retailers on how easy it was for consumers to shop, buy, and pay. Almost half of the sites didn't get a passing grade and only 18 percent got an A or B."
+        },
+        {
+          "label": "N",
+          "text": "The turmoil on the ground in physical retail is hard to square with the Census data. Unfortunately, part of the explanation is that the Census retail data are unreliable. Our deep look into those data and their preparation revealed serious problems. It seems likely that Census simply misclassifies a large chunk of online sales. It is certain that the Census procedures, which lump the online sales of major traditional retailers like Walmart in with “non-store retailers” like food trucks, can mask major changes in individual retail categories. The bureau could easily present their data in more useful ways, but they have chosen not to."
+        },
+        {
+          "label": "O",
+          "text": "Despite the turmoil, brick and mortar won't disappear any time soon. The big questions are which, if any, of the large traditional retailers will still be on the scene in a decade or two because\n\nthey have successfully reinvented themselves, which new players will operate busy stores on Main Streets and maybe even in shopping malls, and how the shopping and buying experience will have changed in each retail category. Investors shouldn't write off brick and mortar. Whether they should bet on the traditional players who run those stores now is another matter."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Although online retailing has existed for some twenty years, nearly half of the Internet retailers still fail to receive satisfactory feedback from consumers, according to a recent survey."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Innovative retailers integrate Internet technologies with conventional retailing to create new retail models."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Despite what the Census data suggest, the value of physical retail's stocks has been dropping."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Internet-driven changes in the retail industry didn't take place as quickly as widely anticipated."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Statistics indicate that brick and mortar sales still made up the lion's share of the retail business."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Companies that successfully combine online and offline business models may prove to be a big concern for traditional retailers."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Brick and mortar retailers' faith in their business was strengthened when the dot.com bubble burst."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Despite the tremendous challenges from online retailing, traditional retailing will be here to stay for quite some time."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "With the rise of online commerce, physical retail stores are likely to suffer the same fate as the yellow pages."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "The wide use of smartphones has made it more complex for traditional retailers to reinvent their business."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). you should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Professor Stephen Hawking has warned that the creation of powerful artificial intelligence (AI) will be “either the best, or the worst thing, ever to happen to humanity”, and praised the creation of an academic institute dedicated to researching the future of intelligence as “crucial to the future of our civilisation and our species”.\n\nHawking was speaking at the opening of the Leverhulme Centre for the Future of Intelligence (LCFI) at Cambridge University, a multi-disciplinary institute that will attempt to tackle some of the open-ended questions raised by the rapid pace of development in AI research. “We spend a great deal of time studying history,” Hawking said, “which, let’s face it, is mostly the history of stupidity. So it’s a welcome change that people are studying instead the future of intelligence.”\n\nWhile the world-renowned physicist has often been cautious about AI, raising concerns that humanity could be the architect of its own destruction if it creates a super-intelligence with a will of its own, he was also quick to highlight the positives that AI research can bring. “The potential benefits of creating intelligence are huge,” he said. “We cannot predict what we might achieve when our own minds are amplified by AI. Perhaps with the tools of this new technological revolution, we will be able to undo some of the damage done to the natural world by the last one—industrialisation. And surely we will aim to finally eradicate disease and poverty. And every aspect of our lives will be transformed. In short, success in creating AI could be the biggest event in the history of our civilisation.”\n\nHuw Price, the centre's academic director and the Bertrand Russell professor of philosophy at Cambridge University, where Hawking is also an academic, said that the centre came about partially as a result of the university's Centre for Existential Risk. That institute examined a wider range of potential problems for humanity, while the LCFI has a narrow focus.\n\nAI pioneer Margaret Boden, professor of cognitive science at the University of Sussex, praised the progress of such discussions. As recently as 2009, she said, the topic wasn't taken seriously, even among AI researchers. “AI is hugely exciting,” she said, “but it has limitations, which present grave dangers given uncritical use.”\n\nThe academic community is not alone in warning about the potential dangers of AI as well as the potential benefits. A number of pioneers from the technology industry, most famously the entrepreneur Elon Musk, have also expressed their concerns about the damage that a super-intelligent AI could do to humanity.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What did Stephen Hawking think of artificial intelligence?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It would be vital to the progress of human civilisation."
+                },
+                {
+                  "label": "B",
+                  "text": "It might be a blessing or a disaster in the making."
+                },
+                {
+                  "label": "C",
+                  "text": "It might present challenges as well as opportunities."
+                },
+                {
+                  "label": "D",
+                  "text": "It would be a significant expansion of human intelligence."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What did Hawking say about the creation of the LCFI?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It would accelerate the progress of AI research."
+                },
+                {
+                  "label": "B",
+                  "text": "It would mark a step forward in the AI industry."
+                },
+                {
+                  "label": "C",
+                  "text": "It was extremely important to the destiny of humankind."
+                },
+                {
+                  "label": "D",
+                  "text": "It was an achievement of multi-disciplinary collaboration."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What did Hawking say was a welcome change in AI research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The shift of research focus from the past to the future."
+                },
+                {
+                  "label": "B",
+                  "text": "The shift of research from theory to implementation."
+                },
+                {
+                  "label": "C",
+                  "text": "The greater emphasis on the negative impact of AI."
+                },
+                {
+                  "label": "D",
+                  "text": "The increasing awareness of mankind's past stupidity."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What concerns did Hawking raise about AI?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may exceed human intelligence sooner or later."
+                },
+                {
+                  "label": "B",
+                  "text": "It may ultimately over-amplify the human mind."
+                },
+                {
+                  "label": "C",
+                  "text": "Super-intelligence may cause its own destruction."
+                },
+                {
+                  "label": "D",
+                  "text": "Super-intelligence may eventually ruin mankind."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do we learn about some entrepreneurs from the technology industry?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are much influenced by the academic community."
+                },
+                {
+                  "label": "B",
+                  "text": "They are most likely to benefit from AI development."
+                },
+                {
+                  "label": "C",
+                  "text": "They share the same concerns about AI as academics."
+                },
+                {
+                  "label": "D",
+                  "text": "They believe they can keep AI under human control."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The market for products designed specifically for older adults could reach \\$30 billion by next year, and startups (初创公司) want in on the action. What they sometimes lack is feedback from the people who they hope will use their products. So Brookdale, the country's largest owner of retirement communities, has been inviting a few select entrepreneurs just to move in for a few days, show off their products and hear what the residents have to say.\n\nThat's what brought Dayle Rodriguez, 28, all the way from England to the dining room of Brookdale South Bay in Torrance, California. Rodriguez is the community and marketing manager for a company called Sentab. The startup's product, SentabTV, enables older adults who may not be comfortable with computers to access email, video chat and social media using just their televisions and a remote control.\n\n“It’s nothing new, it’s nothing too complicated and it’s natural because lots of people have TV remotes,” says Rodriguez.\n\nBut none of that is the topic of conversation in the Brookdale dining room. Instead, Rodriguez\n\nsolicits residents' advice on what he should get on his cheeseburger and how he should spend the afternoon. Playing cards was on the agenda, as well as learning to play mahjong (麻将).\n\nRodriguez says it's important that residents here don't feel like he's selling them something. “I've had more feedback in a passive approach,” he says. “Playing pool, playing cards, having dinner, having lunch,” all work better “than going through a survey of questions. When they get to know me and to trust me, knowing for sure I'm not selling them something—there'll be more honest feedback from them.”\n\nRodriguez is just the seventh entrepreneur to move into one of Brookdale's 1,100 senior living communities. Other new products in the program have included a kind of full-body blow dryer and specially designed clothing that allows people with disabilities to dress and undress themselves.\n\nMary Lou Busch, 93, agreed to try the Sentab system. She tells Rodriguez that it might be good for someone, but not for her.\n\n\"I have the computer and FaceTime, which I talk with my family on,\" she explains. She also has an iPad and a smartphone. \"So I do pretty much everything I need to do.\"\n\nTo be fair, if Rodriguez had wanted feedback from some more technophobic (害怕技术的) seniors, he might have ended up in the wrong Brookdale community. This one is located in the heart of Southern California's aerospace corridor. Many residents have backgrounds in engineering, business and academic circles.\n\nBut Rodriguez says he's still learning something important by moving into this Brookdale community: “People are more tech-proficient than we thought.”\n\nAnd besides, where else would he learn to play mahjong?",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the passage say about the startups?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They never lose time in upgrading products for seniors."
+                },
+                {
+                  "label": "B",
+                  "text": "They want to have a share of the seniors' goods market."
+                },
+                {
+                  "label": "C",
+                  "text": "They invite seniors to their companies to try their products."
+                },
+                {
+                  "label": "D",
+                  "text": "They try to profit from promoting digital products to seniors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Some entrepreneurs have been invited to Brookdale to .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "have an interview with potential customers"
+                },
+                {
+                  "label": "B",
+                  "text": "conduct a survey of retirement communities"
+                },
+                {
+                  "label": "C",
+                  "text": "collect residents' feedback on their products"
+                },
+                {
+                  "label": "D",
+                  "text": "show senior residents how to use IT products"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we know about SentabTV?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a TV program catering to the interest of the elderly."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a digital TV which enjoys popularity among seniors."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a TV specially designed for seniors to view programs."
+                },
+                {
+                  "label": "D",
+                  "text": "It is a communication system via TV instead of a computer."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does Rodriguez say is important in promoting products?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Winning trust from prospective customers."
+                },
+                {
+                  "label": "B",
+                  "text": "Knowing the likes and dislikes of customers."
+                },
+                {
+                  "label": "C",
+                  "text": "Demonstrating their superiority on the spot."
+                },
+                {
+                  "label": "D",
+                  "text": "Responding promptly to customer feedback."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What do we learn about the seniors in the Brookdale community?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Most of them are interested in using the Sentab."
+                },
+                {
+                  "label": "B",
+                  "text": "They are quite at ease with high-tech products."
+                },
+                {
+                  "label": "C",
+                  "text": "They have much in common with seniors elsewhere."
+                },
+                {
+                  "label": "D",
+                  "text": "Most of them enjoy a longer life than average people."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "成语(Chinese idioms)是汉语中的一种独特的表达方式,大多由四个汉字组成。它们高度简练且形式固定,但通常能形象地表达深刻的含义。成语大多数来源于中国古代的文学作品,通常与某些神话、传说或者历史事件有关。如果不知道某个成语的出处,就很难理解其确切含义。因此,学习成语有助于人们更好地理解中国传统文化。成语在日常会话和文学创作中广泛使用。恰当使用成语可以使一个人的语言更具表现力,交流更有效。"
+      }
+    ]
+  },
+  "id": "CET6-2019-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "5": {
+        "answer": "A",
+        "explanation": "、D)中的动作信息 spend more time studying、choose a... academic discipline 暗示 They 身份为学生/学者；而各项 have to 表示“客观上必须(有义务或被迫做某事)”；综上，推测题干询问某类学生/学者的义务或责任(应特别注意涉及“要求”的信息)。"
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "、B)、D)语义均体现“在不利情形下获得有利结果”之意，C)亦体现一种有利结果，且均与身心状态有关，推测题干问及某个与身心状态有关的“不利条件—有利结果”组合。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "[答案精析]D)。“题干+D)”复现首段①②句“每年去百货商店购置夏装时，五花八门的瘦身产品都会让我惊讶万分”，the great variety of 同义替换 a wide range of。A)复现首段 slim models，但文中只提及“瘦身产品的推广模特往往极瘦”，并未指出“人们羡慕瘦模特”。B)将原文人们狂热追求的对象“瘦身”偷换为“健康”。C)将首段“五花八门的瘦身产品(a wide range of different slimming products)”偷换为“五花八门的高端产品(increasing range of fancy products)”。"
+      },
+      "20": {
+        "answer": "B",
+        "explanation": "[答案精析]B)。讲话人在III段介绍香港女孩的瘦身方法“用瘦身带包裹全身或双腿(girls wrapping...），并结合自身经历对其进行评价“就像妈妈端上桌的一道圣诞节大餐——烤火腿”，推理可知讲话人认为这种瘦身方法十分奇怪/不可思议，B)正确。A)、C)利用年轻女孩的典型特点“充满活力、非常迷人”设置干扰，但文中并未提及“用瘦身带裹腿的女孩”有此特征。D)利用IV、VI段讲话人对各种瘦身工具不以为然的态度(I do not believe in any of these slimming gadgets、no magic trick)设置干扰，但答非所问，题目问的是说话人对“用瘦身带裹腿的女孩(girls...)”的看法。"
+      },
+      "26": {
+        "answer": "I",
+        "explanation": "## 26. 答案: I) minimum"
+      },
+      "27": {
+        "answer": "L",
+        "explanation": "## 27. 答案: L) shooting"
+      },
+      "28": {
+        "answer": "B",
+        "explanation": "## 28. 答案: B) championed"
+      },
+      "29": {
+        "answer": "N",
+        "explanation": "## 29. 答案: N) systematic"
+      },
+      "30": {
+        "answer": "G",
+        "explanation": "## 30. 答案: G) lumped"
+      },
+      "31": {
+        "answer": "E",
+        "explanation": "## 31. 答案: E) contribute"
+      },
+      "32": {
+        "answer": "O",
+        "explanation": "## 32. 答案: O) weighing 33. 答案: A) adverse"
+      },
+      "34": {
+        "answer": "D",
+        "explanation": "## 34. 答案: D) contrary"
+      },
+      "35": {
+        "answer": "C",
+        "explanation": "35. 答案: C) clinical"
+      },
+      "46": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。首段指出霍金警告“AI将会是人类历史最好的事，抑或是最糟的事”，B符合此意，在the making(在发展中，在形成中)对应文中will be(尚未出现)，a blessing or a disaster对应文中either the best, or the worst thing。"
+      },
+      "47": {
+        "answer": "C",
+        "explanation": "[锁定答案] C)。首段霍金赞扬“创建一个致力于研究未来智能的学术机构(即 LCFI)”道:这对人类文明和人类物种的未来至关重要。第二段进一步指出,LCFI 致力于研究智能的未来,这是一个可喜的变化,可见 C 正确体现霍金观点。"
+      },
+      "48": {
+        "answer": "A",
+        "explanation": "[锁定答案]A)。第二段末两句中霍金指出,我们花了大量时间研究历史,但大部分历史是愚蠢的。所以人们现在转而研究智能的未来是一个可喜的转变,可见 A 是对霍金观点的正确概括。"
+      },
+      "49": {
+        "answer": "D",
+        "explanation": "[锁定答案]D)。第三段①句说明霍金的担忧“人类倘若创造出具有自身意志的超级智能，很可能会缔造自己的毁灭”，D符合此信息，ruin mankind对应humanity...its own destruction。"
+      },
+      "50": {
+        "answer": "C",
+        "explanation": "[锁定答案]C)。末段指出:并非只有学术界在告诫人们AI的潜在威胁及益处,科技行业的一些先驱人物(包括知名企业家埃隆·马斯克)也已对超级智能AI的潜在风险表达了担忧。C符合此意。"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "[提炼思路] 本题定位句详述 Sentab TV 功能细节,而选项均为对 Sentab TV 的精炼概述,因此考生需:一、概括归纳定位句核心语义“电视设备:利用电视和遥控器做电脑能做之事(收发电邮、视频聊天、访问社交媒体)”,二、提取各项核心义(A“电视节目:迎合兴趣”、B“电视设备:深受喜爱”、C“电视设备:观看节目”、D“电视设备:利用电视而非电脑通信”),三、两相对比,即可确定正确答案为 D。"
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "[提炼思路]解答本题的关键在于意识到,定位段(第五段)中,人物直接引语(②-④句)是对间接引语(①句)的解释说明,亦即,罗德里格斯引语的重点内容在于解释“不让老年住户觉得自己在卖东西”如何重要。梳理段落内容即可知,他的行为逻辑是“通过日常生活接触老年住户——获得他们的信任、不让他们觉得自己在卖东西——收获更多有关产品的中肯意见”,从而锁定答案为A。"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。第九段①句首先指出,罗德里格斯来到的 Brookdale 南湾社区的老年住户并不害怕技术 (technophobic)。②③句进而解释:南湾社区坐落于南加州航空航天密集区中心地带,住户大多有工程界、商界、学术界背景。意即,他们懂高科技技术,对高科技产品运用自如。B 正确。"
+      }
+    },
+    "references": {}
+  }
+}

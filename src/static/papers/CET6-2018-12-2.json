@@ -1,0 +1,1462 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on how to balance job responsibilities and personal interests. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on how to balance job responsibilities and personal interests. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on how to balance job responsibilities and personal interests. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Stop worrying about him."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Keep away from the statue."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Take a picture of him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Put on a smile for the photo."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Gaining great fame on the Internet."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Publishing a collection of his photos."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Collecting the best photos in the world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Becoming a professional photographer."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Surfing various websites and collecting photos."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Editing his pictures and posting them online."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Following similar accounts to compare notes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Studying the pictures in popular social media."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are far from satisfactory."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are mostly taken by her mom."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They make an impressive album."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They record her fond memories."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A journal reporting the latest progress in physics."
+                  },
+                  {
+                    "label": "B",
+                    "text": "An introductory course of modern physics."
+                  },
+                  {
+                    "label": "C",
+                    "text": "An occasion for physicists to exchange ideas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A series of interviews with outstanding physicists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The future of the physical world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The origin of the universe."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sources of radiation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Particle theory."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How matter collides with anti-matter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Whether the universe will turn barren."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Why there exists anti-matter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Why there is a universe at all."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Matter and anti-matter are opposites of each other."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Anti-matter allowed humans to come into existence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The universe formed due to a sufficient amount of matter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Anti-matter exists in very high-temperature environments."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She found herself speaking a foreign language."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She woke up speaking with a different accent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She found some symptoms of her illness gone."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She woke up finding herself in another country."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is usually caused by a stroke or brain injury."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has not yet found any effective treatment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It leaves the patient with a distorted memory."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It often happens to people with speech defects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "British."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Irish."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Russian."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Australian."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Water sports."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Racing in rivers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Stories about women swimmers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Books about swimming."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She succeeded in swimming across the English Channel."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She published a guide to London’s best swimming spots."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She told her story of adventures to some young swimmers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She wrote a book about the history of swimwear in the UK."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They loved vacationing on the seashore."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They had a unique notion of modesty."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were prohibited from swimming."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were fully dressed when swimming."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She designed lots of appropriate swimwear for women."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She once successfully competed against men in swimming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She was the first woman to swim across the English Channel."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She was an advocate of women’s right to swim in public pools."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Build a machine that can detect lies."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Develop a magnetic brain scanner."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Test the credibility of court evidence."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Win people’s complete trust in them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are optimistic about its potential."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are sceptical of its reliability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They think it is but business promotion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They celebrate it with great enthusiasm."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is not to be trusted at all."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It does not sound economical."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may intrude into people’s privacy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may lead to overuse in court trials."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Most of its residents speak several languages."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some of its indigenous languages are dying out."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Each village there speaks a totally different language."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its languages have interested researchers the world over.\n\n2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are spread randomly across the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some are more difficult to learn than others."
+                  },
+                  {
+                    "label": "C",
+                    "text": "More are found in tropical regions than in the mild zones."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They enrich and impact each other in more ways than one."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They used different methods to collect and analyze data."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They identified distinct patterns of language distribution."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their conclusions do not correspond to their original hypotheses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There is no conclusive account for the cause of language diversity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its middle-class is disappearing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its wealth is rationally distributed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its population is rapidly growing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its cherished dream is coming true."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Success was but a dream without conscientious effort."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could realize their dreams through hard work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A few dollars could go a long way."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Wealth was shared by all citizens."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Better working conditions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Better-paying jobs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "High social status."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Full employment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Reduce the administrative costs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Adopt effective business models."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Hire part-time employees only."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Make use of the latest technology."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "Surfing the Internet during class doesn't just steal focus from the educator; it also hurts students who're already struggling to 26 the material. A new study from Michigan State University, though, argues that all students—including high achievers—see a decline in performance when they browse the Internet during class for non-academic purposes.\n\nTo measure the effects of Internet-based distractions during class, researchers 27 500 students taking an introductory psychology class at Michigan State University. Researchers used ACT scores as a measure of intellectual 28 . Because previous research has shown that people with high intellectual abilities are better at 29 out distractions, researchers believed students with high ACT scores would not show a 30 decrease in performance due to their use of digital devices. But students who surfed the web during class did worse on their exams regardless of their ACT scores, suggesting that even the academically smartest students are harmed when they're distracted in class.\n\nCollege professors are increasingly 31 alarm bells about the effects smartphones, laptops, and tablets have on academic performance. One 2013 study of college students found that 80% of students use their phones or laptops during class, with the average student checking their digital device 11 times in a 32 class. A quarter of students report that their use of digital devices during class causes their grades to 33\n\n3\n\nProfessors sometimes implement policies designed to 34 students' use of digital devices, and some instructors even confiscate (没收) tablets and phones. In a world where people are increasingly dependent on their phones, though, such strategies often fail. One international study found that 84% of people say they couldn't go a day without their smartphones. Until students are able to 35 the pull of social networking, texting, and endlessly surfing the web, they may continue to struggle in their classes.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "aptitude"
+        },
+        {
+          "label": "I",
+          "text": "obscure"
+        },
+        {
+          "label": "B",
+          "text": "eradication"
+        },
+        {
+          "label": "J",
+          "text": "obsess"
+        },
+        {
+          "label": "C",
+          "text": "evaluated"
+        },
+        {
+          "label": "K",
+          "text": "raising"
+        },
+        {
+          "label": "D",
+          "text": "evaporated"
+        },
+        {
+          "label": "L",
+          "text": "resist"
+        },
+        {
+          "label": "E",
+          "text": "filtering"
+        },
+        {
+          "label": "M",
+          "text": "significant"
+        },
+        {
+          "label": "F",
+          "text": "grasp"
+        },
+        {
+          "label": "N",
+          "text": "suffer"
+        },
+        {
+          "label": "G",
+          "text": "legacy"
+        },
+        {
+          "label": "O",
+          "text": "typical"
+        },
+        {
+          "label": "H",
+          "text": "minimize"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 130,
+          "end": 132
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 429,
+          "end": 431
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 572,
+          "end": 574
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 672,
+          "end": 674
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 761,
+          "end": 763
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1065,
+          "end": 1067
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1335,
+          "end": 1337
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1444,
+          "end": 1446
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1503,
+          "end": 1505
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1836,
+          "end": 1838
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "A Pioneering Woman of Science Re-Emerges after 300 Years",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Maria Sibylla Merian, like many European women of the 17th century, stayed busy managing a household and rearing children. But on top of that, Merian, a German-born woman who lived in the Netherlands, also managed a successful career as an artist, botanist, naturalist and entomologist （昆虫学家）."
+        },
+        {
+          "label": "B",
+          "text": "“She was a scientist on the level with a lot of people we spend a lot of time talking about,” said Kay Etheridge, a biologist at Gettysburg College in Pennsylvania who has been studying the scientific history of Merian’s work. “She didn't do as much to change biology as Charles Darwin, but she was significant.”"
+        },
+        {
+          "label": "C",
+          "text": "At a time when natural history was a valuable tool for discovery, Merian discovered facts about plants and insects that were not previously known. Her observations helped dismiss the popular belief that insects spontaneously emerged from mud. The knowledge she collected over decades didn't just satisfy those curious about nature, but also provided valuable insights into medicine and science. She was the first to bring together insects and their habitats, including food they ate, into a single ecological composition."
+        },
+        {
+          "label": "D",
+          "text": "After years of pleasing a fascinated audience across Europe with books of detailed descriptions and life-size paintings of familiar insects, in 1699 she sailed with her daughter nearly 5,000 miles from the Netherlands to South America to study insects in the jungles of what is now known as Suriname. She was 52 years old. The result was her masterpiece, Metamorphosis Insectorum Surinamensium."
+        },
+        {
+          "label": "E",
+          "text": "In her work, she revealed a side of nature so exotic, dramatic and valuable to Europeans of the time that she received much acclaim. But a century later, her findings came under scientific criticism. Shoddy （粗糙的）reproductions of her work along with setbacks to women's roles in 18th- and 19th-century Europe resulted in her efforts being largely forgotten. “It was kind of stunning when she sort of dropped off into oblivion （遗忘）,” said Dr. Etheridge. “Victorians started putting women in a box, and they're still trying to crawl out of it.”"
+        },
+        {
+          "label": "F",
+          "text": "Today, the pioneering woman of the sciences has re-emerged. In recent years, feminists, historians and artists have all praised Merian's tenacity （坚韧）, talent and inspirational artistic compositions. And now biologists like Dr. Etheridge\n\n4\n\nare digging into the scientific texts that accompanied her art. Three hundred years after her death, Merian will be celebrated at an international symposium in Amsterdam this June."
+        },
+        {
+          "label": "G",
+          "text": "And last month, Metamorphosis Insectorum Surinamensium was republished. It contains 60 plates （插图） and original descriptions, along with stories about Merian's life and updated scientific descriptions. Before writing Metamorphosis, Merian spent decades documenting European plants and insects that she published in a series of books. She began in her 20s, making textless, decorative paintings of flowers with insects. “Then she got really serious,” Dr. Etheridge said. Merian started raising insects at home, mostly butterflies and caterpillars. “She would sit up all night until they came out of the pupa （蛹） so she could draw them,” she said."
+        },
+        {
+          "label": "H",
+          "text": "The results of her decades' worth of careful observations were detailed paintings and descriptions of European insects, followed by unconventional visuals and stories of insects and animals from a land that most at the time could only imagine. It's possible Merian used a magnifying glass to capture the detail of the split tongues of sphinx moths （斯芬克\n\n斯飞蛾） depicted in the painting. She wrote that the two tongues combine to form one tube for drinking nectar （花蜜）Some criticized this detail later, saying there was just one tongue, but Merian wasn't wrong. She may have observed the adult moth just as it emerged from its pupa. For a brief moment during that stage of its life cycle, the tongue consists of two tiny half-tubes before merging into one."
+        },
+        {
+          "label": "I",
+          "text": "It may not have been ladylike to depict a giant spider devouring a hummingbird, but when Merian did it at the turn of the 18th century, surprisingly, nobody objected. Dr. Etheridge called it revolutionary. The image, which also contained novel descriptions of ants, fascinated a European audience that was more concerned with the exotic story unfolding before them than the gender of the person who painted it."
+        },
+        {
+          "label": "J",
+          "text": "“All of these things shook up their nice, neat little view,” Dr. Etheridge said. But later, people of the Victorian era thought differently. Her work had been reproduced, sometimes incorrectly. A few observations were deemed impossible. “She'd been called a silly woman for saying that a spider could eat a bird,” Dr. Etheridge said. But Henry Walter Bates, a friend of Charles Darwin, observed it and put it in book in 1863, proving Merian was correct."
+        },
+        {
+          "label": "K",
+          "text": "In the same plate, Merian depicted and described leaf-cutter ants for the first time. “In America there are large ants which can eat whole trees bare as a broom handle in a single night,” she wrote in the description. Merian noted how the ants took the leaves below ground to their young. And she wouldn't have known this at the time, but the ants use the leaves to farm fungi （菌类） underground to feed their developing babies."
+        },
+        {
+          "label": "L",
+          "text": "Merian was correct about the giant bird-eating spiders, ants building bridges with their bodies and other details. But in the same drawing, she incorrectly lumped together army and leaf-cutter ants. And instead of showing just the typical pair of eggs in a hummingbird nest, she painted four. She made other mistakes in Metamorphosis Insectorum Surinamensium as well: not every caterpillar and butterfly matched."
+        },
+        {
+          "label": "M",
+          "text": "Perhaps one explanation for her mistakes is that she cut short her Suriname trip after getting sick, and completed the book at home in Amsterdam. And errors are common among some of history's most-celebrated scientific minds, too. “These errors no more invalidate Ms. Merian's work than do well-known misconceptions published by Charles Darwin or Isaac Newton,” Dr. Etheridge wrote in a paper that argued that too many have wrongly focused on the mistakes of her work."
+        },
+        {
+          "label": "N",
+          "text": "Merian’s paintings inspired artists and ecologists. In an 1801 drawing from his book, General Zoology Amphibia, George Shaw, an English botanist and zoologist, credited Merian for describing a frog in the account of her South American expedition, and named the young tree frog after her in his portrayal of it. It wouldn't be fair to give Merian all the credit. She received assistance naming plants, making sketches and referencing the work of others. Her daughters helped her color her drawings."
+        },
+        {
+          "label": "O",
+          "text": "Merian also made note of the help she received from the natives of Suriname, as well as slaves or servants that assisted her. In some instances she wrote moving passages that included her helpers in descriptions. As she wrote in her description of the peacock flower, “The Indians, who are not treated well by their Dutch masters, use the seeds to abort their children, so that they will not become slaves like themselves. The black slaves from Guinea and Angola have demanded to\n\n5\n\nbe well treated, threatening to refuse to have children. In fact, they sometimes take their own lives because they are treated so badly, and because they believe they will be born again, free and living in their own land. They told me this themselves.”"
+        },
+        {
+          "label": "P",
+          "text": "Londa Schiebinger, a professor of the history of science at Stanford University, called this passage rather astonishing. It's particularly striking centuries later when these issues are still prominent in public discussions about social justice and women’s rights. “She was ahead of her time,” Dr. Etheridge said."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Merian was the first scientist to study a type of American ant."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The European audience was more interested in Merian's drawings than her gender."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Merian's masterpiece came under attack a century after its publication."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Merian’s mistakes in her drawings may be attributed to her shortened stay in South America."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Merian often sat up the whole night through to observe and draw insects."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Merian acknowledged the help she got from natives of South America."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Merian contributed greatly to people's better understanding of medicine and science."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Merian occasionally made mistakes in her drawings of insects and birds."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Now, Merian's role as a female forerunner in sciences has been re-established."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Merian made a long voyage to South America to study jungle insects over three centuries ago."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some question or unfinished statements. For each of them there are four choices marked A), B), C)and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "While human achievements in mathematics continue to reach new levels of complexity, many of us who aren't mathematicians at heart (or engineers by trade) may struggle to remember the last time we used calculus (微积分).\n\nIt’s a fact not lost on American educators, who amid rising math failure rates are debating how math can better meet the real-life needs of students. Should we change the way math is taught in schools, or eliminate some courses entirely?\n\nAndrew Hacker, Queens College political science professor, thinks that advanced algebra and other higher-level math should be cut from curricula in favor of courses with more routine usefulness, like statistics.\n\n“We hear on all sides that we're not teaching enough mathematics, and the Chinese are running rings around us,” Hacker says. “I'm suggesting we're teaching too much mathematics to too many people…not everybody has to know\n\ncalculus. If you're going to become an aeronautical (航空的) engineer, fine. But most of us aren't.”\n\nInstead, Hacker is pushing for more courses like the one he teaches at Queens College: Numeracy 101. There, his students of “citizen statistics” learn to analyze public information like the federal budget and corporate reports. Such courses, Hacker argues, are a remedy for the numerical illiteracy of adults who have completed high-level math like algebra but are unable to calculate the price of, say, a carpet by area.\n\nHacker's argument has met with opposition from other math educators who say what's needed is to help students develop a better relationship with math earlier, rather than teaching them less math altogether.\n\nMaria Droujkova is a founder of Natural Math, and has taught basic calculus concepts to 5-year-olds. For Droujkova, high-level math is important, and what it could use in American classrooms is an injection of childlike wonder.\n\n“Make mathematics more available,” Droujkova says. “Redesign it so it's more accessible to more kinds of people: young children, adults who worry about it, adults who may have had bad experiences.”\n\nPamela Harris, a lecturer at the University of Texas at Austin, has a similar perspective. Harris says that American\n\neducation is suffering from an epidemic of “fake math”—an emphasis on rote memorization (死记硬背) of formulas and steps, rather than an understanding of how math can influence the ways we see the world.\n\n6\n\nAndrew Hacker, for the record, remains skeptical.\n\n“I'm going to leave it to those who are in mathematics to work out the ways to make their subject interesting and exciting so students want to take it,” Hacker says. “All that I ask is that alternatives be offered instead of putting all of us on the road to calculus.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say about ordinary Americans?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They struggle to solve math problems."
+                },
+                {
+                  "label": "B",
+                  "text": "They think math is a complex subject."
+                },
+                {
+                  "label": "C",
+                  "text": "They find high-level math of little use."
+                },
+                {
+                  "label": "D",
+                  "text": "They work hard to learn high-level math."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What is the general complaint about America's math education according to Hacker?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "America is not doing as well as China."
+                },
+                {
+                  "label": "B",
+                  "text": "Math professors are not doing a good job."
+                },
+                {
+                  "label": "C",
+                  "text": "It doesn't help students develop their literacy."
+                },
+                {
+                  "label": "D",
+                  "text": "There has hardly been any innovation for years."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does Andrew Hacker's Numeracy 101 aim to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Allow students to learn high-level math step by step."
+                },
+                {
+                  "label": "B",
+                  "text": "Enable students to make practical use of basic math."
+                },
+                {
+                  "label": "C",
+                  "text": "Lay a solid foundation for advanced math studies."
+                },
+                {
+                  "label": "D",
+                  "text": "Help students to develop their analytical abilities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does Maria Droujkova suggest math teachers do in class?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Make complex concepts easy to understand."
+                },
+                {
+                  "label": "B",
+                  "text": "Start teaching children math at an early age."
+                },
+                {
+                  "label": "C",
+                  "text": "Help children work wonders with calculus."
+                },
+                {
+                  "label": "D",
+                  "text": "Try to arouse students' curiosity in math."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does Pamela Harris think should be the goal of math education?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To enable learners to understand the world better."
+                },
+                {
+                  "label": "B",
+                  "text": "To help learners to tell fake math from real math."
+                },
+                {
+                  "label": "C",
+                  "text": "To broaden Americans' perspectives on math."
+                },
+                {
+                  "label": "D",
+                  "text": "To exert influence on world development."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "For years, the U.S. has experienced a shortage of registered nurses. The Bureau of Labor Statistics projects that while the number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over one million unfilled nursing jobs by then.\n\nSo what's the solution? Robots.\n\nJapan is ahead of the curve when it comes to this trend. Toyohashi University of Technology has developed Terapio, a robotic medical cart that can make hospital rounds, deliver medications and other items, and retrieve records. It follows a specific individual, such as a doctor or nurse, who can use it to record and access patient data. This type of robot will likely be one of the first to be implemented in hospitals because it has fairly minimal patient contact.\n\nRobots capable of social engagement help with loneliness as well as cognitive functioning, but the robot itself doesn't have to engage directly—it can serve as an intermediary for human communication. Telepresence robots such as MantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or doctors to remotely monitor patients or Skype them, often via a screen where the robot's ‘face’ would be. If you can't get to the nursing home to visit grandma, you can use a telepresence robot to hang out with her. A 2016 study found that users had a “consistently positive attitude” about the Giraff robot's ability to enhance communication and decrease feelings of loneliness.\n\nA robot's appearance affects its ability to successfully interact with humans, which is why the RIKEN-TRI\n\n7\n\nCollaboration Center for Human-Interactive Robot Research decided to develop a robotic nurse that looks like a huge teddy bear. RIBA (Robot for Interactive Body\n\nOn the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the difference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use appropriate facial expressions and body language in its interactions. During a month-long hospital trial, researchers asked 70 patients how they felt being around the robot and “only three or four said they didn't like having it around.”\n\nIt's important to note that robotic nurses don't decide courses of treatment or make diagnoses (though robot doctors and surgeons may not be far off). Instead, they perform routine and laborious tasks, freeing nurses up to attend to patients with immediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about Japan?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It delivers the best medications for the elderly."
+                },
+                {
+                  "label": "B",
+                  "text": "It takes the lead in providing robotic care."
+                },
+                {
+                  "label": "C",
+                  "text": "It provides retraining for registered nurses."
+                },
+                {
+                  "label": "D",
+                  "text": "It sets the trend in future robotics technology."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn about the robot Terapio?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has been put to use in many Japanese hospitals."
+                },
+                {
+                  "label": "B",
+                  "text": "It provides specific individualized care to patients."
+                },
+                {
+                  "label": "C",
+                  "text": "It does not have much direct contact with patients."
+                },
+                {
+                  "label": "D",
+                  "text": "It has not revolutionized medical service in Japan."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What are telepresence robots designed to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Directly interact with patients to prevent them from feeling lonely."
+                },
+                {
+                  "label": "B",
+                  "text": "Cater to the needs of patients for recovering their cognitive capacity."
+                },
+                {
+                  "label": "C",
+                  "text": "Closely monitor the patients' movements and conditions around the clock."
+                },
+                {
+                  "label": "D",
+                  "text": "Facilitate communication between patients and doctors or family members."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What is one special feature of the robot Actroid F?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It interacts with patients just like a human companion."
+                },
+                {
+                  "label": "B",
+                  "text": "It operates quietly without patients realizing its presence."
+                },
+                {
+                  "label": "C",
+                  "text": "It likes to engage in everyday conversations with patients."
+                },
+                {
+                  "label": "D",
+                  "text": "It uses body language even more effectively than words."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What can we infer from the last paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Doctors and surgeons will soon be laid off."
+                },
+                {
+                  "label": "B",
+                  "text": "The robotics industry will soon take off."
+                },
+                {
+                  "label": "C",
+                  "text": "Robots will not make nurses redundant."
+                },
+                {
+                  "label": "D",
+                  "text": "Collaboration will not replace competition."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "中国越来越重视公共图书馆，并鼓励人们充分加以利用。新近公布的统计数字表明，中国的公共图书馆数量在逐年增长。许多图书馆通过翻新和扩建，为读者创造了更为安静、舒适的环境。大型公共图书馆不仅提供种类繁多的参考资料，而且定期举办讲座、展览等活动。近年来，也出现了许多数字图书馆，从而节省了存放图书所需的空间。一些图书馆还推出了自助服务系统，使读者借书还书更加方便，进一步满足了读者的需求。\n\n8"
+      }
+    ]
+  },
+  "id": "CET6-2018-12-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "C",
+        "explanation": "C)。详解对话开头,男士请女士为他以雕塑为背景拍一张照片,他认为这样拍出来的照片效果应该很不错。因此答案为 C)。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "A)。详解对话中男士说,他的梦想就是成为网络名人(也就是我们常说的“网红”)。因此答案为A)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)。详解 对话中男士说,他最近花了更多时间在编辑照片、将照片贴到网上以及清理手机的存储空间上。因此答案为 B)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)。详解对话最后女士提到,现在回想一下,自己的照片总是有各种各样的问题:似笑非笑、闭眼睛、头发乱糟糟。也就是说,她的照片都远不如人意。因此答案为A)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)。详解 对话开头男士提到,Physics Today 采访的是一些物理学界最伟大的专家,他们可以帮助我们理解一些最为深奥的物理学理论。因此,Physics Today 是对杰出的物理学家进行的一系列采访节目,答案为 D)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)。详解对话中女士说,她大部分时间都在研究宇宙大爆炸理论以及宇宙从何而来,也就是宇宙的起源。因此答案为B)。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "D)。详解对话中女士说,她感兴趣的是宇宙究竟为什么会存在。因此答案为 D)。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "A)。详解 短文中明确提到, Foreign Accent Syndrome(外国口音综合征)通常是由中风或脑外伤引起的。因此答案为 A)。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "C)。详解 短文最后提到,据报道,2010年有一名美国女性从楼梯上摔下来撞到了头部,之后她说话就带有俄罗斯口音。因此答案为 C)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)。详解 短文开头提到,水的一些特质使它成为生活的喻体。这也许就是为什么当生活的海洋变得波涛汹涌时,许多人在游泳中感受到轻松的一个原因。它也在某种程度上解释了为什么有关游泳的书籍最近变得越来越受欢迎。因此答案为 D)。"
+      },
+      "13": {
+        "answer": "B",
+        "explanation": "B)。详解 短文中提到,詹妮·兰德雷思最近出版了一本向人们介绍了伦敦最好的游泳地点的指南。因此答案为 B)。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "D)。详解 1892 年, The Gentlewoman's Book of Sport 一书中描述了一名女性游泳时的形象: 穿着厚重的裙子、靴子, 戴着帽子、手套, 甚至还撑着一把伞。也就是说, 维多利亚时代的女性在游泳时全身都裹得严严实实。因此答案为 D)。"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "B)。详解 讲座中提到,马萨诸塞州有一家公司声称他们通过大脑磁共振扫描判断一个人是否说谎的准确率可以高达97%。但是,没有多少大脑科学家会庆祝这一突破。这家公司可能非常乐观,但是机器测谎的能力还缺乏可靠的证据。因此答案为B)。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "C)。详解 讲话者提到,全球的语言并不是随意分布的,热带地区的语言远比温带地区的语言要多。因此答案为 C)。"
+      },
+      "21": {
+        "answer": "D",
+        "explanation": "D)。详解 讲座末尾提到,此前的研究结果各种各样,没能呈现任何清晰的模式。也就是说,关于语言多样性原因的研究,至今还没有结论性的解释。因此答案为 D)。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "A)。详解 讲座中提到,人口统计数据显示,美国的中产阶级正在消失,1% 的富人掌握着超过 90% 的财富。因此答案为 A)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "B)。详解 讲座中提到,从前,美国人认为,即使身处逆境,但只要努力工作,总能获得成功。因此答案为 B)。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "D)。详解 讲座中提到,如果去问低收入人群什么能够改变他们的生活,他们会说“一份全职工作”,这就是他们所渴求的。因此答案为 D)。"
+      },
+      "25": {
+        "answer": "C",
+        "explanation": "C)。详解 讲座中提到,为了增加利润,企业只雇用兼职员工,这样他们可以按照法定最低工资支付薪酬,还不用为他们提供全职员工所享有的医疗保健等一系列福利。因此答案为 C)。"
+      },
+      "26": {
+        "answer": "F",
+        "explanation": "grasp。详解 struggle to do sth. 意为“挣扎着做某事”, 这里的 to 为不定式符号, 因此空格处应填入动词原形。空格前的 already 暗示这些学生本来就对课堂内容理解困难, 故填入 F) grasp“理解, 领悟”。干扰项 I) obscure 意为“使模糊, 使费解”, 学生不会挣扎着使课堂内容更费解, 不符合逻辑, 故排除。"
+      },
+      "27": {
+        "answer": "C",
+        "explanation": "evaluated。详解 空格位于两个名词之间,应填入动词作谓语。本段的时态为一般过去时,故应填入动词的过去式。空格前出现了 measure“衡量”,可推测研究人员对这 500 名学生进行了评估,故填入 C) evaluated“评估,评价”。干扰项 D) evaporated“蒸发,消逝”为不及物动词,其后不能直接跟宾语且放在此处不符合句意,故排除。"
+      },
+      "28": {
+        "answer": "A",
+        "explanation": "aptitude。详解 空格位于形容词之后,应填入名词。“used...as...”意为“把……用作……”,这里是指研究人员把这些学生的大学入学考试成绩用作评估手段,用来评估他们的智力水平,故填入A) aptitude“天资,资质”。干扰项G) legacy“遗产,遗赠”,intellectual legacy表示“知识遗产”,放在此处不符合句意,故排除。"
+      },
+      "29": {
+        "answer": "E",
+        "explanation": "filtering。详解 空格位于介词之后,应填入名词或动名词,空格后出现了 out,因此空格填入动名词的可能性较大。be better at doing sth. 意为“更善于做某事”,故填入 E) filtering“过滤,滤掉”,此处意为“智力水平高的人更善于过滤使他们分心的事物”。干扰项 K) raising“提出,提及”不符合句意,也不和 out 搭配使用,故排除。"
+      },
+      "30": {
+        "answer": "M",
+        "explanation": "significant。详解 空格位于冠词和名词之间,应填入形容词。空格下一句用 but 表示转折,指出“那些课上上网的学生确实在考试中表现更差,无论他们之前入学考试的成绩如何”,因此推测空格所在句意为“研究人员本以为入学考试分数高的学生不会因使用数码产品而表现出明显的成绩下滑”,故填入 M) significant“显著的,明显的”。"
+      },
+      "31": {
+        "answer": "K",
+        "explanation": "raising。详解 空格位于系动词和名词之间,前面还出现了副词,应填入动词分词表示现在进行时。根据下一段内容可知,高校教师们针对学生课上使用数码产品的情况采取了一系列措施,空格后的 alarm bells 意为“警钟,警告”,因此推测这里想要表达“高校教师们警示人们数码产品带来的负面作用”之意,故填入 K) raising“提起,提出”。raise alarm bells 意为“发出警告”。"
+      },
+      "32": {
+        "answer": "O",
+        "explanation": "typical。详解 空格位于冠词和名词之间,应填入形容词。这里是在陈述研究结果:平均每个学生在一堂课上查看数码产品的次数高达11次,这是一个普遍现象,故填入O) typical“平常的,一贯如此的”。干扰项I) obscure“费解的,难懂的”虽然也能修饰class,但它是元音音素开头,不能使用a来修饰,故排除。"
+      },
+      "33": {
+        "answer": "N",
+        "explanation": "suffer。详解 空格位于短语 cause sb. / sth. to 之后, 这里的 to 是不定式符号, 因此空格处应填入动词原形。文章一直在陈述课上使用数码产品对学生成绩造成的负面影响, 因此这里应填入 N) suffer “变差, 遭受”。本题考查熟词僻义, suffer 最常见的意思是“遭受”, 但也可表示“变差, 恶化”。H) minimize“使减少, 降低”虽然符合句意, 但它是及物动词, 后面需要跟宾语, 不符合此处语法, 故排除。"
+      },
+      "34": {
+        "answer": "H",
+        "explanation": "minimize。详解 本句中的 designed“制定,设计”是过去分词作后置定语,修饰前面的 policies,空格前的 to 为不定式符号,表示目的。老师们实行这些政策是为了减少或消除学生课上使用数码产品的行为,故填入 H) minimize“使减少,降低”。干扰项 L) resist 表示“抵挡,忍住”时,后面跟的宾语一般是表示“变革”“攻击”之类的词,这与空格后面的宾语不搭,故排除。"
+      },
+      "35": {
+        "answer": "L",
+        "explanation": "resist。详解 空格位于短语 be able to 之后,应填入动词原形。空格后的宾语 pull 用作名词时,表示“吸引力,诱惑”。until 引导的从句表示条件,意为“除非学生能够抵挡住吸引力,否则他们将继续在课上苦苦挣扎。”故填入 L) resist“抵挡,忍住”。干扰项 J) obsess“使着迷,使迷恋”和句意相反,并且一般用于被动语态,当用在主动句中时,句子的主语一般为让某人着迷的事物,故排除。"
+      },
+      "46": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 the author 和 ordinary Americans 定位到文章首段: While human achievements in mathematics continue to reach new levels of complexity, many of us who aren't mathematicians at heart (or engineers by trade) may struggle to remember the last time we used calculus (微积分)."
+      },
+      "47": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 general complaint、America's math education 和 Hacker 定位到文章第四段第一句:“We hear on all sides that we're not teaching enough mathematics, and the Chinese are running rings around us,” Hacker says."
+      },
+      "48": {
+        "answer": "B",
+        "explanation": "。定位 根据题干中的 Numeracy 101 定位到文章第五段第一句: Instead, Hacker is pushing for more courses like the one he teaches at Queens College: Numeracy 101. 和第三句: Such courses, Hacker argues, are a remedy for the numerical illiteracy of adults who have completed high-level"
+      },
+      "49": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Maria Droujkova 和 in class 定位到文章第七段第二句: For Droujkova, high-level math is important, and what it could use in American classrooms is an injection of childlike wonder. 2018.12/21 (第2套)"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 Japan 定位到文章第三段第一句: Japan is ahead of the curve when it comes to this trend."
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 Terapio 定位到文章第三段最后一句: This type of robot will likely be one of the first to be implemented in hospitals because it has fairly minimal patient contact."
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 telepresence robots 和 designed 定位到文章第四段第二句: Telepresence robots such as MantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or doctors to remotely monitor patients or Skype them, often via a screen where the robot's 'face' would be."
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Actroid F 定位到文章第六段第一句和第二句: On the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the difference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use"
+      },
+      "55": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 the last paragraph 定位到文章最后一段: It's important to note that robotic nurses don't decide courses of treatment or make diagnoses (though robot doctors and surgeons may not be far off). Instead, they perform routine and laborious tasks, freeing nurses up to attend to patients with immediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement."
+      }
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "CET6-2022-06-1": {
+    "src": "/static/audio/CET6-2022-06-1.m4a",
+    "sha256": "baf049101a22b4b7077ad0a76c0e0145e4cea2aae9033378ee9da107eb13e1e2",
+    "bytes": 13944033
+  },
+  "CET6-2022-06-2": {
+    "src": "/static/audio/CET6-2022-06-1.m4a",
+    "sha256": "baf049101a22b4b7077ad0a76c0e0145e4cea2aae9033378ee9da107eb13e1e2",
+    "bytes": 13944033
+  },
+  "CET6-2022-06-3": {
+    "src": "/static/audio/CET6-2022-06-1.m4a",
+    "sha256": "baf049101a22b4b7077ad0a76c0e0145e4cea2aae9033378ee9da107eb13e1e2",
+    "bytes": 13944033
+  },
+  "CET6-2022-09-1": {
+    "src": "/static/audio/CET6-2022-09-1.mp3",
+    "sha256": "4b67329de56971b4edf2b55eacbfe2369e778f15365b49f7717e67814385e4bd",
+    "bytes": 69537756
+  },
+  "CET6-2022-09-2": {
+    "src": "/static/audio/CET6-2022-09-1.mp3",
+    "sha256": "4b67329de56971b4edf2b55eacbfe2369e778f15365b49f7717e67814385e4bd",
+    "bytes": 69537756
+  },
+  "CET6-2022-09-3": {
+    "src": "/static/audio/CET6-2022-09-1.mp3",
+    "sha256": "4b67329de56971b4edf2b55eacbfe2369e778f15365b49f7717e67814385e4bd",
+    "bytes": 69537756
+  },
+  "CET6-2022-12-1": {
+    "src": "/static/audio/CET6-2022-12-1.m4a",
+    "sha256": "3c44ab29e498f31d6fd3fe4161b100b95d4aefbe1058ec746caec61adf2f2fda",
+    "bytes": 19911175
+  },
+  "CET6-2022-12-2": {
+    "src": "/static/audio/CET6-2022-12-2.m4a",
+    "sha256": "765025e97ae8a0860713a27b1504394d738722a11ee0e891ea9ccc02a1e07a5a",
+    "bytes": 19307494
+  },
+  "CET6-2023-06-1": {
+    "src": "/static/audio/CET6-2023-06-1.m4a",
+    "sha256": "2cf3e68b98488d9f091bbf27aea208ee5567e2c0cbc8e2af0aae2d2e23b6dd48",
+    "bytes": 20119016
+  },
+  "CET6-2023-06-2": {
+    "src": "/static/audio/CET6-2023-06-2.m4a",
+    "sha256": "ec04e996cc9f92d13f6803fdc5c236f5c81402b5524ba301f0ca595df8e05b9c",
+    "bytes": 20119815
+  },
+  "CET6-2024-12-1": {
+    "src": "/static/audio/CET6-2024-12-1.mp3",
+    "sha256": "fc55a9951fae6b300a077197f0ca403b7fd2f60dd3dbb7eeb0b212af07a29660",
+    "bytes": 70863497
+  },
+  "CET6-2024-12-2": {
+    "src": "/static/audio/CET6-2024-12-2.mp3",
+    "sha256": "a1e3b6fc1f5fd2c7cd5dc33cc76d1a222bd896048d537c1f7169b7e333f3d8ad",
+    "bytes": 27895942
+  },
+  "CET6-2025-06-1": {
+    "src": "/static/audio/CET6-2025-06-1.mp3",
+    "sha256": "32777b31c58942a0d2a5f24c1e4f1c5d4c8119604b6008e256c10c5f92975f85",
+    "bytes": 18501013
+  },
+  "CET6-2025-12-1": {
+    "src": "/static/audio/CET6-2025-12-1.mp3",
+    "sha256": "7da0ff4ec10d0ac8fe1fc5aae6b79e05c64dd9a00557b2582e45f5f7e6f554e1",
+    "bytes": 37060775
+  },
+  "CET6-2025-12-2": {
+    "src": "/static/audio/CET6-2025-12-2.mp3",
+    "sha256": "902d5075868b33864cbbd3113ac1c4f4ee443d77b4886eee11792085f466de95",
+    "bytes": 25163452
+  },
+  "CET6-2026-06-1": {
+    "src": "/static/audio/CET6-2026-06-1.mp3",
+    "sha256": "408b12bf018af7053270b270d51267e901f17a7ea8d5b87f528d733352b8b4bd",
+    "bytes": 20225317
+  },
+  "CET4-2023-06-1": {
+    "src": "/static/audio/CET4-2023-06-1.m4a",
+    "sha256": "3808cc88faa3ab039a66839df17980d0c8273e4465942ba5aefb0122eb155f94",
+    "bytes": 17433846
+  },
+  "CET4-2023-06-2": {
+    "src": "/static/audio/CET4-2023-06-2.m4a",
+    "sha256": "cd9a1521a33fa280ebfb23e9a59ab6854609eb489b2bb42d57164df929d2bc2c",
+    "bytes": 17366304
+  },
+  "CET4-2023-06-3": {
+    "src": "/static/audio/CET4-2023-06-3.m4a",
+    "sha256": "cd9a1521a33fa280ebfb23e9a59ab6854609eb489b2bb42d57164df929d2bc2c",
+    "bytes": 17366304
+  },
+  "CET4-2023-12-1": {
+    "src": "/static/audio/CET4-2023-12-1.mp3",
+    "sha256": "86b9bae2635a81584a3cc60bd3fe21144fbaace9c977fe62bd774aee24ee417e",
+    "bytes": 23778228
+  },
+  "CET4-2023-12-2": {
+    "src": "/static/audio/CET4-2023-12-2.mp3",
+    "sha256": "cbda688a0b6e7b7809a64449a2beb42f146ef393d20e7b976f62f281917017a5",
+    "bytes": 59754825
+  },
+  "CET4-2024-06-1": {
+    "src": "/static/audio/CET4-2024-06-1.mp3",
+    "sha256": "3138dd4a84c4d9cf6de184efd41f7a5bd4a91d1aec518ccaf5944bdecda8e649",
+    "bytes": 22562096
+  },
+  "CET4-2024-06-2": {
+    "src": "/static/audio/CET4-2024-06-2.mp3",
+    "sha256": "1afc96eae88670d98ba389ab3e35283a9a93ae156359e1036fb8e5b22c89e364",
+    "bytes": 22652772
+  },
+  "CET4-2024-12-1": {
+    "src": "/static/audio/CET4-2024-12-1.mp3",
+    "sha256": "38ee3cfa972a8781df6ebda33d06267249e15029f7a6f42657d14422fa1e574f",
+    "bytes": 7025520
+  },
+  "CET4-2024-12-2": {
+    "src": "/static/audio/CET4-2024-12-2.mp3",
+    "sha256": "9aaa333bac54d826a67355b5a82b8d7453a782013be2dd51941e608b982ebb5b",
+    "bytes": 10819336
+  },
+  "CET4-2025-06-1": {
+    "src": "/static/audio/CET4-2025-06-1.mp3",
+    "sha256": "08ffbda6e40a3872e19453eafc34e022f45af0fde12488d4b938155b2f325e8f",
+    "bytes": 15273895
+  }
+}

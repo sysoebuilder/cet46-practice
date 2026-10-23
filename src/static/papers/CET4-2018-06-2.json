@@ -1,0 +1,1477 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30minutes to write a short essay on the importance of writing ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30minutes to write a short essay on the importance of writing ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30minutes to write a short essay on the importance of writing ability and how to develop it. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Annoyed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Scared."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Confused."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Offended."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It crawled over the woman's hands."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It wound up on the steering wheel."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was killed by the police on the spot."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was covered with large scales."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A study of the fast-food service."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Fast food customer satisfaction."
+                  },
+                  {
+                    "label": "C",
+                    "text": "McDonald's new business strategies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Competition in the fast-food industry."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Customers' higher demands."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The inefficiency of employees."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Increased variety of products."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The rising number of customers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "International treaties regarding space travel programs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Legal issues involved in commercial space exploration."
+                  },
+                  {
+                    "label": "C",
+                    "text": "U.S. government's approval of private space missions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Competition among public and private space companies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Deliver scientific equipment to the moon."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Approve a new mission to travel into outer space.\n\n1"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Work with federal agencies on space programs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Launch a manned spacecraft to Mars."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is significant."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is promising."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is unpredictable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is unprofitable."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will bespoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1with a si ngle line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Visiting her family in Thailand."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Showing friends around Phuket."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Swimming around a Thai island."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Lying in the sun on a Thai beach."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She visited a Thai orphanage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She met a Thai girl's parents."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She learned some Thai words."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She sunbathed on a Thai beach."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His class will start in a minute."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has got an incoming phone call."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Someone is knocking at his door."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His phone is running out of power."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is interested in Thai artworks."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is going to open a souvenir shop."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He collects things from different countries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He wants to know more about Thai culture."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Buying some fitness equipment for the new gym."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Opening a gym and becoming personal trainers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Signing up for a weight-loss course."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Trying out a new gym in town."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Professional personal training."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Free exercise for the first week."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A discount for a half-year membership."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Additional benefits for young couples."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The safety of weight-lifting."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The high membership fee."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The renewal of his membership."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The operation of fitness equipment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She wants her invitation renewed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She used to do 200 sit-ups every day.\n\n2"
+                  },
+                  {
+                    "label": "C",
+                    "text": "She knows the basics of weight-lifting."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She used to be the gym's personal trainer."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.After yo u hear a question, you must choose the best answer from the four choices marked A),B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They tend to be nervous during interviews."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They often apply for a number of positions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They worry about the results of their applications."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They search extensively for employers' information."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Get better organized."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Edit their references."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find better-paid jobs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Analyze the searching process."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Provide their data in detail."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Personalize each application."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make use of better search engines."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Apply for more promising positions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "If kids did not like school, real learning would not take place."
+                  },
+                  {
+                    "label": "B",
+                    "text": "If not forced to go to school, kids would be out in the streets."
+                  },
+                  {
+                    "label": "C",
+                    "text": "If schools stayed the way they are, parents were sure to protest."
+                  },
+                  {
+                    "label": "D",
+                    "text": "If teaching failed to improve, kids would stay away from school."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Allow them to play interesting games in class."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Try to stir up their interest in lab experiments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Let them stay home and learn from their parents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Design activities they now enjoy doing on holidays."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Allow kids to learn at their own pace."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Encourage kids to learn from each other."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Organize kids into various interest groups."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Take kids out of school to learn at first hand."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is especially popular in Florida and Alaska."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a major social activity among the young."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is seen almost anywhere and on any occasion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is even more expressive than the written word."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is located in a big city in Iowa."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is really marvelous to look at."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It offers free dance classes to seniors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It offers people a chance to socialize."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their state of mind improved."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They became better dancers.\n\n3"
+                  },
+                  {
+                    "label": "C",
+                    "text": "They enjoyed better health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their relationship strengthened."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is fun."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is exhausting."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is rhythmical."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with10 blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with10 blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Since the 1940s, southern California has had a reputation for smog. Things are not as bad as they once were but, according to the American Lung Association, Los Angeles is still the worst city in the United States for levels of 26 . Gazing down on the city from the Getty Center, an art museum in the Santa Monica Mountains, one would find the view of the Pacific Ocean blurred by the haze (霾). Nor is the state's bad air 27 to its south. Fresno, in the central valley, comes top of the list in America for year-round pollution. Residents' hearts and lungs are affected as a 28 . All of which, combined with California's reputation as the home of technological _29 , makes the place ideal for developing and testing systems designed to monitor pollution in 30 . And that is just what Aclima, a new firm in San Francisco, has been doing over the past few months. It has been trying out monitoring stations that are 31 to yield minute-to-minute maps of 32 air pollution. Such stations will also be able to keep an eye on what is happening inside buildings, including offices.\n\nTo this end, Aclima has been 33 with Google's Street View system. Davida Herzl, Aclima's boss, says they have revealed pollution highs on days when San Francisco's transit workers went on strike and the city's 34 were forced to use their cars. Conversely, \"cycle to work\" days have done their job by 35 pollution lows.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "assisted"
+        },
+        {
+          "label": "B",
+          "text": "collaborating"
+        },
+        {
+          "label": "C",
+          "text": "consequence"
+        },
+        {
+          "label": "D",
+          "text": "consumers"
+        },
+        {
+          "label": "E",
+          "text": "creating"
+        },
+        {
+          "label": "F",
+          "text": "detail"
+        },
+        {
+          "label": "G",
+          "text": "domestic"
+        },
+        {
+          "label": "H",
+          "text": "frequently"
+        },
+        {
+          "label": "I",
+          "text": "inhabitants"
+        },
+        {
+          "label": "J",
+          "text": "innovation"
+        },
+        {
+          "label": "K",
+          "text": "intended"
+        },
+        {
+          "label": "L",
+          "text": "outdoor"
+        },
+        {
+          "label": "M",
+          "text": "pollutants"
+        },
+        {
+          "label": "N",
+          "text": "restricted"
+        },
+        {
+          "label": "O",
+          "text": "sum"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 228,
+          "end": 230
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 422,
+          "end": 424
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 575,
+          "end": 577
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29 ",
+          "start": 661,
+          "end": 665
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 757,
+          "end": 759
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 914,
+          "end": 916
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 951,
+          "end": 953
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1104,
+          "end": 1106
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1285,
+          "end": 1287
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1375,
+          "end": 1377
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "As Tourists Crowd Out Locals, Venice Faces 'Endangered' List",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "On a recent fall morning, a large crowd blocked the steps at one of Venice's main tourist sites, the Rialto Bridge. The Rialto Bridge is one of the four bridges spanning the Grand Canal. It is the oldest bridge across the canal, and was the dividing line between the districts of San Marco and San Polo. But on this day, there was a twist: it was filled with Venetians, not tourists.\n\n4"
+        },
+        {
+          "label": "B",
+          "text": "\"People are cheering and holding their carts in the air,\" says Giovanni Giorgio, who helped organize the march with a grass-roots organization called Generazione '90. The carts he refers to are small shopping carts—the symbol of a true Venetian. \"It started as a joke,\" he says with a laugh. \"The idea was to put blades on the wheels! You know? Like Ben Hur. Precisely like that, you just go around and run people down.\""
+        },
+        {
+          "label": "C",
+          "text": "Venice is one of the hottest tourist destinations in the world. But that's a problem. Up to 90,000 tourists crowd its streets and canals every day—far outnumbering the 55,000 permanent residents. The tourist increase is one key reason the city's population is down from 175,000 in the 1950s. The outnumbered Venetians have been steadily fleeing. And those who stick around are tired of living in a place where they can't even get to the market without swimming through a sea of picture-snapping tourists. Imagine, navigating through 50,000 people while on the way to school or to work."
+        },
+        {
+          "label": "D",
+          "text": "Laura Chigi, a grandmother at the march, says the local and national governments have failed to do anything about the crowds for decades, because they're only interested in tourism—the primary industry in Venice, worth more than \\$3 billion in 2015. \"Venice is a cash cow,\" she says, \"and everyone wants a piece.\""
+        },
+        {
+          "label": "E",
+          "text": "Just beyond St. Mark's Square, a cruise ship passes, one of hundreds every year that appear over their medieval (中世纪的) surroundings. Their massive wake creates waves at the bottom of the sea, weakening the foundations of the centuries-old buildings themselves. \"Every time I see a cruise ship, I feel sad,\" Chigi says. \"You see the mud it drags; the destruction it leaves in its wake? That hurts the ancient wooden poles holding up the city underwater. One day we'll see Venice break down.\""
+        },
+        {
+          "label": "F",
+          "text": "For a time, UNESCO, the cultural wing of the United Nations, seemed to agree. Two years ago, it put Italy on notice, saying the government was not protecting Venice. UNESCO considers the entire city a World Heritage Site, a great honor that means Venice, at the cultural level, belongs to all of the world's people. In 2014, UNESCO gave Italy two years to manage Venice's flourishing tourism or the city would be placed on another list—World Heritage In Danger, joining such sites as Aleppo and Palmyra, destroyed by the war in Syria."
+        },
+        {
+          "label": "G",
+          "text": "Venice's deadline passed with barely a murmur (嘟哝) this summer, just as UNESCO was meeting in Istanbul. Only one representative, Jad Tabet from Lebanon, tried to raise the issue. \"For several years, the situation of heritage in Venice has been worsening, and it has now reached a dramatic situation,\" Tabet told UNESCO. \"We have to act quickly—there is not a moment to waste.\""
+        },
+        {
+          "label": "H",
+          "text": "But UNESCO didn't even hold a vote. \"It's been postponed until 2017,\" says Anna Somers, the founder and CEO of The Art Newspaper and the former head of Venice in Peril, a group devoted to restoring Venetian art. She says the main reason the U.N. cultural organization didn't vote to declare Venice a World Heritage Site In Danger is because UNESCO has become\n\n5\n\n\"intensely politicized. There would have been some back-room negotiations.\""
+        },
+        {
+          "label": "I",
+          "text": "Italy boasts more UNESCO World Heritage Sites than any other country in the world, granting it considerable power and influence within the organization. The former head of the UNESCO World Heritage Centre, which oversees heritage sites, is Francesco Bandarin, a Venetian who now serves as UNESCO's assistant director-general for culture."
+        },
+        {
+          "label": "J",
+          "text": "Earlier this year, Italy signed an accord with UNESCO to establish a task force of police art detectives and archaeologists (考古学家) to protect cultural heritage from natural disasters and terror groups, such as ISIS. The accord underlined Italy's global reputation as a good steward of art and culture."
+        },
+        {
+          "label": "K",
+          "text": "But adding Venice to the UNESCO endangered list—which is dominated by sites in developing and conflict-ridden countries—would be an international embarrassment, and could even hurt Italy's profitable tourism industry. The Italian Culture Ministry says it is unaware of any government efforts to pressure UNESCO. As for the organization itself, it declined a request for an interview."
+        },
+        {
+          "label": "L",
+          "text": "The city's current mayor, Luigi Brugnaro, has ridiculed UNESCO and told it to mind its own business, while continuing to support the cruise ship industry, which employs 5,000 Venice residents."
+        },
+        {
+          "label": "M",
+          "text": "As for Venetians, they're beyond frustrated and hoping for a solution soon. \"It's a nightmare for me. Some situations are really difficult with tourists around,\" says Giorgio as he navigates around a swelling crowd at the Rialto Bridge. \"There are just so many of them. They never know where they are going, and do not walk in an orderly manner. Navigating the streets can be exhausting.\""
+        },
+        {
+          "label": "N",
+          "text": "Then it hits him: This crowd isn't made up of tourists. They're Venetians. Giorgio says he's never experienced the Rialto Bridge this way in all his 22 years. \"For once, we are the ones who are blocking the traffic,\" he says delightedly. \"It feels unreal. It feels like we're some form of endangered species. It's just nice. The feeling is just pure.\" But, he worries, if tourism isn't managed and his fellow locals continue to move to the mainland, his generation might be the last who can call themselves native Venetians."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "The passing cruise ships will undermine the foundations of the ancient buildings in Venice."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The Italian government has just reached an agreement with UNESCO to take measures to protect its cultural heritage."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The heritage situation in Venice has been deteriorating in the past few years."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The decrease in the number of permanent residents in Venice is mainly due to the increase of tourists."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "If tourism gets out of control, native Venetians may desert the city altogether one day."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "UNESCO urged the Italian government to undertake its responsibility to protect Venice.\n\n6"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The participants in the Venetian march used shopping carts to show they were 100% local residents."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Ignoring UNESCO's warning, the mayor of Venice maintains his support of the city's tourism industry."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "One woman says that for decades the Italian government and local authorities have only focused on the revenues from tourism."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "UNESCO has not yet decided to put Venice on the list of World Heritage Sites In Danger. Section C"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Living in an urban area with green spaces has a long-lasting positive impact on people's mental well-being, a study has suggested. UK researchers found moving to a green space had a sustained positive effect, unlike pay rises or promotions, which only provided a short-term boost. Co-author Mathew White, from the University of Exeter, UK, explained that the study showed people living in greener urban areas were displaying fewer signs of depression or anxiety. \"There could be a number of reasons,\" he said, \"for example, people do many things to make themselves happier: they strive for promotion or pay rises, or they get married. But the trouble with those things is that within six months to a year, people are back to their original baseline levels of well-being. So, these things are not sustainable; they don't make us happy in the long term. We found that for some lottery (彩票) winners who had won more than ￡500,000 the positive effect was definitely there, but after six months to a year, they were back to the baseline.\"\n\nDr. White said his team wanted to see whether living in greener urban areas had a lasting positive effect on people's sense of well-being or whether the effect also disappeared after a period of time. To do this, the team used data from the British Household Panel Survey compiled by the University of Essex.\n\nExplaining what the data revealed, he said: \"What you see is that even after three years, mental health is still better, which is unlike many other things that we think will make us happy.\" He observed that people living in green spaces were less stressed, and less stressed people made more sensible decisions and communicated better.\n\nWith a growing body of evidence establishing a link between urban green spaces and a positive impact on human well-being, Dr. White said, \"There's growing interest among public policy officials, but the trouble is who funds it. What we really need at a policy level is to decide where the money will come from to help support good quality local green spaces.\"\n\n7",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "According to one study, what do green spaces do to people?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Improve their work efficiency."
+                },
+                {
+                  "label": "B",
+                  "text": "Add to their sustained happiness."
+                },
+                {
+                  "label": "C",
+                  "text": "Help them build a positive attitude towards life."
+                },
+                {
+                  "label": "D",
+                  "text": "Lessen their concerns about material well-being."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does Dr. White say people usually do to make themselves happier?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Earn more money."
+                },
+                {
+                  "label": "B",
+                  "text": "Settle in an urban area."
+                },
+                {
+                  "label": "C",
+                  "text": "Gain fame and popularity."
+                },
+                {
+                  "label": "D",
+                  "text": "Live in a green environment."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does Dr. White try to find out about living in a greener urban area?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "How it affects different people."
+                },
+                {
+                  "label": "B",
+                  "text": "How strong its positive effect is."
+                },
+                {
+                  "label": "C",
+                  "text": "How long its positive effect lasts."
+                },
+                {
+                  "label": "D",
+                  "text": "How it benefits people physically."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What did Dr. White's research reveal about people living in a green environment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their stress was more apparent than real."
+                },
+                {
+                  "label": "B",
+                  "text": "Their decisions required less deliberation."
+                },
+                {
+                  "label": "C",
+                  "text": "Their memories were greatly strengthened."
+                },
+                {
+                  "label": "D",
+                  "text": "Their communication with others improved."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "According to Dr. White, what should the government do to build more green spaces in cities?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Find financial support."
+                },
+                {
+                  "label": "B",
+                  "text": "Improve urban planning."
+                },
+                {
+                  "label": "C",
+                  "text": "Involve local residents in the effort."
+                },
+                {
+                  "label": "D",
+                  "text": "Raise public awareness of the issue.Passage Two Passage Two\n\nQuestions 51 to 55 are based on the following passage.\n\nYou probably know about the Titanic, but it was actually just one of three state-of-the-art (先进的) ocean ships back in the day. The Olympic class ships were built by the Harland &amp; Wolff ship makers in Northern Ireland for the White Star Line company. The Olympic class included the Olympic, the Britannic and the Titanic. What you may not know is that the Titanic wasn't even the flagship of this class. All in all, the Olympic class ships were marvels of sea engineering, but they seemed cursed to suffer disastrous fates.\n\nThe Olympic launched first in 1910, followed by the Titanic in 1911, and lastly the Britannic in 1914. The ships had nine decks, and White Star Line decided to focus on making them the most luxurious ships on the water.\n\nStretching 269.13 meters, the Olympic class ships were wonders of naval technology, and everyone thought that they would continue to be so for quite some time. However, all suffered\n\n8\n\nterrible accidents on the open seas. The Olympic got wrecked before the Titanic did, but it was the only one to survive and maintain a successful career of 24 years. The Titanic was the first to sink after famously hitting a huge iceberg in 1912. Following this disaster, the Britannic hit a naval mine in 1916 and subsequently sank as well.\n\nEach ship was coal-powered by several boilers constantly kept running by exhausted crews below deck. Most recognizable of the ship designs are the ship's smoke stacks, but the fourth stack was actually just artistic in nature and served no functional purpose. While two of these ships sank, they were all designed with double hulls (船体) believed to make them \"unsinkable\", perhaps a mistaken idea that led to the Titanic's and the Britannic's tragic end.\n\nThe Olympic suffered two crashes with other ships and went on to serve as a hospital ship and troop transport in World War I. Eventually, she was taken out of service in 1935, ending the era of the luxurious Olympic class ocean liners."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the passage say about the three Olympic class ships?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They performed marvellously on the sea."
+                },
+                {
+                  "label": "B",
+                  "text": "They could all break the ice in their way."
+                },
+                {
+                  "label": "C",
+                  "text": "They all experienced terrible misfortunes."
+                },
+                {
+                  "label": "D",
+                  "text": "They were models of modern engineering."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What did White Star Line have in mind when it purchased the three ships?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their capacity of sailing across all waters."
+                },
+                {
+                  "label": "B",
+                  "text": "The utmost comfort passengers could enjoy."
+                },
+                {
+                  "label": "C",
+                  "text": "Their ability to survive disasters of any kind."
+                },
+                {
+                  "label": "D",
+                  "text": "The long voyages they were able to undertake."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What is said about the fourth stack of the ships?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was a mere piece of decoration."
+                },
+                {
+                  "label": "B",
+                  "text": "It was the work of a famous artist."
+                },
+                {
+                  "label": "C",
+                  "text": "It was designed to let out extra smoke."
+                },
+                {
+                  "label": "D",
+                  "text": "It was easily identifiable from afar."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What might have led to the tragic end of the Titanic and the Britannic?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their unscientific designs."
+                },
+                {
+                  "label": "B",
+                  "text": "Their captains' misjudgment."
+                },
+                {
+                  "label": "C",
+                  "text": "The assumption that they were built with the latest technology."
+                },
+                {
+                  "label": "D",
+                  "text": "The belief that they could never sink with a double-layer body."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What happened to the ship Olympic in the end?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She was used to carry troops."
+                },
+                {
+                  "label": "B",
+                  "text": "She was sunk in World War I."
+                },
+                {
+                  "label": "C",
+                  "text": "She was converted into a hospital ship."
+                },
+                {
+                  "label": "D",
+                  "text": "She was retired after her naval service.\n\n9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "公交车曾是中国人出行的主要交通工具。近年来，由于私家车数量不断增多，城市的交通问题越来越严重。许多城市为了鼓励更多人乘坐公交车出行，一直在努力改善公交车的服务质量。车辆的设施不断更新，车速也有了显著提高。然而，公交车的票价却依然相当低廉。现在，在大多数城市，许多当地老年市民都可以免费乘坐公交车。\n\n10"
+      }
+    ]
+  },
+  "id": "CET4-2018-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "详解:新闻开篇指出，新罕布什尔州的一位先生把一个装有便条的瓶子扔到海里，五十年后被人在 1,500 英里外的海滩捡到并归还给这位先生的女儿。由此可知，新闻的主要内容是漂流瓶中的便条归还主人女儿，答案为 A。"
+      },
+      "2": {
+        "answer": "B",
+        "explanation": "详解:新闻中提到，Buffington 飞往新罕布什尔州，将便条给了 Paula Pierce. Paula Pierce 遵守父亲的承诺，给予Buffington 便条中所说的 150 美元的奖励。由此可知，Paula Pierce 给 Buffington 奖励就是为了遵守父亲当年的承诺，答案为 B。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "详解:新闻中提到，大部分死亡的蜜蜂来自一个叫作 Flowertown 的养蜂场，死亡蜜蜂约 250 万只。因此答案为 C。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "详解:新闻开头指出，世界上最大的飞机 Airalnder 10 第一次升空。该飞机在英国贝德福德郡的科丁顿机场起飞，飞行了将近两个小时。因此答案为 A。"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "详解:新闻中提到，Airlander 10 最初是作为远程间谍飞机位美国政府开发的，但（政府）预算削减后就被放弃了。由此可知，美国政府放弃 Airlander 10 的原因是资金不足，答案为 C。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "详解:新闻中提到，Airlander 10 耗资 2,500 万英镑，比大型喷气飞机载重大，然而它的噪音却更小，污染也更少。由此可知，Airlander 10 为更加环保型的飞机，答案为 D。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "详解:对话开头，男士说有一场关于气候变化的电影，问女士要不要去看，女士说气候变化是个重要的话题，但是她没有心情看令人沮丧的内容，即女士认为气候变化是一个令人沮丧的话题，答案为 A。"
+      },
+      "9": {
+        "answer": "D",
+        "explanation": "详解:对话中女士表示不喜欢有关气候变化的电影，继而追问是否还有其他娱乐项目，当男士告知女士 7 点半有西班牙舞蹈节表演的时候，女士表示没有足够的时间赶到那里。因此答案为 D。"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "详解:对话中，男士告知女士剧院今晚喜剧特别节目，评论员在当地报纸上说这是他看过的最滑稽的表演。因此答案为 C。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "详解:女士非常担心自己年龄小不能适应新学校的生活。男士说她可以参加学校的各种课外活动，这样就能认识不同年龄段的朋友。由此可知，男士鼓励女士参加课外活动，故答案为 C。"
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "详解:对话中，男士建议女士参加课外活动，并安慰女士不要太担心，尽量充分利用学校提供的一切，并告诉女士如果需哟啊帮助可以随时找他。因此答案为 A。"
+      },
+      "15": {
+        "answer": "D",
+        "explanation": "详解:对话末尾，男士指出，Bree 和女士一样，也是新来的学生。因此答案为 D。"
+      },
+      "16": {
+        "answer": "B",
+        "explanation": "详解:短文中提到，对老鼠的一项新研究解释了为什么饥饿是强大的动力源泉，饥饿战胜了其他身体本能的需求，包括恐惧、口渴和社交需求。为了确定哪种感觉的影响更胜一筹，研究人员做了一系列的实验。因此答案为 B。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "详解:短文中提到，在第二个实验中研究者把老鼠的饥饿与恐惧作对照研究，结果表明，当老鼠饿了的时候，它们会冒险进入不安全的地方寻找食物。因此答案为 A。"
+      },
+      "18": {
+        "answer": "C",
+        "explanation": "详解:短文末尾提到，老鼠通常是群居动物，喜欢成群结伴。因此答案为 C。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "详解:短文开头指出，美国拥有世界上最好的高速公路系统之一。因此答案为 D。"
+      },
+      "20": {
+        "answer": "B",
+        "explanation": "建造公路的最初动机是部队转移的需求，答案为 B。"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "详解:短文末尾提到，从 20 世纪 50 年代起，美国国会拨款建造公路系统，直到 1974 年，公路系统建造基本完成。因此答案为 A。"
+      },
+      "22": {
+        "answer": "B",
+        "explanation": "详解:短文开头提到，开车时发短信被列为 2013 年美国年轻人死于交通事故的一个主要原因。因此答案为 B。"
+      },
+      "23": {
+        "answer": "D",
+        "explanation": "详解:短文中提到，为提醒开车时发短信的驾驶员，Evarts 发明了智能方向盘（Smart Wheel），该设备适用于多数标准车辆的方向盘，可以检测驾驶员是否一直用双手驾驶。因此答案为 D。"
+      },
+      "24": {
+        "answer": "C",
+        "explanation": "详解:短文中提到，当驾驶员单手驾驶时，智能方向盘就会亮灯并发出声音以示警告；当驾驶员重新双手驾驶时，灯就会重新变为绿色，声音也会消失。因此答案为 C。"
+      },
+      "25": {
+        "answer": "B",
+        "explanation": "详解:短文末尾提到，智能方向盘收集的数据都会传到相应的 App，父母只要安装了这个应用程序，就能追踪到孩子的驾驶习惯。因此答案为 B。"
+      },
+      "26": {
+        "answer": "E",
+        "explanation": "详解:动词辨析题。空格前有系动词 was，因此空格处应填入形容词作表语或动词的分词形式与 was 一起作谓语，备选项中的两个形容词均不符合句意，因此应填入动词的分词形式。本句意为，当这座大楼于 1962 年首次\\_\\_\\_\\_时，它的外墙都是薄薄的方形石板。接下来提到了“翻新”（renovation），由此推知，1962 年是首次建造，故答案为E)constructed 建造，构筑。备选项中的其他动词均不符合文意，故排除。"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "## 27.答案:O)undertaken 开始进行，着手做"
+      },
+      "28": {
+        "answer": "F",
+        "explanation": "详解:动词辨析题。空格前是名词词组 the building’s owners，空格后仍然是名词词组 the solar panel company，句子缺少谓语，因此空格处应填入动词。本句意为，在这次翻新期间，大楼的所有者 CIS 公司 \\_太阳能电池板公司 Solarcentury。下一句提到，他们就用太阳能电池板覆盖整幢大楼达成一致。由此推断，CIS 公司向 Solarcentury公司咨询了相关事情，两家公司商量后达成一致，故答案为 F)consulted 咨询，商量。由时间状语 during this renovation可知，空格处应填入动词的过去式，而且是及物动词，因此排除 D)competed、M)range 和 N)scale；又因为 Solarcentury这家公司一直存在，并不是新发现的，所以排除 H)discovered。"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "29.答案:C)collection 收集，采集，组群"
+      },
+      "32": {
+        "answer": "K",
+        "explanation": "32.答案:K)necessarily 必然，必定"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "详解:名词辨析题。空格前是介词 by，后面应该跟名词词组，因此空格处应填入名词。此处意为，但是它产生的污染确实比通过化石燃料来\\_\\_\\_\\_\\_\\_ \\_能源所造成的污染少。由句意可知，这里是对比两种方式产生能源的污染情况，因此答案为 L)production 生产，产生。energy 是从 fossil fuels 中得来的，因此空格处应填入由动词转化来的名词，其余备选名词均不符合，故排除。"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "详解:形容词辨析题。空格前是动词 get，可以填入名词作宾语，但备选名词均不符合此处句意，而 get 也可以作为系统词，后面跟形容词作表语，因此此处应填入形容词。此处意为，随着太阳能电池板变得 \\_\\_\\_\\_，世界上有可能会看到更多被太阳能电池板覆盖的摩天大楼。本段第一句提到，这种绿色建筑未必划算，而本句又提到以后会有更多太阳能电池板覆盖的摩天大楼，说明太阳能电池板的成本会降低，故答案为 A)cheaper 更便宜。太阳能电池板本身就是清洁能源，不可能“更清洁”，因此排除 B)cleaner。"
+      },
+      "35": {
+        "answer": "J",
+        "explanation": "详解:名词辨析题。空格前是介词 of，后面应该跟名词或动名词，备选项中没有动名词，因此空格处应填入名词。本句意为，想象这样一个世界:建造最高的摩天大楼不再是一个关于 的竞赛，而是一个关于收集最多太阳能的竞赛。由空格前的 tallest 可知，摩天大楼比的是高度，因此本题答案为 J) height 高度。其余备选名词均不符合此处句意，故排除。"
+      },
+      "36": {
+        "answer": "K",
+        "explanation": "详解:K)段第三、四句指出，佐治亚南方大学一名 20 岁的大三学生这一年在书本和程序的访问代码上花费了 900美元。“那可是两个月的房租啊，”她说道。由此可知，学生每年在访问代码上花费可能相当于两个月的房租。题干是对定位句的同义转述，故答案为 K)。"
+      },
+      "37": {
+        "answer": "D",
+        "explanation": "详解:D)段第一句提到，“说起这些访问代码，我们认为这是教科书垄断的新形式，是一种把学生锁在这个系统中的新方式，”美国公共利益研究集团高等教育倡导者伊桑·斯奈克对 BuzzFeed 新闻说道。题干中的 tie the stydents to the digital system 对应原文中的 lock students around this system，故答案为 D)。"
+      },
+      "44": {
+        "answer": "J",
+        "explanation": "详解:定位句提到，亨特老师指出，“线上系统或许能让我的生活轻松很多，但是我觉得好像自己不再有控制权。课上讨论才是我的专业知识最能带给学生益处的地方。”由此推断，线上系统可能会剥夺老师们充分利用专业知识为学生服务的机会。题干中的 deprive…of opportunities to 是对原文中 giving up control 的同义转述，故答案为 J)。"
+      },
+      "45": {
+        "answer": "C",
+        "explanation": "详解:C)段首句提到，但批评家认为这些数字访问代码代表着和教科书生意相同的寻利观念。由此可知，数字访问代码受到批判是因为它们和教科书生意一样都寻求利益。题干中的 criticized 和 profit-driven 分别对应原文中的critics 和 profit-seeking，题干是对定位句的同义转述，故答案为 C)。"
+      },
+      "46": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章首段第三、四句指出，如果你有时健忘，你很可能不需要担心。因为痴呆症的症状与年龄相关的记忆缺失的症状有很明显的区别。由此可见，健忘并不一定就是痴呆症的症状，故答案为 A。"
+      },
+      "47": {
+        "answer": "C",
+        "explanation": "详解:事实细节题。文章第三段指出，大脑像身体的其它部位一样衰老。某些部位会萎缩，尤其是大脑中那些对学习、记忆和计划十分重要的区域。脑细胞的变化会影响大脑不同区域之间的交流。由此可见，大脑中不同区域间的交流会逐渐衰退，故答案为 C。"
+      },
+      "48": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章第五段指出，当你忘记整个经历，那就是“一面红色的信号旗，意味着可能存在更严重的问题。”忘记如何操作一个熟悉的物品，如微波炉，或是忘记如何开车到一个你以前拜访过很多次的朋友家时，这也是大脑出现问题的征兆。选项 A)中的 do one’s daily routines 是对原文中 operate a familiar object like a microwave oven 和 drive to the house of a friend you’ve visited many times before 的概括，故答案为 A。"
+      },
+      "49": {
+        "answer": "C",
+        "explanation": "详解:事实细节题。第七段前两句提到，你不必自己弄明白这些事情。达夫勒建议人们去看医生，检查药物、健康问题和其它会影响记忆的因素。由此可见，当出现严重的记忆缺失症状时，人们应该寻求专业人士的帮助，故答案为 C。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "详解:推理判断题。文章最后一段指出，读书、看电影、培养新的兴趣或活动都可以迫使一个人用新奇的方式思考。换言之，就是让大脑忙碌和运转起来。同样，身体也要动起来，因为锻炼是著名的大脑助推器。由此推断，要应对记忆的缺失，人们需要在精神和身体两个方面保持积极状态，故答案为 D。"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "详解:推理判断题。第二段首句指出，史密森学会档案馆的负责人艾菲·卡普萨里斯说:“我们在二十世纪七十年代中期发现这封信丢失了。”该段末句指出，“这个实习生很有可能在没人看管时又将这封信拿走了。”由此可见，这封信被盗了不止一次，故答案为 B)。"
+      },
+      "52": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章第三段第三、四句指出，艺术品犯罪小组找回了这封信，但是却不能提起诉讼，因为已经过了诉讼的时限。联邦调查局与档案馆密切合作最终确定该信件为真迹，故答案为 A)。"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。第四段提到，达尔文写这封信是为了感谢美国的一位地质学家费迪纳得·万德韦尔·海登博士，感谢他给自己寄送一个区域地质研究的复印件。由此可见，这封信是一封感谢信。故答案为 D。"
+      },
+      "54": {
+        "answer": "D",
+        "explanation": "详解:实施细节题。文章第五段第四句提到，将它修复后，档案馆会拍摄数码照片并将其上传至网上为大家所用。由此可见，档案馆修复文件后，会将这封信的电子版本上传至网络，为大众所用。故答案为 D。"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "详解:实施细节题。最后一段第二句提到，自从二十世纪七十年代以来，档案馆流程已经发生了巨大的变化，故答案为 B。"
+      }
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,1528 @@
+{
+  "schema_version": "1.0",
+  "year": 2025,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "You should copy the sentence given in quotes at the beginning of your essay.\n\n✍️ 写作提示:文章需以指定句子开头，可从教育机会、职业发展、科技创新、文化自信等角度论述青年如何在中国梦进程中实现自我价值。",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is absurdly expensive."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is appropriately priced."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It brings shame on the university."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It caters to students and teachers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They never really appeal to her."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are never actually good value."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are within students' budgets."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They always come at a high speed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The food."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The space."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The speed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The environment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A complete refurnishing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A ruinous burning down."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A substantial expansion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A massive renovation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have a poor work ethic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They don’t get along with managers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are struggling in the workplace."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They aren’t as varied as their predecessors."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Learning about the way they adhere to their own values."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Recognizing how they try to strike a work-life balance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Knowing how they struggle to connect with managers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Understanding the way they seek career advancement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In terms of the number of hours spent."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By the amount of work they perform."
+                  },
+                  {
+                    "label": "C",
+                    "text": "In terms of the work done in 8 hours."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By the quality of the work they do."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Those whose culture facilitates their advancement."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Those allowing them to do projects of their choice."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Those whose values align with their own."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Those refraining from discrediting their perspectives."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They may unconsciously help customers choose greener dishes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They may unintentionally encourage customers to eat meat."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They raise customers' environmental awareness."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They enable customers to eat in a healthy way."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By inviting them to taste different kinds of food."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By observing the eating behaviour of strict vegetarians."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By comparing participants eating vegetarian food frequently with those doing so rarely."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By requiring participants to choose a meal as if they were feasting at a family gathering."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are less likely to choose a vegetarian dish."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They find vegetarian dishes become more appealing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They tend to consume larger portions of unhealthy food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are less likely to choose dishes recommended by chefs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have found a solution to the global problem of air pollution."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have managed to freeze polluting particles to around -18°C."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have been seeking a way to prevent pollutants from penetrating indoors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have been cooperating closely on developing a new type of air-conditioner."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can be costly and inefficient."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are by-products of health research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are constantly being perfected."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can save over 40,000 lives each year."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They keep their windows closed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They make more use of air-conditioners."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They spend a lot more time indoors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They try various ways to purify indoor air."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It shows the importance of eliminating indoor pollution."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may change the way of future environmental research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It demonstrates the fruitful cooperation between UK and Chinese scientists."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may make household appliances serve an additional air cleaner function."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It distinguishes different species of animals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It reflects distinct traits in animal behaviour."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It demonstrates animals' ability to recognise themselves."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It gauges the level of intelligence of various animal species."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It meets few of the behavioural criteria set in the mirror test."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It behaves similarly to animals capable of self-recognition."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It removes marks from itself to show self-awareness."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It matches children over 18 months in intelligence."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have conclusively established the criteria of animal intelligence."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have advanced the concept of self-awareness to a higher level."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They incorporate more perspectives than one."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They raise more questions than answers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Small children are even more keen on screens than their elders."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Both parents and children preferred to read electronic books."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Parents differed from children in reading behavior."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Children reading electronic books learned more."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They came to conflicting conclusions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were based on small samples."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They yielded unanticipated findings."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were focused on younger kids."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Those that prove simple enough for them to comprehend."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Those that produce both audio and visual effects on them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Those that draw their attention to the educational content."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Those that contribute to their increased interest in reading."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Regret having wasted much time in making them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Think how different we could have made them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Keep ourselves from regretting them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Live with them for the time being."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has made us the person we are now."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has been made with a lot of thinking."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It stems from our valuable knowledge."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It benefits us greatly one way or another."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Challenging things to do."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Beautiful things to share."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Choices to make."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Lessons to learn."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Foreseeing the possibility for regret later."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Making proper use of the lessons learned."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Perfecting the decision-making strategies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Seeing them as obstacles to moving forward."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "We humans love to believe we are special, but science and technology have repeatedly proved this conviction wrong. People 26 thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things.\n\nMeanwhile, technology has quashed, one by one, claims that 27 tasks require a human brain. The first adding machine was invented in 1623. This past year, a computer-generated work won an art contest. I believe the moment when computers meet and 28 human intelligence is on the horizon.\n\nHow will human intelligence and creativity be valued when machines become smarter and more creative than the brightest people? There will likely be a spectrum. In some 29, people still value humans doing things, even if a computer can do it better. It's been a quarter of a century since a computer beat world champion Garry Kasparov, but human chess hasn't gone away.\n\nIn other fields, human skill will seem costly and 30. Take illustration for example: most readers don't care whether the graphic 31 a magazine article was drawn by a person or a computer—they just want it to be relevant, new and perhaps 32.\n\nAnd, of course, this question isn't black or white. Many fields will be a 33, where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where, much of the work is accomplished by robots, but some humans must be there to 34 the machines.\n\nIf history is any guide, it's almost certain that advances in AI will cause more jobs to 35, that creative workers with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new ultrarich.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "accompanying"
+        },
+        {
+          "label": "B",
+          "text": "cognitive"
+        },
+        {
+          "label": "C",
+          "text": "domains"
+        },
+        {
+          "label": "D",
+          "text": "entertaining"
+        },
+        {
+          "label": "E",
+          "text": "evoking"
+        },
+        {
+          "label": "F",
+          "text": "hybrid"
+        },
+        {
+          "label": "G",
+          "text": "impetus"
+        },
+        {
+          "label": "H",
+          "text": "intuitive"
+        },
+        {
+          "label": "I",
+          "text": "once"
+        },
+        {
+          "label": "J",
+          "text": "oversee"
+        },
+        {
+          "label": "K",
+          "text": "redundant"
+        },
+        {
+          "label": "L",
+          "text": "stances"
+        },
+        {
+          "label": "M",
+          "text": "surpass"
+        },
+        {
+          "label": "N",
+          "text": "tentatively"
+        },
+        {
+          "label": "O",
+          "text": "vanish"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 122,
+          "end": 124
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 346,
+          "end": 348
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 532,
+          "end": 534
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 742,
+          "end": 744
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 994,
+          "end": 996
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1073,
+          "end": 1075
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1181,
+          "end": 1183
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1260,
+          "end": 1262
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1458,
+          "end": 1460
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1565,
+          "end": 1567
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Do You Know When to Quit Wisely? (A-Q paragraphs)",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Projects, relationships, and jobs don't always work out as planned—and it's not always clear when to give up. We've all repeatedly heard the saying that “quitters never win,” but sometimes the best decision is to cut our losses."
+        },
+        {
+          "label": "B",
+          "text": "Think about that relationship you held on to even after it had run its course or the job you stayed in despite your boss making you miserable. Many of us try to hold onto the last ray of hope, thinking we can make it work, whatever “it” is. And while perseverance is generally an excellent quality, it may also incline you to overinvest in something that is no longer a good idea."
+        },
+        {
+          "label": "C",
+          "text": "As an executive coach, I work with numerous passionate and hard-working leaders who don't want to “quit.” But the smartest leaders learn to discern the difference between quitting too soon and holding onto something that they shouldn't."
+        },
+        {
+          "label": "D",
+          "text": "We are all susceptible to the sunk-cost delusion, an unconscious bias that leads us to persist in an endeavor we have already invested time, effort, or money into— even when abandoning it would be more beneficial. We realize that we can't get back the resources we've given, so we persevere—investing in a project that should be halted, staying in a relationship that should be over, or finishing a book we no longer enjoy and should put down, because we're already halfway through it. If quitting is \"not your thing,\" you may be especially susceptible to this bias."
+        },
+        {
+          "label": "E",
+          "text": "The sunk-cost delusion causes us to overly worry about what we'll lose if we move on and not think enough about the costs of not moving on. To offset this bias, deliberately refocus your thinking on the gains so you can more objectively weigh the alternatives. Ask yourself: What might I gain by cutting my losses now? Will you be happier or have time for another (better) opportunity? Then ask yourself: What will it cost me to soldier on? For example, is it possible that you'll be throwing more good money after what you've already lost? Or that you won't have the energy to capitalize on other promising possibilities?"
+        },
+        {
+          "label": "F",
+          "text": "The illusion of control can also interfere with our best judgment, leading us to overestimate our ability to control events and attain a positive outcome. This bias gives us a sense of agency and can promote mental health. However, the bias can also result in escalating commitment to a losing course of action. Especially when\n\ncombined with an \"I'm not a quitter\" mentality, feeling like we have more control over an event or person than we do puts us at risk of doubling down when we should pull out."
+        },
+        {
+          "label": "G",
+          "text": "To counteract this bias, consider your situation and make a simple two-column list of what's in your control and what's not. Think rigorously. While you may be able to influence other people and various circumstances, you can't force them to change or go your way."
+        },
+        {
+          "label": "H",
+          "text": "Getting clear on what you can control and what you can't is essential to making a quality decision about whether to call it quits or persevere. With a written list in hand, you can ensure you focus on what you can control and better assess whether your continued efforts are worth the expense. Expending effort and emotion on things you can't control can be both draining and disempowering."
+        },
+        {
+          "label": "I",
+          "text": "Research indicates that people link their self-identity and social status to their commitments. And because we identify with our commitments, withdrawing from one can feel like a threat to our identity or status."
+        },
+        {
+          "label": "J",
+          "text": "Take my client Ryan, a leader at a technology company. Ryan had invested two years and a lot of effort in a design project that wasn't delivering the needed outcomes, but the thought of abandoning it after all she had put in was hard to bear. As Ryan and I explored whether she should cancel the initiative she'd been leading or continue to persevere, she stated, \"The thing is, I'm not a quitter.\" This singular, fixed sense of self was clouding her judgment and limiting her choices for action."
+        },
+        {
+          "label": "K",
+          "text": "Our self-concept and identity are mental concepts that influence our behavior. If you strongly identify as not being a quitter, you can end up staying stuck in a course of action due to your narrow and rigid self-concept. To overcome this kind of internal obstacle, recall your other positive traits and personality characteristics. Ask yourself: What additional strengths do I have (or aspire to have) that would be helpful to employ here? For example, when I asked Ryan what other positive qualities from her personality she needed to leverage for decision making, she replied, \"Discernment and bravery.\""
+        },
+        {
+          "label": "L",
+          "text": "Now, examine your situation through the lens of each of these facets of yourself. What does the discerning part of you say? The brave part? Considering your decision through these different characteristics will enable you to see that you have more choices. It's also helpful to seek external sources of information, rather than relying solely on your thinking and instincts. But it's important to think through whose opinions you solicit."
+        },
+        {
+          "label": "M",
+          "text": "Ideally, seek out people who are less invested in your decision than you are. If you're considering whether to shut down your entrepreneurial venture, for instance, reach out to other founders as opposed to just your business partner. Similarly, if you're looking for love advice, ask someone removed from the ups and downs of your relationship instead of relying only on your best friend. In all cases, I recommend describing your situation and following up with a question like: “How would you manage this situation?”"
+        },
+        {
+          "label": "N",
+          "text": "Alternately, you could also seek out hard data that illuminates your real chance of success in whatever endeavor you are contemplating. Sticking with the example of the entrepreneurial venture, numbers are your best friend. Use them to remove yourself from the love you have for this idea and consider your burn rate relative to growth plan, industry growth rates, and other factors that predict start-up success. External sources of information can help you see angles and possibilities you might not have considered."
+        },
+        {
+          "label": "O",
+          "text": "When something that seemed so promising at the start doesn't turn out the way we imagined, we can become overly self-critical. Nobody likes to feel that they've made a poor decision, especially if making intelligent decisions is a quality you hold in high esteem. The most effective strategy here is to give yourself a break. Practicing self-compassion increases your resilience, emotional intelligence, compassion toward others, and can boost your performance as well as help you develop a growth mindset."
+        },
+        {
+          "label": "P",
+          "text": "Instead of deliberating and criticizing yourself, focus instead on what you can learn from this situation. For example, Ryan recognized she had developed various new skills and leadership capabilities from leading the design project. And despite ultimately deciding to drop it, she was still happy she had tried and grateful for what the experience taught her."
+        },
+        {
+          "label": "Q",
+          "text": "Undeniably, perseverance can help us succeed. But for your wellbeing, it's important to learn how to distinguish quitting too soon and clinging to a losing course of action. While letting go can be difficult, it will free up your time, energy, and mental space to imagine new possibilities and pursue new opportunities."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Feeling like they have more control over something or someone than they do, people get more committed to their pursuit when they should give up."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "If you regard yourself as one who never quits, you may end up trapped in your course of action."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "One of the author's clients found it hard to give up a design project, in which she had put in a lot of time and effort."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The author suggests that one should direct their thoughts to the gains of quitting timely so as to move on."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "When making a decision, you'd better ask for opinions of those who have less stake in your decision."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "For people associating their identity with their commitments, quitting can feel like their identity is threatened."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "People who regard highly the quality of making wise decisions do not feel good when they make a bad one."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The wisest leaders learn to distinguish between giving up too soon and sticking with something irrationally."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "When people are thinking of an endeavor, they should dig out reliable data that tells them how likely they are to succeed."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Having a clear view of what's in your control and what's not is vital to making a good decision regarding whether to give up or stick it out."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "As interdependent beings we cannot thrive independent of others. We like to work with people who are like-minded, with whom we share a common interest, or who also believe in a cause we are serious about. This is evident in how we have organised ourselves into various collective groups such as nations, regions, communities, organisations, and families.\n\nDoes the group you belong to have a strong collective consciousness or shared beliefs? Is there interdependence among its members? Do you consider this group a significant part of your existence? If your answers are affirmative, then you are experiencing a micro version of solidarity.\n\nWhat is solidarity? Its simplest definition in the dictionary is: “...a unifying opinion, feeling, purpose or interest among a group of people.”\n\nIn this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division of labour.\n\nOne facet of solidarity fits well with the principles of communitarianism. In this setting, individuals give up their own interests to serve the common good. However, its strict adherence to social cohesiveness and exclusiveness restricts expression and practice of individual differences and preferences. Consequently, individuality and autonomy is sacrificed to maintain the unity of the group.\n\nSolidarity is also viewed as a reaction to the extreme emphasis on individualism and freedom of choice. It goes against the liberal idea of unrestricted individuals who see society as a hindrance to their freedom to make choices and to act according to what is good for them regardless of how these will affect others.\n\nBut despite its many facets, social theorists have viewed solidarity as a key factor in bringing about order and progress in society. They believe that for human society to\n\nsurvive as it becomes more diverse, more new bonds need to be formed based on the differences. In the light of this, they regard a genuine solidarity as more than just shallow relationships based on common interests. Solidarity is not just a product of strategic calculations of how much it will benefit the self. It is not an exclusive class founded on the you-and-me-against-the-world principle. Rather, it is inclusive and is not forced. Acting out of solidarity means supporting and standing up for each other—in recognition that one's fate is in the fate of the other. It is a bond characterised by cooperative practices and strengthened by the concern for the well-being of others or the common good. It fights for the protection of human dignity and listens to and acts on the cries of the most vulnerable.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say about human beings?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They cannot prosper without cooperating with each other."
+                },
+                {
+                  "label": "B",
+                  "text": "They share a common interest and believe in a just cause."
+                },
+                {
+                  "label": "C",
+                  "text": "They think and behave alike in different social groups."
+                },
+                {
+                  "label": "D",
+                  "text": "They cannot gain independence without fighting for it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn about solidarity in an increasingly diverse society?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It gives rise to a complicated division of labour."
+                },
+                {
+                  "label": "B",
+                  "text": "It involves many aspects with great complexity."
+                },
+                {
+                  "label": "C",
+                  "text": "It brings individuals together as environment changes."
+                },
+                {
+                  "label": "D",
+                  "text": "It embraces the characteristics of different individuals."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What would we witness in the setting of communitarianism?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Ruling of social norms and ridding of individuality."
+                },
+                {
+                  "label": "B",
+                  "text": "Emphasis on the adherence to individual differences."
+                },
+                {
+                  "label": "C",
+                  "text": "Sacrifice of personal interests for the common good."
+                },
+                {
+                  "label": "D",
+                  "text": "Elimination of individualism and personal choices."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does solidarity entail according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A limit to personal differences."
+                },
+                {
+                  "label": "B",
+                  "text": "An opposition to individualism."
+                },
+                {
+                  "label": "C",
+                  "text": "A hindrance to social advancement."
+                },
+                {
+                  "label": "D",
+                  "text": "An inevitable end to liberal pursuits."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do social theorists think of solidarity?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is especially relevant to the most vulnerable."
+                },
+                {
+                  "label": "B",
+                  "text": "It is most effective in protecting human dignity."
+                },
+                {
+                  "label": "C",
+                  "text": "It is essential to progress and order in society."
+                },
+                {
+                  "label": "D",
+                  "text": "It is indispensable to avoiding shallow relationships."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "People who repeatedly give unwanted advice can be well-meaning and genuinely want to help. Others might do this out of a sense of self-worth around the ability to influence others. One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.\n\nUnder the guise of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control. They may not be fully aware of this drive, however.\n\nThese people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down. It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations.\n\nWhen someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice. It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesirable result.\n\nIf the act of giving advice is contributing actively to someone's feelings of self-worth, an outright rejection may be perceived as a threat, activating their fight-orflight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict.\n\nThe key is to validate without over-identifying. You can let them know that you have heard them and appreciate where they are coming from without taking on the potentially damaging narrative that you could not have gotten by without their help. You had better say something like, “Thanks for the idea. I have my own plan for handling this, but I really appreciate your perspective and will take it into consideration. Can I let you know when I need help in the future?”\n\nIf you have trouble setting boundaries tactfully, prioritize working on your own ability to self-regulate. As uncomfortable as it may make you continuously receiving unwanted advice, if you can respond with compassion, the situation will likely diffuse much faster.\n\nThough it is usually not the intended outcome of giving unsolicited advice, many who receive it often feel stressed, offended, or simply annoyed by unwanted suggestions. Setting a boundary in this regard, if you feel you need one, is perfectly reasonable and something that can bring you increased emotional safety.\n\nIt is best to set boundaries in a way that takes into account the individual's underlying reasons for doing what they are doing to avoid unnecessary conflict and more stress.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the finding of one study about people who keep giving unsolicited advice?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They turn out to be well-meaning."
+                },
+                {
+                  "label": "B",
+                  "text": "They are genuinely kind-hearted."
+                },
+                {
+                  "label": "C",
+                  "text": "They are capable of influencing others."
+                },
+                {
+                  "label": "D",
+                  "text": "They are inclined to crave for power."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is the problem with people who are driven to give you unsolicited advice?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may be quick to upset others."
+                },
+                {
+                  "label": "B",
+                  "text": "They may be emotionally vulnerable."
+                },
+                {
+                  "label": "C",
+                  "text": "They want their voice to be the loudest."
+                },
+                {
+                  "label": "D",
+                  "text": "They respond to discomfort excessively."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What is the advice receiver tempted to do when noticing the advice giver's underlying anxiety?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Reveal the undesirable result of their approach."
+                },
+                {
+                  "label": "B",
+                  "text": "Refuse their advice in an undisguised manner."
+                },
+                {
+                  "label": "C",
+                  "text": "Bring their real motives to the surface."
+                },
+                {
+                  "label": "D",
+                  "text": "Accuse them of trying to control others."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "How is the advice giver likely to react to the rejection of their advice?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may regard it as a threat."
+                },
+                {
+                  "label": "B",
+                  "text": "They may modify their behavior."
+                },
+                {
+                  "label": "C",
+                  "text": "They get ready for a larger conflict."
+                },
+                {
+                  "label": "D",
+                  "text": "They begin to doubt their self-worth."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What should the advice receiver do to avoid unnecessary conflict?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Concede the advice is perfectly reasonable."
+                },
+                {
+                  "label": "B",
+                  "text": "Give their reasons for not taking the advice."
+                },
+                {
+                  "label": "C",
+                  "text": "Understand why the advice giver offers the advice."
+                },
+                {
+                  "label": "D",
+                  "text": "Explain their chosen way of handling the situation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "【中文原文】\n\n中华民族崇尚自强自立的精神，这一精神深植于中国文化之中，是民族生存与发展的重要支撑。改革开放以来，中国在自强自立的征程上，持续加大科研投入，在信息技术、人工智能、航天工程等领域不断取得新突破。5G网络覆盖全国，远程医疗发展迅速，电子支付的使用全球领先，嫦娥探月工程展现了航天领域引人注目的发展。自强自立精神成为推动国家现代化进程的强大动力，激励着中国人民为实现民族复兴(rejuvenation)的中国梦不断奋进。\n\n本资源根据2025年12月六级真题（第二套）内容整理，完整保留所有原文及题目，仅用于学习交流，排版原创。题目版权归原考试机构所有，无商业用途。"
+      }
+    ]
+  },
+  "id": "CET6-2025-12-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "B",
+        "explanation": "1 **B 2 A 3 C 4** D"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "1 **B 2 A 3 C 4** D"
+      },
+      "3": {
+        "answer": "C",
+        "explanation": "1 **B 2 A 3 C 4** D"
+      },
+      "4": {
+        "answer": "D",
+        "explanation": "1 **B 2 A 3 C 4** D"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "5 **A 6 B 7 D 8** C"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "5 **A 6 B 7 D 8** C"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "5 **A 6 B 7 D 8** C"
+      },
+      "8": {
+        "answer": "C",
+        "explanation": "5 **A 6 B 7 D 8** C"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "| 9 | B | 10 | C | 11 | A |"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "| 9 | B | 10 | C | 11 | A |"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "| 9 | B | 10 | C | 11 | A |"
+      },
+      "12": {
+        "answer": "C",
+        "explanation": "| 12 | C | 13 | A | 14 | B | 15 | D |"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "| 12 | C | 13 | A | 14 | B | 15 | D |"
+      },
+      "14": {
+        "answer": "B",
+        "explanation": "| 12 | C | 13 | A | 14 | B | 15 | D |"
+      },
+      "15": {
+        "answer": "D",
+        "explanation": "| 12 | C | 13 | A | 14 | B | 15 | D |"
+      },
+      "16": {
+        "answer": "C",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "18": {
+        "answer": "D",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "22": {
+        "answer": "C",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "| 16 | C | 17 | B | 18 | D | 19 | D | 20 | A | 21 | C | 22 | C | 23 | A |"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "| 24 | D | 25 | B | | | | | | | | | | | | |"
+      },
+      "25": {
+        "answer": "B",
+        "explanation": "| 24 | D | 25 | B | | | | | | | | | | | | |"
+      },
+      "26": {
+        "answer": "I",
+        "explanation": "| 26 | I | 27 | B | 28 | M | 29 | C | 30 | K | 31 | A |"
+      },
+      "27": {
+        "answer": "B",
+        "explanation": "| 26 | I | 27 | B | 28 | M | 29 | C | 30 | K | 31 | A |"
+      },
+      "28": {
+        "answer": "M",
+        "explanation": "| 26 | I | 27 | B | 28 | M | 29 | C | 30 | K | 31 | A |"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "| 26 | I | 27 | B | 28 | M | 29 | C | 30 | K | 31 | A |"
+      },
+      "30": {
+        "answer": "K",
+        "explanation": "| 26 | I | 27 | B | 28 | M | 29 | C | 30 | K | 31 | A |"
+      },
+      "31": {
+        "answer": "A",
+        "explanation": "| 26 | I | 27 | B | 28 | M | 29 | C | 30 | K | 31 | A |"
+      },
+      "32": {
+        "answer": "D",
+        "explanation": "| 32 | D | 33 | F | 34 | J | 35 | O | | | | |"
+      },
+      "33": {
+        "answer": "F",
+        "explanation": "| 32 | D | 33 | F | 34 | J | 35 | O | | | | |"
+      },
+      "34": {
+        "answer": "J",
+        "explanation": "| 32 | D | 33 | F | 34 | J | 35 | O | | | | |"
+      },
+      "35": {
+        "answer": "O",
+        "explanation": "| 32 | D | 33 | F | 34 | J | 35 | O | | | | |"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": "| 36 | F | 37 | K | 38 | J | 39 | E | 40 | M | 41 | I |"
+      },
+      "37": {
+        "answer": "K",
+        "explanation": "| 36 | F | 37 | K | 38 | J | 39 | E | 40 | M | 41 | I |"
+      },
+      "38": {
+        "answer": "J",
+        "explanation": "| 36 | F | 37 | K | 38 | J | 39 | E | 40 | M | 41 | I |"
+      },
+      "39": {
+        "answer": "E",
+        "explanation": "| 36 | F | 37 | K | 38 | J | 39 | E | 40 | M | 41 | I |"
+      },
+      "40": {
+        "answer": "M",
+        "explanation": "| 36 | F | 37 | K | 38 | J | 39 | E | 40 | M | 41 | I |"
+      },
+      "41": {
+        "answer": "I",
+        "explanation": "| 36 | F | 37 | K | 38 | J | 39 | E | 40 | M | 41 | I |"
+      },
+      "42": {
+        "answer": "O",
+        "explanation": "| 42 | O | 43 | C | 44 | N | 45 | H | | | | |"
+      },
+      "43": {
+        "answer": "C",
+        "explanation": "| 42 | O | 43 | C | 44 | N | 45 | H | | | | |"
+      },
+      "44": {
+        "answer": "N",
+        "explanation": "| 42 | O | 43 | C | 44 | N | 45 | H | | | | |"
+      },
+      "45": {
+        "answer": "H",
+        "explanation": "| 42 | O | 43 | C | 44 | N | 45 | H | | | | |"
+      },
+      "46": {
+        "answer": "A",
+        "explanation": "| 46 | A | 47 | B | 48 | C | 49 | B | 50 | C |"
+      },
+      "47": {
+        "answer": "B",
+        "explanation": "| 46 | A | 47 | B | 48 | C | 49 | B | 50 | C |"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "| 46 | A | 47 | B | 48 | C | 49 | B | 50 | C |"
+      },
+      "49": {
+        "answer": "B",
+        "explanation": "| 46 | A | 47 | B | 48 | C | 49 | B | 50 | C |"
+      },
+      "50": {
+        "answer": "C",
+        "explanation": "| 46 | A | 47 | B | 48 | C | 49 | B | 50 | C |"
+      },
+      "51": {
+        "answer": "D",
+        "explanation": "**51. D** — 第一段末:“people with a high tendency to seek power were more likely to give advice” 即倾向于渴望权力。"
+      },
+      "52": {
+        "answer": "B",
+        "explanation": "**52. B** — 第三段:“may also display a problematic degree of emotional vulnerability” 即可能在情感上脆弱。"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "**53. D** — 第五段:“it can be tempting…to react harshly…and to accuse them of being manipulative” 即指责他们试图控制他人。"
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "**54. A** — 第六段:“an outright rejection may be perceived as a threat” 即可能将其视为威胁。"
+      },
+      "55": {
+        "answer": "C",
+        "explanation": "**55. C** — 第八段:避免冲突的关键是“validate without over-identifying”，即理解对方为何提供建议。"
+      }
+    },
+    "references": {}
+  }
+}

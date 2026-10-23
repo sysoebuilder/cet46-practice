@@ -1,0 +1,618 @@
+{
+  "schema_version": "1.0",
+  "year": 2025,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose your university is organizing a forum on the development of students' cross-cultural communication abilities. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose your university is organizing a forum on the development of students' cross-cultural communication abilities. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose your university is organizing a forum on the development of students' cross-cultural communication abilities. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "特别说明:由于多题多卷，官方第三套真题的听力试题与第二套真题的一致，只是选项顺序不同，因此，本套试卷不再提供听力部分。"
+      ],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The human brain has the ability to constantly form new networks and connections between brain cells. This means the brain has an almost magical ability to change. This characteristic is _26_ apparent in a new study, focusing on people who underwent a hemispherectomy, a surgical procedure in which half of the brain is removed to treat illness.\n\nThe findings showed that, despite missing half of this critical _27_, participants could function well. This was because the _28_ half of their brain strengthened. In fact, researchers found that connections—and thus communication—between parts of different brain networks are actually stronger in people who had hemispherectomies than in people with intact brains. This _29_ that the brain is able to compensate for loss of certain brain structure.\n\nThere are many other cases in the medical _30_ that document the brain's amazing ability to _31_. For example, a young boy had a significant portion of his brain removed for medical reasons, which included the part of the brain _32_ for sight. But a few years after his surgery, scientists found that he could _33_ see. They determined that this was because other parts of his brain took over the missing part's _34_ tasks. Another study involved people who could smell, despite missing the region in the brain that processes information about smells. Though they are not sure how these individuals _35_ the ability to smell, scientists believe it is possible that another part of the brain took on that task.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "adapt"
+        },
+        {
+          "label": "I",
+          "text": "responsible"
+        },
+        {
+          "label": "B",
+          "text": "hardly"
+        },
+        {
+          "label": "J",
+          "text": "retained"
+        },
+        {
+          "label": "C",
+          "text": "indicates"
+        },
+        {
+          "label": "K",
+          "text": "still"
+        },
+        {
+          "label": "D",
+          "text": "insist"
+        },
+        {
+          "label": "L",
+          "text": "strategy"
+        },
+        {
+          "label": "E",
+          "text": "literature"
+        },
+        {
+          "label": "M",
+          "text": "transformed"
+        },
+        {
+          "label": "F",
+          "text": "organ"
+        },
+        {
+          "label": "N",
+          "text": "underlines"
+        },
+        {
+          "label": "G",
+          "text": "particularly"
+        },
+        {
+          "label": "O",
+          "text": "visual"
+        },
+        {
+          "label": "H",
+          "text": "remaining"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 186,
+          "end": 190
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 410,
+          "end": 414
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 471,
+          "end": 475
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 717,
+          "end": 721
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 839,
+          "end": 843
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 889,
+          "end": 893
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1025,
+          "end": 1029
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1107,
+          "end": 1111
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1209,
+          "end": 1213
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1396,
+          "end": 1400
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "“Phantom” Traffic Jams Are Real—And Scientists Know How to Stop Them",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Traffic jams are a common problem of most big cities, either in developed or in developing countries, but one kind of traffic jams in particular can be especially frustrating. These are generally known as “phantom” traffic jams, in which dense traffic crawls to a halt for no apparent reason at all."
+        },
+        {
+          "label": "B",
+          "text": "“When caught in such a traffic jam, it is common for drivers to assume that there must be an accident, or construction or something,” said Massachusetts Institute of Technology (MIT) computer science professor Berthold Horn. “And then you drive and drive and drive… and there isn’t anything there.”"
+        },
+        {
+          "label": "C",
+          "text": "The exact cause of these phantom traffic jams has long remained a mystery. But now, new research has found the cause and researchers may have come up with a solution for this frustrating traffic pattern: maintaining equal spacing between cars on the road, rather than driving so closely behind another vehicle that a collision (碰撞) is likely if that vehicle brakes suddenly."
+        },
+        {
+          "label": "D",
+          "text": "Horn said phantom traffic jams are an emergent property of the flow of vehicles down a highway. A phantom jam begins when a car in dense traffic slows down even slightly, which causes the car behind that vehicle to slow even more—and the slowing action spreads backward through the lane of traffic like a wave, getting worse the farther it spreads. Eventually, the cars far behind are forced to stop completely or risk hitting the slower vehicles ahead—and so the traffic grinds to a halt over nothing, Horn said."
+        },
+        {
+          "label": "E",
+          "text": "Horn has been working on the problem of phantom traffic jams for years, and he has come up with a solution: By splitting the difference between the cars in front and the cars behind, the spacing of cars in a stream of traffic can act as a damper (抑制) on phantom traffic jams. That is, it can prevent the slow-down effect from being amplified (增强) by the cars that follow behind, he said. In essence, each driver would constantly make adjustments to keep their car roughly halfway between the car in front and the car behind."
+        },
+        {
+          "label": "F",
+          "text": "Horn calls this method of vehicle spacing bilateral (双边的) control, and he said it could be achieved with relatively simple modifications to the adaptive cruise control that many new cars already have. Adaptive cruise control is a driver assistance technology that sets a maximum speed for vehicles and automatically slows the speed of the car when traffic is sensed in front of the vehicle. The technology is also known as autonomous cruise control. Such modifications, Horn said, could help fight phantom jams within a few years,\n\nmaybe decades before an alternative solution, such as networked self-driving cars, becomes a reality on the roads."
+        },
+        {
+          "label": "G",
+          "text": "Traffic jams are caused by a number of factors, such as roads that are poorly designed or over-capacity, localized factors like city traffic-lighting patterns, and events like accidents and construction. But phantom traffic jams can make all those problems worse, Horn said. And the researchers in the new study have calculated that solving phantom jams could save at least some of the estimated \\$121 billion per year that traffic jams are estimated to cost the U.S. economy, Horn told Live Science."
+        },
+        {
+          "label": "H",
+          "text": "New research by Horn and MIT postdoctoral associate Liang Wang, published in the journal IEEE Transactions on Intelligent Transportation Systems, shows how bilateral control can fight the problem. The researchers made computer models of real-world traffic conditions, showing how a typical U.S. freeway could benefit from cars using bilateral control. That would be in place when human drivers fail to slow down, thus avoiding tailgating (紧跟) the car in front, Horn said. “Under reasonable conditions today, you might get 1,800 cars per lane per hour throughput (the volume of traffic passing through),” he added. “But with bilateral control, you could almost double that.”"
+        },
+        {
+          "label": "I",
+          "text": "The main alternative to increasing traffic throughput per lane has been to build more lanes and more highways, and putting in new roads is very expensive, he said. “If we can increase the throughput on major highways, even if it’s only by 50 percent, that would be a big deal,” Horn said."
+        },
+        {
+          "label": "J",
+          "text": "With the help of engineering students at high schools in Maine, Horn and Wang have also built a robot simulation (模拟) that shows how bilateral control can suppress phantom traffic jams. Increasing the spacing of vehicles dampens the effect of slowdowns by cars in front of a given car, so that the slowing is not worsened until it becomes a phantom jam, the researchers said."
+        },
+        {
+          "label": "K",
+          "text": "A video from the project shows a train of autonomous robots running along a track without bilateral control; they eventually back up in phantom jams. But when the robots are switched over to bilateral control (by flashing the lights in the room), each autonomous robot tries to keep itself halfway between the robot in front and the one behind; the phantom jams disappear as a result, Horn said."
+        },
+        {
+          "label": "L",
+          "text": "Since starting his research on phantom traffic jams, Horn has learned that schools of fish and flocks of birds and bats use similar spacing strategies to avoid hitting each other while swimming or flying in densely packed groups. In particular, studies of millions of bats emerging at dusk from caves in Southeast Asia showed that each bat used a form of bilateral control to reduce the likelihood of collisions with other bats in the densely packed swarm (一大群), Horn said."
+        },
+        {
+          "label": "M",
+          "text": "Unlike bats, birds and fish, however, humans have difficulty judging distances behind them. To address that weakness, Horn is now working with the car company Toyota to enable a form of bilateral control via modifications to existing adaptive cruise control systems, which use forward-facing sensors to judge the distance to the vehicle ahead. The bilateral control approach would include adding rear-facing sensors to determine the distance to the vehicle following a car."
+        },
+        {
+          "label": "N",
+          "text": "But until those systems become standard, human drivers can help reduce phantom traffic jams simply by not following the car in front so closely. As Horn argues, “There’s absolutely no advantage of tailgating the car in front of you.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "The age-long mystery has now been resolved as to how phantom traffic jams are caused."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "It is possible to nearly double the hourly throughput per lane by adopting bilateral control."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "According to Horn, drivers making constant adjustments for equal spacing between cars in a flow of traffic can help reduce phantom traffic jams."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Before systems for bilateral control are installed, drivers should not follow the car in front too closely so as to reduce phantom traffic jams."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Horn said with some simple modifications to the existing equipment in new vehicles, their spacing bilateral control could be accomplished."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Drivers caught up in phantom traffic jams are likely to think an accident has happened or some construction is going on."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Two sets of sensors would be used to help drivers determine the distances between cars."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Solving the problem of phantom jams could save America billions of dollars every year."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "In a phantom traffic jam, the cars in the same lane slow down one after another, creating a wave-like effect."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Horn has found that certain creatures use strategies similar to bilateral control to avoid hitting each other while moving in dense crowds."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Our society places a high value on physical beauty. Americans spend an average of over \\$722 each year on their appearance. One in ten Americans has tried to look like a star.\n\nThere's nothing wrong with trying to look our best, but excessive focus on physical appearance misses the soulful aspects of what it means to be beautiful. Trying to look like the magazine pictures can take us on a long ride away from what beauty is really about.\n\nMany of us spend far too much time, energy, and money trying to polish an image of what we think will bring attention, love, and connection. In the process, we may fail to attend to ourselves in a way that would move us toward deeper intimacy, fulfillment, and meaning.\n\nIt may sound trite (老生常谈的), but beauty is only skin deep; it's not what brings love toward us. Just read about the latest Hollywood starlets whose seeming love turns into resentment and bitter court battles.\n\nOuter beauty can be as much of a curse as a blessing. We may develop a habit of being so focused on maintaining a perfect appearance that we never cultivate the inner qualities necessary to sustain and deepen intimacy and connection. As I describe in my book, The Authentic Heart, it is the courage to be authentic that connects us in a deeper way.\n\nWhile our initial attraction may be based, in part, on physical chemistry, it is the meeting of our inner worlds that creates the lasting intimacy and spiritual connection for which we long. If we redirect our attention toward cultivating inner qualities, we might find a magnetic attraction that moves us from something superficial to something that connects us to our depths.\n\nThe path toward cultivating inner beauty is really simple. But what is simple is not always easy. Not everyone will see us and appreciate us as we take the courageous risk to allow ourselves to be seen as we really\n\nare. But if they don't, it is their loss, not ours. Eventually we'll find those compatible souls who appreciate us as we are.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn about American society from the first paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It sees lots of personal income wasted on beauty products."
+                },
+                {
+                  "label": "B",
+                  "text": "It considers one's physical appearance very important."
+                },
+                {
+                  "label": "C",
+                  "text": "It places a high value on the physical fitness of stars."
+                },
+                {
+                  "label": "D",
+                  "text": "It expects every individual to look their very best."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What happens when people strive to look better?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have to get prepared for resentment and bitter court battles."
+                },
+                {
+                  "label": "B",
+                  "text": "They are better able to gain attention, love, and personal connection."
+                },
+                {
+                  "label": "C",
+                  "text": "They may neglect to cultivate the inner qualities that matter more."
+                },
+                {
+                  "label": "D",
+                  "text": "They feel much of their precious time, energy and resources is wasted."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author say about outer beauty?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may be inherited or cultivated."
+                },
+                {
+                  "label": "B",
+                  "text": "It may lead to bad as well as good habits."
+                },
+                {
+                  "label": "C",
+                  "text": "It may create connection or isolation."
+                },
+                {
+                  "label": "D",
+                  "text": "It may do as much harm as good."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What brings about spiritual connection?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Meeting of minds."
+                },
+                {
+                  "label": "B",
+                  "text": "Attraction at first sight."
+                },
+                {
+                  "label": "C",
+                  "text": "Physical chemistry."
+                },
+                {
+                  "label": "D",
+                  "text": "Frequent interaction."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What happens when we take the path toward cultivating inner beauty?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "We may find a route toward other people's souls."
+                },
+                {
+                  "label": "B",
+                  "text": "We may be appreciated more by people around us."
+                },
+                {
+                  "label": "C",
+                  "text": "We will meet people who value us for who we are."
+                },
+                {
+                  "label": "D",
+                  "text": "We will be discouraged from revealing our true selves."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Plant-based meats are coming soon to a dinner table near you, but do they deserve a spot on your plate? If you tried a vegetable burger years ago and dismissed it as rubbery and flavorless, it’s a good time to give meatless meat another chance. Newer varieties imitate the look, flavor, and texture of meat. Analysts don’t expect the meat-free movement to slow anytime soon; a 2021 report predicts the market will skyrocket to \\$74 billion by 2030—a 957 percent surge.\n\nPlant-based meats are no longer just for vegetarians. Companies such as Impossible Foods and Beyond Meat—the current superstars of the alternative protein sector—are pursuing consumers who enjoy meat but want to reduce their meat consumption for animal rights, health, or environmental reasons. So far, it’s a winning strategy: More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products also eat meat.\n\nMany vegetarians don't actually care for food that resembles meat. When reporter Joan Solsman, a longtime vegetarian, tried a dish from Impossible Foods, she felt so sick that she couldn't finish it. \"Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn't stand to take another bite,\" she wrote.\n\nMeatless meats are generally a healthier choice than beef because they are cholesterol-free, plus they're a good source of vitamins, minerals, protein, and fiber.\n\nIf meatless meat can help you stick to a plant-based diet, that in itself can lead to better health. Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, lower average blood sugar, and lower cholesterol levels.\n\nHowever, just because it's plant-based doesn't mean it's health food. Most imitation meats are highly processed and contain high amounts of sodium (钠) compared to traditional beef.\n\nThese new generations of alternate meat get all the attention, but don't forget about whole grains and vegetables. Beans are an especially excellent protein substitute. They're nutritious, inexpensive, and far more sustainable than any of the processed meatless substitutes on the market today.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What can we expect of plant-based meats?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "An increasing interest in their analyses."
+                },
+                {
+                  "label": "B",
+                  "text": "An enormous effort in their promotion."
+                },
+                {
+                  "label": "C",
+                  "text": "A huge boost in their consumption."
+                },
+                {
+                  "label": "D",
+                  "text": "A noticeable surge in their varieties."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn about consumers buying Beyond Burger and Impossible Foods products?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are mostly non-vegetarians."
+                },
+                {
+                  "label": "B",
+                  "text": "They are mostly animal-rights advocates."
+                },
+                {
+                  "label": "C",
+                  "text": "Most of them refrain from eating meat for health reasons."
+                },
+                {
+                  "label": "D",
+                  "text": "Most of them eat meatless meat to protect the environment."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What can we conclude about Impossible Foods' products from Joan Solsman's remark?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They more often appeal to meat-eaters."
+                },
+                {
+                  "label": "B",
+                  "text": "They very much resemble animal meat."
+                },
+                {
+                  "label": "C",
+                  "text": "Some have become its signature dishes."
+                },
+                {
+                  "label": "D",
+                  "text": "Most of them are sold as true fake meat."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why can the habit of eating a plant-based diet lead to better health?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It frees people from any known link to cancer."
+                },
+                {
+                  "label": "B",
+                  "text": "It provides all the nutrients for staying healthy."
+                },
+                {
+                  "label": "C",
+                  "text": "It helps maintain normal blood pressure and blood sugar."
+                },
+                {
+                  "label": "D",
+                  "text": "It reduces various health risks posed by meat consumption."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author recommend we eat at the end of the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Naturally produced foods."
+                },
+                {
+                  "label": "C",
+                  "text": "Red meats like traditional beef."
+                },
+                {
+                  "label": "B",
+                  "text": "Processed protein substitutes."
+                },
+                {
+                  "label": "D",
+                  "text": "New generations of alternate meat."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，中国越来越多的城市着力打造“15分钟便民生活圈（convenient living circles）”。社区居民步行15分钟就能享受到日常所需的公共服务。生活圈内建有便利店、公园、健身场地、图书馆、学校、社区食堂、诊所等。生活圈的建立能够为居民提供更加便利、舒适、友好、愉悦的生活环境，更好地满足城市居民多元化的日常生活服务需求，提升居民的生活品质和幸福感。"
+      }
+    ]
+  },
+  "id": "CET4-2025-06-3",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

@@ -1,0 +1,1319 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Transportation. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "unknown",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Transportation. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Transportation. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He wanted to buy a home."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He lost a huge sum of money."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He suffered from a shock."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He did an unusual good deed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Invite the waiter to a fancy dinner."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Give some money to the waiter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tell her story to the Daily News."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Pay the waiter's school tuition."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Whether or not to move to the state's mainland."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How to keep the village from sinking into the sea."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Where to get the funds for rebuilding their village."
+                  },
+                  {
+                    "label": "D",
+                    "text": "What to do about the rising level of the seawater."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It takes too long a time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has to wait for the state's final approval."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It costs too much money."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It faces strong opposition from many villagers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To investigate whether people are grateful for help."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To see whether people hold doors open for strangers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To explore ways of inducing gratitude in people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To find out how people express gratitude."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They induced strangers to talk with them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They helped 15 to 20 people in a bad mood."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They held doors open for people at various places."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They interviewed people who didn't say thank you."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People can be educated to be grateful."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Most people express gratitude for help."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Most people have bad days now and then."
+                  },
+                  {
+                    "label": "D",
+                    "text": "People are ungrateful when in a bad mood.\n\n四级2020年12月24"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To order a solar panel installation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To enquire about solar panel installations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To report a serious leak in his roof."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To complain about the faulty solar panels."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He plans to install solar panels."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He saves \\$300 a year."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He owns a four-bedroom house."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has a large family."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The service of the solar panel company."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The maintenance of the solar panels."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The cost of a solar panel installation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The quality of the solar panels."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One year and a half."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Roughly six years."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Less than four years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "About five years."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "At a travel agency."
+                  },
+                  {
+                    "label": "C",
+                    "text": "At an airline transfer service."
+                  },
+                  {
+                    "label": "B",
+                    "text": "At an Australian airport."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At a local transportation authority."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She would be able to visit more scenic spots."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She wanted to save as much money as possible."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She would like to have everything taken care of."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She wanted to spend more time with her family."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Four days."
+                  },
+                  {
+                    "label": "C",
+                    "text": "One week."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Five days."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Two weeks."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Choosing some activities herself."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Driving along the Great Ocean Road."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Spending Christmas with Australians."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Learning more about wine making."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Bring their own bags when shopping."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Dispose of their trash properly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Use public transport when traveling."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Pay a green tax upon arrival."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has not been doing a good job in recycling."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has witnessed a rise in accidental drowning."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has not attracted many tourists in recent years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has experienced an overall decline in air quality."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To charge a small fee on plastic products in supermarkets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To ban single-use plastic bags and straws on Bali Island."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To promote the use of paper bags for shopping."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To impose a penalty on anyone caught littering.\n\n四级2020年12月25"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It gives birth to several babies at a time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its breeding grounds are now better preserved."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the least protected mammal species."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its population is now showing signs of increase."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Global warming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Commercial hunting."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Polluted seawaters."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Decreasing birthrates."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To mate."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To escape hunters."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To look for food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To seek breeding grounds."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They prefer to drink low-fat milk."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They consume less milk these days."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They think milk is good for health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They buy more milk than the British."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is not as healthy as once thought."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It benefits the elderly more."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is not easy to stay fresh for long."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It tends to make people fat."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They drink too many pints every day."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They lack the necessary proteins to digest it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are sensitive to certain minerals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have eaten food incompatible with milk."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is easier for sick people to digest."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is healthier than other animal products."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It provides some necessary nutrients."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It supplies the body with enough calories."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "When my son completes a task, I can't help but praise him. It's only natural to give praise where praise is due, right? But is there such a thing as too much praise?\n\nAccording to psychologist Katherine Phillip, children don't benefit from 26 praise as much as we'd like to think. \"Parents often praise, believing they are building their child's self-confidence. However, over-praising can have a 27 effect,\" says Phillip. \"When we use the same praise 28, it may become empty and no longer valued by the child. It can also become an expectation that anything they do must be 29 with praise. This may lead to the child avoiding taking risks due to fear of 30 their parents.\"\n\nDoes this mean we should do away with all the praise? Phillip says no. \"The key to healthy praise is to focus on the process rather than the _31_. It is the recognition of a child's attempt, or the process in which they achieved something, that is essential,\" she says. \"Parents should encourage their child to take the risks needed to learn and grow.\"\n\nSo how do we break the _32_ of praise we're all so accustomed to? Phillip says it's important to _33_ between \"person praise\" and \"process praise\". \"Person praise is _34_ saying how great someone is. It's a form of personal approval. Process praise is acknowledgement of the efforts the person\n\n四级2020年12月26\n\nhas just _35_. Children who receive person praise are more likely to feel shame after losing,\" says Phillip.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "choose"
+        },
+        {
+          "label": "F",
+          "text": "experienced"
+        },
+        {
+          "label": "K",
+          "text": "repeatedly"
+        },
+        {
+          "label": "B",
+          "text": "constant"
+        },
+        {
+          "label": "G",
+          "text": "negative"
+        },
+        {
+          "label": "L",
+          "text": "rewarded"
+        },
+        {
+          "label": "C",
+          "text": "disappointing"
+        },
+        {
+          "label": "H",
+          "text": "outcome"
+        },
+        {
+          "label": "M",
+          "text": "separately"
+        },
+        {
+          "label": "D",
+          "text": "distinguish"
+        },
+        {
+          "label": "I",
+          "text": "pattern"
+        },
+        {
+          "label": "N",
+          "text": "simply"
+        },
+        {
+          "label": "E",
+          "text": "exhausting"
+        },
+        {
+          "label": "J",
+          "text": "plural"
+        },
+        {
+          "label": "O",
+          "text": "undertaken"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 240,
+          "end": 242
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 397,
+          "end": 399
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 452,
+          "end": 454
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 575,
+          "end": 577
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 655,
+          "end": 657
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 816,
+          "end": 820
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1052,
+          "end": 1056
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1126,
+          "end": 1130
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1195,
+          "end": 1199
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1347,
+          "end": 1351
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Poverty is a story about us, not them",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Too often still, we think we know what poverty looks like. It's the way we've been taught, the images we've been force-fed for decades. The chronically homeless. The undocumented immigrant. The urban poor, usually personified as a woman of color, the \"welfare queen\" politicians still too often reference."
+        },
+        {
+          "label": "B",
+          "text": "But as income inequality rises to record levels in the United States, even in the midst of a record economic expansion, those familiar images are outdated, hurtful, and counterproductive to focusing attention on solutions and building ladders of opportunity."
+        },
+        {
+          "label": "C",
+          "text": "Today's faces of income inequality and lack of opportunity look like all of us. It's Anna Landre, a disabled Georgetown University student fighting to keep health benefits that allow her the freedom to live her life. It's Tiffanie Standard, a counselor for young women of color in Philadelphia who want to be tech entrepreneurs—but who must work multiple jobs to stay afloat. It's Ken Outlaw, a welder in rural North Carolina whose dream of going back to school at a local community college was dashed by Hurricane Florence—just one of the extreme weather events that have tipped the balance for struggling Americans across the nation."
+        },
+        {
+          "label": "D",
+          "text": "If these are the central characters of our story about poverty, what layers of perceptions, myths, and realities must we unearth to find meaningful solutions and support? In pursuit of revealing this complicated reality, Mothering Justice, led by women of color, went last year to the state capital in Lansing, Michigan, to lobby on issues that affect working mothers. One of the Mothering Justice organizers went to the office of a state representative to talk about the lack of affordable childcare—the vestiges (痕迹) of a system that expected mothers to stay home with their children while their husbands worked. A legislative staffer dismissed the activist's concerns, telling her \"my husband took care of that—I stayed home.\""
+        },
+        {
+          "label": "E",
+          "text": "That comment, says Mothering Justice director Danielle Atkinson, “was meant to shame” and relied on the familiar notion that a woman of color concerned about income inequality and programs that promote mobility must by definition be a single mom, probably with multiple kids. In this case, the Mothering Justice activist happened to be married. And in most cases in the America of 2019, the images that come to mind when we hear the words poverty or income inequality fail miserably in\n\n四级2020年12月 27\n\nreflecting a complicated reality: poverty touches virtually all of us. The face of income inequality, for all but a very few of us, is the one we each see in the mirror."
+        },
+        {
+          "label": "F",
+          "text": "How many of us are poor in the U.S.? It depends on who you ask. According to the Census Bureau, 38 million people in the U.S. are living below the official poverty thresholds. Taking into account economic need beyond that absolute measure, the Institute for Policy Studies found that 140 million people are poor or low-income. That's almost half the U.S. population."
+        },
+        {
+          "label": "G",
+          "text": "Whatever the measure, within that massive group, poverty is extremely diverse. We know that some people are more affected than others, like children, the elderly, people with disabilities, and people of color."
+        },
+        {
+          "label": "H",
+          "text": "But the fact that 4 in 10 Americans can't come up with \\$400 in an emergency is a commonly cited statistic for good reason: economic instability stretches across race, gender, and geography. It even reaches into the middle classes, as real wages have stagnated (不增长) for all but the very wealthy and temporary spells of financial instability are not uncommon."
+        },
+        {
+          "label": "I",
+          "text": "Negative images remain of who is living in poverty as well as what is needed to move out of it. The big American myth is that you can pull yourself up by your own efforts and change a bad situation into a good one. The reality is that finding opportunity without help from families, friends, schools, and community is virtually impossible. And the playing field is nothing close to level."
+        },
+        {
+          "label": "J",
+          "text": "The FrameWorks Institute, a research group that focuses on public framing of issues, has studied what sustains stereotypes and narratives of poverty in the United Kingdom. \"People view economic success and wellbeing in life as a product of choice, willpower, and drive,\" says Nat Kendall-Taylor, CEO of FrameWorks. \"When we see people who are struggling,\" he says, those assumptions \"lead us to the perception that people in poverty are lazy, they don't care, and they haven't made the right decisions.\""
+        },
+        {
+          "label": "K",
+          "text": "Does this sound familiar? Similar ideas surround poverty in the U.S. And these assumptions give a false picture of reality. “When people enter into that pattern of thinking,” says Kendall-Taylor, “it’s cognitively comfortable to make sense of issues of poverty in that way. It creates a kind of cognitive blindness—all of the factors external to a person’s drive and choices that they’ve made become invisible and fade from view.”"
+        },
+        {
+          "label": "L",
+          "text": "Those external factors include the difficulties accompanying low-wage work or structural discrimination based on race, gender, or ability. Assumptions get worse when people who are poor use government benefits to help them survive. There is a great tension between “the poor” and those who are receiving what has become a dirty word: “welfare.”"
+        },
+        {
+          "label": "M",
+          "text": "According to the General Social Survey, 71 percent of respondents believe the country is spending too little on “assistance to the poor.” On the other hand, 22 percent think we are spending too little on “welfare”: 37 percent believe we are spending too much."
+        },
+        {
+          "label": "N",
+          "text": "“Poverty has been interchangeable with people of color—specifically black women and black mothers,” says Atkinson of Mothering Justice. It’s true that black mothers are more affected by poverty than many other groups, yet they are disproportionately the face of poverty. For example, Americans routinely overestimate the share of black recipients of public assistance programs."
+        },
+        {
+          "label": "O",
+          "text": "In reality, most people will experience some form of financial hardship at some point in their lives. Indeed, people tend to dip in and out of poverty, perhaps due to unexpected obstacles like losing a job,\n\n四级2020年12月28\n\nor when hours of a low-wage job fluctuate."
+        },
+        {
+          "label": "P",
+          "text": "Something each of us can do is to treat each other with the dignity and sympathy that is deserved and to understand deeply that the issue of poverty touches all of us."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "One legislative staffer assumed that a woman of color who advocated affordable childcare must be a single mother."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "People from different races, genders, and regions all suffer from a lack of financial security."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "According to a survey, while the majority believe too little assistance is given to the poor, more than a third believe too much is spent on welfare."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "A research group has found that Americans who are struggling are thought to be lazy and to have made the wrong decisions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Under the old system in America, a mother was supposed to stay home and take care of her children."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It was found that nearly 50% of Americans are poor or receive low pay."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Americans usually overestimate the number of blacks receiving welfare benefits."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "It is impossible for Americans to lift themselves out of poverty entirely on their own."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Nowadays, it seems none of us can get away from income inequality."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Assumptions about poor people become even more negative when they live on welfare."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Boredom has, paradoxically, become quite interesting to academics lately. In early May, London's Boring Conference celebrated seven years of delighting in dullness. At this event, people flocked to talks about weather, traffic jams, and vending-machine sounds, among other sleep-inducing topics.\n\nWhat, exactly, is everybody studying? One widely accepted psychological definition of boredom is \"the distasteful experience of wanting, but being unable, to engage in satisfying activity.\" But how can you quantify a person's boredom level and compare it with someone else's? In 1986, psychologists introduced the Boredom Proneness Scale, designed to measure an individual's overall tendency to feel bored. By contrast, the Multidimensional State Boredom Scale, developed in 2008, measures a person's feelings of boredom in a given situation.\n\nBoredom has been linked to behavior issues including inattentive driving, mindless snacking, excessive drinking, and addictive gambling. In fact, many of us would choose pain over boredom. One team of psychologists discovered that two-thirds of men and a quarter of women would rather self-administer electric shocks than sit alone with their thoughts for 15 minutes. Researching this phenomenon, another team asked volunteers to watch boring, sad, or neutral films, during which they could self-administer electric shocks. The bored volunteers shocked themselves more and harder than the sad or neutral ones did.\n\nBut boredom isn't all bad. By encouraging self-reflection and daydreaming, it can spur creativity. An early study gave participants abundant time to complete problem-solving and word-association exercises. Once all the obvious answers were exhausted, participants gave more and more inventive answers to\n\n四级2020年12月29\n\ncombat boredom. A British study took these findings one step further, asking subjects to complete a creative challenge (coming up with a list of alternative uses for a household item). One group of subjects did a boring activity first, while the others went straight to the creative task. Those whose boredom pumps had been primed were more productive.\n\nIn our always-connected world, boredom may be a hard-to-define state, but it is a fertile one. Watch paint dry or water boil, or at least put away your smartphone for a while, and you might unlock your next big idea.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "When are people likely to experience boredom, according to an accepted psychological definition?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When they don't have the chance to do what they want."
+                },
+                {
+                  "label": "B",
+                  "text": "When they don't enjoy the materials they are studying."
+                },
+                {
+                  "label": "C",
+                  "text": "When they experience something unpleasant."
+                },
+                {
+                  "label": "D",
+                  "text": "When they engage in some routine activities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author say boredom can lead to?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Determination."
+                },
+                {
+                  "label": "B",
+                  "text": "Concentration."
+                },
+                {
+                  "label": "C",
+                  "text": "Mental deterioration."
+                },
+                {
+                  "label": "D",
+                  "text": "Harmful conduct."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What is the finding of one team of psychologists in their experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Volunteers prefer watching a boring movie to sitting alone deliberating."
+                },
+                {
+                  "label": "B",
+                  "text": "Many volunteers choose to hurt themselves rather than endure boredom."
+                },
+                {
+                  "label": "C",
+                  "text": "Male volunteers are more immune to the effects of boredom than females."
+                },
+                {
+                  "label": "D",
+                  "text": "Many volunteers are unable to resist boredom longer than fifteen minutes."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why does the author say boredom isn't all bad?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It stimulates memorization."
+                },
+                {
+                  "label": "B",
+                  "text": "It allows time for relaxation."
+                },
+                {
+                  "label": "C",
+                  "text": "It may promote creative thinking."
+                },
+                {
+                  "label": "D",
+                  "text": "It may facilitate independent learning."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author suggest one do when faced with a challenging problem?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Stop idling and think big."
+                },
+                {
+                  "label": "C",
+                  "text": "Look around oneself for stimulation."
+                },
+                {
+                  "label": "B",
+                  "text": "Unlock one's smartphone."
+                },
+                {
+                  "label": "D",
+                  "text": "Allow oneself some time to be bored."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Forests in countries like Brazil and the Congo get a lot of attention from environmentalists, and it is easy to see why. South America and sub-Saharan Africa are experiencing deforestation on an enormous scale; every year almost 5 million hectares are lost. But forests are also changing in rich Western countries. They are growing larger, both in the sense that they occupy more land and that the trees in them are bigger. What is going on?\n\nForests are spreading in almost all Western countries, with the fastest growth in places that historically had rather few trees. In 1990 28% of Spain was forested; now the proportion is 37%. In both Greece and Italy, the growth was from 26% to 32% over the same period. Forests are gradually taking more land in America and Australia. Perhaps most astonishing is the trend in Ireland. Roughly 1% of that country was forested when it became independent in 1922. Now forests cover 11% of the land, and the government wants to push the proportion to 18% by the 2040s.\n\nTwo things are fertilising this growth. The first is the abandonment of farmland, especially in high, dry places where nothing grows terribly well. When farmers give up trying to earn a living from farming or herding, trees simply move in: The second is government policy and subsidy. Throughout history,\n\n四级2020年12月30\n\ngovernments have protected and promoted forests for diverse reasons, ranging from the need for wooden warships to a desire to promote suburban house-building. Nowadays forests are increasingly welcome because they suck in carbon pollution from the air. The justifications change; the desire for more trees remains constant.\n\nThe greening of the West does not delight everyone. Farmers complain that land is being taken out of use by generously subsidised tree plantations. Parts of Spain and Portugal suffer from terrible forest fires. Others simply dislike the appearance of forests planted in neat rows. They will have to get used to the trees, however. The growth of Western forests seems almost as unstoppable as deforestation elsewhere.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is catching environmentalists' attention nowadays?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Rich countries are stripping poor ones of their resources."
+                },
+                {
+                  "label": "B",
+                  "text": "Forests are fast shrinking in many developing countries."
+                },
+                {
+                  "label": "C",
+                  "text": "Forests are eating away the fertile farmland worldwide."
+                },
+                {
+                  "label": "D",
+                  "text": "Rich countries are doing little to address deforestation."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Which countries have the fastest forest growth?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Those that have newly achieved independence."
+                },
+                {
+                  "label": "B",
+                  "text": "Those that have the greatest demand for timber."
+                },
+                {
+                  "label": "C",
+                  "text": "Those that used to have the lowest forest coverage."
+                },
+                {
+                  "label": "D",
+                  "text": "Those that provide enormous government subsidies."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What has encouraged forest growth historically?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The government's advocacy."
+                },
+                {
+                  "label": "B",
+                  "text": "The use of wood for fuel."
+                },
+                {
+                  "label": "C",
+                  "text": "The favourable climate."
+                },
+                {
+                  "label": "D",
+                  "text": "The green movement."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What accounts for our increasing desire for forests?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their unique scenic beauty."
+                },
+                {
+                  "label": "B",
+                  "text": "Their use as fruit plantations."
+                },
+                {
+                  "label": "C",
+                  "text": "Their capability of improving air quality."
+                },
+                {
+                  "label": "D",
+                  "text": "Their stable supply of building materials."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author conclude about the prospects of forestation?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Deserts in sub-Saharan Africa will diminish gradually."
+                },
+                {
+                  "label": "B",
+                  "text": "It will play a more and more important role in people's lives."
+                },
+                {
+                  "label": "C",
+                  "text": "Forest destruction in the developing world will quickly slow down."
+                },
+                {
+                  "label": "D",
+                  "text": "Developed and developing countries are moving in opposite directions."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "春节前夕吃团圆饭是中国人的传统。团圆饭是一年中最重要的晚餐，也是家庭团聚的最佳时机，家人生活在不同地方的家庭尤其如此。团圆饭上的菜肴丰富多样，其中有些菜肴有特殊含义。例如，鱼是不可缺少的一道菜，因为汉语中的“鱼”字和“余”字听上去一样。在中国的许多地方，饺子也是一道重要的佳肴，因为饺子象征着财富和好运。\n\n四级2020年12月31"
+      }
+    ]
+  },
+  "id": "CET4-2020-12-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

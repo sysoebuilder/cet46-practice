@@ -1,0 +1,1430 @@
+{
+  "schema_version": "1.0",
+  "year": 2024,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Nowadays, more and more students have realized the importance of self-discipline in their personal growth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Nowadays, more and more students have realized the importance of self-discipline in their personal growth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Nowadays, more and more students have realized the importance of self-discipline in their personal growth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "You should copy the sentence given in quotes at the beginning of your essay.",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Changing his major."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Revising his graduation thesis."
+                  },
+                  {
+                    "label": "B",
+                    "text": "His family situation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His passion for Art History."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He doesn't think it legitimate to depend on his father."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He thinks his financial situation has now changed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He doesn't think it will provide him with a living."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He thinks it nourishes the financially secure only."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Try his best to socialize and build a network in the art industry."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Seek financially viable employment opportunities after graduation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Investigate all possible ways to become a celebrity in the art world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Strike a balance between intellectual pursuits and financial security."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Money."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Determination."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Optimism."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their decision on investigating beef consumption."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their original ideas about the domestic market."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their different approaches to a case study."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their end-of-semester business projects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Expanding farmland out west."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Raising cattle domestically."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Importing most of the beef."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Continuing to boost economic growth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Technical equipment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Beef."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Business consultancy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Carwashing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Car owners of all walks of life."
+                  },
+                  {
+                    "label": "B",
+                    "text": "High-end customers in big cities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Consumers craving for professional service."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Well-off dealers seeking a profitable markup."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard,",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Parents' talking with them during TV time raises their curiosity levels."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their daily television exposure cuts parent-child conversation time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The more TV they watch the poorer their progress in development."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their socioeconomic levels impact their academic achievement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Kids' enhanced learning."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Kids' reading and math."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Kids' curiosity levels."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Kids' behavioral development."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can hinder kids from getting on with their peers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can cut into kids' time on exploratory activities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can arouse kids' interest in how people interact in real life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can widen the gap between kids from different economic statuses."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Exerting ourselves too hard in order to attain our life's goals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Being possessed with a single thought of professional success."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Trying every means to beat others in terms of personal aspirations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Being mindlessly driven to possess more and more material things."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "We might isolate ourselves from our fellow beings."
+                  },
+                  {
+                    "label": "B",
+                    "text": "We might acquire an incorrect sense of well-being."
+                  },
+                  {
+                    "label": "C",
+                    "text": "We might end up pursuing all the wrong things."
+                  },
+                  {
+                    "label": "D",
+                    "text": "We might make a mess of our personal lives."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They should be based on solid theoretical concepts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They should take personal interests into account."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They should include goals to help other people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They should increase our sense of worthiness."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Drifting through life aimlessly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Abandoning all that life has to offer."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Giving up the chance to fulfill yourself."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Spoiling your character and integrity."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Grade-raising ways and means."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Revision-conducting approaches."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Pressure-alleviating exercise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Brain-boosting food and drink."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Buying it from coffee shops."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Drinking it after 2 pm."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Building up a tolerance of it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consuming it with sugar."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By taking varied vitamin supplements."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By eating both oranges and frozen berries."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By consuming a rich variety of foods."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By getting components packaged in tablets."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Many people across advanced economies think the world is going from bad to worse."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The news focuses on reporting catastrophes that occur across the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A significant part of the world is experiencing another great recession.\n\n2024 年 12 月英语六级真题第 2 套\n\n第 2 页，共 9 页"
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many people have no idea of those living under miserable conditions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has experienced ups and downs like any other historical trend."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is hailed as a miracle by both economists and ordinary people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is the only way for all countries to share economic prosperity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has given more and more countries a rare chance to thrive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their fortunes may take a downturn."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can be classified as middle class."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their living standards have been deteriorating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are experiencing a radical transformation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Why smells can activate emotional memories."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How powerful the sense of smell can become."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How scent particles revive memories forgotten."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Why the scent of bread has a strong mental impact."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The brain cells' processing of memories experienced as strongly emotional."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The activation of the brain's emotion processing area by chemical particles."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The interaction between chemical particles and the brain cells responsible for smell."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The sensations of scents going directly to the brain's emotional and memory centers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Imagination."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Association."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Experience."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Context."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Inaccuracy and alterability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Being personal and individualistic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Susceptibility to polar interpretations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Being dependent on relevant scenarios."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Ever been talking about something important with someone you care about and found the discussion frustrating instead of fruitful? Negative energy can then cast a _26_ over your efforts to build a shared understanding.\n\nIn fact collaborative problem-solving conversations require skills. Strong listening skills are essential. Sprinkling in positivity via appreciation, _27_ smiles, and warm comments helps. So does the essential ability to keep your emotional tone in the calm zone. If the tone of a dialogue heats up and anger erupts, the dialogue _28_ from collaborative to adversarial, and progress is likely to come to an immediate _29\n\nIn addition, effective dialogue generally has another important characteristic: symmetry.\n\nSymmetry in dialogue refers to the balance of how much each partner talks. Are you each getting equal airtime? When one participant does most of the talking, this asymmetry or lack of balance tends to become\n\n2024 年 12 月英语六级真题第 2 套\n\n第 3 页，共 9 页\n\nannoying to one or both of you. The silent partner _30 tires of only listening, while the talker can feel 31_. Usually, both would prefer more equal give and take.\n\nDifferent rates of speech and levels of voice volume can _32_ symmetry as well. The faster or louder partner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble getting the floor.\n\nConversations also lose balance when one partner's opinions count more than the other's. One person's input may carry more sway because their style of expression is more _33_. One viewpoint may tend to get lost because it is expressed more _34_.\n\nIf either partner fairly consistently _35_ or evaporates, modifying the pattern will be helpful. The dialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "affectionate"
+        },
+        {
+          "label": "I",
+          "text": "predominates"
+        },
+        {
+          "label": "B",
+          "text": "approximately"
+        },
+        {
+          "label": "J",
+          "text": "propagate"
+        },
+        {
+          "label": "C",
+          "text": "elapses"
+        },
+        {
+          "label": "K",
+          "text": "scenario"
+        },
+        {
+          "label": "D",
+          "text": "erode"
+        },
+        {
+          "label": "L",
+          "text": "shadow"
+        },
+        {
+          "label": "E",
+          "text": "flattered"
+        },
+        {
+          "label": "M",
+          "text": "tentatively"
+        },
+        {
+          "label": "F",
+          "text": "flips"
+        },
+        {
+          "label": "N",
+          "text": "typically"
+        },
+        {
+          "label": "G",
+          "text": "halt"
+        },
+        {
+          "label": "O",
+          "text": "vigorous"
+        },
+        {
+          "label": "H",
+          "text": "overburdened"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 162,
+          "end": 166
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 369,
+          "end": 373
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 549,
+          "end": 553
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29\n\n",
+          "start": 636,
+          "end": 641
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30 ",
+          "start": 1029,
+          "end": 1033
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1084,
+          "end": 1086
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1200,
+          "end": 1204
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1540,
+          "end": 1544
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1610,
+          "end": 1614
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1655,
+          "end": 1659
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by making the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "What Is a Super Blood Wolf Moon?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Blue moons, rose moons, supermoons. For some reason all the websites seem to think you really want to know all about these moons. \"Catch This Weekend's AMAZING SUPERMOON,\" one headline will announce. \"The Supermoon Isn't Actually A Big Deal And You're All Ruining Astronomy,\" another will complain.\n\nВ) The latest example is the super blood wolf moon eclipse which sounds like the name of an emotional song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. As we'll explain below, there is nothing truly mysterious or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that. We get these super lunar events by smashing together all the qualifiers we've historically used to keep track of full moons throughout the year, and in the age of the internet we can get a little too enthusiastic."
+        },
+        {
+          "label": "C",
+          "text": "Consider this your go-to resource for all moon-gazing news. Here's what you need to know about the latest lunar event."
+        },
+        {
+          "label": "D",
+          "text": "Look, it's okay if you don't know. There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not.\n\n第 4 页，共 9 页"
+        },
+        {
+          "label": "E",
+          "text": "The moon orbits Earth, and it's tidally locked—that means it always shows us the same face, instead of spinning around like our planet does. That's why you can always see the man on the moon (or the moon rabbit, depending on your cultural preferences) even as it spins around us. But while the moon is big and bright in the sky when it's full, that's only because it's reflecting light from the sun. But the moon is always moving, so it's getting hit with sunlight at different angles. It's invisible to us during the new moon, because our satellite is parked right between us and the sun; the so-called dark side of the moon is lit up like Las Vegas, but the side we can see is in shadow. A full moon happens when the earth is right between the sun and the moon, so sunlight hits the part we can see. And all the other phases are just the transition from one of those extremes to the other."
+        },
+        {
+          "label": "F",
+          "text": "The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular. We call the closest point perigee (近地点), and the most distant point is apogee (远地点). 2018's closest perigee and most distant apogee both happened in January, and the difference was about 30,000 miles."
+        },
+        {
+          "label": "G",
+          "text": "The reason you care about this ordinary change in distance is that it turns a moon super. When a full moon happens close to perigee, it's going to look a bit bigger. Honestly, the difference is not that profound, but if you're in a position to photograph the supermoon next to something that shows the slight increase in scale, it can look pretty cool. January's super blood wolf moon eclipse is super because the date lines up with the closest the moon will get to us during January, but the moon won't actually be at its closest for the year until February's supermoon, which you can expect plenty of undue excitement over."
+        },
+        {
+          "label": "H",
+          "text": "Blood moons only occur during total lunar eclipses (which can happen a few times a year in any given location). When the moon slips through our shadow, we give it a reddish coloring. The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night-the light bouncing off of it has to travel through a thicker atmosphere there, which scatters more blue light away. But you'll probably only see that deep, sinister red during an eclipse."
+        },
+        {
+          "label": "I",
+          "text": "A lot of headlines about moons are just ridiculous (you do not need to be particularly excited about a blue moon, it just looks like a regular full moon), but you should definitely roll out of bed to look at a blood moon if one is going to be visible in your region, even though they're just lunar eclipses and not evidence of bloody battles between the sky gods."
+        },
+        {
+          "label": "J",
+          "text": "In March of 2018, we had our second \"blue moon\" of the year, to much acclaim. And while that's not necessarily special in an oh-gosh-get-out-and-look-at-it way, it's certainly special: a blue moon is a nickname for when two full moons fall in the same calendar month, and we hadn't previously had two in one year since 1999. We won't have it happen again until 2037. Astronomer David Chapman explained that this is merely a peculiarity of our calendar; once we stopped doing things based on the moon and started trying to follow the sun and the seasons, we stopped having one reliable full moon per month. The moon cycle is 29.53 days long on average, so in most months we still end up with a single new moon and a single full one. But every once in a while, one month steals a full moon from another. In 2018 (and in 1999, and again in 2037) both January and March stacked full moons on the first and last nights of the month, leaving February in the dark."
+        },
+        {
+          "label": "K",
+          "text": "Getting two blue moons a year is rare, but we have individual blue moons every few years. Also, fun fact: not actually blue. A moon can indeed take on a moody blue color, but this only happens when particles of just the right size disperse through the sky-and it has nothing to do with the moon's status as \"blue\". Big\n\n2024 年 12 月英语六级真题第 2 套\n\n第 5 页，\n\n共 9 页\n\nclouds of ash from volcanic eruptions or fires can do the trick, but it doesn't happen often, and the stars would certainly have to align for two such rare instances to occur at once."
+        },
+        {
+          "label": "L",
+          "text": "You may have heard that the super special second blue moon of 2018 was also a Paschal moon. This is true! That just means it was the first full moon of spring, which is often used to determine the date of Easter Sunday. All of this is just calendar nonsense and we refuse to go into it further."
+        },
+        {
+          "label": "M",
+          "text": "Sometimes you'll see a headline that promises a moon with so many qualifiers it makes your head spin. A super blue blood worm moon, perhaps? Or a super blood wolf moon? Lots of websites will tell you that \"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which is kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, not to mention historically. The idea that hungry, howling wolves were such a universal constant in January that all of North America with its different cultures, geographies, and languages spontaneously came up with the same nickname is illogical."
+        },
+        {
+          "label": "N",
+          "text": "Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to draw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon. But these are all based on human calendars and activities and folklore, you will not go outside and see a pink moon in April, though I wish it were so."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "We cannot see the moon at times when it is positioned right between the earth and the sun."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Volcanic eruptions may cause the moon to assume a moody blue color."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The moon will be closest to the earth when the supermoon occurs in February."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "There is nothing unusual about the super blood wolf moon, which will bear no resemblance to a bloody wolf head."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "The moon will appear orange when the light reflecting from it travels through an atmosphere thicker than usual."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It is contrary to logic to claim the name of wolf moon originates from the cultures of American Indians."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "As the moon's orbit is not a hundred-percent circle, its distance from the earth changes."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "A full moon in a given month or season gets a specific name in different cultures."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "There are likely lots of people who know absolutely nothing about why the moon appears to change its size regularly but act like they know."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "When a full moon appears twice in the same month, it is nicknamed a blue moon."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A) ,B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "With population increases and global urbanisation ever accelerating, much attention is focused on the sustainability of our cities and scarce attention is paid to the countryside.\n\nRural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life. Yet\n\n2024 年 12 月英语六级真题\n\n第 6 页，\n\nwhilst some or all of these elements exist in the countryside, so do conservatism and a lack of employment opportunities. And it is mostly due to the latter that rural communities are suffering. Attracted by the improved economics of urban areas, country-dwellers across the world are moving out, contributing to the excessive crowdedness of densely populated cities, and leaving the countryside in desolation.\n\nSo how can the countryside ensure its survival among these changes; or should it at all? Due to both the distance between residences and facilities and often intermittent public transport, those living in the countryside are heavier automobile users. Rural dwellers also use more energy maintaining their mostly detached buildings. We may be piled up like boxes in the city, but this brings energy efficiency that the countryside cannot match. Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice.\n\nProtecting the countryside is a hot topic. Those who have made their fortunes in the city often buy second homes in the countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this is that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A solution has yet to be found for this challenge, for market forces are further forcing residents out of the countryside. For those who believe in rural preservation, this is deplorable.\n\nWhilst an idealised view of the countryside is common, the reality is that rural life has continuously evolved. Industrialisation brought an increase in divisions of labour, changing social links between rural people. The internet has introduced once foreign cultures into the countryside. Improved travel connections and affordability have made the world more accessible, creating a \"global village\". Considering these changes, surely an evolving countryside is inevitable.\n\nPerhaps the countryside should also prepare itself for massive population increases in the future. With cities across the world growing rapidly, how will the current urban generation respond to the inevitable social changes of mass urbanisation? Will the longing for a simpler life become stronger, fueling a rural renaissance?\n\nAs the world continues to urbanise, the voices calling for rural preservation may well grow louder. But change is inevitable. We know that the world is going to see new cities emerging from the dust and current cities growing into megacities. but the future of the countryside is less clear.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What has become of the rural areas nowadays?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are becoming somewhat deserted."
+                },
+                {
+                  "label": "C",
+                  "text": "They are closely-knit communities."
+                },
+                {
+                  "label": "B",
+                  "text": "They are being increasingly urbanised."
+                },
+                {
+                  "label": "D",
+                  "text": "They are haunted by conservatism."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author think of the rural lifestyle?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is unlikely to survive given the on-going changes."
+                },
+                {
+                  "label": "B",
+                  "text": "It is less energy-efficient compared to that in cities."
+                },
+                {
+                  "label": "C",
+                  "text": "It is highly dependent upon heavy automobiles."
+                },
+                {
+                  "label": "D",
+                  "text": "It is a choice more affluent people will endorse."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author think of rich urban residents buying a second home in the countryside?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is bound to mar the traditional rural life."
+                },
+                {
+                  "label": "B",
+                  "text": "It adversely impacts rural social stability."
+                },
+                {
+                  "label": "C",
+                  "text": "It hinders rural economies' revitalisation."
+                },
+                {
+                  "label": "D",
+                  "text": "It is detrimental to rural preservation.\n\n2024 年 12 月英语六级真题\n\n第 7 页，共 9 页"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do we learn about the countryside with industrialisation and technological advances?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is destined to change gradually."
+                },
+                {
+                  "label": "C",
+                  "text": "It is likely to embrace foreign cultures."
+                },
+                {
+                  "label": "B",
+                  "text": "It will present an idealised way of life."
+                },
+                {
+                  "label": "D",
+                  "text": "It will become increasingly diversified."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author think of the future of the countryside compared with cities?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is going to be harder for the locals."
+                },
+                {
+                  "label": "C",
+                  "text": "It is less likely to stay static."
+                },
+                {
+                  "label": "B",
+                  "text": "It is going to resemble that of cities."
+                },
+                {
+                  "label": "D",
+                  "text": "It is less easy to envisage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Statements, like \"beauty is in the eye of the beholder (观看者)\", are rarely questioned. They've become so embedded in our consciousness that people think it's absurd to think otherwise. It might be useful, however, to at least push back on this assumption because people evaluate environment, situations, and people aesthetically. We may find that we still believe it is correct, but we may also find that there is a lot more to the situation than you suppose.\n\nA recent study exploring aesthetic taste was published in Cognition. The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.\n\nThe study found that shared taste was most common for faces and natural landscapes, but least common among works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or symmetry, are at work.\n\nPreferences for natural scenes might be learned through life experiences. Factors like habitability, safety, and openness might be preferred as people develop. Some of the details of landscapes change, but the basics are more common, e.g., water, open spaces, and signs of care.\n\nArt and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste.\n\nIt's possible that the lower amount of agreement in the shared taste of artifacts has to do more with elements of style, rather than \"behavioral consequences\".\n\nAll of the consequences seem reasonable (or at least possible), but I think there might be an interesting philosophical conclusion that they did not draw. It seems that there is an objective ground to our aesthetic preferences or evaluations. I am not saying this would mean beauty is completely objective, just that there could possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder.\n\nNature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It's not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal.\n\nPossible universal principles of beauty—such as proportion, fittingness, radiance, and others—are general categories, which allow for a wide array of embodiments. When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal.\n\nThis is why it's important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions.\n\n2024 年 12 月英语六级真题第 2 套\n\n第 8 页，共 9 页",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the passage say about the statement \"beauty is in the eye of the beholder\"?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has hardly ever been disputed."
+                },
+                {
+                  "label": "C",
+                  "text": "Many people have found it absurd."
+                },
+                {
+                  "label": "B",
+                  "text": "It can be interpreted aesthetically."
+                },
+                {
+                  "label": "D",
+                  "text": "People have long been misled by it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does a recent study exploring aesthetic taste show?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Aesthetic tastes tend to differ from person to person."
+                },
+                {
+                  "label": "B",
+                  "text": "Natural beauty is rarely surpassed by artificial beauty."
+                },
+                {
+                  "label": "C",
+                  "text": "There is less consensus on objects shaped by human craft."
+                },
+                {
+                  "label": "D",
+                  "text": "There is general agreement on what is pleasing to the eye."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why do people differ in their aesthetic appraisal of artifacts?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They come out in a great variety of designs."
+                },
+                {
+                  "label": "B",
+                  "text": "They lead to varying behavioral consequences."
+                },
+                {
+                  "label": "C",
+                  "text": "They take up much less natural space than landscapes."
+                },
+                {
+                  "label": "D",
+                  "text": "They come into people's view less often than natural spaces."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the example of sunset tell about nature?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It creates a powerful appeal through its brilliant radiance."
+                },
+                {
+                  "label": "B",
+                  "text": "It displays aesthetic traits in a similar way the world over."
+                },
+                {
+                  "label": "C",
+                  "text": "It embodies beauty with a wide array of aesthetic features."
+                },
+                {
+                  "label": "D",
+                  "text": "It establishes the principles of beauty in a number of ways."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "Why do artifacts not always hold universal appeal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The appreciation of their beauty is not subject to objective standards."
+                },
+                {
+                  "label": "B",
+                  "text": "The universal principle of beauty prevents a wide array of embodiments."
+                },
+                {
+                  "label": "C",
+                  "text": "The way their creators apply the principle of beauty may not be pleasing to everybody."
+                },
+                {
+                  "label": "D",
+                  "text": "Their creators interpret the universal principle of beauty each in their preferred way."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "洋山港（Yangshan Port）是上海航运中心的重要组成部分，是中国第一个深水港，也是世界上规模最大的深水港之一。经过近 20 年的发展，洋山港已实现高度自动化。数字技术和人工智能的使用大大减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一片繁忙，现场却见不到人工操作，而且能够 24 小时不间断运作。洋山港将不断发展，为把上海建成一个全球航运中心做出更大贡献。\n\n2024 年 12 月英语六级真题第 2 套\n\n第 9 页，共 9 页"
+      }
+    ]
+  },
+  "id": "CET6-2024-12-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "A)【精析】细节推断题。当女士问男士他想讨论什么事情时,男士在句(1)中说,关于自己的专业,他改变了主意。也就是说,他有转换专业的想法,想与女士就此进行讨论。因此答案为A)。"
+      },
+      "2": {
+        "answer": "C",
+        "explanation": "C)【精析】细节推断题。女士问男士为什么要放弃艺术史的学习,男士在句(2)中回答说他父亲目前的经济状况让他意识到,更能解决经济问题的就业机会也许不是一件坏事,并说,艺术史滋养了他的灵魂,却并不能为他提供餐盘上的食物。由此可知,男士放弃艺术史的学习是因为他觉得这个专业不能为他提供生存的保障。因此答案为C)。"
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(3)中,女士对男士说,如果他一心想在艺术行业工作,就需要更加坚定自信,并且要开始与人交谈。如果想成为博物馆和画廊界的名人,建立人脉非常关键。也就是说,女士建议男士尽力去社交,并建立艺术行业的人脉。因此答案为A)。"
+      },
+      "4": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(4)中,男士说,现在时间非常宝贵,他没有社交生活,并提到他快跟不上学习进度了,而且今年年底就要交论文。男士问女士:“我有这么多事情要做,哪还能找到时间来收集工作信息呢?”由此可知,男士现阶段最缺的是时间。因此答案为B)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。对话开头,男士就询问女士期末的商业项目是否已经确定了。接下来,他们分别描述了自己的期末商业项目,并对对方的项目发表了看法。因此答案为 D)。"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "C)【精析】细节归纳题。根据句(6-1)可知,女士认为与其进口牛肉,还不如在国内养牛。男士在句(6-2)中回应说,这非常有道理。因此答案为 C)。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "D)【精析】细节归纳题。句(7-1)中,男士告诉女士,他考虑的期末商业项目是洗车场。句(7-2)中,女士说,周围有那么多车,而且这些车又不会很快消失。虽然有很多人不在乎他们的车看起来怎么样,但也有很多人在乎。并说,男士给自己找了一个广阔且持续的市场。因此答案为D)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(8)中,男士明确表示想让自己的商业项目迎合大城市中的高端消费者。因此答案为 B)。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(9)中提到,一项新的研究表明,在看电视时,父母与学龄前儿童对话越多,这些孩子在上幼儿园时好奇心水平就越高。也就是说,父母在儿童看电视时与他们进行对话可以增进他们的好奇心水平。因此答案为A)。"
+      },
+      "10": {
+        "answer": "B",
+        "explanation": "琪·沙阿的研究所关注的是儿童的好奇心水平。因此答案为 B)。"
+      },
+      "11": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(11)中明确提到,过多接触电视等媒体可能会取代游戏和亲子互动等探索性活动,而这些活动被认为是培养孩子好奇心的关键。也就是说,看电视时间过长会减少孩子们花在探索性活动中的时间。因此答案为 B)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(12)中提到,据研究,我们每个人生来就有获取的欲望。这种获取的欲望的“黑暗面”是人类被无意识地驱使着想要拥有越来越多的“东西”。因此答案为D)。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。根据句(13)可知,如果不去有意识地、深思熟虑地且有目的地控制这种与生俱来的获取欲望,我们可能就会在无意识状态下追求那些错误的东西。因此答案为 C)。"
+      },
+      "14": {
+        "answer": "C",
+        "explanation": "C) 【精析】细节辨认题。句(14)中提到, 尽管在有意识的情况下所追求的目标包括获得那些能增加自己幸福感的东西, 但这些目标也应该包括在自己的各种生命角色中去帮助他人。因此答案为 C)。"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节辨认题。句(15)中提到,如果没有想要追求的目标,你也就没有了奋斗的目标。如果没有了奋斗的目标,你就把自己置于随波逐流的危险境地,而且无法去体验并享受生活所提供的一切。因此答案为 A)。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。讲座开头提到,到了复习准备考试和(提交)论文的时间了。压力很大,所以你想要利用一切可以得到的辅助来帮助自己提高记忆力和成绩。接着,句(16)中提到,作为一名营养学家,讲话者想说的是,吃得好可以对你的复习计划产生真实的影响,并自然引出接下来要讲述的内容:健脑食物和饮品。因此答案为D)。"
+      },
+      "17": {
+        "answer": "C",
+        "explanation": "下午 2 点以后就不要再饮用咖啡了。因此答案为 C)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(18)中,讲话者说,食物应该始终排在补充剂之前,获得尽可能多的营养的关键是吃各种不同颜色的食物,如冷冻浆果和深绿色蔬菜等。最好是从食物和饮品中获得你需要的一切。由此可知,讲话者认为,我们可以通过丰富多样的饮食来获取充分营养。因此答案为 B)。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "A)【精析】细节推断题。根据句(19)可知,已故瑞典学者汉斯·罗斯林发现了一个令人担忧的趋势:发达经济体内许多人不仅不知道世界正在变得更好,他们还认为情况恰恰相反,即发达经济体内很多人都认为世界正变得越来越糟。因此答案为A)。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(20)中,讲话者说,全球化是确保所有国家共享经济繁荣的唯一出路,而不是只确保少数发达经济体的经济繁荣。因此答案为C)。"
+      },
+      "21": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(21)中提到,事实上,全球半数人口都可以被视为中产阶级,这是自工业革命以来的第一次。因此答案为 B)。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。讲座以面包的香味可以引发人们的久远记忆切入,引发了讲话者的问题——为什么气味有时会引发强烈的记忆,特别是情感记忆?之后,讲话者一直在试图回答这一问题。因此答案为 A)。"
+      },
+      "23": {
+        "answer": "D",
+        "explanation": "因。因此答案为D)。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "D) 【精析】细节辨认题。句(24)中提到,大脑是利用情境来赋予信息意义并找到记忆的。因此答案为 D)。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节归纳题。句(25)中提到, 尽管气味带来的记忆具有特殊性, 但它们与其他记忆有着相同的缺点。它们并不总是准确的, 而且会随着时间的推移而变化。因此答案为 A)。"
+      },
+      "36": {
+        "answer": "E",
+        "explanation": "E) 【精析】同义转述题。E) 段倒数第三句提到，在新月期间，我们看不见它，因为我们的卫星正好位于我们和太阳之间。本段首句提到了月球绕地球运行，而后作者用 our planet 指代地球，可推测 our satellite “我们的卫星” 指代月球。题干中的 cannot see the moon 对应原文中的 it's invisible，题干中的 positioned 与原文中的 parked 为同义词，故答案为 E)。"
+      },
+      "37": {
+        "answer": "K",
+        "explanation": "K)【精析】细节归纳题。K)段第三、四句提到,月亮确实可以呈现出忧郁的蓝色,但这只发生在大小合适的粒子分散在天空中时——但这与月亮的“蓝色”状态无关。火山喷发或火灾产生的巨大火山灰云可以做到这一点,不过这种情况并不经常出现。从定位句可归纳出,火山灰云能够导致天空中存在大小合适的粒子,继而导致月亮出现忧郁的蓝色。题干中的 cause 对应原文中的 can do the trick,题干内容是对原文定位部分的概括和归纳,故答案为 K)。"
+      },
+      "38": {
+        "answer": "G",
+        "explanation": "G)【精析】细节辨认题。G)段最后一句提到,超级月亮实际上要到二月份出现时才会离我们最近。原文中用到了“not...until...”句型,表示“直到……才……”,换句话说,在二月份出现超级月亮时,它离我们最近,故答案为G)。"
+      },
+      "40": {
+        "answer": "H",
+        "explanation": "H)【精析】推理判断题。H)段定位句提到，每当月亮升起或落下，抑或是整夜低垂在地平线上时，月亮看起来也可能会是橙色的——因为从月亮反射回来的光必须穿过更厚的大气层，而大气层会散射更多的蓝光。由此可以推断，前面所提到的这些出现橙色月亮的情况均是由光穿过更厚的大气层引起的。题干中的appear与原文中的look为同义词，而题干中的reflecting是原文中bouncing off的同义转述，故答案为H)。"
+      },
+      "41": {
+        "answer": "M",
+        "explanation": "述,故答案为 M)。"
+      },
+      "42": {
+        "answer": "F",
+        "explanation": "F) 【精析】同义转述题。F) 段第一句告诉我们, 月球与地球的距离并不总是完全相等的, 因为它的公转轨道不是完美的圆形。原文中 because 引导的原因状语从句在主句之后, 而题干中则是 as 引导原因状语从句并放在了主句之前。此外, 题干中的 a hundred-percent circle 对应原文中的 perfectly circular, 题干中的 changes 是原文中 isn't always exactly the same 的同义转述, 故答案为 F)。"
+      },
+      "43": {
+        "answer": "N",
+        "explanation": "N)【精析】同义转述题。N)段第一句指出,许多文化都对特定月份或季节的满月有传统名称。定位句用 many cultures 作主语,指出不同的文化对特定月份或季节的满月有不同的名称,而题干进行了语序调整,以 a full moon 作为主语说明特定月份或季节的满月会在不同文化中有特定名称。两者表达的含义相同,故答案为 N)。"
+      },
+      "44": {
+        "answer": "D",
+        "explanation": "D) 【精析】同义转述题。D) 段第二句提到, 可能大街上有很多人会假装他们完全知道为什么天空中的那个东西似乎定期变大变小, 但其实他们完全不懂。根据上一段结尾提到的 lunar event 可知 that thing“那个东西”指代的是月亮。题干中的 lots of people 对应原文中的 loads of folks, 题干中的 know absolutely nothing 是对原文中 totally do not 的同义转述, 均表明他们其实不懂, 而题干中的 act like they know 与原文中的 pretending they totally know 均表达这些人假装自己很懂, 题干中的 change its size 是对原文中 get bigger and smaller 的同义转述, 故答案为 D)。"
+      }
+    },
+    "references": {}
+  }
+}

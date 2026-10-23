@@ -1,0 +1,1474 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of building trust between employers and employees. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of building trust between employers and employees. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the importance of building trust between employers and employees. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is a typical salad."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a weird vegetable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a Spanish soup."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a kind of spicy food."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To make it thicker."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To add to its appeal."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To make it more nutritious."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To replace an ingredient."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It contains very little fat."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It uses no artificial additives."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It uses olive oil in cooking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is mainly made of vegetables."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It does not go stale for two years."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It comes from a special kind of pig."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It takes no special skill to prepare."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a delicacy blended with bread."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They come in a great variety."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They do not vary much in price."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They do not make decent gifts."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They go well with Italian food."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "\\$30-\\$40."
+                  },
+                  {
+                    "label": "C",
+                    "text": "\\$50-\\$60."
+                  },
+                  {
+                    "label": "B",
+                    "text": "\\$40-\\$50."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Around \\$150."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are a healthy choice for elderly people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They symbolize good health and longevity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are especially popular among Italians."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They go well with different kinds of food."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is wine imported from California."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is far more expensive than he expected."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is less spicy than all other red wines."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is Italy’s most famous type of red wine."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Learning others’ secrets."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Decoding secret messages."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Searching for information."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Spreading sensational news."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They helped the U.S. army in World War Ⅱ."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could write down spoken codes promptly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were assigned to decode enemy messages."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were good at breaking enemy secret codes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Important battles fought in the Pacific War."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Decoding of secret messages in war times."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A military code that was never broken."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Navajo Indians’ contribution to code breaking.\n\n1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All services will be personalized."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A lot of knowledge-intensive jobs will be replaced."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Technology will revolutionize all sectors of industry."
+                  },
+                  {
+                    "label": "D",
+                    "text": "More information will be available."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In the robotics industry."
+                  },
+                  {
+                    "label": "C",
+                    "text": "In the personal care sector."
+                  },
+                  {
+                    "label": "B",
+                    "text": "In the information service."
+                  },
+                  {
+                    "label": "D",
+                    "text": "In high-end manufacturing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They charge high prices."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They cater to the needs of young people."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They need lots of training."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They focus on customers’ specific needs."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The rising demand in education and healthcare in the next 20 years."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The disruption caused by technology in traditionally well-paid jobs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The tremendous changes new technology will bring to people’s lives."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The amazing amount of personal attention people would like to have."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was the longest road in ancient Egypt."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It lay 8 miles from the monument sites."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was constructed some 500 years ago."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It linked a stone pit to some waterways."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Saws used for cutting stone."
+                  },
+                  {
+                    "label": "C",
+                    "text": "An ancient geographical map."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Traces left by early explorers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Some stone tool segments."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To transport stones to block floods."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To provide services for the stone pit."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To link the various monument sites."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To connect the villages along the Nile."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Dr. Gong didn’t give him any conventional tests."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Dr. Gong marked his office with a hand-painted sign."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Dr. Gong didn’t ask him any questions about his pain."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Dr. Gong slipped in needles where he felt no pain."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He had heard of the wonders acupuncture could work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Dr. Gong was very famous in New York’s Chinatown."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Previous medical treatments failed to relieve his pain."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He found the expensive medical tests unaffordable."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "More and more patients ask for the treatment."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Acupuncture techniques have been perfected."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It doesn’t need the conventional medical tests."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It does not have any negative side effects."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were on the verge of breaking up."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were compatible despite differences."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They quarreled a lot and never resolved their arguments."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They argued persistently about whether to have children."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Neither of them has any brothers or sisters."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Neither of them won their parents’ favor."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They weren’t spoiled in their childhood."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They didn’t like to be the apple of their parents’ eyes.\n\n2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are usually good at making friends."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to be adventurous and creative."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are often content with what they have."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They tend to be self-assured and responsible."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They enjoy making friends."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are least likely to take initiative."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to be well adjusted."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They usually have successful marriages."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "Scientists scanning and mapping the Giza pyramids say they’ve discovered that Great Pyramid of Giza is not exactly even. But really not by much. This pyramid is the oldest of the world’s Seven Wonders. The pyramid’s exact size has 26 experts for centuries, as the “more than 21 acres of hard, white casing stones “that originally covered it were 27 long ago. Reporting in the most recent issue of the newsletter “AERAGRAM,” which 28 the work or the Ancient Egypt Research Associates, engineer Glen Dash says his team used a new measuring approach that involved finding any surviving 29 , of the casing in order to determine where the original edge was. They found the east side of the pyramid to be a 30 of 5.5 inches shorter than the west side.\n\nThe question that most 31 him, however, isn’t how the Egyptians who designed and built the pyramid got it wrong 4,500 years age, but how they got it so close to 32 . “We can only speculate as to how the Egyptians could have laid out these lines with such 33 using only the tools they had,” Dash writes. He says his 34 is that the Egyptians laid out their design on a grid, noting that the great pyramid is oriented only 35 away from the cardinal directions(its north-south axis runs 3 minutes 54 seconds west of due north, while its east-west axis runs 3 minutes 51 seconds north of due east)—an amount that’s “tiny, but similar,” archeologist Atlas Obscura points out.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "chronicles"
+        },
+        {
+          "label": "I",
+          "text": "perfect"
+        },
+        {
+          "label": "B",
+          "text": "complete"
+        },
+        {
+          "label": "J",
+          "text": "precision"
+        },
+        {
+          "label": "C",
+          "text": "established"
+        },
+        {
+          "label": "K",
+          "text": "puzzled"
+        },
+        {
+          "label": "D",
+          "text": "fascinates"
+        },
+        {
+          "label": "L",
+          "text": "remnants"
+        },
+        {
+          "label": "E",
+          "text": "hypothesis"
+        },
+        {
+          "label": "M",
+          "text": "removed"
+        },
+        {
+          "label": "F",
+          "text": "maximum"
+        },
+        {
+          "label": "N",
+          "text": "revelations"
+        },
+        {
+          "label": "G",
+          "text": "momentum"
+        },
+        {
+          "label": "O",
+          "text": "slightly"
+        },
+        {
+          "label": "H",
+          "text": "mysteriously"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 231,
+          "end": 233
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 346,
+          "end": 348
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 430,
+          "end": 432
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 583,
+          "end": 585
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 701,
+          "end": 703
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 770,
+          "end": 772
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 908,
+          "end": 910
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1002,
+          "end": 1004
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1062,
+          "end": 1064
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1167,
+          "end": 1169
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Peer Pressure Has a Positive Side",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Parents of teenagers often view their children‘s friends with something like suspicion. They worry that the adolescent peer group has the power to push its members into behavior that is foolish and even dangerous. Such wariness is well founded: statistics show, for example, that a teenage driver with a same-age passenger in the car is at higher risk of a fatal crash than an adolescent driving alone or with an adult."
+        },
+        {
+          "label": "B",
+          "text": "In a 2005 study, psychologist Laurence Steinberg of Temple University and his co-author, psychologist Margo\n\n3\n\nGardner, then at Temple, divided 306 people into three age groups: young adolescents, with a mean age of 14; older adolescents, with a mean age of 19; and adults, aged 24 and older. Subjects played a computerized driving game in which the player must avoid crashing into a wall that materializes, without warning, on the roadway. Steinberg and Gardner randomly assigned some participants to play alone or with two same-age peers looking on."
+        },
+        {
+          "label": "C",
+          "text": "Older adolescents scored about 50 percent higher on an index of risky driving when their peers were in the room—and the driving of early adolescents was fully twice as reckless when other young teens were around. In contrast, adults behaved in similar ways regardless of whether they were on their own or observed by others. “The presence of peers makes adolescents and youth, but not adults, more likely to take risks,” Steinberg and Gardner concluded."
+        },
+        {
+          "label": "D",
+          "text": "Yet in the years following the publication of this study, Steinberg began to believe that this interpretation did not capture the whole picture. As he and other researchers examined the question of why teens were more apt to take risks in the company of other teenagers, they came to suspect that a crowd‘s influence need not always be negative. Now some experts are proposing that we should take advantage of the teen brain’s keen sensitivity to the presence of friends and leverage it to improve education."
+        },
+        {
+          "label": "E",
+          "text": "In a 2011 study, Steinberg and his colleagues turned to functional MRI （磁共振） to investigate how the presence of peers affects the activity in the adolescent brain. They scanned the brains of 40 teens and adults who were playing a virtual driving game designed to test whether players would brake at a yellow light or speed on through the crossroad."
+        },
+        {
+          "label": "F",
+          "text": "The brains of teenagers, but not adults, showed greater activity in two regions associated with rewards when they were being observed by same-age peers than when alone. In other words, rewards are more intense for teens when they are with peers, which motivates them to pursue higher-risk experiences that might bring a big payoff （such as the thrill of just making the light before it turns red）. But Steinberg suspected this tendency could also have its advantages. In his latest experiment, published online in August, Steinberg and his colleagues used a computerized version of a card game called the Iowa Gambling Task to investigate how the presence of peers affects the way young people gather and apply information."
+        },
+        {
+          "label": "G",
+          "text": "The results: Teens who played the Iowa Gambling Task under the eyes of fellow adolescents engaged in more exploratory behavior, learned faster from both positive and negative outcomes, and achieved better performance on the task than those who played in solitude. “What our study suggests is that teenagers learn more quickly and more effectively when their peers are present than when they‘re on their own,” Steinberg says. And this finding could have important implications for how we think about educating adolescents."
+        },
+        {
+          "label": "H",
+          "text": "Matthew D. Lieberman, a social cognitive neuroscientist at the University of California, Los Angeles, and author of the 2013 book Social: Why Our Brains Are Wired to Connect， suspects that the human brain is especially adept at learning socially salient information. He points to a classic 2004 study in which psychologists at Dartmouth College and Harvard University used functional MRI to track brain activity in 17 young men as they listened to descriptions of people while concentrating on either socially relevant cues （ for example, trying to form an impression of a person based on the description） or more socially neutral information （such as noting the order of details in the description）.The descriptions were the same in each condition, but people could better remember these statements when given a social motivation."
+        },
+        {
+          "label": "I",
+          "text": "The study also found that when subjects thought about and later recalled descriptions in terms of their informational content, regions associated with factual memory, such as the medial temporal lobe, became active. But thinking about or remembering descriptions in terms of their social meaning activated the dorsomedial prefrontal cortex—part of the brain‘s social network—even as traditional memory regions registered low levels of activity. More recently, as he reported in a 2012 review, Lieberman has discovered that this region may be part of a distinct network involved in socially motivated learning and memory. Such findings, he says, suggest that “this network can be called on to process and store the kind of information taught in school—potentially giving students access to a range of untapped mental powers.”"
+        },
+        {
+          "label": "J",
+          "text": "If humans are generally geared to recall details about one another, this pattern is probably even more powerful among teenagers who are very attentive to social details: who is in, who is out, who likes whom, who is mad at whom. Their penchant for social drama is not—or not only—a way of distracting themselves from their schoolwork or of driving adults crazy. It is actually a neurological（神经的） sensitivity, initiated by hormonal changes. Evolutionarily speaking, people in this age group are at a stage in which they can prepare to find a mate and start their own family while separating from parents and striking out on their own. To do this successfully, their brain prompts them to think and even obsess about others."
+        },
+        {
+          "label": "K",
+          "text": "Yet our schools focus primarily on students as individual entities. What would happen if educators instead took\n\n4\n\nadvantage of the fact that teens are powerfully compelled to think in social terms? In Social, Lieberman lays out a number of ways to do so. History and English could be presented through the lens of the psychological drives of the people involved. One could therefore present Napoleon in terms of his desire to impress or Churchill in terms of his lonely melancholy. Less inherently interpersonal subjects, such as math, could acquire a social aspect through team problem solving and peer tutoring. Research shows that when we absorb information in order to teach it to someone else, we learn it more accurately and deeply, perhaps in part because we are engaging our social cognition."
+        },
+        {
+          "label": "L",
+          "text": "And although anxious parents may not welcome the notion, educators could turn adolescent recklessness to academic ends. “Risk taking in an educational context is a vital skill that enables progress and creativity,” wrote Sarah-Jayne Blakemore, a cognitive neuroscientist at University College London, in a review published last year. Yet, she noted, many young people are especially risk averse at school—afraid that one low test score or mediocre grade could cost them a spot at a selective university. We should assure such students that risk, and even peer pressure, can be a good thing—as long as it happens in the classroom and not the car."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "It is thought probable that the human brain is particularly good at picking-up socially important information."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "It can be concluded from experiment that the presence of peers increases risk-taking by adolescents and youth."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Students should be told that risk-taking in the classroom can be something positive."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The urge of finding a mate and getting married accounts for adolescents’ greater attention to social interactions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "According to Steinberg, the presence of peers increases the speed and effectiveness of teenagers’ leaning."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Teenagers’ parents are often concerned about negative peer influence."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Activating the brain’s social network involved in socially motivated learning and memory may allow students to tap unused mental powers."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The presence of peer intensifies the feeling of rewards in teens’ brains."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "When we absorb information for the purpose of imparting it to others, we do so with greater secretary and depth."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some experts are suggesting that we turn peer influence to good use in education."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some question or unfinished statements. For each of them there are four choices marked A), B), C)and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil War, is now the setting for a different contest, one that is pitting rice farmers against two enemies: the rice-eating giant apple snail, and rising sea levels. What happens here will have a bearing on the future of European rice production and the overall health of southern European wetlands.\n\nLocated on the Mediterranean just two hours south of Barcelona, the Ebro Delta produces 120 million kilograms of rice a year, making it one of the continent’s most important rice-growing areas. As the sea creeps into these freshwater marshes, however, rising salinity （盐分） is hampering rice production. At the same time, this sea-water also kills off the greedy giant apple snail, an introduced pest that feeds on young rice plants. The most promising strategy has become to harness one foe against the other.\n\nThe battle is currently being waged on land, in greenhouses at the University of Barcelona. Scientists working under the banner “Project Neurice” are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes.\n\n“The project has two sides,” says Xavier Serrat, Neurice project manager and researcher at the University of Barcelona. “The short-term fight against the snail, and a mid- to long-term fight against climate change. But the snail has given the project greater urgency.”\n\nOriginally from South America, the snails were accidentally introduced into the Ebro Delta by Global Aquatic Technologies, a company that raised the snails for fresh-water aquariums （水族馆）, but failed to prevent their escape. For now, the giant apple snail’s foothold in Europe is limited to the Ebro Delta. But the snail continues its march to new territory,\n\n5\n\nsays Serrat. “The question is not if it will reach other rice-growing areas of Europe, but when.”\n\nOver the next year and a half investigators will test the various strains of saline-tolerant rice they’ve concocted. In 2018, farmers will plant the varieties with the most promise in the Ebro Delta and Europe’s other two main rice-growing regions—along the Po in Italy, and France’s Rhône. A season in the field will help determine which, if any, of the varieties are ready for commercialization.\n\nAs an EU-funded effort, the search for salt-tolerant varieties of rice is taking place in all three countries. Each team is crossbreeding a local European short-grain rice with a long-grain Asian variety that carries the salt-resistant gene. The scientists are breeding successive generations to arrive at varieties that incorporate salt tolerance but retain about 97 percent of the European rice genome （基因组）",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "Why does the author mention the Spanish Civil War at the beginning of the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It had great impact on the life of Spanish rice farmers."
+                },
+                {
+                  "label": "B",
+                  "text": "It is of great significance in the records of Spanish history."
+                },
+                {
+                  "label": "C",
+                  "text": "Rice farmers in the Ebro Delta are waging a battle of similar importance."
+                },
+                {
+                  "label": "D",
+                  "text": "Rice farmers in the Ebro Delta are experiencing as hard a time as in the war."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What may be the most effective strategy for rice farmers to employ in fighting their enemies?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Striking the weaker enemy first."
+                },
+                {
+                  "label": "B",
+                  "text": "Eliminating the enemy one by one。"
+                },
+                {
+                  "label": "C",
+                  "text": "Killing two bird with one stone."
+                },
+                {
+                  "label": "D",
+                  "text": "Using one evil to combat the other."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do we learn about “Project Neurice”?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its goals will have to be realized at a cost."
+                },
+                {
+                  "label": "B",
+                  "text": "It aims to increase the yield of Spanish rice."
+                },
+                {
+                  "label": "C",
+                  "text": "Its immediate priority is to bring the pest under control."
+                },
+                {
+                  "label": "D",
+                  "text": "It tries to kill the snails with the help of climate change."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does Neurice project manager say about the giant apple snail?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can survive only on southern European wetlands."
+                },
+                {
+                  "label": "B",
+                  "text": "It will invade other rice-growing regions of Europe."
+                },
+                {
+                  "label": "C",
+                  "text": "It multiplies at a speed beyond human imagination."
+                },
+                {
+                  "label": "D",
+                  "text": "It was introduced into the rice fields on purpose."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is the ultimate goal of the EU-funded program?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Cultivating ideal salt-resistant rice varieties."
+                },
+                {
+                  "label": "B",
+                  "text": "Increasing the absorbency of the Spanish rice."
+                },
+                {
+                  "label": "C",
+                  "text": "Introducing Spanish rice to the rest of Europe."
+                },
+                {
+                  "label": "D",
+                  "text": "Popularizing the rice crossbreeding technology."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Photography was once an expensive, laborious ordeal reserved for life’s greatest milestones. Now, the only apparent cost to taking infinite photos of something as common as a meal is the space on your hard drive and your dining companion’s patience.\n\nBut is there another cost, a deeper cost, to documenting a life experience instead of simply enjoying it? “You hear that you shouldn’t take all these photos and interrupt the experience, and it’s bad for you, and we’re not living in the present moment,” says Kristin Diehl, associate professor of marketing at the University of Southern California Marshall School of Business.\n\nDiehl and her fellow researchers wanted to find out if that was true, so they embarked on a series of nine experiments in the lab and in the field testing people’s enjoyment in the presence or absence of a camera. The results, published in the Journal of Personality and Social Psychology, surprised them. Taking photos actually makes people enjoy what they’re doing more, not less.\n\n“What we find is you actually look at the world slightly differently, because you’re looking for things you want to capture, that you may want to hang onto,” Diehl explains. “That gets people more engaged in the experience, and they tend to enjoy it more.”\n\nTake sightseeing. In one experiment, nearly 200 participants boarded a double-decker bus for a tour of Philadelphia. Both bus tours forbade the use of cell phones but one tour provided digital cameras and encouraged people to take photos.\n\n6\n\nThe people who took photos enjoyed the experience significantly more, and said they were more engaged, than those who didn’t.\n\nSnapping a photo directs attention, which heightens the pleasure you get from whatever you’re looking at, Diehl says. It works for things as boring as archaeological （ 考 古 的 ） museums, where people were given eye-tracking glasses and instructed either to take photos or not. “People look longer at things they want to photograph,” Diehl says. They report liking the exhibits more, too.\n\nTo the relief of Instagrammers（Instagram 用户）everywhere, it can even make meals more enjoyable. When people were encouraged to take at least three photos while they ate lunch, they were more immersed in their meals than those who weren’t told to take photos.\n\nWas it the satisfying click of the camera? The physical act of the snap? No, they found; just the act of planning to take a photo—and not actually taking it—had the same joy-boosting effect. “If you want to take mental photos, that works the same way,” Diehl says. “Thinking about what you would want to photograph also gets you more engaged.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about photo-taking in the past?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was a painstaking effort for recording life’s major events."
+                },
+                {
+                  "label": "B",
+                  "text": "It was a luxury that only a few wealthy people could enjoy."
+                },
+                {
+                  "label": "C",
+                  "text": "It was a good way to preserve one’s precious images."
+                },
+                {
+                  "label": "D",
+                  "text": "It was a skill that required lots of practice to master."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Kristin Diehl conducted a series of experiments on photo-taking to find out",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "what kind of pleasure it would actually bring to photo-takers"
+                },
+                {
+                  "label": "B",
+                  "text": "whether people enjoyed it when they did sightseeing"
+                },
+                {
+                  "label": "C",
+                  "text": "how it could help to enrich people’s life experiences"
+                },
+                {
+                  "label": "D",
+                  "text": "whether it prevented people enjoying what they were doing"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do the results of Dienl’s experiments show about people taking pictures?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are distracted from what they are doing."
+                },
+                {
+                  "label": "B",
+                  "text": "They can better remember what they see or do."
+                },
+                {
+                  "label": "C",
+                  "text": "They are more absorbed in what catches their eye."
+                },
+                {
+                  "label": "D",
+                  "text": "They can have a better understanding of the world."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What is found about museum visitors with the aid of eye-tracking glasses?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They come out with better photographs of the exhibits."
+                },
+                {
+                  "label": "B",
+                  "text": "They focus more on the exhibits when taking pictures."
+                },
+                {
+                  "label": "C",
+                  "text": "They have a better view of what are on display."
+                },
+                {
+                  "label": "D",
+                  "text": "They follow the historical events more easily."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What do we learn from the last paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is better to make plans before taking photos."
+                },
+                {
+                  "label": "B",
+                  "text": "Mental photos can be as beautiful as snapshots."
+                },
+                {
+                  "label": "C",
+                  "text": "Photographers can derive great joy from the click of the camera."
+                },
+                {
+                  "label": "D",
+                  "text": "Even the very thought of taking a photo can have a positive effect."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "过去，拥有一辆私家车对大部分中国人而言是件奢侈的事。如今，私家车在中国随处可见。汽车成了人们生活中不可或缺的一部分，他们不仅开车上下班，还经常驾车出游。有些城市的汽车增长速度过快，以至于交通拥堵和停车位不足的问题日益严峻，这些城市的市政府不得不出台新规，限制上路汽车的数量。由于空气污染日益严重，现在越来越多的人选择购买新能源汽车，中国政府也采取了一些措施，支持新能源汽车的发展。\n\n7"
+      }
+    ]
+  },
+  "id": "CET6-2018-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "B",
+        "explanation": "详解:对话中，女士清楚地解释说 gazpacho 是西班牙的一种冷菜汤。虽然接下来女士对男士说把 gazpacho 理解为一种液体沙拉也是可以的，但这只是为了让男士对 gazpacho 有更直观的认识，不能认定为 gazpacho 是沙拉。因此答案为 B。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "详解:对话中女士说，往汤里加入干面包是为了让汤口感更好，更浓稠。因此答案为 A。"
+      },
+      "3": {
+        "answer": "D",
+        "explanation": "详解:对话中，当男士问这种汤是否健康时，女士十分肯定地说它很健康，因为这种汤是以蔬菜为主要原料制作而成的。因此答案为 D。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "详解:对话中，女士给男士解释 cured ham 时说，这是另一种西班牙美食。后面又提到这种腌制的火腿非常昂贵，因为它取自一种特殊品种的猪，而且这种猪只吃一种特殊的食物。因此答案为 C。"
+      },
+      "5": {
+        "answer": "B",
+        "explanation": "详解:对话中，女士对男士说，她店里最便宜的葡萄酒大约 6 美元一瓶，但这些都是普通的佐餐酒，没有什么特别之处，她不建议男士买这种葡萄酒作为礼物。也就是说，这种 table wine 不是体面的礼物，答案为 B。"
+      },
+      "6": {
+        "answer": "A",
+        "explanation": "详解:对话中，男士提到，他希望购买价格在 30 或 40 美元左右的葡萄酒。因此答案为 A。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "详解:对话中，女士建议男士购买红葡萄酒，因为红葡萄酒通常比白葡萄酒更受欢迎，并且红葡萄酒与食物更容易搭配。也就是说，红葡萄酒可以与不同的食物进行搭配饮用，答案为 D。"
+      },
+      "8": {
+        "answer": "D",
+        "explanation": "详解:对话末尾，男士决定要买 Chianti（基安蒂红葡萄酒），而根据女士此前的介绍，Chianti 是意大利最有名的一 种红葡萄酒。因此答案为 D。"
+      },
+      "9": {
+        "answer": "C",
+        "explanation": "详解:短文开头即指出，很多人喜欢密码。密码越难，他们就越想要破译出来。也就是说，很多人喜欢破译秘密消息，答案为 C。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "详解:短文中提到，在二战期间，美国的一种密码从未被敌方破译。这种密码以印第安部落纳瓦霍人的语言为基础发展而来，没有书面形式，只是在纳瓦霍人之间口口相传。纳瓦霍密码员帮助军队协调行动和攻击，在战争中起着重要作用。由此可知，他们在二战期间给予了美国军队巨大的帮助，答案为 A。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "详解:短文以人民喜欢破译密码开头，引出了二战中从未被成功破译的 Navajo 密码，之后短文对这种密码的编译、使用者、使用方法以及战后美国政府对这些密码人员的奖励进行了介绍。由此可以判断，文章围绕着 Navajo 密码展开，向读者全面讲述了这种从未被成功破译的密码，答案为 C。"
+      },
+      "12": {
+        "answer": "B",
+        "explanation": "详解:短文开头提到，未来 20 年，一大批知识密集型的工作将会被科技所取代。因此答案为 B。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "详解:短文中明确提到，个人护理领域的工作不可能轻易地被技术复制，即使是智能技术也不行。因此，将来人们在这一领域应该可以比较容易找到工作，答案为 C。"
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "详解:短文中提到，理疗师们确实收费很高。因此答案为 A。"
+      },
+      "15": {
+        "answer": "B",
+        "explanation": "详解:短文末尾，讲话者说，她的这本书主要讨论的是在未来社会，当技术给我们曾经认为的高收入工作带来破坏性变化的时候，我们应该如何重新规划经济。也就是说，该书围绕技术对传统高收入工作带来的破坏性影响展开，答案为 B。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "详解:讲座开头提到，美国研究人员发现了世界上最古老的人工铺就的道路，它将埃及沙漠里的一个采石场和运送石块的水路连接了起来。因此答案为 D。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "详解:讲座中提到，研究人员在这条路北端的采石场发现了埃及人使用岩石锯的第一个证据，这是人们使用锯子来切割石头的最古老的例子。因此答案为 A。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "详解:讲座中明确提到，这条路显然是为了给新发现的采石场提供服务而建造的。因此答案为 B。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "详解:讲座开头提到，Gong 大夫起初是把针扎进了他一直就感觉很不舒服的左手肘周围，随后又把针扎进了他的左手腕，但此后的动作他就感觉很奇怪了，因为他的右手臂以及双眼睑都没有不舒服，但 Gong 大夫也给扎了针。因此答案为 D。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "详解:讲话者提到，他的左手肘疼，但是去了好几次医院，做了几项又贵又难挨的医疗检查之后，医生都未能做出诊断，还建议他去看骨科大夫，就是在等待看骨科大夫的时候，他决定去尝试一下中医的针灸疗法。也就是说，他之所以会去找 Gong 大夫看病，是因为此前的治疗都没有效果，答案为 C。"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "详解:讲座中，讲话者用简简单单的两个词“Patient demand”就说明了为什么针灸疗法在美国会越来越受欢迎，原因就在于患者的需求。因此答案为 A。"
+      },
+      "22": {
+        "answer": "C",
+        "explanation": "详解:讲座开头提到了 Ronald 和 Lois 的婚姻生活，他们结婚二十年，认为自己是一对幸福的夫妻，但在刚结婚的那几年里，他们总是不停地争吵，看起来每次争吵都会过去，但问题总是没有真正地解决。因此答案为 C。"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "详解:讲座中提到，Ronald 和 Lois 都是家里的独生子女，都是父母的掌上明珠。Onlies 是 only 的复数形式，only意为“独生子女”。因此答案为 A。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "详解:讲座中提到，家中最大的孩子通常很自信，有责任感。因此答案为 D。"
+      },
+      "25": {
+        "answer": "B",
+        "explanation": "详解:讲座末尾提到，独生子女通常在自己一个人待着的时候比较舒服自在，但独生子女的适应能力一般都比较强，因此他们最终能学着去适应自己的伴侣。因此答案为 B。"
+      },
+      "26": {
+        "answer": "K",
+        "explanation": "详解:空格所在句是现在完成时，空格位于助动词 has 之后，宾语 experts 之前，因此应填及物动词的过去分词形式。此处意为“数百年来，这座金字塔的实际尺寸一直 学者们”。上文提到，这座金字塔是世界七大奇迹中最古老的，据此推断学者们以前不清楚这座金字塔的实际尺寸，故此处应填入含有“困扰，不清楚”等意思的词，故答案为 K) puzzled 使迷惑，使困惑。"
+      },
+      "27": {
+        "answer": "M",
+        "explanation": "详解:分析句子结构可知，空格位于 as 引导的原因状语从句中，作谓语，在系动词 were 之后，由此判断应填入动词的过去分词形式，构成被动语态，备选动词中符合要求的有 established 和 removed。又因为从句的主语是 stones “石头”，而石头不能 be established“被建立”，故答案为 M）removed 移走，去除。此处意为“‘超过 21 英亩的坚硬白色围石’原本覆盖在这座金字塔上，但很久以前被移走了”。"
+      },
+      "28": {
+        "answer": "A",
+        "explanation": "详解:空格位于 which 引导的定语从句中，作谓语，宾语是 the work，因此应填入及物动词，本句意为“AERAGRAM是一份用来 古埃及研究协会所做工作的简报，在其最新一期的报道中，工程师……。”根据句意推断，简报应该是“记录工作”，故答案为 A)chronicles 记录，将……载入编年史中。"
+      },
+      "29": {
+        "answer": "L",
+        "explanation": "详解:空格位于起修饰作用的现在分词 surviving 之后，介词 of 之前，因此应填入名词。此处意为“寻找任何幸存下来的外壳 \\_”。根据上文可知，原本覆盖在金字塔上的白色围石很久以前就被移走了，因此幸存下来的外壳应该是残余物，故答案为 L）remnants 残余部分，残余物。"
+      },
+      "30": {
+        "answer": "F",
+        "explanation": "详解:空格位于不定冠词 a 之后，介词 of 之前，因此应填入可数名词的单数形式。本句意为“他们发现金字塔东侧的长度 比西侧的长度短 5.5 英寸。”根据上文可知，金字塔并不完全对称，但实际相差也不是很多，因此推断此处表示最多相差 5.5 英寸，故答案为 F)maximum 最大值，最大量。a maximum of 为固定搭配，表示“最多，最大”。"
+      },
+      "31": {
+        "answer": "D",
+        "explanation": "31.答案:D) fascinates 深深吸引，迷住"
+      },
+      "32": {
+        "answer": "I",
+        "explanation": "32.答案:I）perfect 完美的"
+      },
+      "33": {
+        "answer": "J",
+        "explanation": "东侧的长度最多比西侧的长度短 5.5 英寸可知，此处在再次强调金字塔的“精准性”，故答案为 J) precision 精确性，精度。"
+      },
+      "34": {
+        "answer": "E",
+        "explanation": "详解:空格位于形容词性物主代词 his 之后，从句谓语动词 is 之前，故应填入单数名词。上文提到，达什说人们只能猜测埃及人是如何做到精准铺线的，由 speculate“猜测，推测”可知，此处提到的埃及人把设计图画在坐标网格上也是推测，是达什的假设，故答案为 E)hypothesis 假设。"
+      },
+      "35": {
+        "answer": "O",
+        "explanation": "详解:空格位于谓语动词 is oriented 之后，应填入副词。此处意为“大金字塔仅 偏离主方向”。由下文列举出的具体数据可知，大金字塔的南北轴线与正南北轴线之间的差异很小，大金字塔的东西轴线与正东西轴线之间的差异也很小，故答案为 O）slightly 略微，稍微。"
+      },
+      "46": {
+        "answer": "C",
+        "explanation": "详解:推理判断题。从定位句可以看出，作者提到西班牙内战是为了说明埃布罗河三角洲的知名度，而从后面内容可知，目前发生的另一场战争也具有重大影响。由此推断，作者提及西班牙内战的目的在于影射埃布罗河三角洲的农民正经历一场同等重要的战争，故答案为 C。"
+      },
+      "47": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。原文第一段第一句指出，稻农面临两大敌人的挑战:巨头苹果蜗牛和上升的海平面，随后第二段解释了这两大“敌人”对稻米的影响，第二第二段最后一句明确指出，对付这两大敌人的最好方法就是利用一个敌人去对付另一个，故答案为 D。"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "## 48. 答案:C"
+      },
+      "49": {
+        "answer": "B",
+        "explanation": "## 49. 答案:B"
+      },
+      "50": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。定位句指出，这项研究的目的就是开发可以耐受盐分的稻米品种，随后的两句再次强调科学家的研究目的是培育出既能够耐受盐分，又能够保留 97%欧洲稻米基因组的品种，故答案为 A。"
+      },
+      "51": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章开篇即指出，摄影曾经是一件昂贵且耗时费力的事情，仅用于生命记录生命中的重大事件。题干中的 photo-taking 和 in the past 分别对应定位句中的 photography 和 once，而 A 项中的 painstaking 和recording life’s major events 分别对应定位句中的 laborious ordeal 和 reserved for life’s greatest milestones，故答案为 A。"
+      },
+      "52": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。定位句指出，迪尔和她的同事想知道这样是不是真的不好，于是进行了一系列实验，由定位句可知，that 指代的是第二段最后一句“...you shouldn’t take all these photos and interrupt the experience, and it’s bad for you, and we’re not living in the present moment...”,即“拍照会干扰你的个人体验，这对你不好，因为你没有活在当下”，故答案为 D。"
+      },
+      "53": {
+        "answer": "C",
+        "explanation": "## 53. 答案:C"
+      },
+      "54": {
+        "answer": "B",
+        "explanation": "## 54. 答案:B"
+      },
+      "55": {
+        "answer": "D",
+        "explanation": "详解:推理判断题。最后一段用设问句引出迪尔对拍照的看法，即“仅仅是有拍照的这个打算一样能产生增加愉悦感的效果”以及“哪怕只是想一想你打算拍什么照片也能让你更加投入其中”。D 中的 the very thought of taking a photo 对应定位段中的 the act of planning to take a photo 和 Thinking about what you would want to photograph；have a positive effect 对应原文中的 had the same joy-boosting effect 和 also gets you more engaged，故答案为 D。"
+      }
+    },
+    "references": {}
+  }
+}

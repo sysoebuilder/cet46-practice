@@ -1,0 +1,1303 @@
+{
+  "schema_version": "1.0",
+  "year": 2021,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal, which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "proposal",
+        "instructions": {
+          "directions": "Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal, which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal, which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It found a pet dog on board a plane to a city in Texas."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It had one of its cargo planes land at a wrong airport."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It sent two dogs to the wrong destinations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It had two of its domestic flights mixed up."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Correct their mistake as soon as possible."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Give the two pets a physical checkup."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Hire a charter jet to bring the pets back."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Send another plane to continue the flight."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She weighs 130 kilograms."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She has had babies before."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She was brought from Africa."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She has a big family of six."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It took 22 hours."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It had some complications."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was smooth."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was monitored by Dr. Sue Tygielski"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It enjoyed great popularity"
+                  },
+                  {
+                    "label": "B",
+                    "text": "It started business three years ago."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was frequented by newly-weds."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was built above the sea-water."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Expand his business on the beach."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Replace the restaurant's wooden deck."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Post a picture of his restaurant online."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Celebrate his silver wedding anniversary."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She sold it for two thousand dollars."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She took it to the restaurant manager."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She posted its picture on Facebook."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She returned it to its owner right away."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The number of ducks has declined sharply in recent years."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Climate change has little effect on the lives of wild ducks."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Duck meat is not eaten in Australia, Canada and the U.S."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Duck hunting remains legal in many parts of the world."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Droughts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Bushfires."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Farming."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Hunting."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are not easy to domesticate."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their meat is not that popular."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is not environmentally friendly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is not considered cost-effective."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They hunted ducks as a traditional sport."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They killed wild ducks and geese for food."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They raised ducks and geese for their eggs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They poisoned wild ducks in large numbers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Have her house repainted."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Replace some of her old furniture."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Move into a newly-painted house."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Calculate the cost of the paint job."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How long the work will take."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How much the work will cost."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How the paint job is to be done."
+                  },
+                  {
+                    "label": "D",
+                    "text": "How many workers are needed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cover up her furniture."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ask some friends for help."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Stay somewhere else."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Oversee the work herself."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She could have asked a friend for help with the paint job."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Painting a house involves more trouble than she thought."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She should have repainted her house much earlier."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Moving her furniture is harder than the paint job."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To cultivate good habits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To prepare for secondary school."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To review what is learned in class."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To stimulate interest in learning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Discuss their academic achievements with them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Create an ideal study environment for them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Allow them to learn independently."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Check their homework promptly."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Finish them before they get tired."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tackle the most difficult task first."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Start with something they enjoy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Focus on the most important ones."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Workers who meet its body weight standards."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Workers who can lose 30 pounds in a year."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Workers who try the hardest to lose weight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Workers who're in the top 10% of the slimmest."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Impractical."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Inconsistent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Unmanageable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Unfair."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Offer them much fatter bonuses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improve working environment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Encourage healthy behaviors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Provide free lunch and snacks."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has not done enough to help left-handed children."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has treated left-handed children as being disabled."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has not built facilities specially for the left-handed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has ignored campaigns on behalf of the left-handed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are as intelligent as other children."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have a distinctive style of handwriting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They sometimes have psychological problems."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They tend to have more difficulties in learning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Punish teachers discriminating against left-handed students."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Lay more emphasis on improving children's mental health."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Encourage students to develop various professional skills."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Keep track of left-handed children's school performance."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How they can be reduced in number."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Why their numbers are so high."
+                  },
+                  {
+                    "label": "C",
+                    "text": "What percentage they account for."
+                  },
+                  {
+                    "label": "D",
+                    "text": "If their percentage keeps increasing."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "Many people believe that passion and commitment are the foundations of strong romantic relationships. But a relationship is made of two _26_ individuals. And the personality traits (特性) these individuals _27_ or lack can often make a relationship more- or less- likely to _28_. Recent research has found that one trait in particular—humility (谦逊)—is an important indicator of successful relationships.\n\nHumility can sometimes be _29_ with a lack of confidence. But researchers have come to realize that being humble generally indicates the _30_ of deeply admirable personal qualities. Being humble means you have the ability to accurately _31_ your deficiencies without denying your skills and strengths. For example, you might recognize that you are intelligent, but realize that you're not a _32_. Thus, humility leads to an honest view of one's own advantages and shortcomings. Humble people do not ignore, avoid, or try to deny their limits or deficiencies. They can _33_ mistakes, see value in things that are far from perfect and identify areas for improvement.\n\nPerhaps it is not _34_, then, that humility appears to be a huge asset to relationships. One study found that people tend to rate this quality _35_ in their spouse. The study also found that someone who is humble is more likely to initiate a romantic relationship, perhaps because they are less likely to see themselves as \"too good\" for someone else. Thus, a humble partner might be your ideal partner.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "acknowledge"
+        },
+        {
+          "label": "I",
+          "text": "possess"
+        },
+        {
+          "label": "B",
+          "text": "assess"
+        },
+        {
+          "label": "J",
+          "text": "presence"
+        },
+        {
+          "label": "C",
+          "text": "confused"
+        },
+        {
+          "label": "K",
+          "text": "puzzled"
+        },
+        {
+          "label": "D",
+          "text": "endure"
+        },
+        {
+          "label": "L",
+          "text": "status"
+        },
+        {
+          "label": "E",
+          "text": "extremely"
+        },
+        {
+          "label": "M",
+          "text": "surprising"
+        },
+        {
+          "label": "F",
+          "text": "genius"
+        },
+        {
+          "label": "N",
+          "text": "thoroughly"
+        },
+        {
+          "label": "G",
+          "text": "highly"
+        },
+        {
+          "label": "O",
+          "text": "unique"
+        },
+        {
+          "label": "H",
+          "text": "permanent"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 136,
+          "end": 140
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 204,
+          "end": 208
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 272,
+          "end": 276
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 429,
+          "end": 433
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 540,
+          "end": 544
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 639,
+          "end": 643
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 794,
+          "end": 798
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 971,
+          "end": 975
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1087,
+          "end": 1091
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1212,
+          "end": 1216
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "There's a stress gap between men and women",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "“I used to work very hard. I love to create things, grow them and solve problems,” said Meng Li, a successful app developer in San Francisco. “I didn’t really care about my mind and my body until they decided to go on strike.”"
+        },
+        {
+          "label": "B",
+          "text": "Ms. Li said her stress led to sleeplessness. When she did sleep, she experienced “problem-solving dreams,” which left her feeling unrested when she woke up. “After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I’d lost myself,” she said."
+        },
+        {
+          "label": "C",
+          "text": "It's a common story—one we frequently ridicule and readily dismiss, for example, by claiming that women tend to complain more than men, despite the growing sum of research that underlines the problem. Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal if Brain & Behavior. The American Psychological Association reports a gender gap year after year showing that women consistently report higher stress levels. Clearly, a stress gap exists."
+        },
+        {
+          "label": "D",
+          "text": "“The difference is not really news to me, as a clinical psychologist,” said Erin Joyce, a women and couples therapist in Los Angeles. “It’s been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.” Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home. In other words, we’re all really, really stressed."
+        },
+        {
+          "label": "E",
+          "text": "“The difference, however, is in the nature and scope of these responsibilities in the home environment in particular,” Dr. Joyce said. For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men. The problem is, housework is often overlooked as work, even though it is often as laborious (or in some cases, more so) as any paid job. As the scholar Silvia Federici put it in 1975, the unpaid nature of domestic work reinforces the assumption that “housework is not work, thus preventing women from struggling against it.”"
+        },
+        {
+          "label": "F",
+          "text": "It's not just inside the home, though. Research from Nova Southeastern University found that female managers were more likely than male managers to display \"surface acting,\" or forcing emotions that\n\nare not wholly felt. “They expressed optimism, calmness and sympathy even when these were not the emotions that they were actually feeling,” the study said."
+        },
+        {
+          "label": "G",
+          "text": "Surface acting is a prime example of “emotional labor,” a concept that the writer Jess Zimmerman made familiar in a 2015 essay. The essay sparked a massive thread on the internet community blog MetaFilter. Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed. These invisible duties become apparent only when you don’t do them. Like domestic labor, emotional labor is generally dismissed and not labeled work. But research shows it can be just as exhausting as paid work. Emotional labor can lead to difficulty in sleeping and family conflict. Sure, circumstantial stress, like losing a job, may lead to these same issues. But emotional labor is not circumstantial. It’s an enduring responsibility based on the socialized gender role of women."
+        },
+        {
+          "label": "H",
+          "text": "Like Ms. Li, many women try to manage the added stress to reach what Dr. Joyce said was an unattainable ideal. “Some professional women aim to do it all. They want to reach the top of the corporate ladder and fly like supermom,” she said. When women don’t reach this ideal, they feel guilty; and even more stressed. After her own struggle with this, Ms. Li took a step back and used her experience to build Sanity & Self, a self-care app and platform for overworked women. “The realizations I had in that process helped me gain insights and ultimately got me ready to integrate self-care into my daily life,” she said."
+        },
+        {
+          "label": "I",
+          "text": "The stress problem extends beyond mental health when you consider the link between stress, anxiety and heart health. Worse, most of what we know about heart disease comes from studies involving men. However, “there are many reasons to think that it’s different in women,” Harvard Medical School reported. For example, women are more likely to experience disturbed sleep, anxiety and unusual fatigue before a heart attack. Stress is so normalized that it is easy for women to shrug off those symptoms as simply the consequences of stress. Many women also do not experience chest pain before a heart attack the way men do, which leads to fewer women discovering problematic heart issues. Harvard reports that women are “much more likely than men to die within a year of having a heart attack” and “many women say their physicians sometimes don’t even recognize the symptoms.”"
+        },
+        {
+          "label": "J",
+          "text": "The good news is, women are more likely than men to take charge of their stress and manage it, the American Psychological Association reports. The concept of self-care, at its core, is quite simple. “The basics of adequate sleep, healthy diet and exercise are a good place to start,” Dr. Joyce said. “Support from trusted relationships is vital This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming.”"
+        },
+        {
+          "label": "K",
+          "text": "Disconnecting from work and home responsibilities is also obviously important. But it’s much easier said than done. It is important to understand what causes your stress in the first place. “Get really specific with what’s stressing you out,” Ms. Li said “We often chalk up our stress to broad experiences like work. But work stress can take many different forms. Is a colleague being disrespectful of your time? Is a boss undermining your day-to-day control over decision making? These are different causes of stress and can benefit from different kinds of self-care.”"
+        },
+        {
+          "label": "L",
+          "text": "Ideally, your spouse or partner will be supportive, rather than dismissive, of your stress. It is important to talk through these issues before they come to a head. “Women working outside of the home should make an effort to have a conscious conversation with their partners about more equitable sharing of household and family responsibilities,” Dr. Joyce said."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Some career women who aim high tend to feel guilty if they fail to achieve their goals."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The unpaid housework done by women is triple that done by men."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "It is reported that women consistently suffer more from severe stress than men."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Women are advised to identify the specific causes of their stress so that steps can be taken to deal with it."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "One study showed that women managers often expressed positive emotions that they didn't really feel."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Women tend to mistake signs of heart attacks for symptoms of stress."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "For a time an app developer in America was so busy attending to work and family that she suffered from sleeplessness."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The emotional labor women do is noticed only when it is not done."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Dr. Joyce suggests that apart from self-care, women should seek professional support if they experience severe stress."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some people believe that there may not exist a stress gap between men and women."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "As many office workers adapt to remote work, cities may undergo fundamental change if offices remain under-utilized. Who will benefit if working from home becomes the norm?\n\nEmployers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers.\n\nUnless employers are fully compensated, this could become a variant of parasitic (寄生的) capitalism, whereby corporate profits increasingly rely on extracting value from the public—and now personal—realm, rather than on generating new value.\n\nThough employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work.\n\nIf working from home becomes permanent, employees will have to dedicate part of their private space to work. This requires purchasing desks, chairs and office equipment.\n\nIt also means having private space dedicated to work: the space must be heated, cleaned, maintained and paid for. That depends on many things, but for purposes of illustration, I have run some estimates for Montreal. The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion.\n\nRough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home.\n\nWhat does this mean for offices in cities? One of two things may happen: Employers pass these costs onto employees. This would be a form of expropriation (侵占), with employees absorbing production costs that have traditionally been paid by the employer. This represents a considerable transfer of value from employees to employers.\n\nWhen employees are properly compensated, employers' real estate savings will be modest. If savings\n\nare modest, then the many advantages of working in offices-such as lively atmosphere, rapidity of communication, team-building and acclimatization (适应环境) of new employees—will encourage employers to shelve the idea of remote work and, like Yahoo in 2013, encourage employees to work most of the time from corporate office space.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say about working from home?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It will become the norm sooner or later."
+                },
+                {
+                  "label": "B",
+                  "text": "It requires employees to adapt promptly."
+                },
+                {
+                  "label": "C",
+                  "text": "It benefits employers at the expense of employees."
+                },
+                {
+                  "label": "D",
+                  "text": "It will force cities to transform their infrastructure."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why do some people oppose working from home?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It discourages team spirit."
+                },
+                {
+                  "label": "B",
+                  "text": "It invades employees' privacy."
+                },
+                {
+                  "label": "C",
+                  "text": "It undermines traditional values."
+                },
+                {
+                  "label": "D",
+                  "text": "It negatively impacts productivity."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why did the author run the estimates for Montreal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To provide convincing data for serious discussion."
+                },
+                {
+                  "label": "B",
+                  "text": "To illustrate the ongoing change in working patterns."
+                },
+                {
+                  "label": "C",
+                  "text": "To show the impact of remote working on productivity."
+                },
+                {
+                  "label": "D",
+                  "text": "To exemplify how remote working affects the economy."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What can we conclude from the author's calculations?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There is no point in transferring office work to working from home."
+                },
+                {
+                  "label": "B",
+                  "text": "Employees can benefit as much from remote working as their employers."
+                },
+                {
+                  "label": "C",
+                  "text": "Employers' gain from remote working should go to employees as compensation."
+                },
+                {
+                  "label": "D",
+                  "text": "Effective measures should be taken to motivate employees to set up offices at home."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is the author's opinion on working from home?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It should be avoided if possible."
+                },
+                {
+                  "label": "B",
+                  "text": "It is only a temporary measure."
+                },
+                {
+                  "label": "C",
+                  "text": "It can reduce companies' real estate costs."
+                },
+                {
+                  "label": "D",
+                  "text": "It may affect employees' corporate loyalty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The human thirst for knowledge is the driving force behind our successful development as a species. But curiosity can also be dangerous, leading to setbacks or even downfalls. Given curiosity's complexity, scientists have found it hard to define.\n\nWhile pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. Psychologists also agree curiosity is intrinsically (内在地) motivated.\n\nCuriosity covers such a large set of behaviors that there probably isn't any single “curiosity gene” that makes humans wonder about and explore their environment. That said, curiosity does have a genetic component. Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity.\n\nRegardless of their genetic makeup, infants have to learn an incredible amount of information in a short time, and curiosity is one of the tools humans have found to accomplish that gigantic task.\n\nHundreds of studies show that infants prefer novelty. It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure.\n\nBut curiosity often comes with a cost.\n\nIn some situations, the stakes are low and failure is a healthy part of growth. For instance, many\n\nbabies are perfectly proficient crawlers, but they decide to try walking because there's more to see and do when they stand upright. But this milestone comes at a small cost. A study of 12- to 19-month-olds learning how to walk documented that these children fell down a lot. Seventeen times per hour, to be exact. But walking is faster than crawling, so this motivates expert crawlers to transition to walking\n\nSometimes, however, testing out a new idea can lead to disaster. For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about curiosity?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is too complex for non-scientists to understand."
+                },
+                {
+                  "label": "B",
+                  "text": "It is the force that pushes human society forward."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a unique trait specific to the human race."
+                },
+                {
+                  "label": "D",
+                  "text": "It is often the major cause for human failures."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is the general understanding of curiosity?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It motivates people to seek information."
+                },
+                {
+                  "label": "B",
+                  "text": "It is destined to transform human genes."
+                },
+                {
+                  "label": "C",
+                  "text": "It does people more good than harm."
+                },
+                {
+                  "label": "D",
+                  "text": "It underlies all human behaviors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn about how genes shape people's behavior?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They determine people's way of thinking."
+                },
+                {
+                  "label": "B",
+                  "text": "They account for age differences in learning."
+                },
+                {
+                  "label": "C",
+                  "text": "They enable people to undertake massive tasks."
+                },
+                {
+                  "label": "D",
+                  "text": "They work in conjunction with the environment."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What do numerous studies show about infants?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are far more curious than adults."
+                },
+                {
+                  "label": "B",
+                  "text": "They prefer to go after all that is novel."
+                },
+                {
+                  "label": "C",
+                  "text": "They have different interests than adults."
+                },
+                {
+                  "label": "D",
+                  "text": "They show non-human animal behaviors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the example of the Inuit people of the Arctic regions illustrate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The cost of humans' curiosity to explore."
+                },
+                {
+                  "label": "B",
+                  "text": "The incredible harshness of cold weather."
+                },
+                {
+                  "label": "C",
+                  "text": "The innovative ideas stemming from curiosity."
+                },
+                {
+                  "label": "D",
+                  "text": "The importance of learning from past failures."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "大运河(Grand Canal)是世界上最长的人工河，北起北京，南至杭州。它是中国历史上最宏伟的工程之一。大运河始建于公元前4世纪，公元13世纪末建成。修建之初是为了运输粮食，后来也用于运输其他商品。大运河沿线区域逐渐发展成为中国的工商业中心。长久以来，大运河对中国的经济发展发挥了重要作用，有力地促进了南北地区之间的人员往来和文化交流。"
+      }
+    ]
+  },
+  "id": "CET4-2021-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

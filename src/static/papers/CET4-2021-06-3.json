@@ -1,0 +1,606 @@
+{
+  "schema_version": "1.0",
+  "year": 2021,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay titled “Do violent video games lead to violence?”. The statement given below is for your reference. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay titled “Do violent video games lead to violence?”. The statement given below is for your reference. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay titled “Do violent video games lead to violence?”. The statement given below is for your reference. You should write at least 120 words but no more than 180 words.",
+        "materials": "A growing body of research finds that violent video games can make kids act aggressively in their real world relationships, causing an increase in violence.",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于2021年6月四级考试全国共考了两套听力,本套真题听力与前两套内容相同,只是选项顺序不同,因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Nowadays you can't buy anything without then being asked to provide a rating of a company's performance on a five-star scale.\n\nI've been asked to rate my \"store 26\" on the EFTPOS terminal before I can pay. Even the most 27 activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\"\n\nOnline purchases are _28_ followed up by a customer satisfaction survey. Companies are so _29_ for a hit of stars that if you delete the survey the company sends you another one.\n\nWe're _30_ to rate our apps when we've barely had a chance to use them. One online course provider I use asks you what you think of the course after you've only completed _31_ 2 per cent of it.\n\nEconomist Jason Murphy says that companies use customer satisfaction ratings because a 32 display of star feedback has become the nuclear power sources of the modern economy.\n\nHowever, you can't help but _33_ if these companies are basing their business on fabrications (捏造的东西). I _34_ that with online surveys I just click the _35_ that's closest to my mouse cursor (光标) to get the damn thing off my screen. Often the star rating I give has far more to do with the kind of day I'm having than the purchase I just made.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "announce"
+        },
+        {
+          "label": "F",
+          "text": "fascinated"
+        },
+        {
+          "label": "K",
+          "text": "shining"
+        },
+        {
+          "label": "B",
+          "text": "commonplace"
+        },
+        {
+          "label": "G",
+          "text": "option"
+        },
+        {
+          "label": "L",
+          "text": "showering"
+        },
+        {
+          "label": "C",
+          "text": "confess"
+        },
+        {
+          "label": "H",
+          "text": "prompted"
+        },
+        {
+          "label": "M",
+          "text": "variety"
+        },
+        {
+          "label": "D",
+          "text": "desperate"
+        },
+        {
+          "label": "I",
+          "text": "roughly"
+        },
+        {
+          "label": "N",
+          "text": "voyage"
+        },
+        {
+          "label": "E",
+          "text": "experience"
+        },
+        {
+          "label": "J",
+          "text": "routinely"
+        },
+        {
+          "label": "O",
+          "text": "wonder"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 161,
+          "end": 163
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 220,
+          "end": 222
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 395,
+          "end": 399
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 464,
+          "end": 468
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 560,
+          "end": 564
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 725,
+          "end": 729
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 836,
+          "end": 838
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 953,
+          "end": 957
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1030,
+          "end": 1034
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1077,
+          "end": 1081
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Science of setbacks: How failure can improve career prospects",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "How do early career setbacks affect our long-term success? Failures can help us learn and overcome our fears. But disasters can still wound us. They can screw us up and set us back. Wouldn't it be nice if there was genuine, scientifically documented truth to the expression “what doesn’t kill you makes you stronger”?"
+        },
+        {
+          "label": "B",
+          "text": "One way social scientists have probed the effects of career setbacks is to look at scientists of very similar qualifications. These scientists, for reasons that are mostly arbitrary, either just missed getting a research grant or just barely made it. In social sciences, this is known as examining “near misses” and “narrow wins” in areas where merit is subjective. That allows researchers to measure only the effects of being chosen or not. Studies in this area have found conflicting results. In the competitive game of biomedical science, research has been done on scientists who narrowly lost or won grant money. It suggests that narrow winners become even bigger winners down the line. In other words, the rich get richer."
+        },
+        {
+          "label": "C",
+          "text": "A 2018 study published in the Proceedings of the National Academy of Sciences, for example, followed researchers in the Netherlands. Researchers concluded that those who just barely qualified for a grant were able to get twice as much money within the next eight years as those who just missed out. And the narrow winners were 50 percent more likely to be given a professorship."
+        },
+        {
+          "label": "D",
+          "text": "Others in the US have found similar effects with National Institutes of Health early-career fellowships launching narrow winners far ahead of close losers. The phenomenon is often referred to as the Matthew effect, inspired by the Bible's wisdom that to those who have, more will be given. There's a good explanation for the phenomenon in the book The Formula: The Universal Laws of Success by Albert Laszlo Barabasi. According to Barabasi, it's easier and less risky for those in positions of power to choose to hand awards and funding to those who've already been so recognized."
+        },
+        {
+          "label": "E",
+          "text": "This is bad news for the losers. Small early career setbacks seem to have a disproportionate effect down the line. What didn't kill them made them weaker. But other studies using the same technique have shown there's sometimes no penalty to a near miss. Students who just miss getting into top high schools or universities do just as well later in life as those who just manage to get accepted. In this case, what didn't kill them simply didn't matter. So is there any evidence that setbacks might actually improve our career prospects? There is now."
+        },
+        {
+          "label": "F",
+          "text": "In a study published in Nature Communications, Northwestern University sociologist Dashun Wang tracked more than 1,100 scientists who were on the border between getting a grant and missing out between 1990 and 2005. He followed various measures of performance over the next decade. These included how many papers they authored and how influential those papers were, as measured by the number of subsequent citations. As expected, there was a much higher rate of attrition (减员) among\n\nscientists who didn't get grants. But among those who stayed on, the close losers performed even better than the narrow winners. To make sure this wasn't by chance, Wang conducted additional tests using different performance measures. He examined how many times people were first authors on influential studies, and the like."
+        },
+        {
+          "label": "G",
+          "text": "One straightforward reason close losers might outperform narrow winners is that the two groups have comparable ability. In Wang's study, he selected the most determined, passionate scientists from the loser group and culled (剔除) what he deemed the weakest members of the winner group. Yet the persevering losers still came out on top. He thinks that being a close loser might give people a psychological boost, or the proverbial kick in the pants."
+        },
+        {
+          "label": "H",
+          "text": "Utrecht University sociologist Arnout van de Rijt was the lead author on the 2018 paper showing the rich get richer. He said the new finding is apparently reasonable and worth some attention. His own work showed that although the narrow winners did get much more money in the near future, the actual performance of the close losers was just as good."
+        },
+        {
+          "label": "I",
+          "text": "He said the people who should be paying regard to the Wang paper are the funding agents who distribute government grant money. After all, by continuing to pile riches on the narrow winners, the taxpayers are not getting the maximum bang for their buck if the close losers are performing just as well or even better. There's a huge amount of time and effort that goes into the process of selecting who gets grants, he said, and the latest research shows that the scientific establishment is not very good at distributing money. \"Maybe we should spend less money trying to figure out who is better than who,\" he said, suggesting that some more equal dividing up of money might be more productive and more efficient. Van de Rijt said he's not convinced that losing out gives people a psychological boost. It may yet be a selection effect. Even though Wang tried to account for this by culling the weakest winners, it's impossible to know which of the winners would have quit had they found themselves on the losing side."
+        },
+        {
+          "label": "J",
+          "text": "For his part, Wang said that in his own experience, losing did light a motivating fire. He recalled a recent paper he submitted to a journal, which accepted it only to request extensive editing, and then reversed course and rejected it. He submitted the unedited version to a more respected journal and got accepted."
+        },
+        {
+          "label": "K",
+          "text": "In sports and many areas of life, we think of failures as evidence of something we could have done better. We regard these disappointments as a fate we could have avoided with more careful preparation, different training, a better strategy, or more focus. And there it makes sense that failures show us the road to success. These papers deal with a kind of failure people have little control over—rejection. Others determine who wins and who loses. But at the very least, the research is starting to show that early setbacks don’t have to be fatal. They might even make us better at our jobs. Getting paid like a winner, though? That’s a different matter."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Being a close loser could greatly motivate one to persevere in their research."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Grant awarders tend to favor researchers already recognized in their respective fields."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Suffering early setbacks might help people improve their job performance."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Research by social scientists on the effects of career setbacks has produced contradictory findings."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "It is not to the best interest of taxpayers to keep giving money to narrow winners."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Scientists who persisted in research without receiving a grant made greater achievements than those who got one with luck, as suggested in one study."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "A research paper rejected by one journal may get accepted by another."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "According to one recent study, narrow winners of research grants had better chances to be promoted to professors."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "One researcher suggests it might be more fruitful to distribute grants on a relatively equal basis."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Minor setbacks in their early career may have a strong negative effect on the career of close losers."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Boredom has become trendy. Studies point to how boredom is good for creativity and innovation, as well as mental health. It is found that people are more creative following the completion of a tedious task. When people are bored, they have an increase in “associative thought”—the process of making new connections between ideas, which is linked to innovative thinking. These studies are impressive, but in reality, the benefits of boredom may be related to having time to clear your mind, be quiet, or daydream.\n\nIn our stimulation-rich world, it seems unrealistic that boredom could occur at all. Yet, there are valid reasons boredom may feel so painful. As it turns out, boredom might signal the fact that you have a need that isn't being met.\n\nOur always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging. Feeling bored may signal the desire for a greater sense of community and the feeling that you fit in with others around you. So take the step of joining an organization to build face-to-face relationships. You’ll find depth that you won’t get from your screen no matter how many likes you get on your post.\n\nSimilar to the need for belonging, bored people often report that they feel a limited sense of meaning. It’s a fundamental human need to have a larger purpose and to feel like we’re part of something bigger than ourselves. When people are bored, they’re more likely to feel less meaning in their lives. If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent.\n\nIf your definition of boredom is being quiet, mindful, and reflective, keep it up. But if you're struggling with real boredom and the emptiness it provokes, consider whether you might seek new connections and more significant challenges. These are the things that will genuinely relieve boredom and make you more effective in the process.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What have studies found about boredom?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It facilitates innovative thinking."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a result of doing boring tasks."
+                },
+                {
+                  "label": "C",
+                  "text": "It helps people connect with others."
+                },
+                {
+                  "label": "D",
+                  "text": "It does harm to one's mental health."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author say boredom might indicate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A need to be left alone."
+                },
+                {
+                  "label": "B",
+                  "text": "A desire to be fulfilled."
+                },
+                {
+                  "label": "C",
+                  "text": "A conflict to be resolved."
+                },
+                {
+                  "label": "D",
+                  "text": "A feeling to be validated."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do we learn about social media from the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may be an obstacle to expanding one's connections."
+                },
+                {
+                  "label": "B",
+                  "text": "It may get in the way of enhancing one's social status."
+                },
+                {
+                  "label": "C",
+                  "text": "It may prevent people from developing a genuine sense of community."
+                },
+                {
+                  "label": "D",
+                  "text": "It may make people feel that they ought to fit in with the outside world."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the author suggest people do to get rid of boredom?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Count the likes they get on their posts."
+                },
+                {
+                  "label": "B",
+                  "text": "Reflect on how they relate to others."
+                },
+                {
+                  "label": "C",
+                  "text": "Engage in real-life interactions."
+                },
+                {
+                  "label": "D",
+                  "text": "Participate in online discussions."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What should people do to enhance their sense of meaning?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Try to do something original."
+                },
+                {
+                  "label": "B",
+                  "text": "Confront significant challenges."
+                },
+                {
+                  "label": "C",
+                  "text": "Define boredom in their unique way."
+                },
+                {
+                  "label": "D",
+                  "text": "Devote themselves to a worthy cause."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Can you remember what you ate yesterday? If asked, most people will be able to give a vague description of their main meals: breakfast, lunch, dinner. But can you be sure you've noted every snack bar in your car, or every handful of nuts at your desk? Most people will have a feeling that they've missed something out.\n\nWe originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. We found reliable evidence that people were drastically under-reporting what they ate.\n\nNow the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim.\n\nWhy is this happening? We can point to at least three potential causes. One is the rise in obesity levels itself. Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember.\n\nAnother cause is that the proportion of people who are trying to lose weight has been increasing over time. People who want to lose weight are more likely to under-report their eating—regardless of whether they are overweight or not. This may be driven partly by self-deception or “wishful thinking”.\n\nThe final potential cause is an increase in snacking and eating out over recent decades—both in terms of how often they happen and how much they contribute to our overall energy intake. Again, there is\n\nevidence that food consumed out of the home is one of the most poorly recorded categories in surveys.\n\nSo, what's the message conveyed? For statistics, we should invest in more accurate measurement options. For policy, we need to focus on options that make it easy for people to eat fewer calories. If people do not know how much they are eating, it can be really hard for them to stick to a diet. Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. If this works, it won't matter if they can't remember what they ate yesterday.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What did the author suspect back in 2016?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Calorie consumption had fallen drastically over the decades."
+                },
+                {
+                  "label": "B",
+                  "text": "Most people surveyed were reluctant to reveal what they ate."
+                },
+                {
+                  "label": "C",
+                  "text": "The national statistics did not reflect the actual calorie consumption."
+                },
+                {
+                  "label": "D",
+                  "text": "Most people did not include snacks when reporting their calorie intake."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What has the Office for National Statistics verified?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People's calorie intake was far from accurately reported."
+                },
+                {
+                  "label": "B",
+                  "text": "The missing out of main meals leads to the habit of snacking."
+                },
+                {
+                  "label": "C",
+                  "text": "The nation's obesity level has much to do with calorie intake."
+                },
+                {
+                  "label": "D",
+                  "text": "Calorie consumption is linked to the amount of snacks one eats."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do we learn about obese people from the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They usually keep their eating habits a secret."
+                },
+                {
+                  "label": "B",
+                  "text": "They overlook the potential causes of obesity."
+                },
+                {
+                  "label": "C",
+                  "text": "They cannot help eating more than they should."
+                },
+                {
+                  "label": "D",
+                  "text": "They have difficulty recalling what they have eaten."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What often goes unnoticed in surveys on food consumption?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The growing trend of eating out."
+                },
+                {
+                  "label": "B",
+                  "text": "The potential causes of snacking."
+                },
+                {
+                  "label": "C",
+                  "text": "People's home energy consumption."
+                },
+                {
+                  "label": "D",
+                  "text": "People's changing diet over the years."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author suggest policymakers do about obesity?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Remind people to cut down on snacking."
+                },
+                {
+                  "label": "B",
+                  "text": "Make sure people eat non-fattening food."
+                },
+                {
+                  "label": "C",
+                  "text": "Ensure people don’t miss their main meals."
+                },
+                {
+                  "label": "D",
+                  "text": "See that people don’t stick to the same diet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "龙井(Longjing)是一种绿茶,主要产自中国东部沿海的浙江省。龙井茶独特的香味和口感为其赢得了“中国名茶”的称号,在中国深受大众的欢迎,在海外饮用的人也越来越多。龙井茶通常手工制作,其价格可能极其昂贵,也可能比较便宜,这取决于茶的生长地、采摘时间和制作工艺。龙井茶富含维生素C和其他多种有益健康的元素。经常喝龙井茶有助于减轻疲劳、延缓衰老。"
+      }
+    ]
+  },
+  "id": "CET4-2021-06-3",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

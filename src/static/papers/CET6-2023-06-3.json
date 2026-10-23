@@ -1,0 +1,653 @@
+{
+  "schema_version": "1.0",
+  "year": 2023,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “It is widely accepted that an important goal of education is to help students learn how to learn.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “It is widely accepted that an important goal of education is to help students learn how to learn.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “It is widely accepted that an important goal of education is to help students learn how to learn.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": 5,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "You might not know yourself as well as you think. According to a new study, people are _26_ accurate judges of only some of their behaviors. While most previous studies on how well people know themselves have been done on long-term personality traits, this new study _27_ how well people understand how they are acting from one moment to the next. Researchers asked participants to wear audio recorders that automatically _28_ every 9.5 minutes between 7 a.m. and 2 a.m. to record 30 seconds of audio. These participants were then emailed surveys four times a day asking them to _29_ how outgoing, agreeable, or conscientious they were during a particular hour of the day. The study used data from 248 participants, all of whom answered questions about their behavior for two _30_ weeks and wore the audio device for one of those weeks.\n\nSix laboratory assistants rated each participant's audio clips to see how their observations compared with people's _31_ of themselves. The six assistants were generally in agreement with one another about how the people they were observing acted. Further, participants' ratings of their own behaviors agreed with observers' for how outgoing and how conscientious they were being. But the agreement between participants and outside observers was much smaller for agreeableness. Some of this _32_ could be because the observers used only audio clips, and thus could not read _33_ like body language, but there are _34_ other explanations, as people should be able to hear when a participant is being kind versus being rude. The weak agreement between how participants thought they were acting and what observers heard could be because people would rather _35_ rude behavior.\n\n第1页/共6页",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "activated"
+        },
+        {
+          "label": "I",
+          "text": "probes"
+        },
+        {
+          "label": "B",
+          "text": "articulates"
+        },
+        {
+          "label": "J",
+          "text": "random"
+        },
+        {
+          "label": "C",
+          "text": "assessment"
+        },
+        {
+          "label": "K",
+          "text": "recall"
+        },
+        {
+          "label": "D",
+          "text": "consecutive"
+        },
+        {
+          "label": "L",
+          "text": "relatively"
+        },
+        {
+          "label": "E",
+          "text": "cues"
+        },
+        {
+          "label": "M",
+          "text": "saturated"
+        },
+        {
+          "label": "F",
+          "text": "deny"
+        },
+        {
+          "label": "N",
+          "text": "symptoms"
+        },
+        {
+          "label": "G",
+          "text": "discrepancy"
+        },
+        {
+          "label": "O",
+          "text": "terminate"
+        },
+        {
+          "label": "H",
+          "text": "probably"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 87,
+          "end": 91
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 267,
+          "end": 271
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 422,
+          "end": 426
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 579,
+          "end": 583
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 776,
+          "end": 780
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 954,
+          "end": 958
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1329,
+          "end": 1333
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1412,
+          "end": 1416
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1451,
+          "end": 1455
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1692,
+          "end": 1696
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Why we need tiny colleges",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "We're experiencing the rebirth of smallness. Farmers markets, tiny homes, and brew pubs all exemplify our love of smallness. So do charter schools, coffee shops, and local bookstores. Small is often (but not always) more affordable, healthier, and sustainable, but its finest characteristic, the one that turns charm into love, is that going small allows us to be more fully who we are."
+        },
+        {
+          "label": "B",
+          "text": "In higher education the trend is mostly in the opposite direction: Universities with 20,000 or 30,000 students are considered “mid-sized”. The nation’s largest university, Arizona State University, has 80,000 students on campus and aims to enroll another 100,000 students online. At the other end of the spectrum is a handful of colleges that have fewer than a hundred students on campus and no online courses: colleges such as Sterling College, Thomas More College of Liberal Arts, and Deep Springs College. These colleges are so small that they can only be called “tiny.”"
+        },
+        {
+          "label": "C",
+          "text": "Tiny colleges focus not just on a young person's intellect, but on the young person as a whole. Equally important, tiny colleges ask, \"How can education contribute to human flourishing and the well-being of the world?\" And they shape a college experience to address that question. They replace concerns about institutional growth with attention to the growth of students as fully developed participants in their communities."
+        },
+        {
+          "label": "D",
+          "text": "I've had the privilege of teaching at three different institutions of higher learning during my career—a small liberal arts college and two mid-sized public universities. I've also been profoundly disappointed in each of these institutions, and in many of my colleagues, especially when it comes to helping students and preparing them for the many responsibilities of adulthood. Administrators focus on the business of running a university, and most faculty focus on their scholarship and teaching their discipline. Little deliberate attention is given to how students mature as individuals and social beings."
+        },
+        {
+          "label": "E",
+          "text": "Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, Arizona, to establish a tiny college—Flagstaff College. I'm convinced there's a need for another type of education, one devoted to helping students come into their own and into this beautiful and troubled world. Young people need an education that will provide them with meaning, hope, courage, and passion, as well as information and skills. Large institutions, I believe, are particularly ill-suited to this type of education."
+        },
+        {
+          "label": "F",
+          "text": "There's no \"best of\" list when it comes to tiny colleges, at least not yet. But around the country people are creating new colleges that provide an alternative to small liberal arts colleges, large public universities, and online education."
+        },
+        {
+          "label": "G",
+          "text": "With only 26 students, Deep Springs is the smallest college in the country and, quite likely, the most\n\n第2页/共6页\n\natypical（非典型的）. Located on a working cattle ranch on the California-Nevada border, Deep Springs is a private, residential, two-year college for men, committed to educating students for “a life of service to humanity.” Founded by the electricity tycoon（大亨）L. L. Nunn in 1917, Deep Springs’ “curriculum” revolves around academics, labor, and self-governance. In addition to their courses, students are charged with running the 155-acre ranch and overseeing the functioning of the college. Students chair both the admissions and the curriculum committees."
+        },
+        {
+          "label": "H",
+          "text": "“Living in close community with one’s teachers and fellow students, and being forced to take on adult responsibilities, makes for one’s growth as a person,” says William Hunt, who graduated last year. “To exist for very long in a community like that, you have to get over the question of whether you’re sufficiently talented or principled and get started worrying about how you can stretch yourself and your peers, how much you can manage to learn with them.”"
+        },
+        {
+          "label": "I",
+          "text": "Sterling College, in Craftsbury Common, Vermont, is also very small—fewer than 100 students. Unlike Deep Springs, Sterling focuses its curriculum on environmental and social justice issues, but like Deep Springs it places a high value on personal responsibility and manual labor. According to its catalog, a college education at Sterling combines “rigorous academics, roll-up-your-sleeves challenges, and good old hard work.”"
+        },
+        {
+          "label": "J",
+          "text": "The average tuition at a small liberal-arts college is \\$30,000 to \\$40,000 a year, not including the cost of living on campus, as compared to \\$8,000 to \\$10,000 a year for tuition alone at a public university. Of the tiny colleges, only Deep Springs doesn’t charge tuition or room and board; students pay only for books and the cost of traveling to and from college. If tiny schools are to become a player on the higher education scene, they will need to find a way to be truly affordable."
+        },
+        {
+          "label": "K",
+          "text": "Doing so may not be that difficult so long as they do not pattern themselves too closely on existing norms. We've come to believe that a good college should have many academic programs and excellent facilities, posh (豪华的) dorms, an array of athletic programs, and a world-class student activity center. Imagine a good college without a climbing wall! We also have accepted the idea that college presidents, and their many vice-presidents, should be paid like their counterparts in the business world and that higher education requires an elaborate, up-to-date technology infrastructure. All of this drives up the cost of education."
+        },
+        {
+          "label": "L",
+          "text": "The “trick” to making tiny colleges affordable, if that’s the right word, is simplicity. At its core, education is a human-to-human interaction. Reflecting on his own college education, President Garfield once commented that an ideal college would consist of nothing more than the legendary teacher Mark Hopkins on one end of a log and a student on the other. The economics of a tiny college, in other words, might be similar to that of a tiny house. Because it is small, a tiny house costs less to build and less to furnish, insure, and maintain. But the economic benefits of a small house don’t end there. Tiny homes discourage homeowners from buying stuff that they really don’t need, because there’s no place to put it."
+        },
+        {
+          "label": "M",
+          "text": "I'm a late convert to the idea of tiny colleges, and I fully understand the need for many diverse types of educational institutions. Academic research and job training are important, but tiny colleges aren't suited for either. The educational needs of a complex society are themselves complex, and no single model can meet all of these needs. But I'm now convinced there's an educational need that's now going almost completely unmet: namely, the need to help young people transition into adulthood. Tiny colleges can do this better than any other type of educational institution."
+        },
+        {
+          "label": "N",
+          "text": "The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity by close interaction with those who know and care for us, and that one of the basic purposes of higher education is social. Although we give lip service to the idea that a college education will make us better people, when all's said and done, we think of higher education primarily in economic terms.\n\n第3页/共6页\n\nWe've come to think of higher education as a means to make a living rather than make a life. We've also come to see higher education as a private good rather than a public one. Tiny colleges are not the answer to all of our educational requirements, but they're an answer to one of our most basic educational necessities: the need to produce thoughtful, engaged, and compassionate human beings."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "One tiny American college situated on a cattle farm is devoted to educating students to serve mankind throughout their lives."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Much to the author's disappointment, the three institutions of higher learning where she taught largely ignore students' growth as social beings."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Tiny colleges must be made affordable in order to play a role in higher education."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "According to a recent graduate from a tiny college, living together with faculty and fellow students is conducive to a student's growth as a person."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Rather than going small, most American universities are trying to go big."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "In a certain tiny college, rigorous academic work and traditional manual labor are integrated."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Tiny colleges focus on educating students to become well-rounded citizens instead of seeking their own expansion."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The essence of education lies in the interaction between people."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "After her retirement, the author has decided to set up a tiny college in her hometown."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Tiny colleges are justified as it is believed that our growth into full humanity comes through interaction with people near and dear to us."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "If you're someone who has turned to snacking on junk food more in the pandemic (大流行病), you're not alone. Investigative reporter Michael Moss says processed food is engineered to hook you, not unlike alcohol, cigarettes, or other harmful substances. His 2013 book, Salt Sugar Fat, explored food companies' aggressive marketing of those products and their impact on our health. In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates.\n\nProcessed food is inexpensive, it's legal, and it's everywhere. Companies' advertising is cueing us to remember those products and we want those products constantly. So the food environment is one of those key things that makes food even more problematic for so many people. Memory, nostalgia (怀旧) in particular, plays a big role in the foods we crave. Soda companies discovered that if they put a soda in the hands of a child when they're at a ball game with their parents, that soda will forever be associated with that joyous moment. Later in life, when that child wants to experience a joyous moment, they're going to think of soda. Many people seek comfort in the snacks they remember from childhood.\n\nMoss examines the way companies capitalize on our memories, cravings and brain chemistry to keep us snacking.\n\nOne of the reasons I came to think that some of these food products are even more powerful, more troublesome than drugs can be is memory. What we eat is all about memory. And we begin forming memories for food at a really early age. And we keep those memories for a lifetime. Knowing this, the food industry spends lots of time trying to shape the memories that we have for their products. One of the features of addiction that scientists studying drug addiction discovered back in the 1990s was that the faster a substance hits the brain, the more apt we are as a result to act impulsively. There's nothing faster than food in its ability to hit the brain. For Moss, this puts the notion of “fast food” in an entirely new light as this isn't limited to fast food\n\n第4页/共6页\n\nchains—almost 90% of food products in grocery stores are processed foods. Everything in the industry is about speed, from manufacturing to packaging.\n\nOverall, Moss outlines the industry's dependence on making their products inexpensive, super delicious, and incredibly convenient for consumers. Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are all addictive."
+                },
+                {
+                  "label": "C",
+                  "text": "They are all engineered to be enjoyed."
+                },
+                {
+                  "label": "B",
+                  "text": "They are all necessary evils."
+                },
+                {
+                  "label": "D",
+                  "text": "They are all in increasingly great demand."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author say plays a key role in the foods we crave?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The food environment."
+                },
+                {
+                  "label": "C",
+                  "text": "Convenience."
+                },
+                {
+                  "label": "B",
+                  "text": "Aggressive marketing."
+                },
+                {
+                  "label": "D",
+                  "text": "Memory."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do food companies do to capitalize on consumers' association with their food products?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They strive to influence how consumers remember their products."
+                },
+                {
+                  "label": "B",
+                  "text": "They attempt to use consumers' long-term memories to promote addiction."
+                },
+                {
+                  "label": "C",
+                  "text": "They try to exploit consumers' memories for their products as early as possible."
+                },
+                {
+                  "label": "D",
+                  "text": "They endeavor to find what consumers remember about their products."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "How does the food industry operate from manufacturing to packaging, according to Moss?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Placing the idea of fast food in an entirely new light."
+                },
+                {
+                  "label": "B",
+                  "text": "Setting no limit to the number of fast food chains."
+                },
+                {
+                  "label": "C",
+                  "text": "Focusing on how quickly the work is done."
+                },
+                {
+                  "label": "D",
+                  "text": "Prioritizing the quality of their products."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Why are companies finding it difficult to satisfy consumers' demand for healthier food products?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They think speed of production outweighs consumers' health."
+                },
+                {
+                  "label": "B",
+                  "text": "They believe their industry would perish without fast foods."
+                },
+                {
+                  "label": "C",
+                  "text": "They have to strike a balance between taste and nutrition."
+                },
+                {
+                  "label": "D",
+                  "text": "They are hooked on manufacturing convenience foods."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Chimpanzees (黑猩猩), human beings' closest animal relatives, share up to $98\\%$ of our genes. Yet humans and chimpanzees lead very different lives. Fewer than 300,000 wild chimpanzees live in a few forested corners of Africa today, while humans have colonized every corner of the globe. At more than 7 billion, human population dwarfs that of nearly all other mammals—despite our physical weaknesses.\n\nWhat could account for our species' incredible evolutionary successes?\n\nOne obvious answer is our big brains. It could be that our raw intelligence gave us an unprecedented ability to think outside the box, innovating solutions to thorny problems as people migrated across the globe.\n\nBut a growing number of cognitive scientists and anthropologists (人类学家) are rejecting that explanation. They think that, rather than making our living as innovators, we survive and thrive precisely because we don't think for ourselves. Instead, people cope with challenging climates and ecological contexts by carefully copying others.\n\nIn a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test subjects—children and chimpanzees—a mechanical box with a treat inside. In one condition, the box was opaque, while in the other it was transparent. The experimenters demonstrated how to open the box to retrieve the treat, but they also included the irrelevant step of tapping on the box with a stick.\n\nOddly, the children carefully copied all the steps to open the box, even when they could see that the stick had no practical effect. That is, they copied irrationally: Instead of doing only what was necessary to get their reward, children slavishly imitated every action they'd witnessed.\n\nOf course, that study only included three- and four-year-olds. But additional research has shown that older\n\n第5页/共6页\n\nchildren and adults are even more likely to mindlessly copy others' actions, and infants are less likely to over-imitate—that is, to precisely copy even impractical actions.\n\nBy contrast, chimpanzees in the study only over-imitated in the opaque condition. In the transparent condition—where they saw that the stick was mechanically useless—they ignored that step entirely. Other research has since supported these findings.\n\nWhen it comes to copying, chimpanzees are more rational than human children or adults.\n\nWhere does the seemingly irrational human preference for over-imitation come from? Anthropologist Joseph Henrich points out that people around the world rely on technologies that are often so complex that no one can learn them rationally. Instead, people must learn them step by step, trusting in the wisdom of more experienced elders and peers.\n\nSo the next time you hear someone arguing passionately that everyone should embrace nonconformity and avoid imitating others, you might laugh a little bit. We're not chimpanzees, after all.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What might explain humans' having the largest population of almost all mammals?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are equipped with raw strength for solving the most challenging problems."
+                },
+                {
+                  "label": "B",
+                  "text": "They cope with the outside world more effectively than their animal relatives."
+                },
+                {
+                  "label": "C",
+                  "text": "They possess the most outstanding ability to think."
+                },
+                {
+                  "label": "D",
+                  "text": "They know how to survive everywhere on earth."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What accounts for humans' evolutionary successes according to a growing number of cognitive scientists and anthropologists?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are better at innovating solutions."
+                },
+                {
+                  "label": "B",
+                  "text": "They thrive through creative strategies."
+                },
+                {
+                  "label": "C",
+                  "text": "They are naturally adaptive to ecological contexts."
+                },
+                {
+                  "label": "D",
+                  "text": "They meet challenges by imitating others carefully."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author think is odd about the findings of the study by Victoria Horner and Andrew Whiten?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Children irrationally imitated every action of the experimenters."
+                },
+                {
+                  "label": "B",
+                  "text": "Chimpanzees could tell the transparent box from the opaque one."
+                },
+                {
+                  "label": "C",
+                  "text": "Chimpanzees could retrieve the treat more quickly than children did."
+                },
+                {
+                  "label": "D",
+                  "text": "Children omitted the step of tapping on the box with a stick to open it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What is anthropologist Joseph Henrich's explanation for the human preference for copying?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It originates in the rationality of people around the world."
+                },
+                {
+                  "label": "B",
+                  "text": "It stems from the way people learn complex technologies."
+                },
+                {
+                  "label": "C",
+                  "text": "It results from people distrusting their own wisdom."
+                },
+                {
+                  "label": "D",
+                  "text": "It derives from the desire to acquire knowledge step by step."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What point does the author want to emphasize when he says “We’re not chimpanzees”?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is arguable whether everyone should avoid imitation."
+                },
+                {
+                  "label": "B",
+                  "text": "It is characteristic of human beings to copy others."
+                },
+                {
+                  "label": "C",
+                  "text": "It is desirable to trust in more knowledgeable peers."
+                },
+                {
+                  "label": "D",
+                  "text": "It is naïve to laugh at someone embracing nonconformity."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，中国城市加快发展，城市人居环境得到显著改善。许多城市努力探索中国特色的城市高质量发展之路，城市功能不断完善，治理水平明显提高。中国持续开展城市生态修复和功能修补，全面实施城镇老旧小区改造，大力推进城市园林绿化，消除污染；同时大力推进城市基础设施体系化建设，开展房屋建筑和市政设施普查以及安全隐患排查整治，努力为市民创造高品质的生活环境，让城市更美丽、更安全、更宜居。\n\n第6页/共6页"
+      }
+    ]
+  },
+  "id": "CET6-2023-06-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "36": {
+        "answer": "G",
+        "explanation": "G)【精析】细节归纳题。G)段第二句提到深泉学院位于加利福尼亚州和内华达州边界的一个养牛牧场，是一所两年制私立寄宿制男子学院，致力于培养学生“终生为人类服务”。题干中 one tiny American college situated on a cattle farm 对应原文中的 located on a working cattle ranch；题干中的 devoted to educating students to serve mankind throughout their lives 是对原文中 committed to educating students for “a life of service to humanity”的同义转述，故答案为 G)。"
+      },
+      "37": {
+        "answer": "D",
+        "explanation": "D)【精析】同义转述题。D)段提到作者曾在三所不同的高等学府任教，她对这些机构和许多同事深感失望，因为很少有人有意识地关注学生如何成长为个体和社会人。题干中的 much to the author's disappointment 是原文中 I've also been profoundly disappointed 的同义表达；题干中的 ignore students' growth as social beings 是对原文中 little deliberate attention is given to how students mature as individuals and social beings 的同义转述，故答案为 D)。"
+      },
+      "38": {
+        "answer": "J",
+        "explanation": "J) 【精析】同义转述题。J)段第三句指出如果微型学院想要成为高等教育领域的一员,它们就需要找到方法,真正能让学生负担得起。题干中的 must be made affordable 对应原文中的 to be truly affordable; 题干中的 play a role in higher education 是对原文中的 to become a player on the higher education scene 的同义转述,故答案为 J)。"
+      },
+      "39": {
+        "answer": "H",
+        "explanation": "H)【精析】同义转述题。H)段第一句提到去年毕业的威廉·亨特说:“与老师和同学生活在紧密的团体中，承担起成年人的责任，有助于一个人的成长。”题干中的a recent graduate对应原文中的William Hunt, who graduated last year;题干中的living together with faculty and fellow students is conducive to a student's growth as a person是对原文中“living in close community with one's teachers and fellow students...makes for one's growth as a person”的同义转述，故答案为H)。"
+      },
+      "40": {
+        "answer": "B",
+        "explanation": "桑那州立大学有8万名在校学生，还计划再招收10万名在线学生。题干中的 rather than going small 是原文中 the trend is mostly in the opposite direction 的同义表达；题干中的 most American universities are trying to go big 是对这两句列出的数据的归纳总结，故答案为 B)。"
+      },
+      "41": {
+        "answer": "I",
+        "explanation": "I) 【精析】细节归纳题。I) 段第二、三句提到斯特林学校高度重视个人责任和体力劳动。根据其目录，斯特林学院的教育融“严谨的学术、撸起袖子应对挑战以及努力工作的传统”于一体。题干中的 traditional manual labor 对应原文中的 manual labor；题干中的 rigorous academic work and traditional manual labor are integrated 是对原文中 combines “rigorous academics, roll-up-your-sleeves challenges, and good old hard work”的同义转述，故答案为 I)。"
+      },
+      "42": {
+        "answer": "C",
+        "explanation": "C) 【精析】同义转述题。C) 段最后一句指出微型学院不再关注机构的发展, 而是关注学生作为充分发展的社会参与者的成长。题干中的 instead of seeking their own expansion 对应原文中的 institutional growth; 题干中的 educating students to become well-rounded citizens 对应原文中的 the growth of students as fully developed participants in their communities; 题干是对原文中这句话的同义转述, 故答案为 C)。"
+      },
+      "43": {
+        "answer": "L",
+        "explanation": "L)【精析】同义转述题。L)段第二句提到教育的核心是人与人之间的互动。题干中的 the essence of education 对应原文中的 at its core; 题干中的 the interaction between people 对应原文中的 a human-to-human interaction; 题干是对这句话的同义转述, 故答案为 L)。"
+      },
+      "44": {
+        "answer": "E",
+        "explanation": "E)【精析】同义转述题。E)段第一句指出作者刚从一所公立大学退休，现在回到家乡亚利桑那州的弗拉格斯塔夫，建立一所微型学院——弗拉格斯塔夫学院。题干中的 after her retirement 是原文中 having just retired from teaching at a public university 的同义表达；题干中的 set up a tiny college 是原文中 establish a tiny college 的同义表达，故答案为 E)。"
+      }
+    },
+    "references": {}
+  }
+}

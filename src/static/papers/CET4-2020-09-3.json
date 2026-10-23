@@ -1,0 +1,1299 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 9,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on online dictionaries. You can start your essay with the sentence “Online dictionaries are becoming increasingly popular”. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on online dictionaries. You can start your essay with the sentence “Online dictionaries are becoming increasingly popular”. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on online dictionaries. You can start your essay with the sentence “Online dictionaries are becoming increasingly popular”. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Ship traffic in the Atlantic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Exhaust from cars in Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Warm currents in the ocean."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Particles emitted by power plants."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They need to be taken seriously."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They might be causing trouble to air flights."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have a huge effect on fishery."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They may be affecting the world's climate."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To appeal for higher wages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To call for a permanent security guard."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To demand better health care."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To dismiss the bad-tempered supervisor."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It had already taken strong action."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It would take their appeal seriously."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It would put customers' needs first."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was seeking help from the police."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The road was flooded."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The road was frozen with snow."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The road was blocked."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The road was covered with spilled gas."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A truck plunged into a pool of liquid chocolate."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The heavy snow made driving very difficult."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The truck driver dozed off while driving."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A truck hit a barrier and overturned."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was a long time before the cleanup was finished."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was a hard task to remove the spilled substance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was fortunate that no passenger got injured."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was difficult to contact the manufacturer.\n\n四级2020年 25"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She wanted to save for a new phone."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could enjoy discounts with cash."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She found it much safer to use cash."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She had been cheated using phone apps."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can save a lot more time and trouble."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They find it less difficult to make purchases."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They derive greater pleasure from buying things."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are less aware of the value of their money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "More valuable items."
+                  },
+                  {
+                    "label": "B",
+                    "text": "More non-essential things."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Everyday necessities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Electronic devices."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can improve shopping efficiency."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may lead to excessive spending."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is altering the way of shopping."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It appeals more to younger people."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He wanted to order some wooden furniture."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He had to change the furniture delivery time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had a problem with the furniture delivered."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He wanted the furniture store to give him a refund."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Send the furniture back to the store."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Describe the furniture he received."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Collect the furniture he ordered."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Buy another brand of furniture."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Correct their mistake."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improve their service."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Apologize to his wife."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give the money back."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She recommended a new style."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She offered some gift to the man."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She apologized to the man once more."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She checked all the items with the man."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Reading books of wisdom."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tidying up one's home."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sharing with others."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Donating to charity."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Things that make one happy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Things that are becoming rare."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Things that occupy little space."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Things that cost a lot of money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It joined the city's clean-up campaign."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It sold as many as fifty boxes of books."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It received an incredibly large number of donated books."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It did little business because of the unusual cold weather.\n\n四级2020年 26"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Give free meals to the homeless."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help the vulnerable to cook lunches."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Provide shelter for the homeless."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Call for change in the local government."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Strengthen co-operation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Win national support."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Promote understanding."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Follow his example."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Spreading news of his deeds."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Following the example he sets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Writing him thank-you notes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Sending him hand-made bags."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To solve word search puzzles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To send smartphone messages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To test their eyesight using a phone app."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To install some audio equipment in a lab."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They could not go on until the ringing stopped."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could no longer concentrate on their task."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They grabbed the phone and called back right away."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They asked their experimenter to hang up the phone."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A rise in emotional problems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A reduction in the amount of sleep."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A decline in sports activities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A decline in academic performance."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Protect the eyesight of the younger generation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take effective measures to raise productivity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Realize the disruptive effects of technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ensure they have sufficient sleep every day."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "It can be seen from the cheapest budget airlines to the world's largest carriers: Airlines across the globe 26 various shades of blue in their cabin seats, and it is no 27. There does appear to be some psychology behind it. Blue is 28 with the positive qualities of trust, efficiency, quietness, coolness, reflection and calm.\n\nNigel Goode is a leading aviation designer who works at a company which has been delivering aircraft interiors for airlines for 30 years. “Our job as designers is to reinforce the airline’s brand and make it more _29_,” he says. “But our primary concern is to deliver an interior that _30_ comfort to create a pleasant environment.”\n\n“It’s all about making the traveling experience less _31_ and blue is said to induce a feeling of calm. While some of the budget airlines might use brighter, bolder shades, most others go with softened tones. The _32_ aim is to create a home-like relaxing feel, so airlines tend to use soft colors that feel domestic, _33_ and earthy for that reason.”\n\nIt's also a trend that emerged decades ago and has _34_ stuck. \"Blue became the color of choice because it's a conservative, agreeable, corporate shade that _35_ being trustworthy and safe. That's why you see it used in all of the older airlines like British Airways,\" Nigel Goode added.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "associated"
+        },
+        {
+          "label": "F",
+          "text": "imitate"
+        },
+        {
+          "label": "K",
+          "text": "principal"
+        },
+        {
+          "label": "B",
+          "text": "coincidence"
+        },
+        {
+          "label": "G",
+          "text": "indication"
+        },
+        {
+          "label": "L",
+          "text": "recognizable"
+        },
+        {
+          "label": "C",
+          "text": "determined"
+        },
+        {
+          "label": "H",
+          "text": "integrate"
+        },
+        {
+          "label": "M",
+          "text": "simply"
+        },
+        {
+          "label": "D",
+          "text": "drastically"
+        },
+        {
+          "label": "I",
+          "text": "maximizes"
+        },
+        {
+          "label": "N",
+          "text": "stressful"
+        },
+        {
+          "label": "E",
+          "text": "enormous"
+        },
+        {
+          "label": "J",
+          "text": "natural"
+        },
+        {
+          "label": "O",
+          "text": "symbolizes |\n\n四级2020年 49"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 108,
+          "end": 110
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 169,
+          "end": 171
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 232,
+          "end": 234
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 541,
+          "end": 545
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 613,
+          "end": 617
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 715,
+          "end": 719
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 875,
+          "end": 879
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 980,
+          "end": 984
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1066,
+          "end": 1070
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1172,
+          "end": 1176
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Why Are Asian Americans Missing from Our Textbooks?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "I still remember my fourth-grade social studies project. Our class was studying the Gold Rush, something all California fourth-graders learned. I was excited because I had asked to research Chinese immigrants during that era. Growing up in the San Francisco Bay Area, I had always known that “San Francisco” translated to “Gold Mountain” in Chinese. The name had stuck ever since Chinese immigrants arrived on the shores of Northern California in the 1850s, eager to try their luck in the gold mines. Now I’d have the chance to learn about them."
+        },
+        {
+          "label": "B",
+          "text": "My excitement was short-lived. I remember heading to the library with my class and asking for help. I remember the librarian's hesitation. She finally led me past row after row of books, to a corner of the library where she pulled an oversized book off the shelf. She checked the index and turned over to a page about early Chinese immigrants in California. That was all there was in my entire school library in San Francisco, home of the nation's first Chinatown. That was it."
+        },
+        {
+          "label": "C",
+          "text": "I finally had the opportunity to learn about Asian Americans like myself, and how we became part of the fabric of the United States when I took an introductory class on Asian-American history in college. The class was a revelation. I realized how much had been missing in my textbooks as I grew up. My identity had been shaped by years of never reading, seeing, hearing, or learning about people who had a similar background as me. Why, I wondered, weren't the stories, histories, and contributions of Asian Americans taught in K-12 schools, especially in the elementary schools? Why are they still not taught?"
+        },
+        {
+          "label": "D",
+          "text": "Our students—Asian, Latino, African American, Native American, and, yes, white—stand to gain from a multicultural curriculum. Students of color are more engaged and earn better grades when they see themselves in their studies. Research has also found that white students benefit by being challenged and exposed to new perspectives."
+        },
+        {
+          "label": "E",
+          "text": "For decades, activists have called for schools to offer anti-racism or multicultural curricula. Yet a traditional American K-12 curriculum continues to be taught from a Eurocentric point of view. Being multicultural often falls back on weaving children of color into photographs, or creating a few supporting characters that happen to be ethnic—an improvement, but superficial nonetheless. Elementary school classrooms celebrate cultural holidays—Lunar New Year! Red envelopes! Lion dancers! —but they're quick to gloss over (掩饰) the challenges and injustices that Asian Americans have faced. Most students don't, for example, learn about the laws that for years excluded Asians from immigrating to the U.S. They don't hear the narratives of how and why Southeast Asian refugees (难民) had to rebuild their lives here."
+        },
+        {
+          "label": "F",
+          "text": "Research into what students learn in school has found just how much is missing in their studies. In an analysis, Christine Sleeter, a professor in the College of Professional Studies at California State University, Monterey Bay, reviewed California's history and social studies framework, the curriculum determined by state educators that influences what is taught in K-12 classrooms. Of the nearly 100 Americans recommended to be studied, $77\\%$ were white, $18\\%$ African American, $4\\%$ Native American, and $1\\%$ Latino. None were Asian American."
+        },
+        {
+          "label": "G",
+          "text": "Worse, when Asian Americans do make an appearance in lesson books, it is often laced with problems. “There hasn’t been much progress,” says Nicholas Hartlep, an assistant professor at Metropolitan State University. His 2016 study of K-12 social studies textbooks and teacher manuals found that Asian Americans were poorly represented at best, and subjected to racist caricatures（拙劣\n\n四级2020年 50\n\n的模仿）at worst. The wide diversity of Asian Americans was overlooked; there was very little mention of South Asians or Pacific Islanders, for example. And chances were, in the images, Asian Americans appeared in stereotypical（模式化的）roles, such as engineers."
+        },
+        {
+          "label": "H",
+          "text": "Teachers with a multicultural background or training could perhaps overcome such curriculum challenges, but they're few and far between. In California, 65% of K-12 teachers are white, compared with a student population that is 75% students of color. Nationwide, the gap is even greater. It isn't a requirement that teachers share the same racial or ethnic background as their students, but the imbalance poses challenges, from the potential for unconscious bias to a lack of knowledge or comfort in discussing race and culture."
+        },
+        {
+          "label": "I",
+          "text": "How race and ethnicity is taught is crucial, says Allyson Tintiangco-Cubales, an Asian-American studies professor at San Francisco State University. She added that it's not so much about the teacher's background, but about training. \"You can have a great curriculum but if you don't have teachers dedicated (专注于) to teaching it well,\" she says, \"it won't work as well as you want it to.\""
+        },
+        {
+          "label": "J",
+          "text": "Some teachers are finding ways to expose students to Asian-American issues—if not during school hours, then outside of them. This summer, Wilson Wong will lead a class of rising fifth-graders at a day camp dedicated to Chinese culture and the Chinese-American community in Oakland, California. His students, for instance, will learn about how Chinese immigrants built the railroads in California, and even have a chance to “experience” it themselves: They will race each other to build a railroad model on the playground, with some students being forced to “work” longer and faster and at cheaper wages. Wong, a middle school teacher during the school year, hopes he’s exposing the students to how Chinese Americans contributed to the U.S., something that he didn’t get as a student growing up in the San Francisco Bay Area. “I planted the seeds early,” he says. “That’s what I’m hoping for.”"
+        },
+        {
+          "label": "K",
+          "text": "And, despite setbacks, the tide may finally be turning. California legislators passed a bill last year that will bring ethnic studies to all its public high schools. Some school districts, including San Francisco and Los Angeles, already offer ethnic studies at its high schools. High schools in Portland, Chicago, and elsewhere have either implemented or will soon introduce ethnic studies classes. And, as more high schools begin teaching it, the door could crack open for middle schools, and, perhaps inevitably, elementary schools, to incorporate a truly more multicultural curriculum. Doing so will send an important message to the nation's youngest citizens: Whatever your race or ethnicity, you matter. Your history matters. Your story matters."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "While cultural holidays are celebrated, the injustices experienced by Asian Americans are not exposed in elementary school classrooms."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Little information can be found about Chinese immigrants in the author's school library."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "A middle school teacher is making a great effort to help students learn about the contributions made by Chinese immigrants to America."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "No Asian Americans were included in the list of historical figures recommended for study in K-12 classrooms."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "There is an obvious lack of teachers with a multicultural perspective to meet the curriculum challenges in America."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Students of ethnic backgrounds learn better from a multicultural curriculum."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Now more and more high schools in America are including ethnic studies in their curriculums."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "A study of some K-12 textbooks and teacher manuals showed that Asian Americans were inadequately and improperly represented in them."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "When taking a class in college, the author realized that a lot of information about Asian Americans was left out of the textbooks he studied."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "An Asian-American studies professor placed greater emphasis on teacher training than on teachers' background.\n\n四级2020年 51"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "When is cleaning walls a crime? When you're doing it to create art, obviously. A number of street artists around the world have started expressing themselves through a practice known as reverse graffiti (涂鸦). They find dirty surfaces and paint them with images or messages using cleaning brushes or pressure hoses (高压水管). Either way, it's the same principle: the image is made by cleaning away the dirt. Each artist has their own individual style but all artists share a common aim: to draw attention to the pollution in our cities. The UK's Paul Curtis, better known as Moose, operates around Leeds and London and has been commissioned by a number of companies to make reverse graffiti advertisements.\n\nBrazilian artist, Alexandre Orion, turned one of Sao Paulo's transport tunnels into an amazing wall painting in 2006 by getting rid of the dirt. Made up of a series of white skulls (颅骨), the painting reminds drivers of the effect their pollution is having on the planet. “Every motorist sits in the comfort of their car, but they don’t give any consideration to the price their comfort has for the environment and consequently for themselves,” says Orion.\n\nThe anti-pollution message of the reverse graffiti artists confuses city authorities since the main argument against graffiti is that it spoils the appearance of both types of property: public and private. This was what Leeds City Council said about Moose's work: “Leeds residents want to live in clean and attractive neighbourhoods. We view this kind of advertising as environmental damage and will take strong action against it.” Moose was ordered to “clean up his act.” How was he supposed to do this: by making all property he had cleaned dirty again?\n\nAs for the Brazilian artist's work, the authorities were annoyed but could find nothing to charge him with. They had no other option but to clean the tunnel—but only the parts Alexandre had already cleaned. The artist merely continued his campaign on the other side. The city officials then decided to take drastic action. They not only cleaned the whole tunnel but every tunnel in Sao Paulo.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn from the passage about reverse graffiti?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It uses paint to create anti-pollution images."
+                },
+                {
+                  "label": "C",
+                  "text": "It causes lots of distraction to drivers."
+                },
+                {
+                  "label": "B",
+                  "text": "It creates a lot of trouble for local residents."
+                },
+                {
+                  "label": "D",
+                  "text": "It turns dirty walls into artistic works."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do reverse graffiti artists try to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Publicise their artistic pursuit."
+                },
+                {
+                  "label": "B",
+                  "text": "Beautify the city environment."
+                },
+                {
+                  "label": "C",
+                  "text": "Raise public awareness of environmental pollution."
+                },
+                {
+                  "label": "D",
+                  "text": "Express their dissatisfaction with local governments."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do we learn about Brazilian artist Alexandre Orion?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He was good at painting white skulls."
+                },
+                {
+                  "label": "B",
+                  "text": "He chose tunnels to do his graffiti art."
+                },
+                {
+                  "label": "C",
+                  "text": "He suggested banning all polluting cars."
+                },
+                {
+                  "label": "D",
+                  "text": "He was fond of doing creative artworks."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the author imply about Leeds City Council's decision?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is simply absurd."
+                },
+                {
+                  "label": "B",
+                  "text": "It is well-informed."
+                },
+                {
+                  "label": "C",
+                  "text": "It is rather unexpected."
+                },
+                {
+                  "label": "D",
+                  "text": "It is quite sensible."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "How did Sao Paulo city officials handle Alexandre Orion's reverse graffiti?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They made him clean all the tunnels in Sao Paulo."
+                },
+                {
+                  "label": "B",
+                  "text": "They took drastic action to ban all reverse graffiti."
+                },
+                {
+                  "label": "C",
+                  "text": "They charged him with polluting tunnels in the city."
+                },
+                {
+                  "label": "D",
+                  "text": "They made it impossible for him to practice his art."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The practice of paying children an allowance became popular in America about 100 years ago. Nowadays, American kids on average receive about \\$800 per year in allowance. But the vast majority of\n\n四级2020年 52\n\nAmerican parents who pay allowance tie it to the completion of housework. Although many parents believe that paying an allowance for completing chores benefits their children, a range of experts expressed concern that tying allowance very closely to chores may not be ideal. In fact, the way chores work in many households worldwide points to another way.\n\nSuniya Luthar, a psychologist, is against paying kids for chores. Luthar is not opposed to giving allowances, but she thinks it's important to establish that chores are done not because they will lead to payment, but because they keep the household running. Luthar's suggested approach to allowance is compatible with that of writer Ron Lieber, who advises that allowances be used as a means of showing children how to save, give, and spend on things they care about. Kids should do chores, he writes, \"for the same reason adults do, because the chores need to be done, and not with the expectation of compensation.\"\n\nThis argument has its critics, but considering the way chores are undertaken around the world may change people's thinking. Professor David Lancy of Utah State University has studied how families around the world handle chores. At about 18 months of age, Lancy says, most children become eager to help their parents, and in many cultures, they begin helping with housework at that age. They begin with very simple tasks, but their responsibilities gradually increase. And they do these tasks without payment. Lancy contrasts this with what happens in America. “We deny our children’s bids to help until they are 6 or 7 years old,” Lancy says, “when many have lost the desire to help and then try to motivate them with payment. The solution to this problem is not to try to use money as an incentive to do housework, but to get children involved in housework much earlier, when they actually want to do it.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do some experts think about paying children for doing chores?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may benefit children in more ways than one."
+                },
+                {
+                  "label": "B",
+                  "text": "It may help children learn the worth of labor."
+                },
+                {
+                  "label": "C",
+                  "text": "It may not turn out to be the best thing to do."
+                },
+                {
+                  "label": "D",
+                  "text": "It may not be accepted by low-income parents."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "According to Suniya Luthar, doing chores will help children learn to .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "share family responsibilities"
+                },
+                {
+                  "label": "C",
+                  "text": "cultivate the spirit of independence"
+                },
+                {
+                  "label": "B",
+                  "text": "appreciate the value of work"
+                },
+                {
+                  "label": "D",
+                  "text": "manage domestic affairs themselves"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does Ron Lieber think should be the goal of giving children allowances?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To help to strengthen family ties."
+                },
+                {
+                  "label": "B",
+                  "text": "To teach them how to manage money."
+                },
+                {
+                  "label": "C",
+                  "text": "To motivate them to do more housework."
+                },
+                {
+                  "label": "D",
+                  "text": "To show parents' appreciation of their help."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does David Lancy say about 18-month-olds?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have a natural instinct to help around the house."
+                },
+                {
+                  "label": "B",
+                  "text": "They are too young to request money for what they do."
+                },
+                {
+                  "label": "C",
+                  "text": "They should learn to understand family responsibilities."
+                },
+                {
+                  "label": "D",
+                  "text": "They need a little incentive to get involved in housework."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does David Lancy advise American parents to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Set a good example for children in doing housework."
+                },
+                {
+                  "label": "B",
+                  "text": "Make children do housework without compensation."
+                },
+                {
+                  "label": "C",
+                  "text": "Teach children how to do housework."
+                },
+                {
+                  "label": "D",
+                  "text": "Accept children's early bids to help."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "你如果到北京旅游,必须做两件事:一件是登长城,另一件是吃北京烤鸭。闻名遐迩的北京烤鸭曾仅限于宫廷,而现在北京数百家餐厅均有供应。\n\n北京烤鸭源于600年前的明代。来自全国各地的厨师被挑选出来到京城为皇帝做饭。人们认为在皇宫做饭是一种莫大的荣誉，只有厨艺出众者才能获得这份工作。事实上，正是这些宫廷厨师使北京烤鸭的烹饪艺术日臻完善。"
+      }
+    ]
+  },
+  "id": "CET4-2020-09-3",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

@@ -1,0 +1,1326 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people keep learning new skills to adapt to a fast-changing world.” You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people keep learning new skills to adapt to a fast-changing world.” You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more people keep learning new skills to adapt to a fast-changing world.” You can make comments, cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is a staff writer."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is an adventurer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is an author of fiction."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is a father of four kids."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are interested in fairy tales."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are a headache to their parents."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are curious and autonomous."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are ignorant of politics."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He offers them ample editorial guidance."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He recommends model essays to them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He gives them encouragement."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He teaches them proofreading."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her tastes in books changed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She realized the power of reading."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her reading opened her eyes to the world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She began to perceive the world differently."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is a website designer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is a main street store owner."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is a university graduate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is a successful entrepreneur."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were repeatedly rejected by shops."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They showed her natural talent."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were popular with her classmates."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were mostly failures."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She had a strong interest in doing it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She did not like ready-made clothes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could not find clothes of her size."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She found clothes in shops unaffordable."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Study fashion design at college."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Add designs for women."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improve her marketing strategy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Expand her business."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Utilizing artificial intelligence to find a powerful new antibiotic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Discovering bacteria which are resistant to all known antibiotics."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Identifying bacterial strains that are most harmful to human health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Removing a deadly strain of bacteria in humans with a new antibiotic."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Ever-increasing strains of bacteria."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Bacteria's resistance to antibiotics."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The similarity between known drugs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The growing threat of bacteria to health."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Dispense with experimental testing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Predict whether compounds are toxic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Foresee human reaction to antibiotics."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Combat bacteria's resistance to antibiotics."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By theorization."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By observation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By generalization."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By conversation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are easy to detect."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are well intended."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are groundless."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are harmless."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Mostly by chance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Subject to their mental alertness."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Basically objective."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Dependent on their analyticalability."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Looking the speaker in the eye."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Listening carefully to the speaker."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Measuring the speaker's breathing rate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Focusing on the speaker's facial expressions."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They don't treat patients with due respect."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They witness a lot of doctor-patient conflicts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have to deal with social workers' strikes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They don't care how much patients have to pay."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Appear submissive and grateful to doctors and nurses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Express a strong desire to be consulted or informed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Refrain from saying anything that sounds negative."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Note down the names of all the doctors and nurses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cooperative."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Passive."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Appreciative."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Responsive."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its members work together despite risks of failure."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It prioritizes recruiting young energetic members."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its members stay in touch even after it breaks up."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It grows more and more mature professionally."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their differences are likely to impact productivity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their similarity is conducive to future collaboration."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their connections strengthen with the passage of time."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their mutual understanding stems from a common goal."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is characterized by diversity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its goals are quite inconsistent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its members have similar backgrounds."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is connected by a unique mechanism."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Putting aside twenty percent of one's earnings."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Spending in anticipation of becoming wealthy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Living off a small proportion of one's income."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Saving as much as one can possibly manage."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It empowers them to cope with irrational emotions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It will guarantee the profits from their investments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It will turn them into successful financial planners."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It enables them to focus on long-term investments."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They count on others to take the responsibility."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They change their investment strategy in time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They think they themselves are to blame."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They persist rather than get discouraged."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They do not resist novel lifestyles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They do not try to keep up with others."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They do not care what they have acquired."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They do not pressure themselves to get rich."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Thinking kind thoughts about yourself and your loved ones can prove beneficial for your overall wellbeing, empirical evidence has shown. Researchers carried out an investigation to explore the _26_ between having kind thoughts and a person's psychological state.\n\nFor the study, five groups of participants were presented with a different set of audio instructions, some of which encouraged the participants to think _27_ about themselves and others which persuaded them to think in a self-critical manner. After listening to the audio instructions, the participants were asked to answer a series of questions. These included whether they felt agitated, how likely they were to show kindness to themselves and how _28_ they felt to other individuals.\n\nThe participants who were instructed to think kindly about themselves were more likely to exhibit a bodily response associated with being relaxed and feeling safe. Their heart rates also dropped, which is a healthy sign of a heart that can respond flexibly to situations. Yet, _29_, those who listened to the critical audio clips were noted as having a higher heart rate and sweat response afterwards, both of which _30_ feelings of threat and distress.\n\nHaving the ability to switch off the body's natural threat response can _31_ a person's immune system. This, in turn, gives them a greater likelihood of recovering quickly from illness. These findings help us to further understand some of our clinical trials research findings, where we show that individuals with _32_ depression benefit particularly from self-awareness-based _33_ therapy. They essentially learn to become more sympathetic to themselves.\n\nThe sense is that for people _34_ to depression, meeting their negative thoughts and feelings with _35_ is a radically different way; that these thoughts are not facts. It introduces a different way of being and knowing that is quite transformative for many people.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "adversely"
+        },
+        {
+          "label": "I",
+          "text": "indignantly"
+        },
+        {
+          "label": "B",
+          "text": "amiably"
+        },
+        {
+          "label": "J",
+          "text": "insulation"
+        },
+        {
+          "label": "C",
+          "text": "boost"
+        },
+        {
+          "label": "K",
+          "text": "lavish"
+        },
+        {
+          "label": "D",
+          "text": "cognitive"
+        },
+        {
+          "label": "L",
+          "text": "prone"
+        },
+        {
+          "label": "E",
+          "text": "compassion"
+        },
+        {
+          "label": "M",
+          "text": "recurrent"
+        },
+        {
+          "label": "F",
+          "text": "connected"
+        },
+        {
+          "label": "N",
+          "text": "signify"
+        },
+        {
+          "label": "G",
+          "text": "correlation"
+        },
+        {
+          "label": "O",
+          "text": "surpass"
+        },
+        {
+          "label": "H",
+          "text": "fascinated"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 193,
+          "end": 197
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 417,
+          "end": 421
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 714,
+          "end": 718
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 1029,
+          "end": 1033
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 1168,
+          "end": 1172
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1279,
+          "end": 1283
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1521,
+          "end": 1525
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1584,
+          "end": 1588
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1693,
+          "end": 1697
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1763,
+          "end": 1767
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Saving Our Planet",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "In the long view, the human relationship with forests has been one of brutal destruction, but even it carries elements of slow hope. In the Middle Ages, there was no shortage of timber in most parts of the world, and few saw cutting down forests as a problem. Yet in 1548 the people of Venice estimated that an important timber supply would last only 30 years at their current rate of usage—but different forest management would make it possible to meet the demand for many centuries to come. The idea of preserving resources came out of a concern for the future: a fear of using up resources faster than they could be replenished (补充)."
+        },
+        {
+          "label": "B",
+          "text": "Economic interests were at the core of this understanding of trees and forests. It would take more than three centuries before scientists began to understand that timber production is not the only, and possibly not the most important, function of forests. The late 19th and early 20th century saw an increasing recognition that forests serve as habitats for countless animal and plant species that all rely on each other. They take over protective functions against soil erosion and landslides (塌方); they make a significant contribution to the water balance as they prevent surface runoff; they filter dirt particles, greenhouse gases and radioactive substances from the air; they produce oxygen; they provide spaces for recreation and they preserve historic and prehistoric remains. As a result, forests around the world have been set aside as parks or wilderness areas."
+        },
+        {
+          "label": "C",
+          "text": "Recent years have seen a big change in our view of forests. Peter Wohlleben's book The Hidden Life of Trees (2015), an international bestseller, suggests that trees can warn each other of danger through a “wood wide web” of roots and fungi (真菌). They\n\nsupport each other through sharing of nutrients and information, and they even keep ancient stumps alive by feeding them solutions of sugars. Such insights have made us aware of deep ecological relationships between humans and the more-than-human world."
+        },
+        {
+          "label": "D",
+          "text": "Awareness of ecologies is a recent phenomenon. It was not until the 1940s that the concept of the “environment” embracing all living and nonliving things developed. In the 1970s, the term “environment” gained currency, becoming widely adopted in the English and Romance languages, and as “Umwelt” (“surrounding world”) in German. The emergence of the idea led to the rise of environmental agencies, regulations and environmental studies, and to environmental science as new, integrated academic disciplines. It was in 1956 that the very first bachelor of science in environmental studies was awarded, at the State University of New York College of Forestry at Syracuse. Since the 1970s—with the rise of “environmentalism”—environmental studies programmes have sprung up at hundreds of universities. There is (slow) hope in the fact that scholars from many different disciplines have adopted the term “environment” over the past decades. They are exploring intricate connections within and between complex ecologies, as well as the impact that human environment-making (through techno-industrial, economic and other manipulative developments) has had on the biosphere."
+        },
+        {
+          "label": "E",
+          "text": "The rise of the idea of the environment and a scholarly understanding of ecological processes has influenced new technologies and also politics. We have come to ask questions about vulnerability and risk, world ecologies, and the relationship between nature and power. The search for an adequate response to climate change occupies centre stage in international diplomacy."
+        },
+        {
+          "label": "F",
+          "text": "Social and environmental activists, scientists and indigenous groups have called the Paris Agreement of the United Nations Climate Change Conference in December 2015 insufficient, weak, or compromised. To some extent, they are right: climate change has already destroyed tens of thousands of livelihoods, and the situation will worsen in the near future for millions of mostly poorer people, who will join the ranks of those who have already been displaced by climate change and extreme weather events. But the Paris Conference nevertheless marked a historic step toward the recognition of the need for action on climate change, the cutting of carbon emissions, and world cooperation. There were 195 nations that came to the table in Paris and agreed to limits on emissions. Historically, nothing comparable had happened prior to this. Before the 20th century, a handful of scientists had been interested in the theoretical relationship between greenhouse gases and climate change, but only the empirical evidence accumulated since the late 20th century established a clear connection between the burning of fossil fuels and a vastly accelerated rise in global temperatures."
+        },
+        {
+          "label": "G",
+          "text": "The current crisis is not the first that humans have encountered, and a look at the struggles with pollution in recent history reveals transformations that once seemed unimaginable. The “London fog” that came to define the capital through British novels and thrillers is in reality smog or smoke, a legacy of industrialisation. After a century of ignorance, London was hit by the Great Smog of December 1952—the worst air-pollution event in the history of the United Kingdom which caused the deaths of approximately 12,000 people. Shortly thereafter, public initiatives and political campaigns led to strict regulations and new laws, including the Clean Air Act (1956). Today, London has effectively reduced traffic emissions through the introduction of a\n\nCongestion Charge Zone in 2003, and an Ultra Low Emission Zone in 2019."
+        },
+        {
+          "label": "H",
+          "text": "Scientific evidence that we are living in an era of climate change, resource exhaustion and potential ecological disaster is overwhelming. How do we motivate a public exhausted by never-ending scenarios of doom and disaster, when the challenges seem so huge and so impossible to solve? Statistics about extinction and the gloom of decline will not in themselves get us out of our often self-created ecological traps: instead, they are more likely to result in paralysis and inaction."
+        },
+        {
+          "label": "I",
+          "text": "We need stories and histories of change and transformation: ecological stories that make us confront the fact that human power is potentially destructive, and that the survival of our species on this planet depends on the preservation of soil and water, and the habitats and ecological systems."
+        },
+        {
+          "label": "J",
+          "text": "It is time that we showed successes and accelerations in ecological awareness, action and restoration: stories that include past successes and future visions about the rise of urban gardening and of renaturalised riverscapes, of successful protests against polluted air and water, of the rise of regional markets and slow food, and the planting of trees around the globe, of initiatives and enterprises that work towards ecological restoration. The reality of ecological curses seems far greater than the power of the hopes left at the bottom of Pandora's box. But if we believe that nothing can be changed, then we are giving up our opportunity to act."
+        },
+        {
+          "label": "K",
+          "text": "Today's saving powers will not come from a deus ex machina (解围之神). In an ever-more complex and synthetic world, our saving powers won't come from a single source, and certainly not from a too-big-to-fail approach or from those who have been drawn into the whirlpool of our age of speed. Hope can work as a wakeup call. It acknowledges setbacks. The concept of slow hope suggests that we can't expect things to change overnight. If the ever-faster exhaustion of natural resources (in ecological terms) and the “shrinking of the present” (in social terms) are urgent problems of humans, then cutting down on exhaustive practices and working towards a “stretching of the present” will be ways to move forward."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Climate change has wrought havoc on the lives of tens of thousands of people."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "It took scientists a long time to realise that the function of forests goes far beyond providing humans with timber."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "There is abundant evidence that we are now facing a possible ecological disaster."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Environmental science became academic disciplines only some sixty years ago."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Things cannot change overnight, but reducing the consumption of natural resources will help solve the ecological crisis."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Human perception of forests has undergone a tremendous change in the past years."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Recent history shows reduction of pollution, once seemingly impossible, can actually be accomplished."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "People began to consider preserving natural resources when they feared they would have nothing to use in the future."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "If we doubt our ability to reverse ecological deterioration, we are throwing away the chance to take action."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "How to respond effectively to climate change has become the focus of international diplomacy."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI and modern technology where music production is concerned. Using AI in the creation of music is perceived by some as a helpful tool and by others as almost “the beginning of the end”.\n\nIn Taryn's case, AI software enabled her to communicate melodies and chords that she didn't know how to put together herself. The end product was therefore a collaborative effort, rather than a piece entirely produced by technology. Taryn's story has a distinctly positive feel that highlights the advantages of using AI in music production. It can serve as a source of inspiration, and as an ideal jumping-off point should a musician be hit with writer's block (文思枯竭).\n\nContrary to seeing AI as a tool, some musicians consider it to be hugely detrimental to the music scene. At the moment, because such technology is still so young, the music it's producing is not necessarily what we want to hear. In short, it's not of great quality. Those who have produced their own music, or even fans of authentic, artistic music, will also argue that a computer could never emulate the work (and human touch) of a true musician.\n\nMusic has been an integral part of the story of humans for ages; in fact, the first known piece of music is believed to be around 3,400 years old. Songs have long been used as a means of communicating messages and folk stories, covering everything from societal ethics to world history. Since many people see music as such an inherently human expression, it is often considered as too precious to impart to technology. The thought of a computer generating a “random” piece of music that hasn’t been painstakingly created by an artist is almost seen as sacrilegious (亵渎神圣的).\n\nRegardless of which side of the argument you fall on, it seems likely that the use of AI in music production will only become more frequent. Our modern world is preoccupied with technological advancements. Instead of shying away from the idea of this bleak future, the best approach to take is one of optimism and curiosity. While there are always bound to be stubborn old-school musicians who refuse to use tech, music producers should consider AI as something to be embraced. AI music software is still very much in its infancy, but with more investors interested in the development and outcomes of such technology, and considering the rapid growth rate of other tech advances in recent years, it’s only a matter of time before AI-produced music is seen as the new norm.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "How do some musicians perceive using AI in creating music?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It would help to produce more music idols."
+                },
+                {
+                  "label": "B",
+                  "text": "It would be detrimental to music production."
+                },
+                {
+                  "label": "C",
+                  "text": "It would hinder the understanding of authentic music."
+                },
+                {
+                  "label": "D",
+                  "text": "It would be the beginning of a new era in music creation."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does Taryn Southern's story illustrate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "AI technology is conducive to music composition."
+                },
+                {
+                  "label": "B",
+                  "text": "Musicians will be unable to create music without high tech."
+                },
+                {
+                  "label": "C",
+                  "text": "Musicians are often at their wits, end in their creative effort."
+                },
+                {
+                  "label": "D",
+                  "text": "AI technology is indispensable to creating melodies and chords."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Why are some musicians opposed to the use of AI in creating music?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Music produced with AI technology lacks humanness."
+                },
+                {
+                  "label": "B",
+                  "text": "Music created with AI technology is easily emulated."
+                },
+                {
+                  "label": "C",
+                  "text": "It will depreciate humans' role in music composition."
+                },
+                {
+                  "label": "D",
+                  "text": "It will deplete young musicians, creative inspiration."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why do many people think music is too precious to impart to AI technology?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It cannot be created without pains."
+                },
+                {
+                  "label": "B",
+                  "text": "It cannot be produced at random."
+                },
+                {
+                  "label": "C",
+                  "text": "It is part of human life."
+                },
+                {
+                  "label": "D",
+                  "text": "It is human specific."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author think of the future of AI music?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It will continue to arouse the interest of music investors."
+                },
+                {
+                  "label": "B",
+                  "text": "It has the prospect of becoming the norm in the future."
+                },
+                {
+                  "label": "C",
+                  "text": "It will be gradually accepted by old-school musicians."
+                },
+                {
+                  "label": "D",
+                  "text": "It may eventually lose its freshness and appeal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized for a mistake in his information. He then issued an apology and deleted his erroneous tweet.\n\nCommunicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions.\n\nHowever, scientists who engage in science communication must acknowledge that even in their area, their expertise is deep but narrow. They need to recognize the constraints in their own knowledge. That is not to suggest that they only write or present on their own research, but rather, that they consult with an expert if the topic is outside of their discipline. Fact-checking with a scientist who works in the specialty will prevent the unintentional\n\nspread of misinformation, and the process of doing so may yield tiny pieces of interesting new information that can be incorporated.\n\nSome have argued that the public is not educated enough to understand scientific information, especially for any complex phenomena, but this is absurd. Science instruction can be found at all levels of public education with most secondary schools offering classes on biology, physics, and chemistry. If anything, social media has shown that the public craves knowledge based on a solid scientific foundation. Even the public discourse that follows most scientific articles shows that online readers can understand even the most baffling of scientific principles.\n\nIt is equally imperative to emphasize that being an expert on a topic does not automatically make a scholar qualified to communicate it to a nonscientific audience. A number of scientists recently have been offering public-aimed explanations of scientific phenomena. Even though they have appropriate credentials, they often do very little in the way of explaining. One biologist shared an intricate analogy involving a library, books, paper, a recipe, ingredients, and a cake to explain the process behind vaccines. Any explanation that requires a written key to keep track of what each item represents is not a clear example for public consumption.\n\nScience communication is a science in and of itself. It requires rigorous training and instruction. A scientist should take communication courses that can teach a person how to identify and eliminate jargon and how to develop effective analogies to explain complex concepts. One cannot assume communication expertise-imagine if someone just decided that they were a physicist and started trying to contribute to the field without the necessary background. Doing a poor job communicating science to the public will only create confusion and widen the gap between science and society, a gap that scientists are trying to close.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about communicating science to the general public?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It will help them to keep abreast of the latest scientific developments."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a necessary means to improve their understanding of scientific issues."
+                },
+                {
+                  "label": "C",
+                  "text": "It will get them more involved in academic debates on environmental problems."
+                },
+                {
+                  "label": "D",
+                  "text": "It is an effective way to augment scientists' influence beyond the academic circle."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the author advise scientists do to deal with topics outside of their specialty?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Write or present on them from new angles."
+                },
+                {
+                  "label": "B",
+                  "text": "Utilize information from diverse sources."
+                },
+                {
+                  "label": "C",
+                  "text": "Turn to a specialist for professional help."
+                },
+                {
+                  "label": "D",
+                  "text": "Fact-check with colleagues in their field."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author say we can learn from social media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A solid academic foundation is essential to understanding baffling scientific principles."
+                },
+                {
+                  "label": "B",
+                  "text": "Modern technology has facilitated communication between scientists and the public."
+                },
+                {
+                  "label": "C",
+                  "text": "Scientific articles have gained increasing popularity among the general public."
+                },
+                {
+                  "label": "D",
+                  "text": "The public's understanding of science is much better than some have claimed."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the example of the biologist who shared an intricate analogy show?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is helpful to use illustrations in explaining scientific phenomena."
+                },
+                {
+                  "label": "B",
+                  "text": "It is imperative to have appropriate titles to explain scientific issues."
+                },
+                {
+                  "label": "C",
+                  "text": "A learned scholar is not necessarily a qualified science communicator."
+                },
+                {
+                  "label": "D",
+                  "text": "A nonscientific audience cannot duly understand principles of science."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author suggest scientists do to close the gap between science and society?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Explain complex concepts scientifically."
+                },
+                {
+                  "label": "B",
+                  "text": "Make appropriate use of scientific terms."
+                },
+                {
+                  "label": "C",
+                  "text": "Take courses in public speaking."
+                },
+                {
+                  "label": "D",
+                  "text": "Develop communication skills."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "南京长江大桥是长江上首座由中国设计、采用国产材料建造的铁路、公路两用桥，上层的4车道公路桥长4589米，下层的双轨道铁路桥长6772米。铁路桥连接原来的天津一浦口和上海—南京两条铁路线，使火车过江从过去一个半小时缩短为现在的2分钟。大桥是南北交通的重要枢纽，也是南京的著名景点之一。\n\n南京长江大桥的建成标志着中国桥梁建设的一个飞跃，大大方便了长江两岸的物资交流和人员来往，对促进经济发展和改善人民生活起到了巨大作用。"
+      }
+    ]
+  },
+  "id": "CET6-2022-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "36": {
+        "answer": "F",
+        "explanation": "F) 【精析】同义转述题。F) 段定位句提到, 气候变化已经摧毁了数以万计的人的生计, 而且在不久的将来, 这种状况将恶化, 数百万人(其中大部分是穷人) 将加入那些已经因气候变化和极端天气事件而流离失所的人的行列。题干中的 wrought havoc 对应原文中的 destroyed, 题干中的 the lives of tens of thousands of people 是对原文中 tens of thousands of livelihoods 的同义转述, 故答案为 F)。"
+      },
+      "37": {
+        "answer": "B",
+        "explanation": "B)【精析】同义转述题。B)段定位句指出,过了三个多世纪,科学家们才开始认识到提供木材不是森林的唯一功能,也可能不是它最重要的功能。题干中的“took...a long time”是对原文中 would take more than three centuries 的同义转述,题干中的 function of forests 直接对应原文内容,题干中的 goes far beyond 对应原文中的 not the only, and possibly not the most important,题干中的 providing humans with timber 对应原文中的 timber production,故答案为 B)。"
+      },
+      "38": {
+        "answer": "H",
+        "explanation": "H)【精析】同义转述题。H)段定位句提到,大量的科学证据表明,我们正生活在一个气候变化、资源枯竭并可能面临生态灾难的时代。题干中的 abundant evidence 是对原文中 “Scientific evidence that...is overwhelming”的同义转述,题干中的 possible ecological disaster 对应原文中的 potential ecological disaster,故答案为 H)。"
+      },
+      "39": {
+        "answer": "D",
+        "explanation": "D)【精析】细节归纳题。D)段定位句提到，“环境”这一概念的出现导致了环保机构、法规和环境研究的兴起，并使环境科学成为新的、综合的学术学科。1956年，位于锡拉丘兹的纽约州立大学林业学院授予了第一个环境研究的理学学士学位。题干中的 environmental science 和 academic disciplines 直接对应原文内容，由 it was in 1956 that the very first bachelor of science in environmental studies was awarded 可知，环境科学成为学术学科至今差不多有六十几年，题干中 some sixty years ago 与此对应，故答案为 D)。"
+      },
+      "40": {
+        "answer": "K",
+        "explanation": "K)【精析】同义转述题。K)段定位句提到，“缓慢的希望”这一概念表明，我们不能期望事情在一夜之间改变。如果自然资源枯竭的速度加快(生态方面)和“当下的萎缩”(社会方面)是人类面临的紧迫问题，那么减少竭尽资源的做法和努力实现“当下的延伸”将是向前发展的方法。题干中的things cannot change overnight是对原文中we can't expect things to change overnight的同义转述，题干中的reducing the consumption of natural resources是对原文中cutting down on exhaustive practices的同义转述，题干中的will help solve the ecological crisis是对原文中will be ways to move forward的同义转述，故答案为K)。"
+      },
+      "41": {
+        "answer": "C",
+        "explanation": "C) 【精析】同义转述题。C) 段定位句指出, 近年来, 人们对森林的看法发生了很大变化。题干中的 in the past years 是对原文中 recent years 的同义转述, 题干中的 a tremendous change 是原文中的 a big change 的同义表达, 题干中的 human perception of forests 对应原文中的 our view of forests, 故答案为 C)。"
+      },
+      "42": {
+        "answer": "G",
+        "explanation": "G)【精析】同义转述题。G)段定位句指出,当前的危机并不是人类第一次遇到的危机,纵观近年来与污染的斗争,我们会发现一些曾经看起来难以想象的变化。由此可知,题干是对 G)段定位句的归纳概括。题干中的 recent history 直接对应原文内容,题干中的 reduction of pollution 对应原文中的 struggles with pollution,题干中的 once seemingly impossible 是对原文中 once seemed unimaginable 的同义转述,故答案为 G)。"
+      },
+      "43": {
+        "answer": "A",
+        "explanation": "A) 【精析】同义转述题。A) 段定位句指出,保护资源的想法来自于人们对未来的担忧:人们担心消耗资源的速度超过它们的补充速度。题干中的 consider preserving natural resources 对应原文中的 the idea of preserving resources, 题干中的 when they feared they would have nothing to use in the future 是对原文中 a fear of using up resources faster than they could be replenished 的同义转述,故答案为 A)。"
+      },
+      "44": {
+        "answer": "J",
+        "explanation": "J) 【精析】同义转述题。J) 段定位句指出, 如果我们相信一切都无法改变, 那么我们就是在放弃行动的机会。题干中的“doubt our ability to...”对应原文中的 believe that nothing can be changed, 题干中的 throwing away the chance to take action 是对原文中 giving up our opportunity to act 的同义转述, 故答案为 J)。"
+      }
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,1434 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “In an era of information explosion, it is vitally important to develop the ability to think critically and make rational choices.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “In an era of information explosion, it is vitally important to develop the ability to think critically and make rational choices.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “In an era of information explosion, it is vitally important to develop the ability to think critically and make rational choices.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Prioritizing happiness over money."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Managing one's personal finances wisely."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Joining the club to get her new book."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consuming more only when earning more."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was in debt."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She earned \\$30,000 a month."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She was a financial adviser."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She enjoyed a happy life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It reflects one's earning power."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It varies with one's environment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It mirrors one's sense of wellbeing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It changes with one's goals in life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It would give him more time to be with his loved ones."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It would be good for those who value relationships."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It would mean major sacrifices for him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It would deprive him of his individuality."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was the artist's first landscape."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was donated by the artist herself."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was a painting by Christopher."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was displayed at a retirement party."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was the painting that instantly made her rich."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has cost him a lot of money to purchase it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was recently purchased by the gallery."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is owned by an anonymous collector."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It reflects her emotions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It contains ample details."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It appears perfectly symmetrical."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It depicts the beauty of desolation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is eccentric like any other artist."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is as lucky as any acclaimed artist."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is a very nice and intelligent artist."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is one of the most productive artists."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is vital to one's mental health."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It leads to reconciliation and peace."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It promotes interpersonal relationship."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It keeps one from traumatic experience."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When the offender has power over the victim."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When the offender is not willing to apologize."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When the offender is not duly penalized."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When the offender adds insult to injury."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Talk with the offender calmly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find out why he committed the offense."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Accept the offender's apology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Determine how serious the offense was."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The number of passengers dropped sharply."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It served more and more commuters."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The number of stations increased to 50."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It became the longest in the United Kingdom."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To increase capacity to meet growing needs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To make way for other means of transport."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To have its systems modernised."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To avoid further financial losses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is generally recognised as a world heritage site."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the fastest way to reach the city's south side."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It constitutes a source of revenue for the city."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It helps reduce traffic jams in the city centre."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are usually crowded."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They use high-tech systems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They accept smartcards only."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are colourfully decorated."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are quite friendly to humans."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are shrinking in numbers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are unafraid of humans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are especially fond of garbage."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is strictly forbidden."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is an uncommon sight."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a gesture of human generosity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is allowed only in certain areas.\n\n2022年12月英语六级真题第2套 第2页 共10页"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Share their food with the bear they see."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Be prepared to run into a hungry bear."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Try to be friendly with the bear they meet."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Refrain from teasing bears with cubs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It refers to opinions that are radical and widespread."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It means making judgments without adequate knowledge."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It refers to deep-rooted beliefs about someone or something."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It means sticking to one's judgments even when proved wrong."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They often lead to war between religious groups."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They keep certain occupations from thriving."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They allow myths and half-truths to persist."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They prevent us from getting to the truth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When we start to feel superior."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When we mix with prejudiced people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When we live in an isolated neighborhood."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When we try to keep up with those around us."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Motivated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Perplexed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Disappointed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Shocked."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They would change with the passage of time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They would benefit young people's adult life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They would help kids grow."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They would last a lifetime."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He had become mature."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had lots of stories to tell."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He suffered poor health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He regretted leaving Vietnam."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Make friends with his students."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Show his students how to do their best."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help his students get through the growing pains."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Share his personal experience with his students."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "2022年12月英语六级真题第2套 第3页 共10页\n\nThe task of the global strategist of a business is to build a platform of capabilities derived from the resources, experiences and innovations of units operating in multiple locations, to transplant those capabilities wherever 26, and then to systematically upgrade and renew them—ahead of the competition.\n\nApple is an outstanding case of a company whose unique capabilities give it a worldwide _27_ advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and _28_ design. Apple has been able to leverage and exploit its California-based design and marketing advantages successfully throughout the world. IKEA is another such case. The do-it-yourself furniture and houseware company first developed a compelling set of capabilities to design, manufacture and _29_ furniture at low cost and sell it in a novel way in Sweden. Later, IKEA successfully _30_ this formula in many other countries.\n\nBy contrast, Telefonica, a Spanish telecommunications company that is now the world's fifth largest telecom by _31_, first developed its special advantage abroad. In 1989 and 1990, Telefonica had the opportunity to enter Chile and Argentina, countries that shared many institutional and cultural characteristics with its home country but that were _32_ more rapid market reform. Throughout the 1990s, Telefonica took what it learned in Chile and Argentina about reconstructing former state-owned telecoms to other Latin American countries that were privatizing their state telecoms and deregulating their telecom markets.\n\nThese examples might lead the reader to believe that creating a global advantage is an easy task. But many other _33_ of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of _34_ and operational finesse (技巧). Our research suggests that global winners typically create and sustain their international presence through a systematic process of _35_, renewing and enhancing their core capabilities.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "aesthetic"
+        },
+        {
+          "label": "I",
+          "text": "reproduced"
+        },
+        {
+          "label": "B",
+          "text": "appropriate"
+        },
+        {
+          "label": "J",
+          "text": "revenues"
+        },
+        {
+          "label": "C",
+          "text": "clusters"
+        },
+        {
+          "label": "K",
+          "text": "safeguarding"
+        },
+        {
+          "label": "D",
+          "text": "competitive"
+        },
+        {
+          "label": "L",
+          "text": "ship"
+        },
+        {
+          "label": "E",
+          "text": "exploiting"
+        },
+        {
+          "label": "M",
+          "text": "strategic"
+        },
+        {
+          "label": "F",
+          "text": "fiscal"
+        },
+        {
+          "label": "N",
+          "text": "transcend"
+        },
+        {
+          "label": "G",
+          "text": "instances"
+        },
+        {
+          "label": "O",
+          "text": "undergoing"
+        },
+        {
+          "label": "H",
+          "text": "rehabilitated"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 255,
+          "end": 257
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 424,
+          "end": 428
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 551,
+          "end": 555
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 850,
+          "end": 854
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 940,
+          "end": 944
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1095,
+          "end": 1099
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1332,
+          "end": 1336
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1720,
+          "end": 1724
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1840,
+          "end": 1844
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 2007,
+          "end": 2011
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Fear of Nature: An Emerging Threat to Conservation",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "What do we lose when natural spaces and species disappear? Increasingly, research has shown that as species and ecosystems vanish, it also chips away at our ability to preserve what remains—because we no longer understand what we're losing."
+        },
+        {
+          "label": "B",
+          "text": "You probably see it all the time. The neighbor who puts pesticides on his lawn rather than deal with annoying bees. The politician who votes against wildlife protection because she's never seen a wolf in the wild. The corporation that wants to bulldoze (用推土机推平) the habitat of a rare frog."
+        },
+        {
+          "label": "C",
+          "text": "At best this can be termed “the extinction of experience,” where our cultural and natural histories fade from our memories and therefore our reality. At its worst it becomes something even more concerning: “biophobia,” the fear of living things and a complete aversion to nature."
+        },
+        {
+          "label": "D",
+          "text": "This isn't the fiction of living in a cold, empty dystopia (绝望的世界). Sadly, it's becoming a way of life for too many people—especially children. A recent study in Japan paints a striking portrait of this problem. A survey of more than 5,300 school children in the Tochigi Prefecture examined their perception of 14 local insect species and one spider. The results? A collective “ew!” Most of the students saw the species as things to dislike or fear, or even as sources of danger. The less experience the students had with nature, the more negative their feelings."
+        },
+        {
+          "label": "E",
+          "text": "The results were published earlier this year in the journal Biological Conservation. Lead researcher Masashi Soga with the University of Tokyo says the study stemmed from observations about today's nature-deficient children. “Humans inherently avoid dangerous organisms such as bees, but children these days avoid even harmless insects such as butterflies and dragonflies(蜻蜓),” he says. “I have long wondered why so many of today’s children react like this.”"
+        },
+        {
+          "label": "F",
+          "text": "Although the children's reactions were somewhat expected, the new study did contain an unexpected finding: Many of the surveyed children revealed that their parents also expressed fear or disgust of the same animals. In fact these parental emotions were strong enough to overwhelm any positive experiences the children might have gained from direct experiences in nature. As Soga and his coauthors wrote in their paper, “Our results suggest that there is likely a feedback loop in which an increase in people who have negative attitudes towards nature in one generation will lead to a further increase in people with similar attitudes in the next generation.”"
+        },
+        {
+          "label": "G",
+          "text": "And that's possibly the greater threat posed by extinction of experience. Soga suggests the generational loss—condition previously dubbed environmental generational amnesia (遗忘)—could chip away at our societal ability to preserve what we're losing. \"I believe that increased biophobia is a major, but invisible, threat to global biodiversity,\" Soga says. \"As the number of children who have biophobia increases, public interest and support for biodiversity conservation will gradually decline. Although many conservation biologists still consider that preventing the loss of wildlife habitat is the most important way to conserve biodiversity, I think preventing increased biophobia is also important for conservation.\""
+        },
+        {
+          "label": "H",
+          "text": "What's to be done about this? The paper makes several recommendations, the most obvious of which is that children should experience nature more often. The authors also suggest establishing policies to guide these natural experiences and increasing educational programs about the natural world.\n\n2022年12月英语六级真题第2套 第5页 共10页"
+        },
+        {
+          "label": "I",
+          "text": "Helping parents to see species around them in a new light would make a difference, too. And, of course, maintaining support for preserving the wild spaces where these “scary” creatures live is the most important thing of all. That’s a point reinforced by another recent study, which found that wild spaces located within urban areas—and the plants and animals that thrive in them—are particularly important for human health and well-being."
+        },
+        {
+          "label": "J",
+          "text": "Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward Discovery Park, the heavily forested 534-acre public park in Seattle, Washington. It found that the public had the most appreciation for-and gained the most value from-the wildest parts of the park. “I have seen whales, seals, fish, eagles, shorebirds and many other sea creatures in their natural habitat,” one survey participant wrote. “Coming here with people has allowed me to connect and talk with them about conversation that simply does not happen in everyday life,” wrote another."
+        },
+        {
+          "label": "K",
+          "text": "The participants reported that their most valuable experiences in the park included encountering wildlife, walking through open spaces, exploring the beach and finding beautiful views. “We saw that a large majority of participants’ interactions, especially their most meaningful interactions, depended on Discovery Park’s relative wildness,” says lead author Elizabeth Lev, a master’s student in the University of Washington’s Human Interaction with Nature Lab. This is only possible because the park is relatively wild. After all, you can’t enjoy watching birds if there are no birds to follow; gaze at the sunset if it’s obscured by skyscrapers; or stop and smell the flowers if they don’t have room to grow."
+        },
+        {
+          "label": "L",
+          "text": "And yet even this long-protected space could someday become less hospitable to nature. Over the past few years a lot of people and organizations have suggested developing parts of Discovery Park or the neighboring area. Most recently a plan proposed building 34 acres of much-needed affordable housing and parking spaces adjacent to the park, bringing with them noise, traffic and pollution."
+        },
+        {
+          "label": "M",
+          "text": "If anything like that happened, both the park and the people of Seattle could lose something vital. And that would continue the trend of chipping away at Seattle's—and the world's—natural spaces, leaving just tiny pocket parks and green-but-empty spaces that offer little real value to wildlife, plants or people."
+        },
+        {
+          "label": "N",
+          "text": "“It is true that any interaction with nature is better than none, but I don’t want people to be satisfied with any small bit of grass and trees,” Lev says. “We have been in this cycle of environmental generational amnesia for a long time, where the baseline keeps shifting and we don't even realize what we're losing until it’s gone. If we can get people to understand how much meaning and value can come from having more experiences with more wild forms of nature, then maybe we can stop this cycle and move toward conserving and restoring what we have left.”"
+        },
+        {
+          "label": "O",
+          "text": "Building this understanding in an ever-more fearful and disconnected world may be the biggest challenge. Peter Kahn, the senior author of Lev's paper and the director of the Human Interaction with Nature lab, made several suggestions for bridging this gap in this 2011 book, Technological Nature. They echo the recommendation about getting children into nature, but also include telling stories of how things used to be, imagining what things might be like in the future, and developing a common language about nature, “a way of speaking about wild and domestic interaction patterns, and the meaningful, deep and often joyful feelings that they generate.”"
+        },
+        {
+          "label": "P",
+          "text": "No matter what techniques we use, this growing field of research illustrates that saving 2022年12月英语六级真题第2套第6页共10页\n\nnature requires encouraging people to experience it more often and more deeply. That calls for additional research-Lev and her coauthors have published a toolkit that other municipalities can follow to study the value of their own wild spaces—and clear communication of the results. “If we can continue to show people the benefits of these wild spaces,” Lev says, “maybe people will begin to see more value in keeping these areas undeveloped—for the sake of our mutual benefit.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "A new study found parents' aversion to certain animals would pass on to their children."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The disappearance of species and ecological systems erodes our ability to keep what is left."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "A study showed that the wildest areas of Discovery Park appealed most to the public."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The fear of living organisms is becoming more worrisome."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Preventing the increase in children's fear of living creatures is also important for conserving biodiversity."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Research shows that more and deeper experience people have with nature will help save it."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Though humans naturally tend to avoid dangerous animals, today's children try to stay away from even harmless ones."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Development in and around Discovery Park could cause heavy losses to the park and the local residents."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "A large survey of school children found that their negative feelings grew as their experience with nature diminished."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Elizabeth Lev believes increased contact with more wildlife helps conserve biodiversity."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need. One government proposition is to eliminate \\$10,000 of debt for ‘economically distressed’ students. Some in US Congress have gone so far as to suggest forgiving up to \\$50,000 in debt per student borrower, but does forgiving student debt necessarily correlate to helping the economically disadvantaged?\n\nThe answer is no. This policy is just giving money away to universities and the most affluent students in attendance. Federal Reserve data reveals that the highest-income 40 percent of households owe approximately 60 percent of outstanding student debt, while the lowest 40 percent owe just under 20 percent. This could be due to a combination of factors: students from high-income households are more likely to go to expensive colleges, less likely to receive financial aid, and more likely to have high incomes post-graduation. Plus, the majority of student debt is held by graduate degree earners, who earn approximately 25\n\n2022年12月英语六级真题第2套 第7页 共10页\n\npercent more than their undergraduate counterparts. Clearly, giving free reign to banks to forgive student debt is a step in the wrong direction.\n\nOther proposals for broader, long-term student loan plans have some fundamental problems. One idea is to cancel student debt only for undergraduate degrees and for students making less than \\$125,000.\n\nThis attempts to address the fact that Congress' previously mentioned student loan forgiveness plan largely helps out the wealthy, but is an adverse incentive for universities to keep raising tuition and for students to choose to major in low-earning degree programs. Colleges have no reason to make their programs more affordable if they believe students will just take out more debt. And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be forgiven.\n\nThis is especially concerning given the pandemic (大流行病) has rendered a college education practically worthless. Students are paying tens of thousands of dollars per year to live at home and be lectured on the Internet. Do we really want to tell colleges that they can get away with providing below-average service for an outrageous cost?\n\nIn the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class. Plumbers and retail workers will be paying for the degrees of doctors and lawyers.\n\nThe US government's effort to help those in debt is commendable but is this really the solution that will help the poor financially recover?",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "Why do some people advocate forgiving student loan debt?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They assert it will narrow the gap between the wealthy and the poor."
+                },
+                {
+                  "label": "B",
+                  "text": "They believe it will benefit both the economy and the underprivileged."
+                },
+                {
+                  "label": "C",
+                  "text": "They claim it will eliminate economic distress among college students."
+                },
+                {
+                  "label": "D",
+                  "text": "They think the cost of education is the responsibility of the government."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn from the Federal Reserve data?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Approximately 60% of student debt remains unpaid."
+                },
+                {
+                  "label": "B",
+                  "text": "Cancelling student debt benefits wealthy families most."
+                },
+                {
+                  "label": "C",
+                  "text": "Forgiving student debt provides little benefit to universities."
+                },
+                {
+                  "label": "D",
+                  "text": "Low-income families owe the biggest amount of student debt."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author say students are likely to do if they know they needn't repay their loans?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They will choose to study subjects without considering their job prospects."
+                },
+                {
+                  "label": "B",
+                  "text": "They will be free to pursue their goals without being burdened financially."
+                },
+                {
+                  "label": "C",
+                  "text": "They will over-borrow and live beyond their means."
+                },
+                {
+                  "label": "D",
+                  "text": "They will be able to enroll in expensive universities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the author imply about colleges offering online education?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They cannot get away with the serious consequences."
+                },
+                {
+                  "label": "B",
+                  "text": "They have suffered greatly from the current pandemic.\n\n2022年12月英语六级真题第2套 第8页 共10页"
+                },
+                {
+                  "label": "C",
+                  "text": "The tuition they charge is not justified by the quality of their service."
+                },
+                {
+                  "label": "D",
+                  "text": "The tuition they charge has surged outrageously during the pandemic."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What will happen if any of the proposed student debt plans is implemented?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Plumbers and retail workers will have a chance of becoming professionals."
+                },
+                {
+                  "label": "B",
+                  "text": "Working-class students will have increasing access to subsidized education."
+                },
+                {
+                  "label": "C",
+                  "text": "Blue-collar workers will have to bear the cost of educating would-be high-earners."
+                },
+                {
+                  "label": "D",
+                  "text": "A growing number of students will be able to earn degrees in medicine and law."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "If there's one rule that most parents cling to in the confusing, fast-changing world of kids and media, it's \"No screens before age 2.\"\n\nAs of today, that rule has been thrown out the window.\n\nThe American Academy of Pediatrics (AAP), which first issued that recommendation back in 1999, has extensively updated and revised its guidelines for children and adolescents to reflect new research and new habits.\n\nThe new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room. And in doing so, they raise some intriguing points about the future of learning from media.\n\nFor babies younger than 18 months, AAP still says no screens at all are the best idea—with one notable exception: Live video chat. Surveys indicate that families already popularly believe that “Face time doesn’t count”, or at least that the benefit of virtual visits with grandparents or other relatives outweighs the potential cost of exposing babies to the laptop or smartphone.\n\nThe AAP doesn't cite positive evidence that infants actually get something out of this kind of “conversation”, the way that they clearly do from live social interaction. But there's some observational research that infants as young as six months old are emotionally engaged by playing live peekaboo (躲猫猫) with Grandma online.\n\nFor infants and toddlers (学步儿童), ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen. In other words, treating a video or an app like a picture book is the best bet.\n\nThe flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo viewing of “educational” videos. There’s also research that shows language delays in children who watch more TV and start watching earlier. In both cases, the problem seems to be media replacing interaction with people. For this reason, the new AAP guideline has changed from “avoid all screens under age 2” to “avoid solo media use in this age group.”\n\nFor preschoolers ages 2 to 5, there's more evidence that they have the ability to transfer knowledge from screens to the real world, including early literacy and math. For\n\nthis age group, AAP recommends no more than an hour a day of screen use. And, just as with younger children, they want care-givers to take part in screen time: “Co-view with your children, help children understand what they are seeing, and help them apply what they learn to the world around them.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn about the \"No screens under 2\" rule?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has met more and more resistance from parents."
+                },
+                {
+                  "label": "B",
+                  "text": "It has proved helpful to children's healthy growth."
+                },
+                {
+                  "label": "C",
+                  "text": "It confuses parents with regard to kids' education."
+                },
+                {
+                  "label": "D",
+                  "text": "It has been discarded in line with recent research."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do the new AAP guidelines advocate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Young children should be accompanied by parents during screen time."
+                },
+                {
+                  "label": "B",
+                  "text": "Parents should be emotionally involved in their children's upbringing."
+                },
+                {
+                  "label": "C",
+                  "text": "Young children should watch videos carefully selected by parents."
+                },
+                {
+                  "label": "D",
+                  "text": "Parents should protect their children from too much media exposure."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do families think of live video chat according to surveys?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It should not be regarded as screen time."
+                },
+                {
+                  "label": "B",
+                  "text": "It helps babies to develop their verbal skills."
+                },
+                {
+                  "label": "C",
+                  "text": "It is not as harmful as playing games on laptops."
+                },
+                {
+                  "label": "D",
+                  "text": "It is a good substitute for video viewing."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What do researches find about kids solo viewing educational videos?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It arouses their interest in language learning."
+                },
+                {
+                  "label": "B",
+                  "text": "It works no better than reading picture books."
+                },
+                {
+                  "label": "C",
+                  "text": "It hampers their development of language skills."
+                },
+                {
+                  "label": "D",
+                  "text": "It helps them acquire independent learning skills."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author say about preschoolers ages 2 to 5?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can understand pretty well what they see on the screen."
+                },
+                {
+                  "label": "B",
+                  "text": "They can learn on their own without much parental guidance."
+                },
+                {
+                  "label": "C",
+                  "text": "They can make use of educational videos to develop digital literacy."
+                },
+                {
+                  "label": "D",
+                  "text": "They can relate what they learn on the screen to real life situations."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "黄土高原(the Loess Plateau)是中国第三大高原, 面积约 60 万平方公里, 平均海拔 1000-2000 米, 绝大部分覆盖着 50-80 米厚的黄土, 是世界上黄土分布最集中、覆盖厚度最大的区域。这是大自然创造的一个奇迹, 在世界上也是绝无仅有的。\n\n黄土高原是中华民族的发祥地之一。早在5500年前，人们就已经在黄土高原上开始农耕。随着农耕业的持续发展，黄土高原人口不断增加，在秦汉时期就成为中国的政治和经济中心。如今，随着西部大开发战略的实施，黄土高原地区的经济得到了迅速发展。\n\n2022年12月英语六级真题第2套 第10页 共10页"
+      }
+    ]
+  },
+  "id": "CET6-2022-12-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。当男士问女士她认为是什么使得她的书那么成功时，女士在句(1)中明确给出了答案，那就是她在书中传达的信息，即:将幸福的重要性排在金钱的前面。A)选项与原文的意思完全一样，区别仅在于原文中使用了词组make sth. a priority over sth., 而选项中使用了动词prioritize。因此答案为A)。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "A)【精析】细节推断题。根据句(2)可知,女士此前是一名高管,薪水很高,但债务也在不断累积,女士则以数字情况具体讲述了她的财务状况,四年前她辞去工作开始写书时,已经有了几百万的收入,但却还欠着3万美元的债务。综上,女士在成为作家之前,是负有债务的。因此答案为A)。"
+      },
+      "3": {
+        "answer": "D",
+        "explanation": "D)【精析】细节推断题。女士说我们应该重视真正使我们快乐的事物,接着句(3)提到,一旦我们把这些事物放在首位,我们的人生目标就会改变,而我们的财务行为也会随之而发生改变,由此可知,我们的财务行为受我们的生活目标影响,会与之一起发生变化。因此答案为D)。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "C)【精析】细节推断题。当听女士说可以通过共享居所、少去饭店吃饭或使用公共交通工具出行这些行为来体现生活目标以及财务行为的变化时，男士在句(4)中提到，这些对他来说是重大牺牲，他做不到与人共享居所，因为他需要拥有自己的空间。也就是说，与他人分享住所对男士来说意味着重大的牺牲。因此答案为C)。"
+      },
+      "5": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。根据句(5)可知,男士向女士介绍画廊的新增画作,并告诉女士其中第一幅作品是由画家自己捐赠给画廊的。因此答案为 C)。"
+      },
+      "6": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。男士向女士介绍画廊展出的丹尼尔·格雷戈里的另一幅作品时，在句(6)中提到，那是画家最受赞誉的一幅作品，并说这幅作品是由一位不愿意公开姓名的私人收藏家购买后借给画廊进行展出的，由此可知，那幅作品属于这位匿名收藏家。因此答案为D)。"
+      },
+      "7": {
+        "answer": "B",
+        "explanation": "作中有大量的细节,之后向男士感叹她有一种身临其境的感觉,由此可以推断,是那些细节让她有了这样沉浸其中的感觉。因此答案为 B)。虽然女士马上也指出她特别喜欢画面中湖光山色所形成的对称之美,但 C)选项中的 perfectly symmetrical 过于绝对,故排除。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)【精析】细节推断题。男士说，画家丹尼尔·格雷戈里一点儿都不古怪。接着句(8)提到，她非常平易近人，也特别聪明。选项中用近义词nice替代了原文中的easygoing，保留了原文中的intelligent，并且没有采用原文中的“one of the most...”这样的表达方式，而是直接使用副词very来修饰形容词nice和intelligent，但这些小的变化并不改变意思的表达。因此答案为B)。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(9)提到,宽恕对某些受害者的心理健康至关重要。因此答案为A)。本题各选项中干扰性最强的是D),因为文中提到了it propels people forward rather than keeping them emotionally engaged in an injustice or trauma,但原文中所表达的意思是“使这些人不再深陷于那些情感上的偏颇或创伤不可自拔”,而D)选项中所表达含义是“让他们不经受痛苦难忘的经历”,故排除D)。"
+      },
+      "10": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(10)指出,当冒犯的一方给出的道歉并不真诚,或者他们根本没有显露出任何歉意时,宽恕就特别有挑战性。因此答案为B)。"
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(12)提到,在20世纪60年代,造船业出现了衰退,私人运输的普及率上升。因此,地铁乘客量迅速下降。选项中与之对应的为A),所以答案为A)。选项以passengers代替了原文中的ridership,用dropped sharply来表述原文中a rapid decline的意思。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "成线路的现代化改造。因此答案为C)。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(14)说,经过改造重新开通运营后,格拉斯哥地铁的命运发生了重大变化,作为其他交通方式的可行性替代方案,该地铁大大缓解了市中心的交通堵塞。因此答案为D)。"
+      },
+      "15": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(15)提到,所有地铁站都使用了智能卡售票机和智能闸机等高科技系统。因此答案为B)。"
+      },
+      "16": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(16)提到,由于在国家公园中不允许干扰当地动物,这种保护消除了生活在那里的野生熊类对人类的恐惧,选项中的unafraid of humans是对原文中break down the wild bears' fear of humans这一部分的同义转述。因此答案为C)。选项中干扰性比较强的是D),因为原文中也提到熊经常去翻垃圾桶,但这与选项中的“它们特别喜欢垃圾”所表述的意思还是有一定的偏差,故排除D)。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(17)明确指出,在公园中是严格禁止对熊进行喂食的,违反规定者会被逮捕。因此答案为A)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B)【精析】细节推断题。句(18)提到,虽然徒步旅行者在公园小路上遇到熊的概率很小,但这也不是绝对不可能发生的事情,因为熊似乎有某种天赋,能够看出来人们身上是否有吃的,而且他还可能会坚持索要。由此推测,讲话者是想告诉那些在公园小路上徒步旅行的人,他们还是有可能会碰上需要食物的大熊的。因此答案为B)。"
+      },
+      "19": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(19)提到,在真正了解某人或某事之前形成对他们的看法被称为偏见。也就是说,没有足够的信息就做出判断,即为偏见。因此答案为 B)。选项中用 adequate knowledge 对原文中的 really knowing them well 进行了同义转述。"
+      },
+      "20": {
+        "answer": "D",
+        "explanation": "D)【精析】细节推断题。由问题中的dangerous一词可以比较容易地找到答案在句(20)，讲话者提到，偏见很危险，因为它们使我们无法了解某人或某事的真相。因此答案为D)。"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(21)提到,当我们的自豪感开始转变为优越感时,我们就会开始形成带有偏见的态度。因此答案为A)。"
+      },
+      "22": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。根据句(22)，讲话者提到他刚上高中的时候，就感到特别震惊。因此答案为D)。"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "人在十几岁的时候都认为那时候形成的友谊可以持续一生，但其实，慢慢地，工作、家庭、悲剧事件会让人们逐渐疏远，友谊也不复存在。虽然原文中没有提到时间的推移，但其他三个选项都无法从原文中找到依据，所以只有A)选项与讲座中的这段话意思相近。因此答案为A)。"
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "A)【精析】细节推断题。根据句(24-1)，讲话者先是说他感觉在越南的那14个月，他好像活了有10辈子。句(24-2)提到，在他看来，他以前的那些朋友都特别幼稚，关心的也都是在他看来十分幼稚的事情，换句话说，讲话者在越南的经历让他变得比朋友们都要成熟。因此答案为A）。"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": "F)【精析】细节推断题。F)段第一句提到，这项新研究确实含有一个意想不到的发现:许多接受调查的孩子透露，他们的父母也对同样的动物表现出恐惧或厌恶。由该句中 also 和 the same animals 可知，这些孩子和他们的父母一样恐惧或厌恶这些动物。该段最后一句强调该研究结果表明上一代对自然持负面态度的人数增加会导致下一代持类似态度的人数进一步增加。由此可以推知，家长对某些动物的厌恶会导致其孩子同样厌恶这些动物，题干中的 parents' aversion to certain animals 对应原文中的 their parents also expressed fear or disgust of the same animals，题干中的 pass on to their children 是根据原文中 lead to a further increase in people with similar attitudes in the next generation 推断而出的结论，故答案为 F)。"
+      },
+      "37": {
+        "answer": "A",
+        "explanation": "和 preserve what remains 的同义转述, 故答案为 A)。"
+      },
+      "38": {
+        "answer": "J",
+        "explanation": "J)【精析】同义转述题。J)段第二句提到,研究发现,公众对公园最荒野的地方最为欣赏,并从中获得了最大价值。题干中的 the wildest areas of Discovery Park 对应原文中的 the wildest parts of the park,题干中的 appealed most to the public 是对原文中 the public had the most appreciation for 的同义转述,故答案为 J)。"
+      },
+      "39": {
+        "answer": "C",
+        "explanation": "C)【精析】同义转述题。C)段最后一句指出,最糟糕的情况是变成更加令人担忧的问题:“生物恐惧症”,即对生物的恐惧和对自然的完全厌恶。题干中的 the fear of living organisms 对应原文中的 biophobia 和 the fear of living things,题干中的 worrisome 是原文中 concerning 的近义词,故答案为 C)。"
+      },
+      "40": {
+        "answer": "G",
+        "explanation": "creatures 是对原文中 increased biophobia 的同义转述, 题干中的 conserving biodiversity 对应原文中的 conserve biodiversity 和 conservation, 故答案为 G)。"
+      },
+      "42": {
+        "answer": "E",
+        "explanation": "E)【精析】同义转述题。E)段第三句指出，人类生来就会避开像蜜蜂这样的危险生物，但如今的儿童甚至还会躲避诸如蝴蝶和蜻蜓之类的无害昆虫。题干中的 naturally tend to avoid dangerous animals 和 stay away from even harmless ones 分别对应原文中的 inherently avoid dangerous organisms 和 avoid even harmless insects, 故答案为 E)。"
+      },
+      "43": {
+        "answer": "M",
+        "explanation": "是说,开发探索公园的部分地区或周边地区会令公园自身以及西雅图当地人损失重大。题干中的cause heavy losses对应原文中的lose something vital,故答案为M)。"
+      },
+      "44": {
+        "answer": "D",
+        "explanation": "D)【精析】同义转述题。D)段第四句提到一项对栃木县5300多名学龄儿童的调查,研究了他们对14种当地昆虫和1种蜘蛛的看法。由5300多名学龄儿童可知,这是一项大型调查。然后该段最后一句指出调查结果发现学生对自然的体验越少,他们的感受就越负面。题干中的a large survey of school children对应原文中的a survey of more than 5,300 school children,题干中的their negative feelings grew as their experience with nature diminished是对原文中the less experience the students had with nature, the more negative their feelings的同义转述,故答案为D)。"
+      }
+    },
+    "references": {}
+  }
+}

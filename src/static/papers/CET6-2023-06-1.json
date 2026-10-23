@@ -1,0 +1,1430 @@
+{
+  "schema_version": "1.0",
+  "year": 2023,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was spacious and tranquil."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was shabby and solitary."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was warm and comfortable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was tiny and noisy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She no longer hates people talking loudly in the dorm."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She misses her roommates she used to complain about."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She begins to enjoy the movies she once found irritating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She finds the crowded dorm as cozy as her new apartment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He found the apartment perfectly furnished."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had a similar feeling to the woman's."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He had a feeling of despair and frustration."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He felt the new place was like paradise."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Go to see the woman's apartment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Buy some furniture for the woman."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make a phone call to his parents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Decorate the woman's apartment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He works as a literary critic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has initiated a university reform."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He hosts an educational program."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has published a book recently."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It fails to keep up with the radical changes of society."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It fails to ensure universities get sufficient resources."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has not prepared young people for the job market."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has not fostered the growth of the arts disciplines."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "More of the budget should go to science and technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The underfunded music discipline should be prioritized."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Subdisciplines like sculpture should get more funding."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Literature should get as much funding as engineering."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Build a prosperous nation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Create ingenious artists."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make skilled professionals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Cultivate better citizens.\n\n第1页/共8页"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is quite common."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It seldom annoys people."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is rarely noticed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It occurs when one is alone."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Seeing things in black and white."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Engaging in regular contemplation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Having a special understanding of creativity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Knowing how to make their mental batteries work."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Engaging in intense activity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Working on a particular project."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Fantasizing in one's down time."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Reflecting during one's relaxation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Farmers helped Native Americans grow crops."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There existed post offices."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There were expansive university campuses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Migrants found gold there."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It helped to boost the economy in the American West."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It provided job opportunities for many gold seekers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It extended the influence of the federal government."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It kept people in the deserts and plains connected."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It employed Native Americans to work as postmen."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It commissioned private wagons to carry the mail."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It subsidized the locals who acted as postmasters."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It centralized postal services in its remote areas."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He analyzed interactive maps of mail routes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He read a large collection of books on the topic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He examined its historical trends with data science."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He collected data about its impact on local business."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Higher levels of anxiety may improve people's memory."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some experiences are easier to remember than others."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Most people tend to remember things selectively."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Simple things may leave a deep impression on one's memory."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They classified the participants' mindset."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They showed some photos to the participants."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They measured the participants' anxiety levels."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They tested the size of the participants' vocabulary."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Anxiety has become a serious problem for an increasing number of people."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Extreme levels of anxiety can adversely affect cognitive performance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People diagnosed with anxiety disorder may forget things selectively."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There is no direct correlation between memory and levels of anxiety.\n\n第2页/共8页"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They compare products from different companies before making a choice."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They get information from other consumers' postings and comments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They lose patience when their phone call is no promptly answered."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They expect to get instantaneous responses to their inquiry."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Giving them rewards on the spot."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Speaking directly to their emotions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Broadening their scope of interest."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Focusing on the details of the product."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Change the rules of the game in the market every year."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Keep up with the latest technological developments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Learn from technological innovators to do business."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Make greater efforts to build up consumers' confidence."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People have only one social engagement per week."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Working together enhances friendship."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Few people have devoted friends."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Friendships benefit work."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The impact of friends on people's self-esteem."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How supportive friends can be in the workplace."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How to boost one's sense of value and worthiness."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The role of family ties in people's mental well-being."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They show little interest in their friends' work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to be much more difficult to make."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are more trustworthy and reliable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They increase people's job satisfaction."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Allow employees to have a flexible work schedule."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Encourage employees to be friends with colleagues."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help employees balance work and family responsibilities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Organize activities to nourish friendships outside of work."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Scientists recently examined studies on dog intelligence and compared them with research into the minds of other intelligent animals. The researchers found that dogs are among the more intelligent carnivores (食肉动物), social hunters and domestic animals, but that their intelligence does not _26_ other intelligent animals in any of those categories. Though a significant body of research has examined dog cognition _27_, the authors of this new study found little to warrant the _28_ of work that has been devoted to the topic.\n\nStephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to _29_ how clever dogs are, rather than simply to study dogs' brains. Lea and a colleague examined more than 300 studies of dog cognition, comparing the studies' results with those from research into other animals. The researchers made specific comparisons between the different species in different categories of intelligence. These comparisons _30_ that dogs are intelligent, but their intelligence is not\n\n第3页/共8页\n\nas 31 as some researchers might have believed.\n\nIn many areas, though, comparisons were not possible. For example, the researchers noted that both dogs and cats are known to be able to recognize and _32_ human voices. But the investigators could not find any data to indicate which species can remember a greater number of _33_ human voices, so it was impossible to compare the two on that front. However, not all researchers agree _34_ with the findings of this study. Zachary Silver, an American researcher, believes the authors of the new study _35_ the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "affirmed"
+        },
+        {
+          "label": "I",
+          "text": "overstated"
+        },
+        {
+          "label": "B",
+          "text": "approximately"
+        },
+        {
+          "label": "J",
+          "text": "pledge"
+        },
+        {
+          "label": "C",
+          "text": "completely"
+        },
+        {
+          "label": "K",
+          "text": "previously"
+        },
+        {
+          "label": "D",
+          "text": "differentiate"
+        },
+        {
+          "label": "L",
+          "text": "prospective"
+        },
+        {
+          "label": "E",
+          "text": "distinct"
+        },
+        {
+          "label": "M",
+          "text": "prove"
+        },
+        {
+          "label": "F",
+          "text": "domain"
+        },
+        {
+          "label": "N",
+          "text": "surpass"
+        },
+        {
+          "label": "G",
+          "text": "formidable"
+        },
+        {
+          "label": "O",
+          "text": "volume"
+        },
+        {
+          "label": "H",
+          "text": "outperformed"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 290,
+          "end": 294
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 414,
+          "end": 418
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 478,
+          "end": 482
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 639,
+          "end": 643
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 983,
+          "end": 987
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1058,
+          "end": 1060
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1254,
+          "end": 1258
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1378,
+          "end": 1382
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1487,
+          "end": 1491
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1603,
+          "end": 1607
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The lifesaving power of gratitude",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel—an impact that they consistently underestimated. Another study assessed the health benefits of writing thank-you notes. The researchers found that writing as few as three weekly thank-you notes over the course of three weeks improved life satisfaction, increased happy feelings and reduced symptoms of depression."
+        },
+        {
+          "label": "B",
+          "text": "While this research into gratitude is relatively new, the principles involved are anything but. Students of mine in a political philosophy course at Indiana University are reading Daniel Defoe's 300-year-old Robinson Crusoe, often regarded as the first novel published in English. Left alone on an unknown island with no apparent prospect of rescue or escape, Crusoe has much to lament (悲叹). But instead of giving in to despair, he makes a list of things for which he is grateful, including the fact that he is the sole survivor from the shipwreck (海难) and has been able to salvage many useful items from the wreckage."
+        },
+        {
+          "label": "C",
+          "text": "Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait of gratitude in action that is as timely and relevant today as it has ever been. It is also one with which contemporary psychology and medicine are just beginning to catch up. Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation."
+        },
+        {
+          "label": "D",
+          "text": "When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in career and finance, we tend to become more regretful. Conversely, when we focus on the things we are grateful for, a greater sense of happiness tends to spread through our lives. And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health.\n\n第4页/共8页"
+        },
+        {
+          "label": "E",
+          "text": "Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For example, some ancient Western philosophers counsel gratitude that is both enduring and complete, and some Eastern thinkers portray it as not merely an attitude but a virtue to be put into practice."
+        },
+        {
+          "label": "F",
+          "text": "Recent scientific studies support these ancient teachings. Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness. And the benefits are not only psychological and physical. They may also be moral—those who practice gratitude also view their lives less materialistically and suffer from less envy."
+        },
+        {
+          "label": "G",
+          "text": "There are multiple explanations for such benefits of gratefulness. One is the fact that expressing gratitude encourages others to continue being generous, thus promoting a virtuous cycle of goodness in relationships. Similarly, grateful people may be more likely to reciprocate (回报) with acts of kindness of their own. Broadly speaking, a community in which people feel grateful to one another is likely to be a more pleasant place to live than one characterized by mutual suspicion and resentment. The beneficial effects of gratitude may extend even further. For example, when many people feel good about what someone else has done for them, they experience a sense of being lifted up, with a corresponding enhancement of their regard for humanity. Some are inspired to attempt to become better people themselves, doing more to help bring out the best in others and bringing more goodness into the world around them."
+        },
+        {
+          "label": "H",
+          "text": "Gratitude also tends to strengthen a sense of connection with others. When people want to do good things that inspire gratitude, the level of dedication in relationships tends to grow and relationships seem to last longer. And when people feel more connected, they are more likely to choose to spend their time with one another and demonstrate their feelings of affection in daily acts."
+        },
+        {
+          "label": "I",
+          "text": "Of course, acts of kindness can also foster discomfort. For example, if people feel they are not worthy of kindness or suspect that some ulterior (别有用心的) motive lies behind it, the benefits of gratitude will not be realized. Likewise, receiving a kindness can give rise to a sense of indebtedness, leaving beneficiaries feeling that they must now pay back whatever good they have received. Gratitude can flourish only if people are secure enough in themselves and sufficiently trusting to allow it to do so. Another obstacle to gratitude is often called a sense of entitlement. Instead of experiencing a benefaction (善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit."
+        },
+        {
+          "label": "J",
+          "text": "There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply spending time on a regular basis thinking about someone who has made a difference, or perhaps writing a thank-you note or expressing such gratitude in person. Others are found in ancient religious disciplines, such as reflecting on benefactions received from another person or actually praying for the health and happiness of a benefactor. In addition to benefactions received, it is also possible to focus on opportunities to do good oneself, whether those acted on in the past or hoped for in the future. Some people are most grateful not for what others have done for them but for chances they enjoyed to help others. In regularly reflecting on the things in his life he is grateful for, Defoe's Crusoe believes that he becomes a far better person than he would have been had he remained in the society from which he originally set out on his voyage."
+        },
+        {
+          "label": "K",
+          "text": "Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two counsels to his players and students. First, he said, “It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you.” In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward. Second, he said, “Give thanks for your blessings every day.”"
+        },
+        {
+          "label": "L",
+          "text": "Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents of some religions offer prayers of thanksgiving every morning before rising and every night before\n\n第5页/共8页\n\nlying down to sleep. Others offer thanks throughout the day, such as before meals. Other less frequent special events, such as births, deaths and marriages, may also be heralded by such prayers."
+        },
+        {
+          "label": "M",
+          "text": "When Defoe depicted Robinson Crusoe making thanksgiving a daily part of his island life, he was anticipating findings in social science and medicine that would not appear for hundreds of years. Yet he was also reflecting the wisdom of religious and philosophical traditions that extend back thousands of years. Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "It does us far more good to focus on things we can be grateful for than what makes us sad and resentful."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider society."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The participants in a recent study repeatedly underestimated the positive effect on those who received thank-you notes."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Good deeds can sometimes make people feel uncomfortable."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "People who regularly express gratitude can benefit in moral terms."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "A basketball coach advocated performing generous acts without expecting anything in return."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "More and more evidence shows it makes us mentally and physically healthier to routinely count our blessings."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Of all states of mind, feeling grateful is considered one of the most healthy and beneficial."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The principles underlying the research into gratitude are nothing new at all."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Gratitude is likely to enhance one's sense of being connected with other people."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity.\n\nWhile the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications.\n\nAristotle argued that the capacity for making practical judgments depends on regularly making them—on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves.\n\nIn the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where algorithmic (算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.\n\nRecommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own.\n\nAt the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way.\n\n第6页/共8页\n\nAs machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant.\n\nAlgorithms could soon—if they don’t already—have a better idea about which show you’d like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display.\n\nBut to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn about the deeper implications of AI?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is causing catastrophic levels of unemployment."
+                },
+                {
+                  "label": "B",
+                  "text": "It is doing physical harm to human operators."
+                },
+                {
+                  "label": "C",
+                  "text": "It is altering moral judgments."
+                },
+                {
+                  "label": "D",
+                  "text": "It is reshaping humanity."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What is the consequence of algorithmic prescription replacing human judgment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People lose the chance to cultivate the ability to make practical judgments."
+                },
+                {
+                  "label": "B",
+                  "text": "People are prevented from participating in making major decisions in the workplace."
+                },
+                {
+                  "label": "C",
+                  "text": "Managers no longer have the chance to decide which loan to approve."
+                },
+                {
+                  "label": "D",
+                  "text": "Managers do not need to take the trouble to determine who to hire or fire."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What may result from increasing application of recommendation engines in our consumption of culture?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Consumers will have much limited choice."
+                },
+                {
+                  "label": "C",
+                  "text": "It will be easier to decide on what to enjoy."
+                },
+                {
+                  "label": "B",
+                  "text": "Consumers will actually enjoy better luck."
+                },
+                {
+                  "label": "D",
+                  "text": "Humans will develop tastes similar to machines'."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They will turn out to be more pleasant."
+                },
+                {
+                  "label": "B",
+                  "text": "They will repeat our past experience."
+                },
+                {
+                  "label": "C",
+                  "text": "They can be completely anticipated."
+                },
+                {
+                  "label": "D",
+                  "text": "They may become better and better."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Why does the author say the creatures living in the more and more AI-mediated world will become increasingly unlike us?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They will have lost the most significant human element of being intelligent."
+                },
+                {
+                  "label": "B",
+                  "text": "They will no longer possess the human characteristic of being unpredictable."
+                },
+                {
+                  "label": "C",
+                  "text": "They will not be able to understand themselves as we can do today."
+                },
+                {
+                  "label": "D",
+                  "text": "They will be deprived of what their predecessors were proud of about themselves."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Phonics, which involves sounding out words syllable (音节) by syllable, is the best way to teach children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong.\n\nThe consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam.\n\nAmerica is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound $k$ can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as “whole language”. Most teachers today, almost three out of four according to a survey by the EdWeek Research Centre in 2019, use a mix called “balanced literacy”. This combination of methods is ineffective. “You can’t sprinkle in a little phonics,” says Tenette Smith, executive director of elementary education and reading at Mississippi’s education department. “It has to be systematic and explicitly taught.”\n\nMississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has\n\n第7页/共8页\n\nseen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. For the first time since measurement began, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state.\n\nMississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading. In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the “reading wars” and synthesize the evidence. The panel found that phonics, along with explicit instruction in phonemic (音位的) awareness, fluency and comprehension, worked best.\n\nYet over two decades on, “balanced literacy” is still being taught in classrooms. But advances in statistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics. Teachers can imagine that they learned to read through osmosis (潜移默化) when they were children. Without proper training, they bring this to classrooms.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn about phonics in many American classrooms?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is ill reputed."
+                },
+                {
+                  "label": "C",
+                  "text": "It is arbitrarily excluded."
+                },
+                {
+                  "label": "B",
+                  "text": "It is mostly misapplied."
+                },
+                {
+                  "label": "D",
+                  "text": "It is misrepresented."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What has America been witnessing for decades?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "An obsession with innovating teaching methodologies of reading."
+                },
+                {
+                  "label": "B",
+                  "text": "An enduring debate over the approach to teaching children to read."
+                },
+                {
+                  "label": "C",
+                  "text": "An increasing concern with many children's inadequacy in literacy."
+                },
+                {
+                  "label": "D",
+                  "text": "An ever-forceful advocacy of a combined method for teaching reading."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Elementary school children will be frustrated when taught with several methods combined."
+                },
+                {
+                  "label": "B",
+                  "text": "Phonics has to be systematically applied and clearly taught to achieve the desired effect."
+                },
+                {
+                  "label": "C",
+                  "text": "Sprinkling in a little phonics deters the progress of even adequately motivated children."
+                },
+                {
+                  "label": "D",
+                  "text": "Balanced literacy fails to sustain children's interest in developing a good reading habit."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say Mississippi's success is attributed to?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Convening a National Reading Panel to synthesize research evidence."
+                },
+                {
+                  "label": "B",
+                  "text": "Placing sufficient emphasis upon both fluency and comprehension."
+                },
+                {
+                  "label": "C",
+                  "text": "Adopting scientifically grounded approaches to teaching reading."
+                },
+                {
+                  "label": "D",
+                  "text": "Obtaining support from Congress to upgrade teaching methods."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What have advances in statistics and brain imaging proved ineffective?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The teaching of symbol-sound relationships."
+                },
+                {
+                  "label": "C",
+                  "text": "Efforts to end the reading wars."
+                },
+                {
+                  "label": "B",
+                  "text": "Explicit instruction in phonemic awareness."
+                },
+                {
+                  "label": "D",
+                  "text": "The immersive approach."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，越来越多的中国文化产品走向全球市场，日益受到海外消费者的青睐。随着中国对外文化贸易的快速发展，中国文化产品出口额已持续多年位居世界前列，形成了一批具有国际影响力的文化企业、产品和品牌。数据显示，中国的出版物、影视作品、网络文学与动漫作品等在海外的销售量连年攀升。中国政府出台了一系列政策鼓励和支持更多具有中国元素的优秀文化产品走出国门，扩大海外市场份额，进一步提升中国文化的世界影响力。\n\n第8页/共8页"
+      }
+    ]
+  },
+  "id": "CET6-2023-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。根据句(1)可知,女士上个星期搬进公寓的时候认为公寓看起来温暖又舒适,面积也正适合一个人居住。因此答案为 B)。选项中的 warm and comfortable 是录音中 cozy 的同义转述。"
+      },
+      "2": {
+        "answer": "B",
+        "explanation": "B)【精析】细节推断题。女士在句(2)中提到,她自己听起来像个白痴,因为她过去总是向男士抱怨宿舍有多拥挤,抱怨室友所做的所有让她恼火的事情,比如深夜看电影不戴耳机,或者一大早就大声说话。但现在她非常想念室友。由此可知,女士认为自己像一个白痴是因为她现在非常想念她曾经大为抱怨的室友。因此答案为B)。"
+      },
+      "3": {
+        "answer": "C",
+        "explanation": "C)【精析】细节推断题。根据句(3)可知,当男士第一次有了自己的地方时,他迫不及待地想自己生活,摆脱幼稚的室友和室友那些烦人的习惯。但后来,男士开始想念他们,他感到孤独,认为尽管六个人挤在一个小房间里,但宿舍就像天堂一样。由此可知,男士离开宿舍独居之后经历了和女士相似的心路历程。因此答案为C)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。男士开导了女士之后，让女士描述一下她的公寓。听过女士对公寓的正面描述后，男士在句(4)中说:“确实听起来讨人喜欢，我迫不及待要去看一下了……”。因此，男士迫不及待想做的事情是去看一下女士的公寓，答案为A）。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)【精析】细节推断题。句(5)中,女士介绍说男士是“我们”教育体系的批评者,同时也是新书《如何改革我们的大学》的作者。由此可知,男士最近刚出版了一本书。因此答案为D)。"
+      },
+      "7": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。根据句(7)可知,男士认为应该将更多的预算用到像科学和工程这样的领域。因此答案为 A)。"
+      },
+      "8": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。女士认为艺术有其价值所在。句(8)中,女士提到,它有助于年轻人用更深刻的方式来思考世界,这会让他们成为更好的公民,构建一个更好的社会。因此答案为D)。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "因此答案为A)。"
+      },
+      "10": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。根据句(10)可知,所有伟大的专业人士都会定期反思。因此答案为 B)。选项中的 contemplation 是录音中 reflection 的同义转述。"
+      },
+      "11": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(11)中提到,创造力领域的一些研究人员认为,洞察力实际上产生于一段时间紧锣密鼓的活动后的反思和放松中。因此答案为D)。"
+      },
+      "12": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(12)中,讲话者提到,科罗拉多在成为一个州之前就有邮局。因此答案为C)。"
+      },
+      "13": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(13)中,讲话者提到,联邦政府的补贴和土地补助诱使人们进入沙漠和平原地区,而邮政使他们保持联系。因此答案为D)。"
+      },
+      "14": {
+        "answer": "B",
+        "explanation": "B)【精析】细节推断题。句(14)中,讲话者提到,19世纪中期,邮政部门远不是中央集权的官僚机构。为了跟上移民模式,在现有业务中增加了邮政服务。联邦政府委托私人运货车来运送邮件。也就是说,西部地区对邮政服务的需求增大,联邦政府委托私人运货车来满足这一需求。因此答案为B)。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。根据句(15)可知,Blevins先生是一位数字历史学家,他写了一本关于美国邮政服务历史的书,使用数据科学来分析历史趋势。因此答案为C)。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节推断题。句(16)中,讲话者提到,一项新的研究表明,焦虑程度较高的人可能比焦虑程度较低的人更能记住某些信息。也就是说,较高的焦虑水平可能会提高人们的记忆力。因此答案为 A)。"
+      },
+      "17": {
+        "answer": "C",
+        "explanation": "节。根据句(17)可知,研究人员以对80名本科生进行焦虑测试开始了这项研究。因此答案为C)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(18)中,讲话者提到,先前的研究发现,像被诊断为患有焦虑症的人所经历的那种极度焦虑对记忆力和认知表现损害相当大。也就是说,极度焦虑会对认知表现产生负面影响。因此答案为 B)。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "D) 【精析】细节辨认题。讲话者先提到了过去的消费者:必须要拨打电话号码并且耐心等待才能获得他们想要的信息。接着在句(19)中描述了如今的消费者:他们想要立即得到信息。因此答案为 D)。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "这一点。也就是说,要快速吸引消费者的注意力就要直接与他们的情感对话。因此答案为 C)。"
+      },
+      "21": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节推断题。讲话者最后提到了变化的影响,触发营销人员对未来的思考。因为游戏规则每年都在变化,营销人员对自己营销努力的信心正在动摇。之后,讲话者在句(21)中说,这就是营销人员关注最新的技术发展并考虑与技术创新人员合作很重要的原因。这样他们就会与技术行业齐头并进。也就是说,营销人员要应对未来的挑战就要跟上技术的新发展。因此答案为 B)。"
+      },
+      "22": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(22)中提到,你可能惊讶地发现,友谊的好处超越了人们的社交生活,进入到工作中,当考虑到人们因为投入到工作中的时间延长而到了牺牲友谊或至少牺牲与朋友在一起的时间的程度时,这是非常有趣的。也就是说,人们常常因为工作而牺牲友谊,但事实上友谊对工作有益处,这非常有趣。因此答案为D)。"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节辨认题。句(23)中提到,在一项针对700多名受访者的初步研究中,美国一所大学的学者分析了朋友而非家人对自尊和幸福感的影响。因此答案为 A)。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "度。因此答案为D)。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "渴望和最好的伙伴一起出去玩,这都是无关紧要的。重要的是从事工作之外的有益活动的机会。这肯定会在工作中产生后续影响。也就是说,讲话者建议管理者同意员工拥有灵活的工作安排。因此答案为 A)。"
+      },
+      "36": {
+        "answer": "C",
+        "explanation": "C)【精析】同义转述题。C)段最后一句指出,专注于生活中我们可以表达感激之情的事情比专注于让我们产生怨恨和悲伤的事情更为有益,由此可知,题干是对定位句的同义转述。题干中的 good 对应原文中的 helpful,题干中的 be grateful 对应原文中的 express gratitude,题干中的 what makes us sad and resentful 是对原文中 those that incline us toward resentment and lamentation 的同义转述,故答案为 C)。"
+      },
+      "37": {
+        "answer": "G",
+        "explanation": "G)【精析】细节归纳题。定位句提到,人们互存感激之心的社区更加宜居,而感恩的有益影响甚至可能会进一步扩大。随后两句则指出,心怀感恩的人会给周围的世界带来更多的善意,可知这是说感恩的益处可辐射至整个社会,结合上一段提到的感恩给个人带来的益处,可知感恩的益处可从个人延伸到他们的社区乃至更广泛的社会,题干是对G)段相关信息的归纳概括,故答案为G)。"
+      },
+      "38": {
+        "answer": "A",
+        "explanation": "underestimated 对应原文中的 consistently underestimated, 题干中的 positive 是对原文中 surprised and happy 的转述, 题干中的 effect 对应原文中的 impact, 故答案为 A)。"
+      },
+      "39": {
+        "answer": "I",
+        "explanation": "I) 【精析】同义转述题。I) 段定位句指出, 善意的行为也可能导致不适。题干中的 good deeds 是对原文中 acts of kindness 的同义转述, 题干中的 make people feel uncomfortable 是对原文中 foster discomfort 的同义转述, 故答案为 I)。"
+      },
+      "40": {
+        "answer": "F",
+        "explanation": "F) 【精析】细节归纳题。F) 段定位句提到，向他人表达感激之情能够提高人际关系满意度，身体疾病的症状也会减少，进而指出，其益处还不仅仅是心理上和身体上的，也可能是道德方面的。题干中的 express gratitude 对应原文中的 expressing gratitude，而题干中的 benefit in moral terms 是对本段第三、四句信息的归纳概括，故答案为 F)。"
+      },
+      "41": {
+        "answer": "K",
+        "explanation": "的 promote purely generous acts, 题干中的 without expecting anything in return 是原文中 as opposed to those performed with an expectation of reward 的同义转述, 故答案为 K)。"
+      },
+      "42": {
+        "answer": "D",
+        "explanation": "D)【精析】同义转述题。D)段定位句指出,越来越多的证据表明,历数幸事是我们可以养成的促进身心健康的最佳习惯之一。题干中的 more and more 是原文中 mounting 的同义表达,题干中的 makes us mentally and physically healthier 是原文中 promote mental and physical health 的同义表达,故答案为 D)。"
+      },
+      "43": {
+        "answer": "M",
+        "explanation": "the healthiest and most nourishing 的同义转述，故答案为 M)。"
+      },
+      "44": {
+        "answer": "B",
+        "explanation": "B) 【精析】同义转述题。B) 段第一句提到, 虽然这项关于感恩的研究相对较新, 但其所涉及的原理绝非如此。而“绝非如此”指的就是感恩研究的原理并不像研究本身那么新, 题干中的 nothing new at all 是对原文中 relatively new 和 are anything but 两处信息的同义转述, 故答案为 B)。"
+      }
+    },
+    "references": {}
+  }
+}

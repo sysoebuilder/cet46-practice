@@ -1,0 +1,703 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you are asked to give advice on whether to attend college at home or abroad, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose you are asked to give advice on whether to attend college at home or abroad, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you are asked to give advice on whether to attend college at home or abroad, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "特别说明"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Let's all stop judging people who talk to themselves. New research says that those who can't seem to keep their inner monologues (独白) in are actually more likely to stay on task, remain 26 better and show improved perception capabilities. Not bad, really, for some extra muttering.\n\nAccording to a series of experiments published in the Quarterly Journal of Experimental Psychology by professors Gary Lupyan and Daniel Swignley, the act of using verbal clues to 27 mental pictures helps people function quicker.\n\nIn one experiment, they showed pictures of various objects to twenty 28 and asked them to find just one of those, a banana. Half were 29 to repeat out loud what they were looking for and the other half kept their lips 30. Those who talked to themselves found the banana slightly faster than those who didn't, the researchers say. In other experiments, Lupyan and Swignley found that\n\n31 the name of a common product when on the hunt for it helped quicken someone's pace, but talking about uncommon items showed no advantage and slowed you down.\n\nCommon research has long held that talking themselves through a task helps children learn, although doing so when you've 32 matured is not a great sign of 33 . The two professors hope to refute that idea, 34 that just as when kids walk themselves through a process, adults can benefit from using language not just to communicate, but also to help “augment thinking”.\n\nOf course, you are still encouraged to keep the talking at library tones and, whatever you do, keep the information you share simple, like a grocery list. At any _35_, there's still such a thing as too much information.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "apparently"
+        },
+        {
+          "label": "I",
+          "text": "obscurely"
+        },
+        {
+          "label": "B",
+          "text": "arrogance"
+        },
+        {
+          "label": "J",
+          "text": "sealed"
+        },
+        {
+          "label": "C",
+          "text": "brilliance"
+        },
+        {
+          "label": "K",
+          "text": "spectators"
+        },
+        {
+          "label": "D",
+          "text": "claiming"
+        },
+        {
+          "label": "L",
+          "text": "trigger"
+        },
+        {
+          "label": "E",
+          "text": "dedicated"
+        },
+        {
+          "label": "M",
+          "text": "uttering"
+        },
+        {
+          "label": "F",
+          "text": "focused"
+        },
+        {
+          "label": "N",
+          "text": "volume"
+        },
+        {
+          "label": "G",
+          "text": "incur"
+        },
+        {
+          "label": "O",
+          "text": "volunteers"
+        },
+        {
+          "label": "H",
+          "text": "instructed"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 186,
+          "end": 188
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 462,
+          "end": 464
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 582,
+          "end": 584
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 647,
+          "end": 649
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 731,
+          "end": 733
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 897,
+          "end": 899
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1180,
+          "end": 1182
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1214,
+          "end": 1216
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1264,
+          "end": 1266
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1589,
+          "end": 1593
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Rich Children and Poor Ones Are Raised Very Differently",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "The lives of children from rich and poor American families look more different than ever before."
+        },
+        {
+          "label": "B",
+          "text": "Well-off families are ruled by calendars, with children enrolled in ballet, soccer and after-school programs, according to a new Pew Research Center survey. There are usually two parents, who spend a lot of time reading to children and worrying about their anxiety levels and hectic schedules."
+        },
+        {
+          "label": "C",
+          "text": "In poor families, meanwhile, children tend to spend their time at home or with extended family. They are more likely to grow up in neighborhoods that their parents say aren't great for raising children, and their parents worry about them getting shot, beaten up or in trouble with the law."
+        },
+        {
+          "label": "D",
+          "text": "The class differences in child rearing are growing—a symptom of widening inequality with far-reaching consequences. Different upbringings set children on different paths and can deepen socioeconomic divisions, especially because education is strongly linked to earnings. Children grow up learning the skills to succeed in their socioeconomic stratum (阶层), but not necessarily others."
+        },
+        {
+          "label": "E",
+          "text": "“Early childhood experiences can be very consequential for children’s long-term social, emotional and cognitive development,” said Sean Reardon, professor of poverty and inequality in education at Stanford University. “And because those influence educational success and later earnings, early childhood experiences cast a lifelong shadow.” The cycle continues: Poorer parents have less time and fewer resources to invest in their children, which can leave children less prepared for school and work, which leads to lower earnings."
+        },
+        {
+          "label": "F",
+          "text": "American parents want similar things for their children, the Pew report and past research have found:\n\nfor them to be healthy and happy, honest and ethical, caring and compassionate. There is no best parenting style or philosophy, researchers say, and across income groups, 92% of parents say they are doing a good job at raising their children. Yet they are doing it quite differently. Middle-class and higher-income parents see their children as projects in need of careful cultivation, says Annette Lareau, whose groundbreaking research on the topic was published in her book Unequal Childhoods: Class, Race and Family Life. They try to develop their skills through close supervision and organized activities, and teach children to question authority figures and navigate elite institutions."
+        },
+        {
+          "label": "G",
+          "text": "Working-class parents, meanwhile, believe their children will naturally thrive, and give them far greater independence and time for free play. They are taught to be compliant and respectful to adults. There are benefits to both approaches. Working-class children are happier, more independent, complain less and are closer to family members, Ms. Lareau found. Higher-income children are more likely to declare boredom and expect their parents to solve their problems. Yet later on, the more affluent children end up in college and on the way to the middle class, while working-class children tend to struggle. Children from higher-income families are likely to have the skills to navigate bureaucracies and succeed in schools and workplaces, Ms. Lareau said."
+        },
+        {
+          "label": "H",
+          "text": "“Do all parents want the most success for their children? Absolutely,” she said. “Do some strategies give children more advantages than others in institutions? Probably they do. Will parents be damaging children if they have one fewer organized activity? No, I really doubt it.”"
+        },
+        {
+          "label": "I",
+          "text": "Social scientists say the differences arise in part because low-income parents have less money to spend on music class or preschool, and less flexible schedules to take children to museums or attend school events. Extracurricular activities reflect the differences in child rearing in the Pew survey, which was of a nationally representative sample of 1,807 parents. Of families earning more than \\$75,000 a year, 84% say their children have participated in organized sports over the past year, 64% have done volunteer work and 62% have taken lessons in music, dance or art. Of families earning less than \\$30,000, 59% of children have done sports, 37% have volunteered and 41% have taken arts classes."
+        },
+        {
+          "label": "J",
+          "text": "Especially in affluent families, children start young. Nearly half of high-earning, college-graduate parents enrolled their children in arts classes before they were 5, compared with one-fifth of low-income, less-educated parents. Nonetheless, $20\\%$ of well-off parents say their children's schedules are too hectic, compared with $8\\%$ of poorer parents."
+        },
+        {
+          "label": "K",
+          "text": "Another example is reading aloud, which studies have shown gives children bigger vocabularies and better reading comprehension in school. 71% of parents with a college degree say they do it every day, compared with 33% of those with a high school diploma or less. White parents are more likely than others to read to their children daily, as are married parents. Most affluent parents enroll their children in preschool or day care, while low-income parents are more likely to depend on family members. Discipline techniques vary by education level: 8% of those with a\n\npostgraduate degree say they often beat their children, compared with 22% of those with a high school degree or less."
+        },
+        {
+          "label": "L",
+          "text": "The survey also probed attitudes and anxieties. Interestingly, parents' attitudes toward education do not seem to reflect their own educational background as much as a belief in the importance of education for upward mobility. Most American parents say they are not concerned about their children's grades as long as they work hard. But $50\\%$ of poor parents say it is extremely important to them that their children earn a college degree, compared with $39\\%$ of wealthier parents."
+        },
+        {
+          "label": "M",
+          "text": "Less-educated parents, and poorer and black and Latino parents are more likely to believe that there is no such thing as too much involvement in a child's education. Parents who are white, wealthy or college-educated say too much involvement can be bad. Parental anxieties reflect their circumstances. High-earning parents are much more likely to say they live in a good neighborhood for raising children. While bullying is parents' greatest concern over all, nearly half of low-income parents worry their child will get shot, compared with one-fifth of high-income parents. They are more worried about their children being depressed or anxious."
+        },
+        {
+          "label": "N",
+          "text": "In the Pew survey, middle-class families earning between \\$30,000 and \\$75,000 a year fell right between working-class and high-earning parents on issues like the quality of their neighborhood for raising children, participation in extracurricular activities and involvement in their children’s education."
+        },
+        {
+          "label": "O",
+          "text": "Children were not always raised so differently. The achievement gap between children from high- and low-income families is 30-40% larger among children born in 2001 than those born 25 years earlier, according to Mr. Reardon's research. People used to live near people of different income levels; neighborhoods are now more segregated by income. More than a quarter of children live in single-parent households—a historic high, according to Pew—and these children are three times as likely to live in poverty as those who live with married parents. Meanwhile, growing income inequality has coincided with the increasing importance of a college degree for earning a middle-class wage."
+        },
+        {
+          "label": "P",
+          "text": "Yet there are recent signs that the gap could be starting to shrink. In the past decade, even as income inequality has grown, some of the socioeconomic differences in parenting, like reading to children and going to libraries, have narrowed."
+        },
+        {
+          "label": "Q",
+          "text": "Public policies aimed at young children have helped, including public preschool programs and reading initiatives. Addressing differences in the earliest years, it seems, could reduce inequality in the next generation."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Working-class parents teach their children to be obedient and show respect to adults."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "American parents, whether rich or poor, have similar expectations of their children despite different ways of parenting."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "While rich parents are more concerned with their children's psychological well-being, poor parents are more worried about their children's safety."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The increasing differences in child rearing between rich and poor families reflect growing social inequality."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Parenting approaches of working-class and affluent families both have advantages."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Higher-income families and working-class families now tend to live in different neighborhoods."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Physical punishment is used much less by well-educated parents."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Ms. Lareau doesn't believe participating in fewer after-class activities will negatively affect children's development."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Wealthy parents are concerned about their children's mental health and busy schedules."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some socioeconomic differences in child rearing have shrunk in the past ten years."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Tennessee's technical and community colleges will not outsource (外包) management of their facilities to a private company, a decision one leader said was bolstered by an analysis of spending at each campus.\n\nIn an email sent Monday to college presidents in the Tennessee Board of Regents system, outgoing Chancellor John Morgan said an internal analysis showed that each campus' spending on facilities management fell well below the industry standards identified by the state. Morgan said those findings—which included data from the system's 13 community colleges, 27 technical colleges and six universities—were part of the decision not to move forward with Governor Bill Haslam's proposal to privatize management of state buildings in an effort to save money.\n\n“While these numbers are still being validated by the state, we feel any adjustments they might suggest will be immaterial,” Morgan wrote to the presidents. “System institutions are operating very efficiently based on this analysis, raising the question of the value of pursuing a broad scale outsourcing initiative.”\n\nWorkers' advocates have criticized Haslam's plan, saying it would mean some campus workers would lose their jobs or benefits. Haslam has said colleges would be free to opt in or out of the outsourcing plan, which has not been finalized.\n\nMorgan notified the Haslam administration of his decision to opt out in a letter sent last week. That letter, which includes several concerns Morgan has with the plan, was originally obtained by The Commercial Appeal in Memphis.\n\nIn an email statement from the state's Office of Customer Focused Government, which is examining the possibility of outsourcing, spokeswoman Michelle R. Martin said officials were still working to analyze the data from the Board of Regents. Data on management expenses at the college system and in other state departments will be part of a “business justification” the state will use as officials deliberate the specifics of an outsourcing plan.\n\n\"The state's facilities management project team is still in the process of developing its business justification and expects to have that completed and available to the public at the end of February,\" Martin said. \"At this time there is nothing to take action on since the analysis has yet to be completed.\"\n\nMorgan's comments on outsourcing mark the second time this month that he has come out against one of Haslam's plans for higher education in Tennessee. Morgan said last week that he would retire at the end of January because of the governor's proposal to split off six universities of the Board of Regents system and create separate governing boards for each of them. In his resignation letter, Morgan called the reorganization “unworkable.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn about the decision of technical and community colleges in Tennessee?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is backed by a campus spending analysis."
+                },
+                {
+                  "label": "B",
+                  "text": "It has been flatly rejected by the governor."
+                },
+                {
+                  "label": "C",
+                  "text": "It has neglected their faculty's demands."
+                },
+                {
+                  "label": "D",
+                  "text": "It will improve their financial situation."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the campus spending analysis reveal?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Private companies play a big role in campus management."
+                },
+                {
+                  "label": "B",
+                  "text": "Facilities management by colleges is more cost-effective."
+                },
+                {
+                  "label": "C",
+                  "text": "Facilities management has greatly improved in recent years."
+                },
+                {
+                  "label": "D",
+                  "text": "Colleges exercise full control over their own financial affairs."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Workers' supporters argue that Bill Haslam's proposal would",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "deprive colleges of the right to manage their facilities"
+                },
+                {
+                  "label": "B",
+                  "text": "make workers less motivated in performing duties"
+                },
+                {
+                  "label": "C",
+                  "text": "render a number of campus workers jobless"
+                },
+                {
+                  "label": "D",
+                  "text": "lead to the privatization of campus facilities"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do we learn from the state spokeswoman's response to John Morgan's decision?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The outsourcing plan is not yet finalized."
+                },
+                {
+                  "label": "B",
+                  "text": "The outsourcing plan will be implemented."
+                },
+                {
+                  "label": "C",
+                  "text": "The state officials are confident about the outsourcing plan."
+                },
+                {
+                  "label": "D",
+                  "text": "The college spending analysis justifies the outsourcing plan."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Why did John Morgan decide to resign?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He had lost confidence in the Tennessee state government."
+                },
+                {
+                  "label": "B",
+                  "text": "He disagreed with the governor on higher education policies."
+                },
+                {
+                  "label": "C",
+                  "text": "He thought the state's outsourcing proposal was simply unworkable."
+                },
+                {
+                  "label": "D",
+                  "text": "He opposed the governor's plan to reconstruct the college board system."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Beginning in the late sixteenth century, it became fashionable for young aristocrats to visit Paris, Venice, Florence, and above all, Rome, as the culmination (终极) of their classical education. Thus was born the idea of the Grand Tour, a practice which introduced Englishmen, Germans, Scandinavians, and also Americans to the art and culture of France and Italy for the next 300 years. Travel was arduous and costly throughout the period, possible only for a privileged class—the same that produced gentlemen scientists, authors, antique experts, and patrons of the arts.\n\nThe Grand Tourist was typically a young man with a thorough grounding in Greek and Latin literature as well as some leisure time, some means, and some interest in art. The German traveler Johann Winckelmann pioneered the field of art history with his comprehensive study of Greek and Roman sculpture; he was portrayed by his friend Anton Raphael Mengs at the beginning of his long residence in Rome. Most Grand Tourists, however, stayed for briefer periods and set out with less scholarly intentions, accompanied by a teacher or guardian, and expected to return home with souvenirs of their travels as well as an understanding of art and architecture formed by exposure to great masterpieces.\n\nLondon was a frequent starting point for Grand Tourists, and Paris a compulsory destination; many traveled to the Netherlands, some to Switzerland and Germany, and a very few adventurers to Spain, Greece, or Turkey. The essential place to visit, however, was Italy. The British traveler Charles Thompson spoke for many Grand Tourists when in 1744 he described himself as “being impatiently desirous of viewing a country so famous in history, a country which once gave laws to the world, and which is at present the greatest school of music and painting, contains the noblest productions of sculpture and architecture, and is filled with cabinets of rarities, and collections of all kinds of historical relics.” Within Italy, the great focus was Rome, whose ancient ruins and more recent achievements were shown to every Grand Tourist. Panini’s Ancient Rome and Modern Rome represent the sights most prized, including celebrated Greco-Roman statues and views of famous ruins, fountains, and churches. Since there were few museums anywhere in Europe before the close of the eighteenth century, Grand Tourists often saw paintings and sculptures by gaining admission to private collections, and many were eager to acquire examples of Greco-Roman and Italian art for their own collections. In England, where architecture was increasingly seen as an aristocratic pursuit, noblemen often applied what they learned from the villas of Palladio in the Veneto and the evocative (唤起回忆的) ruins of Rome to their own country houses and gardens.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is said about the Grand Tour?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was fashionable among young people of the time."
+                },
+                {
+                  "label": "B",
+                  "text": "It was unaffordable for ordinary people."
+                },
+                {
+                  "label": "C",
+                  "text": "It produced some famous European artists."
+                },
+                {
+                  "label": "D",
+                  "text": "It made a compulsory part of college education."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What did Grand Tourists have in common?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They had much geographic knowledge."
+                },
+                {
+                  "label": "B",
+                  "text": "They were courageous and venturesome."
+                },
+                {
+                  "label": "C",
+                  "text": "They were versed in literature and interested in art."
+                },
+                {
+                  "label": "D",
+                  "text": "They had enough travel and outdoor-life experience."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "How did Grand Tourists benefit from their travel?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They found inspiration in the world's greatest masterpieces."
+                },
+                {
+                  "label": "B",
+                  "text": "They got a better understanding of early human civilization."
+                },
+                {
+                  "label": "C",
+                  "text": "They developed an interest in the origin of modern art forms."
+                },
+                {
+                  "label": "D",
+                  "text": "They gained some knowledge of classical art and architecture."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why did many Grand Tourists visit the private collections?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They could buy unique souvenirs there to take back home."
+                },
+                {
+                  "label": "B",
+                  "text": "Europe hardly had any museums before the 19th century."
+                },
+                {
+                  "label": "C",
+                  "text": "They found the antiques there more valuable."
+                },
+                {
+                  "label": "D",
+                  "text": "Private collections were of greater variety."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "How did the Grand Tour influence the architecture in England?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There appeared more and more Roman-style buildings."
+                },
+                {
+                  "label": "B",
+                  "text": "Many aristocrats began to move into Roman-style villas."
+                },
+                {
+                  "label": "C",
+                  "text": "Aristocrats' country houses all had Roman-style gardens."
+                },
+                {
+                  "label": "D",
+                  "text": "Italian architects were hired to design houses and gardens."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "唐朝始于 618 年,终于 907 年,是中国历史上最灿烂的时期。经过近三百年的发展,唐代中国成为世界上最繁荣的强国,其首都长安是世界上最大的都市。这一时期,经济发达、商业繁荣、社会秩序稳定,甚至边境也对外开放。随着城市化和财富的增加,艺术和文学也繁荣起来。李白和杜甫是以作品简洁自然而著称的诗人。他们的诗歌打动了学者和普通人的心。即使在今天,他们的许多诗歌仍广为儿童及成人阅读背诵。"
+      }
+    ]
+  },
+  "id": "CET6-2017-06-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "F",
+        "explanation": "## 26. 答案: F) focused"
+      },
+      "27": {
+        "answer": "L",
+        "explanation": "## 27. 答案:L) trigger"
+      },
+      "28": {
+        "answer": "O",
+        "explanation": "## 28. 答案: O) volunteers"
+      },
+      "29": {
+        "answer": "H",
+        "explanation": "## 29. 答案:H) instructed"
+      },
+      "30": {
+        "answer": "J",
+        "explanation": "## 30. 答案: J) sealed"
+      },
+      "31": {
+        "answer": "M",
+        "explanation": "## 31. 答案: M) uttering"
+      },
+      "33": {
+        "answer": "C",
+        "explanation": "## 33. 答案: C) brilliance"
+      },
+      "34": {
+        "answer": "D",
+        "explanation": "## 34. 答案: D) claiming"
+      },
+      "35": {
+        "answer": "N",
+        "explanation": "## 35. 答案: N) volume"
+      },
+      "46": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。首段指出:田纳西州的技术学院和社区学院不会……,这一决定得到了高校支出分析(数据)的支撑(bolstered by an analysis of spending...);第二段②句表明“此调查结果是……决定的部分因素(those findings... were part of the decision)”,两部分内容均指向 A 项。"
+      },
+      "49": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。第六段指出“发言人称，政府官员仍在分析校务委员会数据。这些数据会作为‘(外包计划)商业依据’的一部分(were still working to analyze the data...; will be part of a “business justification”)”;第七段继而指出“商业依据还未完成，预计2月底公布，当前不会采取任何行动(in the process of developing its business justification、nothing to take action on)”,综合判断可知，外包计划仍处审议流程，尚未敲定。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "[提炼思路] 本题考查“文中人物某行为的原因”, 解题可: 一、抓取因果关系词, 第八段②句 because of 后即为“辞职原因——学院理事会系统重组 (split off... and create...)”, 二, 再联系上下文, 明确人物观点态度, ①句和③句均体现摩根对“学院理事会系统重组计划”的反对态度 (come out against、unworkable), 由此确定答案为 D)。"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。③句中形容词短语 possible only for a privileged class(只有特权阶级才可能实现、做得到)实际修饰主语 Travel(即 Grand Tour)，言外之意即:(旅途劳顿与开销)非普通百姓所能承受。"
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "[锁定答案] C)。第二段①句指出,壮游客通常是“有着扎实的希腊和拉丁文学基础,有空闲时间、有些钱,对艺术也有兴趣的年轻人”。可见他们的共同点在于:文学底子好、时间与金钱宽裕、喜爱艺术。C项是对其中两点 a thorough grounding in... literature、some interest in art 的同义复述,be versed in 表示“精通于”。"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。第二段③句指出,大多数壮游客并没有太大的学术抱负,旅途只作短暂停留,预计会带着旅行中对艺术及建筑的了解返程。即:他们将从旅行中收获一些有关古典艺术及建筑的知识。D项是对原文 an understanding of art and architecture 的同义改写。"
+      },
+      "54": {
+        "answer": "B",
+        "explanation": "[锁定答案] B)。⑥句指出,由于欧洲在十八世纪末之前几乎没有博物馆,壮游客要想观赏画作和雕塑,往往要获得“参观私人收藏”的入场券。B)是对原文 there were few museums anywhere in Europe before the close of the eighteenth century 的同义改写。"
+      },
+      "55": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。⑦句提到,英格兰贵族经常将他们从帕拉第奥别墅和罗马遗迹中学到的东西运用到自己的乡间宅第和花园上;而定语从句 where...as an aristocratic pursuit 暗示“建筑领域”日益成为“贵族专属”,可见壮游使得全国日益涌现罗马风格的建筑,A)符合文意。"
+      }
+    },
+    "references": {}
+  }
+}

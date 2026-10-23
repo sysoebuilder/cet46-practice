@@ -1,0 +1,1422 @@
+{
+  "schema_version": "1.0",
+  "year": 2021,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in higher education. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in higher education. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in higher education. You should write at least 150 words but no more than 200 words.",
+        "materials": "Gross enrolment ratio in higher education in China (1990 - 2019)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Weird."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Efficient."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Tolerant."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Toxic."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are arrogant."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are ambitious."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are ignorant."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are accommodating."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can think big."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can break conventions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can air their views."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can work flexible hours."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can alter people's mindsets."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It enables people to learn and grow."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can lead to new discoveries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is conducive to critical thinking."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He kept looking for the best place to stay."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had a great time sightseeing and relaxing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He met many tourists from other countries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He managed to visit a different city each day."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Prioritize what is essential to their best advantage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Stretch out the process in search of the optimal."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Deliberate the consequences that may occur."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Take all relevant factors into consideration."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Time pressure."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tight budget."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Modern technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Fierce competition."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Research as many different options as possible."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Focus on what is practical."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Avoid going over the same options repeatedly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Trust their gut instinct."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is beneficial to poor as well as rich communities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is conducive to children's future development."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is welcome to parents but not to children."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is not of much help to younger children."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may put some students in remote areas at a disadvantage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It gives the majority of students ready access to their teachers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It effectively improves the learning quality of students in rural areas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can bridge the learning gap between kids of different backgrounds."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Diligent students tend to do their homework independently."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The focus of homework should always be on school subjects."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Doing homework exerts a positive effect on kids' personality development."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The benefits of doing homework vary widely from individual to individual."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was something he apologized for later."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was a forty-nine-year plan."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was ridiculed by the New York Times."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was considered visionary."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was of great significance to rocket science."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was somehow delayed about 12 minutes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was completed in the state of New Mexico."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It failed due to a sudden change of weather."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A laboratory and test range was already set up there."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its climate was ideal for year-round rocket launching."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A weather expert invited him to go there for his mission."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its remote valleys were appealing to him and his family."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He won an award from the US government for his work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He gained recognition from rocket scientists worldwide."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was granted over 200 patents in rocket technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He boosted the military strength of the United States."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It requires entrepreneurial experience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is usually financially rewarding."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can be quite frustrating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can be rather risky."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It contributes to rapid business expansion."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It reduces conflict among team members."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It inspires willingness to make sacrifices."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It encourages creation and innovation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have unrealistic expectations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They often work without any pay."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Few can find willing investors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many are idealistic dreamers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have better dietary habits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They bear fewer social responsibilities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are born with a stronger ability to socialize."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are better able to survive or handle disease."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have a limited reproductive ability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They keep dividing throughout one's life."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They depend on adequate sleep to thrive."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They strengthen with regular exercise."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The process of ageing can ultimately be brought under control."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improved health care for the elderly will contribute to longevity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Prevention of heart disease and stroke will increase life expectancy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The resolution of age-related diseases will solve the mystery of ageing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are reluctant to follow instructions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They cannot understand directives."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They fail to answer emails promptly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They do not show due respect."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have not been trained to follow the rules."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They want to avoid unnecessary losses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are not satisfied with the management."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They find their voice go unheeded."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When they are on good terms with their managers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When they find their job goals easily attainable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When they find their supervisors helpful."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When they are financially motivated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are a useless tool for managers to change employee behavior."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They prove to be a good means for managers to give instructions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They should be reserved for urgent communication."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are seldom used for sharing confidential data."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "I'm always baffled when I walk into a pharmacy and see shelves bursting with various vitamins, extracts and other supplements, all promising to accelerate or promote weight loss. Aisles of marketing genius belie (掩饰) the fact that, 26, weight loss is dictated by the laws of arithmetic. Economist Jessica Irvine wrote a book about how she used math to help her lose more than 18 kilograms. If calories taken in are less than calories 27, weight shall be lost, and so it is with money.\n\nDespite the _28_ of financial products, services and solutions geared towards accumulating wealth, if all begins with the same _29_: getting ahead financially requires a reduction of spending, so that income is greater than expenses. I was reminded of this again recently listening to an interview with Nicole Haddow, the author of Smashed Avocado, explaining how she cracked the property market at 31. It was quite a _30_, given where she had been two years earlier.\n\nNicole didn't celebrate her 30th birthday as she had _31_. She was sobbing at the dinner table with her parents, with whom she had just moved back in. She had no stable income, \\$12,000 in credit-card debt and no plan, but to her _32_, her father, an accountant, told her that her financial _33_ wasn't\n\nas bad as she thought. He said, on her income, with some changes, she would be able to buy an investment unit within two years, which she did.\n\nNicole admitted she was fortunate, as she was able to live with her parents and _34_ her spending-and life-to get herself on track financially. Creating a gap between her income and spending required a paradigm shift and _35_ sacrifice and commitment, but by going into financial lockdown, Nicole gained financial independence.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "abundance"
+        },
+        {
+          "label": "F",
+          "text": "expended"
+        },
+        {
+          "label": "K",
+          "text": "permanently"
+        },
+        {
+          "label": "B",
+          "text": "astonishment"
+        },
+        {
+          "label": "G",
+          "text": "feat"
+        },
+        {
+          "label": "L",
+          "text": "plight"
+        },
+        {
+          "label": "C",
+          "text": "entailed"
+        },
+        {
+          "label": "H",
+          "text": "fiscally"
+        },
+        {
+          "label": "M",
+          "text": "prosper"
+        },
+        {
+          "label": "D",
+          "text": "envisaged"
+        },
+        {
+          "label": "I",
+          "text": "impetus"
+        },
+        {
+          "label": "N",
+          "text": "shatter"
+        },
+        {
+          "label": "E",
+          "text": "equation"
+        },
+        {
+          "label": "J",
+          "text": "overhaul"
+        },
+        {
+          "label": "O",
+          "text": "ultimately"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 232,
+          "end": 234
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 434,
+          "end": 436
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 498,
+          "end": 502
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 613,
+          "end": 617
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 904,
+          "end": 908
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1008,
+          "end": 1012
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1185,
+          "end": 1189
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1246,
+          "end": 1250
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1483,
+          "end": 1487
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1624,
+          "end": 1628
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": 30,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "France's beloved cathedral only minutes away from complete destruction",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Notre Dame Cathedral in the heart of Paris was within “15 to 30 minutes” of complete destruction as firefighters battled to stop flames reaching its bell towers on Monday evening, French authorities have revealed. A greater disaster was averted by members of the Paris fire brigade, who risked their lives to remain inside the burning monument to create a wall of water between the raging fire and the two towers on the west of the building."
+        },
+        {
+          "label": "B",
+          "text": "The revelation of how close France came to losing its most famous cathedral emerged as police investigators questioned workers involved in the restoration of the monument to try to establish the cause of the devastating blaze. Paris prosecutor Remy Heitz said that an initial fire alert was sounded at 6:20 pm on Monday evening but no fire was found. The second alert was sounded at 6:43 pm, and the blaze was discovered on the roof."
+        },
+        {
+          "label": "C",
+          "text": "More than € 650 million was raised in a few hours on Tuesday as French business leaders and global corporations announced they would donate to a restoration campaign launched by the president, Emmanuel Macron. But as the emergency services picked through the burnt debris, a row was resurfacing over accusations that the beloved cathedral, immortalised in Victor Hugo's novel, was already crumbling before the fire."
+        },
+        {
+          "label": "D",
+          "text": "The cathedral is owned by the French state and has been at the centre of a years-long dispute over who should finance restoration work of the collapsing staircases, crumbling statues and cracked walls. Jean-Michel Leniaud, the president of the scientific council at the National Heritage Institute, said: “What happened was bound to happen. The lack of adequate maintenance and daily attention to such a majestic building is the cause of this catastrophe.” After the blaze was declared completely extinguished, 15 hours after it started, the junior interior minister, Laurent Nunez, said the structure had been saved but remained vulnerable. He praised the actions of the firefighters but admitted the fate of the cathedral had been uncertain. “They saved the main structure, but it all came down to 15 – 30 minutes,” Nunez said."
+        },
+        {
+          "label": "E",
+          "text": ". In a surprise televised address on Tuesday evening, Macron said he wanted to see the cathedral rebuilt within five years. “The fire at Notre Dame reminds us that we will always have challenges to overcome,” Macron said, “Notre Dame is our history, our literature, the centre of our life. It is the standard by which we measure our distances. It’s so many books, so many paintings. It’s the cathedral\n\nof every French person, even those who have never visited it. This history is ours and so we will rebuild Notre Dame. It is what the French people expect; it is what our history deserves. It is our deep destiny. We will rebuild Notre Dame so it is even more beautiful than before. I want it done in the next five years. We can do it. After the time of testing comes a time of reflection and then of action.\""
+        },
+        {
+          "label": "F",
+          "text": "The fire, which had started at the base of the 93-metre spire (尖塔) at about 6:40 pm on Monday, spread through the cathedral's roof, made up of hundreds of oak beams, some dating back to the 13th century. These beams, known as la forêt (the forest) because of their density, formed the cross-shaped roof that ran the length of the central part of the cathedral. As hundreds of tourists and Parisians stood and watched the flames leaping from the roof, there was shock and tears as the cathedral spire caught fire, burned and then collapsed into itself."
+        },
+        {
+          "label": "G",
+          "text": "A collection of dramatic videos and photos quickly spread across social media, showing the horrifying destruction, and attracting emotional responses from people all over the world. Indeed, within minutes the fire occupied headlines of every major global newspaper and television network. This is not surprising given Notre Dame Cathedral, meaning “Our Lady”, is one of the most recognised symbols of the city of Paris attracting millions of tourists every year."
+        },
+        {
+          "label": "H",
+          "text": "While the world looked on, the 500 firefighters at the scene then battled to prevent the flames from reaching the two main towers, where the cathedral bells hang. If the wooden frame of the towers had caught fire, it could have sent the bells—the largest of which, the Emmanuel Bell, weighs 13 tons—crashing down, potentially causing the collapse of both towers. Police and fire services will spend the next 48 hours assessing the “security and safety” of the 850-year-old structure. Nunez said: “We have identified vulnerabilities throughout the structure, all of which still need securing.” As a result, residents of five buildings around the northern side of the cathedral were being temporarily evacuated, he added. Architects have identified three main holes in the structure, in the locations of the spire, the main hall and the upper rooms to the north of the central aisle. Most of the wooden roof beams have been burned, and parts of the concrete holding up the roof have collapsed."
+        },
+        {
+          "label": "I",
+          "text": "The interior minister, Christophe Castaner, visited the cathedral on Tuesday afternoon to see the extent of the devastation. Ash covered the marble diamond-patterned floor and floated in large pools of grey water from the fire hoses. Behind a heap of blackened oak beams that lay piled up where they had fallen, daylight from vast holes in the cathedral roof lit a golden cross over a statue by Nicolas Coustou, which appeared to have escaped damage. Preliminary inspections also suggested the three ornate (装饰华丽的) stained glass “rose” windows appeared to have survived the fire, officials said. However, fire officers have said a complete inventory of the damage will not be possible until the cathedral structure has been deemed safe."
+        },
+        {
+          "label": "J",
+          "text": "The culture minister, Franck Riester, said religious relics saved from the cathedral were being securely held at the Hôtel de Ville, and works of art that sustained smoke damage were being taken to the Louvre, the world's largest art museum, where they would be dried out, repaired and stored. Sixteen copper statues that decorated the spire had been removed for restoration only a few days before the fire. Relics at the top of the spire are believed lost as the spire was destroyed. As well as damage from the heat, which firefighters said reached more than 800 °C, experts also need to assess damage from the vast quantities of water firefighters poured into the cathedral. One casualty of this was The Great Organ constructed in the 1730s, which was said to have escaped the flames but been significantly damaged by water."
+        },
+        {
+          "label": "K",
+          "text": "French political commentators noted the devastating fire had succeeded where Macron had failed in uniting the country. But criticism over the original state of the building is likely to intensify over coming days. Leniaud told La Croix newspaper: “This is not about looking for people to blame. The responsibility is collective because this is the most loved monument in the country.” Alexandre Gady, an art historian, agreed. “We’ve been saying for years that the budget for maintaining historic\n\nmonuments is too low,” Gady said. The Paris prosecutor’s office has opened an inquiry into “involuntary destruction by fire”, indicating they believe the cause of the blaze was accidental rather than criminal."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "The total amount of damage to Notre Dame Cathedral can be assessed only when its structure is considered safe."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Once again people began to argue whether Notre Dame Cathedral was going to collapse even without the fire."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The Notre Dame Cathedral catastrophe was said to have helped unite the French nation."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The roof of Notre Dame Cathedral was built with large numbers of densely laid-out wood beams."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Renovation workers of Notre Dame Cathedral were questioned to find out the cause of the accident."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Had the bell towers' wooden frames burned down, the heavy bells would have crashed down."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The timely action of the firefighters prevented the fire from reaching the Cathedral's bell towers."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Apart from the fire, the water used to extinguish it also caused a lot of damage to Notre Dame Cathedral."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "There has been argument over the years as to who should pay for the restoration of Notre Dame Cathedral."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "News of the Notre Dame Cathedral catastrophe instantly caught media attention throughout the world."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "We often think of drawing as something that takes inborn talent, but this kind of thinking stems from our misclassification of drawing as, primarily, an art form rather than a tool for learning.\n\nResearchers, teachers, and artists are starting to see how drawing can positively impact a wide variety of skills and disciplines.\n\nMost of us have spent some time drawing before, but at some point, most of us stop drawing. There are people who don't, obviously, and thank god for that: a world without designers and artists would be a very shabby one indeed.\n\nSome argue that so many adults have abandoned drawing because we’ve miscategorized it and given it a very narrow definition. In his book, Stick Figures: Drawing as a Human Practice, Professor D. B. Dowd argues that we have misfiled the significance of drawing because we see it as a professional skill instead of a personal capacity. We mistakenly think of “good” drawings as those which work as recreations of the real world, as realistic illusions. Rather, drawing should be recategorized as a symbolic tool.\n\nHuman beings have been drawing for 73,000 years. It’s part of what it means to be human. We don’t have the strength of chimpanzees (大猩猩) because we’ve given up animal strength to manipulate subtle instruments, like hammers, spears, and—later—pens and pencils. The human hand is an extremely dense network of nerve endings. In many ways, human beings are built to draw.\n\nSome researchers argue that doodling (涂画) activates the brain's so-called default circuit—essentially, the areas of the brain responsible for maintaining a baseline level of activity in the absence of other stimuli. Because of this, some believe that doodling during a boring lecture can help students pay attention. In one study, participants were asked to listen to a list of names while either doodling or sitting still. Those who doodled remembered 29 percent more of the names than those who did not.\n\nThere's also evidence that drawing talent is based on how accurately someone perceives the world. The human visual system tends to misjudge size, shape, color, and angles but artists perceive these\n\nqualities more accurately than non-artists. Cultivating drawing talent can become an essential tool to improve people's observational skills in fields where the visual is important.\n\nRather than think of drawing as a talent that some creative people are gifted in, we should consider it as a tool for seeing and understanding the world better—one that just so happens to double as an art form. Both absent-minded doodling and copying from life have been shown to positively affect your memory and visual perception, so complain loudly the next time your school board slashes the art department's budget.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do people generally think about drawing?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a gift creative people are endowed with."
+                },
+                {
+                  "label": "C",
+                  "text": "It is an art form that is appreciated by all."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a skill that is acquired with practice."
+                },
+                {
+                  "label": "D",
+                  "text": "It is an ability everyone should cultivate."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn about designers and artists?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are declining gradually in number."
+                },
+                {
+                  "label": "B",
+                  "text": "They are keen on changing shabby surroundings."
+                },
+                {
+                  "label": "C",
+                  "text": "They add beauty and charm to the world."
+                },
+                {
+                  "label": "D",
+                  "text": "They spend most of their lives drawing."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does Professor D. B. Dowd argue in his book?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Everybody is born with the capacity to draw."
+                },
+                {
+                  "label": "B",
+                  "text": "Drawing is a skill that requires special training."
+                },
+                {
+                  "label": "C",
+                  "text": "The value of drawing tends to be overestimated."
+                },
+                {
+                  "label": "D",
+                  "text": "Drawing should be redefined as a realistic illusion."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What have some researchers found from one study about doodling?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a must for maintaining a base level of brain activity."
+                },
+                {
+                  "label": "B",
+                  "text": "It can turn something boring into something interesting."
+                },
+                {
+                  "label": "C",
+                  "text": "It is the most reliable stimulant to activate the brain."
+                },
+                {
+                  "label": "D",
+                  "text": "It helps improve concentration and memory."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is characteristic of people with drawing talent?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Sensitivity to cognitive stimulation."
+                },
+                {
+                  "label": "B",
+                  "text": "Subtlety of representation."
+                },
+                {
+                  "label": "C",
+                  "text": "Accuracy in categorization."
+                },
+                {
+                  "label": "D",
+                  "text": "Precision in visual perception."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The car has reshaped our cities. It seems to offer autonomy for everyone. There is something almost delightful in the detachment from reality of advertisements showing mass-produced cars marketed as symbols of individuality and of freedom when most of their lives will be spent making short journeys on choked roads.\n\nFor all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on a modern car are those which work when you're going very slowly: parking sensors, sound systems, and navigation apps which will show a way around upcoming traffic jams. This seems to be one of the few areas where the benefit of sharing personal information comes straight back to the sharer: because these apps know where almost all the users are, and how fast they are moving almost all the time, they can spot traffic congestion (堵塞) very quickly and suggest ways round it.\n\nThe problem comes when everyone is using a navigation app which tells them to avoid everyone else using the same gadget. Traffic jams often appear where no one has enough information to avoid them. When a lucky few have access to the knowledge, they will benefit greatly. But when everyone has perfect information, traffic jams simply spread onto the side roads that seem to offer a way round them.\n\nThis new congestion teaches us two things. The first is that the promises of technology will never be realised as fully as we hope; they will be limited by their unforeseen and unintended consequences. Sitting in a more comfortable car in a different traffic jam is pleasant but hardly the liberation that once seemed to be promised. The second is that self-organisation will not get us where we want to go. The efforts of\n\nmillions of drivers to get ahead do not miraculously produce a situation in which everyone does better than before, but one in which almost everyone does rather worse. Central control and collective organisation can produce smoother and fairer outcomes, though even that much is never guaranteed.\n\nSimilar limits can be foreseen for the much greater advances promised by self-driving cars. Last week, one operated by the taxi company Uber struck and killed a woman pushing her bicycle across a wide road in Arizona. This was the first recorded death involving a car which was supposed to be fully autonomous. Experts have said that it suggests a “catastrophic failure” of technology.\n\nIncreasingly, even Silicon Valley has to acknowledge the costs of the intoxicating (令人陶醉的) hurry that characterises its culture. What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about car advertisements?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They portray drivers who enjoy speed on the road."
+                },
+                {
+                  "label": "B",
+                  "text": "They present a false picture of the autonomy cars provide."
+                },
+                {
+                  "label": "C",
+                  "text": "They pursue individuality and originality in design concept."
+                },
+                {
+                  "label": "D",
+                  "text": "They overestimate the potential market of autonomous cars."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the author imply about the various gadgets on cars?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can help to alleviate traffic jams."
+                },
+                {
+                  "label": "B",
+                  "text": "Most of them are as effective as advertised."
+                },
+                {
+                  "label": "C",
+                  "text": "Only some can be put to use under current traffic conditions."
+                },
+                {
+                  "label": "D",
+                  "text": "They are constantly upgraded to make driving easier and safer."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author say about the use of navigation apps?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is likely to create traffic jams in other places."
+                },
+                {
+                  "label": "B",
+                  "text": "It helps a great deal in easing traffic congestion."
+                },
+                {
+                  "label": "C",
+                  "text": "It sharply reduces the incidence of traffic accidents."
+                },
+                {
+                  "label": "D",
+                  "text": "It benefits those who are learning to drive."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say about technology?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its consequences are usually difficult to assess."
+                },
+                {
+                  "label": "B",
+                  "text": "It seldom delivers all the benefits as promised."
+                },
+                {
+                  "label": "C",
+                  "text": "It depends on the required knowledge for application."
+                },
+                {
+                  "label": "D",
+                  "text": "Its benefits are guaranteed by collective wisdom."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What key message does the author try to convey in the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The consequences of technological innovation need not be exaggerated."
+                },
+                {
+                  "label": "B",
+                  "text": "There is always a price to pay to develop technology for a better world."
+                },
+                {
+                  "label": "C",
+                  "text": "Technological innovation should be properly regulated."
+                },
+                {
+                  "label": "D",
+                  "text": "The culture of Silicon Valley ought not to be emulated."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "青海是中国西北部的一个省份,平均海拔3 000米以上,大部分地区为高山和高原。青海省得名于全国最大的咸水湖青海湖。青海湖被誉为“中国最美的湖泊”,是最受欢迎的旅游景点之一,也是摄影师和艺术家的天堂。\n\n青海山川壮丽,地大物博,石油和天然气储量丰富,省内许多城市的经济在石油和天然气工业带动下得到了长足发展。青海尤以水资源丰富而闻名,是中国三大河流长江、黄河和澜沧江的发源地,在中国的水生态中发挥着重要作用。"
+      }
+    ]
+  },
+  "id": "CET6-2021-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "D",
+        "explanation": "D)【精析】细节理解题。当男士问女士她的新工作怎么样时，女士先是在句(1-1)中说自己一点儿也不怀念以前所在公司的那种表面上很高效，实际上太过直接和严苛的管理模式，之后又在句(1-2)中说，崇尚直接高于一切的公司文化是有毒的，这种文化下的公司满是聪明的混蛋，逼得员工离职，从内部侵蚀自己。因此答案为D)。"
+      },
+      "2": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(2)中男士说,他所在公司的管理者都很随和,为了不伤感情而忽视错误和问题。因此答案为 D)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)【精析】细节理解题。由句(3)可知,女士所在新公司的员工都有权发表意见、给出反馈、对所讨论的问题表达自己的不同见解。因此答案为 B)。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "C)【精析】事实细节题。句(4)中男士说,建设性的反馈是我们学习和成长的方式。因此答案为 C)。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "A)【精析】细节理解题。句(5)中男士说,他在假期中总是不断地更换住处,想找一个最完美的地方。因此答案为 A)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(6)中女士说,人们往往会延长做决定的过程,因为人类的本性就是想要寻求最佳选择。因此答案为 B)。"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "也可以进行定制。句(7-2)中女士说,这就是选择太多的苦恼了,人们总是担心会错过最好的选择。也就是说,现代科技反而使人们更加难以抉择,故答案为C)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)【精析】细节理解题。句(8)中女士说,在更重要的问题上,直觉可能被高估了。当你有30多个选择时,相信自己的直觉是不现实的。做决定最有害的部分就是一遍又一遍地纠结在相同的选择上。因此答案为B)。原文中提到,你需要做的是尽可能多地排除选择,而不是A)项中说的研究尽可能多的不同选择,故排除A)。"
+      },
+      "9": {
+        "answer": "D",
+        "explanation": "D)【精析】细节理解题。由句(9)可知,2006年的研究发现,初中生和高中生的家庭作业量与其未来的学术成就之间存在一定的相关性,但对于年幼的孩子来说,这种关联并不明显。因此答案为D)。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "学生处于不利地位,因为这些地区70%的教师布置的家庭作业需要上网。但三分之一的家庭没有网络连接。专家认为,布置需要互联网才能完成的家庭作业是非常不公平的。因此答案为A)。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "C)【精析】细节理解题。由句(11)可知,德国的一项研究发现,家庭作业可能会对学生的个性产生影响,这表明做家庭作业可能有助于孩子成为更认真、更独立的学习者。也就是说,做作业对孩子的个性发展可以起到积极的作用,故答案为 C)。"
+      },
+      "12": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(12)中提到,1920年1月,《纽约时报》嘲笑了戈达德的火箭可以用于太空探索的理论。因此答案为B)。"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "sing | 有着重要的意义,故答案为 A)。"
+      },
+      "14": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(14)中提到,戈达德咨询了一位气象专家,确定新墨西哥州的气候全年都适合发射火箭。1930年,戈达德和他的家人搬到了该州西南部一个偏远的山谷。因此答案为B)。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "C) 【精析】事实细节题。句(15)中提到,戈达德获得了200多项专利,直到1945年去世前,他一直在探索火箭技术。因此答案为C)。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(16)中讲话者说,在一家新企业工作伴随着很多风险,如工作不稳定、责任划分不清以及需要在各领域都能胜任等。因此答案为D)。"
+      },
+      "17": {
+        "answer": "C",
+        "explanation": "这样的企业文化会带来很好的结果，包括流程得到优化、团队凝聚力增强、冲突减少和警觉性变得更加敏锐。因此答案为 C)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B) 【精析】事实细节题。句(18)中提到,很多情况下,在创业初期,创业者自己根本没有什么报酬,钱都用来给员工发工资和支付各种开销了。因此答案为 B)。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(19)中提到,关于女性为什么比男性长寿,没有人确切地知道这其中的原因,尽管人们的猜测集中在女性比男性更有能力生存或应对疾病这一观点上。因此答案为D)。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "近的研究结果,人类细胞的再生能力有限。因此答案为 A)。"
+      },
+      "21": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(21)中提到,很多公共卫生政策制定者认为,找到与年龄相关的疾病的解决方法,就能够得知衰老的本质,从而解开衰老之谜。因此答案为D)。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节理解题。由句(22)可知,让管理者感到懊恼的是,哪怕是最简单的指令,他们也很难让员工听从指挥。因此答案为 A)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "精神，即所需要的努力、花费的时间以及缺乏潜在效率；三、可能有的员工故意或出于固执，就是不想按管理者的要求去做。因此答案为 B)。"
+      },
+      "24": {
+        "answer": "C",
+        "explanation": "从指令,这两者之间有着很强的关联。因此答案为 C)。"
+      },
+      "36": {
+        "answer": "I",
+        "explanation": "I) 【精析】同义转述题。I) 段定位句提到，在确认大教堂结构安全之前，无法完整清点出火灾造成的损失。题干中的 the total amount of damage 对应原文中的 a complete inventory of the damage，题干中的 when its structure is considered safe 是原文中 until the cathedral structure has been deemed safe 的同义转述，题干中的 can be assessed only when 是对原文中 will not be possible until 的同义转述，故答案为 I)。"
+      },
+      "37": {
+        "answer": "C",
+        "explanation": "C) 【精析】同义转述题。C) 段定位句提到，当应急服务机构人员在烧毁的废墟中进行搜寻时，争论又起，人们认为这座大教堂在火灾发生前就已经摇摇欲坠了。题干中的 once again people began to argue 对应原文中的 a row was resurfacing over accusations, 题干中的 was going to collapse even without the fire 是对原文中 was already crumbling before the fire 的同义转述，故答案为 C)。"
+      },
+      "38": {
+        "answer": "K",
+        "explanation": "K)【精析】细节推断题。K)段定位句提到,马克龙总统未能促进国家团结,但这场毁灭性的火灾做到了,可以推断出,火灾的发生是一个契机,促使全国人民团结在一起。题干中的 have helped unite the French nation 是对该句的理解和推断,故答案为 K)。"
+      },
+      "39": {
+        "answer": "F",
+        "explanation": "F) 【精析】同义转述题。F) 段定位句提到, 大教堂的屋顶由数百根橡木横梁组成, 这些横梁因其排列紧密, 被人们称为“森林”。题干中的 densely 对应原文中的 density, large numbers of 对应原文中的 hundreds of, 题干中的 was built with 是原文中 made up of 的同义转述, 故答案为 F)。"
+      },
+      "40": {
+        "answer": "B",
+        "explanation": "B)【精析】同义转述题。B)段定位句提到,警方调查人员询问了参与修复建筑的工人,试图确定引起火灾的原因。题干中的 renovation workers 对应原文中的 workers involved in the restoration of the monument,题干中的 were questioned 是原文中 questioned 的被动语态形式,题干中的 the cause of the accident 是原文中 the cause of the devastating blaze 的同义转述,故答案为 B)。"
+      },
+      "41": {
+        "answer": "H",
+        "explanation": "H)【精析】同义转述题。H)段定位句提到,如果钟楼的木质框架着火,上面的那些钟有可能会掉下来,两座钟楼可能会因此倒塌。题干中的 wooden frames 对应原文中的 the wooden frame, burned down 对应原文中的 caught fire, crashed down 和原文中的 crashing down 一致,题干中的“Had..., the heavy bells would have crashed.”是原文中“If...had caught fire, it could have sent...crashing down.”的同义转述,且都表示一种虚拟语气,故答案为 H)。"
+      },
+      "42": {
+        "answer": "A",
+        "explanation": "A)【精析】同义转述题。A)段指出，巴黎消防员为了防止大火烧到钟楼，在时间紧迫的情况下，冒着生命危险在熊熊大火和建筑西边的两座钟楼之间筑起一道水墙，从而避免了一场更大的灾难。题干中的 prevented 是原文中 averted 的同义词，reaching the Cathedral's bell towers 对应原文中的 reaching its bell towers, timely action 也对应原文中 within “15 to 30 minutes”体现出的紧急状态，故答案为 A)。"
+      },
+      "43": {
+        "answer": "J",
+        "explanation": "the cathedral 的同义转述,故答案为 J)。"
+      },
+      "44": {
+        "answer": "D",
+        "explanation": "D) 【精析】同义转述题。D) 段定位句提到,多年来人们一直在争论,到底谁应该出资修复坍塌的楼梯、摇摇欲坠的雕像和破裂的墙壁。题干中的argument 是原文中 dispute 的同义词,题干中 over the years 是原文中 years-long 的同义转述,题干中的 pay for the restoration of 是对原文中 finance restoration work of 的同义转述,故答案为 D)。"
+      }
+    },
+    "references": {}
+  }
+}

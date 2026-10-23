@@ -1,0 +1,1346 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today increasing importance is being attached to cultivating college students’ team spirit.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today increasing importance is being attached to cultivating college students’ team spirit.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today increasing importance is being attached to cultivating college students’ team spirit.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Prioritizing happiness over money."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Managing one's personal finances wisely."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Joining the club to get her new book."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consuming more only when earning more."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was in debt."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She earned \\$30,000 a month."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She was a financial adviser."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She enjoyed a happy life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It reflects one's earning power."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It varies with one's environment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It mirrors one's sense of wellbeing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It changes with one's goals in life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It would give him more time to be with his loved ones."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It would be good for those who value relationships."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It would mean major sacrifices for him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It would deprive him of his individuality."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was the artist's first landscape."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was donated by the artist herself."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was a painting by Christopher."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was displayed at a retirement party."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was the painting that instantly made her rich."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has cost him a lot of money to purchase it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was recently purchased by the gallery."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is owned by an anonymous collector."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It reflects her emotions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It contains ample details."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It appears perfectly symmetrical."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It depicts the beauty of desolation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is eccentric like any other artist."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is as lucky as any acclaimed artist."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is a very nice and intelligent artist."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is one of the most productive artists."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is vital to one's mental health."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It leads to reconciliation and peace."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It promotes interpersonal relationship."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It keeps one from traumatic experience."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When the offender has power over the victim."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When the offender is not willing to apologize."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When the offender is not duly penalized."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When the offender adds insult to injury."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Talk with the offender calmly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find out why he committed the offense."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Accept the offender's apology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Determine how serious the offense was."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The number of passengers dropped sharply."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It served more and more commuters."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The number of stations increased to 50."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It became the longest in the United Kingdom."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To increase capacity to meet growing needs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To make way for other means of transport."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To have its systems modernised."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To avoid further financial losses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is generally recognised as a world heritage site."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the fastest way to reach the city's south side."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It constitutes a source of revenue for the city."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It helps reduce traffic jams in the city centre."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are usually crowded."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They use high-tech systems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They accept smartcards only."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are colourfully decorated."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are quite friendly to humans."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are shrinking in numbers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are unafraid of humans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are especially fond of garbage."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is strictly forbidden."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is an uncommon sight."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a gesture of human generosity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is allowed only in certain areas.\n\n2022年12月英语六级真题第2套 第2页 共10页"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Share their food with the bear they see."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Be prepared to run into a hungry bear."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Try to be friendly with the bear they meet."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Refrain from teasing bears with cubs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It refers to opinions that are radical and widespread."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It means making judgments without adequate knowledge."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It refers to deep-rooted beliefs about someone or something."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It means sticking to one's judgments even when proved wrong."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They often lead to war between religious groups."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They keep certain occupations from thriving."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They allow myths and half-truths to persist."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They prevent us from getting to the truth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When we start to feel superior."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When we mix with prejudiced people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When we live in an isolated neighborhood."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When we try to keep up with those around us."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Motivated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Perplexed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Disappointed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Shocked."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They would change with the passage of time."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They would benefit young people's adult life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They would help kids grow."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They would last a lifetime."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He had become mature."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had lots of stories to tell."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He suffered poor health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He regretted leaving Vietnam."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Make friends with his students."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Show his students how to do their best."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help his students get through the growing pains."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Share his personal experience with his students."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "American colleges and universities are using 64 percent less coal than they did a decade ago, burning 700,000 tons last year, down from 2 million tons in 2008, the U.S. Energy Information Administration (EIA) said in a report _26_ yesterday.\n\nAll 57 schools that were burning coal in 2008 are using less now, and 20 have _27_ coal completely, EIA found.\n\nMost universities have turned to natural gas as a _28_, with state funding backing the fuel switch.\n\nWhile academic institutions use less than 0.1 percent of U.S. coal burned for power, campus coal use has a history dating back to the 1800s when _29_ to power was scarce.\n\nMany universities still operate their own power plants. The Public Utility Regulatory Policies Act of 1978 encouraged more electricity generation by allowing institutions to sell _30_ power to utilities.\n\nBut EIA noted many coal-fired universities have signed onto the American College and University Presidents Climate Commitment, which was launched in 2007.\n\nAbout 665 schools are part of the program, which aims to _31_ greenhouse gas emissions. Thirty percent of the participants have pledged to be carbon _32_ within 20 years.\n\nThe Sierra Club's Beyond Coal campaign, which also leads campaigns for universities to withdraw their _33_ in coal and other fossil fuels, lists 22 schools that have pledged to move \"beyond coal,\" including Clemson University, Indiana University, Ohio University, Penn State University, the University of Louisville and the University of Tennessee, Knoxville.\n\nThe largest coal use _34_ at colleges were in Michigan, Missouri, Tennessee and 2022年12月英语六级真题第3套 第1页 共8页\n\nIndiana. Indiana's universities alone cut coal _35_ by 81 percent between 2008 and 2015.\n\nDuring the same period, Michigan made an 80 percent cut and Tennessee cut back by 94 percent at state institutions.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "abandoned"
+        },
+        {
+          "label": "I",
+          "text": "neutral"
+        },
+        {
+          "label": "B",
+          "text": "access"
+        },
+        {
+          "label": "J",
+          "text": "reductions"
+        },
+        {
+          "label": "C",
+          "text": "consumption"
+        },
+        {
+          "label": "K",
+          "text": "released"
+        },
+        {
+          "label": "D",
+          "text": "contrive"
+        },
+        {
+          "label": "L",
+          "text": "replacement"
+        },
+        {
+          "label": "E",
+          "text": "duplications"
+        },
+        {
+          "label": "M",
+          "text": "slash"
+        },
+        {
+          "label": "F",
+          "text": "investments"
+        },
+        {
+          "label": "N",
+          "text": "surplus"
+        },
+        {
+          "label": "G",
+          "text": "mobilized"
+        },
+        {
+          "label": "O",
+          "text": "void"
+        },
+        {
+          "label": "H",
+          "text": "negligent"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 226,
+          "end": 230
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 321,
+          "end": 325
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 405,
+          "end": 409
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 601,
+          "end": 605
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 807,
+          "end": 811
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1046,
+          "end": 1050
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1138,
+          "end": 1142
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1263,
+          "end": 1267
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1543,
+          "end": 1547
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1676,
+          "end": 1680
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Classical music aims to evolve, build audiences without alienating old guard",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "In 1913, classical music sparked a riot in Paris. Igor Stravinsky was introducing his revolutionary “Rite of Spring” ballet to the world, with its discordant melodies and unorthodox choreography (编舞), and the purists in the crowd expressed their disapproval loud and clear. It might have been classical music’s version of the time Bob Dylan went electric at the Newport Folk Festival. “The noise, fighting, and shouting in the audience got so loud,” NPR’s music reporter Miles Hoffman said of the Stravinsky debut, “that the choreographer had to shout out the numbers to the dancers so that they knew what they were supposed to do.”"
+        },
+        {
+          "label": "B",
+          "text": "It's difficult to imagine a similar disturbance occurring today within America's sacred symphony halls. In fact, it's hard to picture any kind of disruptive activity at all (unless someone's cell phone happens to go off, and then you'd better watch your back). A mannerly aura (氛围) hangs over most classical proceedings, and many of the genre's biggest supporters would have it no other way."
+        },
+        {
+          "label": "C",
+          "text": "Today, Western audiences for classical music and opera and ballet are almost always well dressed, older, respectful, achingly silent and often very wealthy (one has to be able to afford most tickets). But as many of America's most storied \"highbrow\" (高雅的) institutions struggle financially—the Philadelphia Orchestra's much-publicized rebound from bankruptcy is just one recent example—classical music fans and theorists are wondering how the medium can weave itself into the 21st century's cultural fabric without sacrificing its integrity."
+        },
+        {
+          "label": "D",
+          "text": "For example, should we feel OK “clapping” during classical music events, even if nobody else is? Why shouldn’t we cheer for something great, like we do at a rock\n\nconcert? The Huffington Post recently ran a Great Debate on this issue and many commenters came out on the side of silence. “There is no more rewarding experience in life than being part of an audience where everybody is leaning forward in silence, thoroughly carried away by a great performance of a masterpiece,” one commenter wrote. “Why is it so difficult for folks to develop an appreciation and understanding for the mannerisms and traditions of classical music?” asked another."
+        },
+        {
+          "label": "E",
+          "text": "The truth is that classical music audiences weren't always so polite. Robert Greenberg, an award-winning composer, said that when Beethoven first performed his 7th Symphony, audiences forced the orchestra to perform encores (重演) of certain movements immediately, applauding wildly. And in the last few decades, he said, many audiences at opera performances have abandoned pretenses, yelling \"Bravo\" when they feel like it."
+        },
+        {
+          "label": "F",
+          "text": "“I don’t think there’s anything wrong with an audience showing their enthusiasm for a proper moment by applauding, showing their joy,” Greenberg said, noting that the stuffiness in concert halls is “one aspect of contemporary concert etiquette” he doesn’t understand. “Instead of waiting half an hour to show enthusiasm, why not show it every eight or nine minutes?”"
+        },
+        {
+          "label": "G",
+          "text": "Until the rules about behavior and clothing change, it's hard to imagine multitudes of young people filling concert halls on their own accord. They're probably more likely to head to Central Park to watch a free performance with a bottle of wine and their friends. \"I think anyone should be able to come into a performance dressed any way they like, and be comfortable any way they like, sitting in that seat ready to enjoy themselves,\" Greenberg said. \"Because it's enjoyable.\""
+        },
+        {
+          "label": "H",
+          "text": "Greenberg stressed that he doesn't want people to start respecting the music less, and he's not suggesting that we \"dumb down\" the experience. Rather, it's about opening up \"access.\" When operas first instituted subtitles (字幕) during shows, he said, many purists didn't like the idea, believing that the audience should instead study the works before attending. But now it's commonplace to find titles on the seatback in front of you—choose a language, sit back, and understand what's going on."
+        },
+        {
+          "label": "I",
+          "text": "Allison Vulgamore, president of the Philadelphia Orchestra, is certainly looking to the future. She says certain “classics concerts” dedicated to the old masters will always exist, but not every program has to feature Beethoven and Brahms—or even a stage and seats. “We’re trying to introduce different kinds of concerts in different ways,” she said. “We are an interactive society now, where people like to learn.”"
+        },
+        {
+          "label": "J",
+          "text": "As the Philadelphia Orchestra rebounds from its financial straits, it is also aiming to experiment, without alienating the loyalists. Vulgamore pointed to Cirque de la Symphonie, a recent offering in which jugglers (玩杂耍的人) and acrobats (杂技演员) interacted with musicians. An upcoming collaboration with New York City's Ridge Theatre, meanwhile, will feature a “suspended dance installation” and other theatrical elements occurring in conjunction with an orchestral piece."
+        },
+        {
+          "label": "K",
+          "text": "The orchestra also continues to offer \\$25 annual memberships to Philadelphia students, who can buy rush tickets to every concert on the schedule. “Students line up for the concerts they want, and we get roughly 300 or 350 kids a night coming to these. They\n\n2022年12月英语六级真题第3套 第3页 共8页\n\ntake any of the open seats available, 5 minutes before the concert starts,\" Vulgamore said. \"It's like the running of the bulls, that energy when the doors open.\""
+        },
+        {
+          "label": "L",
+          "text": "Greenberg thinks that youthful energy needs to be harvested. Conductors don't have to be arrogant and untouchable—they can be accessible. Perhaps there could even be a “bit of humor” about them, he suggested, and an abandoning of pretension within the high-art institutions themselves. “On one hand, these organizations are all saying the same thing: we want more general audiences, to break down cultural barriers,” he said. “But then they come up with some very snooty (目中无人的) thing that makes you crazy.”"
+        },
+        {
+          "label": "M",
+          "text": "John Terauds, a critic who has covered Toronto's classical music scene extensively, also wants to do away with the stuffiness. He suggested that the warmer an audience is, the better the musicians themselves will respond. “But the producer or organizer has to let everyone know it’s OK,” he said. “It’s OK to enjoy yourself.” At the Toronto Symphony Orchestra, for example, conductor Peter Oundjian often stops between pieces, taking a moment to talk about the composer or the music in a very amiable way. And some nights, Terauds said, “at least a third” of the audience consists of students who have purchased cheaper tickets. On these nights, the energy of the room drastically shifts. It becomes a less intimidating place."
+        },
+        {
+          "label": "N",
+          "text": "Back in February, Terauds wrote on his blog about how going to classical performances can be intimidating. Certain people “think they have to dress up,” he wrote. “They think they have to know something about the music before they go. And, I’m sure, sitting in a seat, trembling in fear that this might be the wrong time to applaud, is also one of the factors.”"
+        },
+        {
+          "label": "O",
+          "text": "Everyone in the classical world agrees on the need for increased “accessibility,” but achieving it is often easier said than done. Nowadays, there are unknown, unorthodox opera singers wowing (博得……的喝彩) viewers on TV programs like “America’s Got Talent” and “The Voice”. What can higher institutions do with any of that? And if they appeal to these outlets, do they risk compromising the integrity or the intelligence of the music?"
+        },
+        {
+          "label": "P",
+          "text": "Vulgamore seems to understand this. She thinks an organization can have it both ways, claiming the new while keeping the old. And as she reorganizes the Philadelphia Orchestra, she will attempt to do just that. “The world’s most respected musicians brought together as an orchestra will always exist,” she said. “But it’s essential that we be willing to experiment and fail.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "It was not a rare occurrence that audiences behaved wildly while listening to classical music."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Some high-art institutions don't actually mean it when they say they want more general audiences."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The theatre was in chaos when an unconventional ballet was first put on stage in the capital of France."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "According to one critic, the audience's warm response would encourage the musicians to do a better job."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Many commenters argued for the audience enjoying classical music quietly."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "What appears on the seatback screen makes it unnecessary for the audience to study the works beforehand."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "It is generally accepted that there should be no disturbance from the audience during classical music performance."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Higher institutions will be concerned about compromising the integrity of classical music if they have to resort to the television medium."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Heavily discounted rush tickets help attract many young students to attend classical concerts."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "The formalities of high-art theatres can intimidate some people attending a performance."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "How can one person enjoy good health, while another person looks old before her time? Humans have been asking this question for thousands of years, and recently, it's becoming clearer and clearer to scientists that the differences between people's rates of aging lie in the complex interactions among genes, social relationships, environments and lifestyles. Even though you were born with a particular set of genes, the way you live can influence how they express themselves. Some lifestyle factors may even turn genes on or shut them off.\n\nDeep within the genetic heart of all our cells are telomeres, or repeating segments of noncoding DNA that live at the ends of the chromosomes (染色体). They form caps at the ends of the chromosomes and keep the genetic material together. Shortening with each cell division, they help determine how fast a cell ages. When they become too short, the cell stops dividing altogether. This isn't the only reason a cell can age—there are other stresses on cells we don't yet understand very well—but short telomeres are one of the major reasons human cells grow old. We've devoted most of our careers to studying telomeres, and one extraordinary discovery from our labs is that telomeres can actually lengthen.\n\nScientists have learned that several thought patterns appear to be unhealthy for telomeres, and one of them is cynical hostility. Cynical hostility is defined by high anger and frequent thoughts that other people cannot be trusted. Someone with hostility doesn’t just think, “I hate to stand in long lines”; they think, “Others deliberately sped up and beat me to my rightful position in the line!”—and then get violently agitated. People who score high on measures of cynical hostility tend to get more heart disease, metabolic disease and often die at younger ages. They also have shorter telomeres. In a study of British civil\n\nservants, men who scored high on measures of cynical hostility had shorter telomeres than men whose hostility scores were low. The most hostile men were 30% more likely to have short telomeres.\n\nWhat this means: aging is a dynamic process that could possibly be accelerated or slowed—and, in some aspects, even reversed. To an extent, it has surprised us and the rest of the scientific community that telomeres do not simply carry out the commands issued by your genetic code. Your telomeres are listening to you. The foods you eat, your response to challenges, the amount of exercise you get, and many other factors appear to influence your telomeres and can prevent premature aging at the cellular level. One of the keys to enjoying good health is simply doing your part to foster healthy cell renewal.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What have scientists come to know better today?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Why people age at different rates."
+                },
+                {
+                  "label": "B",
+                  "text": "How genes influence the aging process."
+                },
+                {
+                  "label": "C",
+                  "text": "How various genes express themselves in aging."
+                },
+                {
+                  "label": "D",
+                  "text": "Why people have long been concerned about aging."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why are some lifestyle factors considered extremely important?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may shorten the process of cell division."
+                },
+                {
+                  "label": "B",
+                  "text": "They may determine how genes function."
+                },
+                {
+                  "label": "C",
+                  "text": "They may affect the lifespan of telomeres."
+                },
+                {
+                  "label": "D",
+                  "text": "They may account for the stresses on cells."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What have the author and his colleagues discovered about telomeres?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their number affects the growth of cells."
+                },
+                {
+                  "label": "B",
+                  "text": "Their length determines the quality of life."
+                },
+                {
+                  "label": "C",
+                  "text": "Their shortening process can be reversed."
+                },
+                {
+                  "label": "D",
+                  "text": "Their health impacts the division of cells."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What have scientists learned about cynical hostility?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may lead to confrontational thought patterns."
+                },
+                {
+                  "label": "B",
+                  "text": "It may produce an adverse effect on telomeres."
+                },
+                {
+                  "label": "C",
+                  "text": "It may cause people to lose their temper frequently."
+                },
+                {
+                  "label": "D",
+                  "text": "It may stir up agitation among those in long lines."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do we learn from the last paragraph about the process of aging?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may vary from individual to individual."
+                },
+                {
+                  "label": "B",
+                  "text": "It challenges scientists to explore further."
+                },
+                {
+                  "label": "C",
+                  "text": "It depends on one's genetic code."
+                },
+                {
+                  "label": "D",
+                  "text": "It may be controlled to a degree."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Scientists have created by accident an enzyme (酶) that breaks down plastic drinks\n\nbottles. The breakthrough could help solve the global plastic pollution crisis by enabling for the first time the full recycling of bottles.\n\nThe new research was spurred by the discovery in 2016 of the first bacterium that had naturally evolved to eat plastic at a waste dump in Japan. Scientists have now revealed the detailed structure of the crucial enzyme produced by the bug.\n\nAn international team then adjusted the enzyme to see how it had evolved, but tests showed they had accidentally made the molecule even better at breaking down the plastic used for drinks bottles. “What actually turned out was we improved the enzyme, which was a bit of a shock,” said head researcher Prof. McGeehan, at the University of Portsmouth, UK.\n\nCurrently, the enzyme takes a few days to start breaking down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a viable large-scale process.\n\n“What we are hoping to do is use this enzyme to turn this plastic back into its original components, so we can literally recycle it back to plastic,” said McGeehan. “It means we won’t need to dig up any more oil and, fundamentally, it should reduce the amount of plastic in the environment.”\n\nAbout 1 million plastic bottles are sold each minute around the globe and, with just 14% recycled, many end up in the oceans where they have polluted even the remotest parts, harming marine life and potentially people who eat sea food. “Plastic is incredibly resistant to degradation,” said McGeehan. “It is one of these wonder materials that has been made a little bit too well.”\n\nCurrently those bottles that are recycled can only be turned into opaque fibres for clothing or carpets, while the new enzyme indicates a way to recycle old clear plastic bottles back into new clear plastic bottle.\n\n“You are always up against the fact oil is cheap, so plastic is cheap,” said McGeehan. “It is so easy for manufacturers to generate more of that stuff, rather than even try to recycle, but I believe there is a public interest here: perception is changing so much that companies are starting to look at how they can properly recycle these bottles.”\n\nProf. Adisa Azapagic, at the University of Manchester in the UK, agreed the enzyme could be useful but added: “A full life-cycle assessment would be needed to ensure that the technology does not solve one environmental problem—waste—at the expense of others, including additional greenhouse gas emissions.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn from the passage about an enzyme scientists have created?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It was identified during a lab experiment accident."
+                },
+                {
+                  "label": "B",
+                  "text": "It may make full recycling of plastic bottles a reality."
+                },
+                {
+                  "label": "C",
+                  "text": "It was a breakthrough made with persistent efforts."
+                },
+                {
+                  "label": "D",
+                  "text": "It may initiate a radical reform in plastic industry."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the passage say about the bug that produces the important enzyme?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has a natural ability to consume plastics.\n2022年12月英语六级真题第3套 第7页 共8页"
+                },
+                {
+                  "label": "B",
+                  "text": "It is a bacterium that reproduces at a high rate."
+                },
+                {
+                  "label": "C",
+                  "text": "It is essential to the recycling of plastic bottles."
+                },
+                {
+                  "label": "D",
+                  "text": "It has a chemical structure unknown to scientists."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "By adjusting the enzyme produced by the bug, the scientists _.",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "made it more effective by chance"
+                },
+                {
+                  "label": "B",
+                  "text": "discovered an extraordinary chemical"
+                },
+                {
+                  "label": "C",
+                  "text": "altered its basic molecular composition"
+                },
+                {
+                  "label": "D",
+                  "text": "found its evolutionary process sped up"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does Prof. McGeehan say about the recycling of plastic bottles?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Manufacturers are implementing it on an increasingly larger scale."
+                },
+                {
+                  "label": "B",
+                  "text": "It generates huge business opportunities for plastic manufacturers."
+                },
+                {
+                  "label": "C",
+                  "text": "It has aroused persistent interest among the general public."
+                },
+                {
+                  "label": "D",
+                  "text": "Manufacturers are beginning to explore ways of doing it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What is Prof. AdisaAzapagic's advice concerning the application of the enzyme?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Developing technologies to address greenhouse gas emissions."
+                },
+                {
+                  "label": "B",
+                  "text": "Considering the extra cost involved in producing the enzyme."
+                },
+                {
+                  "label": "C",
+                  "text": "Assessing its possible negative impact on the environment."
+                },
+                {
+                  "label": "D",
+                  "text": "Studying the full life cycle of the enzyme as the first step."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "云贵高原(the Yunnan-Guizhou Plateau)大部分位于云南、贵州省境内，总面积约50万平方公里，平均海拔2000-4000米，是中国第四大高原。云贵高原西高东低，河流众多，形成了许多又深又陡的峡谷(canyon)。峡谷中许多地方土壤肥沃，非常有利于多种农作物生长。\n\n云贵高原独特的自然环境造就了生物和文化的多样性。它是中国森林和矿产资源类型十分丰富的地区，也是古人类起源的重要地区。云贵高原是中国少数民族数量最多的地区，各民族都保留了自己丰富多彩的文化传统。\n\n2022年12月英语六级真题第3套 第8页 共8页"
+      }
+    ]
+  },
+  "id": "CET6-2022-12-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "36": {
+        "answer": "E",
+        "explanation": "E)【精析】细节归纳题。E)段第一句提到，古典音乐的听众并不总是那么有礼貌，接着以观众迫切要求乐团重奏第七交响曲的例子来佐证这一观点。该段最后一句又提到，在过去的几十年里，歌剧表演中的许多观众已经放弃了伪装，他们喜欢表演时就会大喊“Bravo(好极了)”。由此可知，题干是对E)段定位句的归纳概括:观众在听古典音乐时经常出现狂热失控的行为。题干中的not a rare occurrence和behaved wildly对应原文中的weren't always so polite，故答案为E)。"
+      },
+      "37": {
+        "answer": "L",
+        "explanation": "L)【精析】细节推断题。L)段定位句指出,这些高级艺术机构都表示希望有更多的普通观众,以打破文化障碍,但后来他们却提出了一些非常目中无人的要求,这些要求会让观众发疯。由此可以推断,这些高级艺术机构并非真心实意地欢迎更多的普通观众。题干中的 don't actually mean it 是根据原文中 they come up with some very snooty thing that makes you crazy 推断出的意思,题干中的 want more general audiences 直接对应原文内容,故答案为 L)。"
+      },
+      "38": {
+        "answer": "A",
+        "explanation": "A)【精析】同义转述题。A)段定位句提到，1913年，在巴黎，伊戈尔·斯特拉文斯基向世界展示了他革命性的芭蕾舞《春之祭》，旋律不和谐，编舞非正统，人群中的纯粹主义者大声而明确地表达了他们的不满，因而引发了一场骚乱。题干中的was in chaos对应原文中的sparked a riot；题干中的unconventional是原文中unorthodox的同义词；题干中的was first put on stage是对原文中introducing的同义转述，题干中的the capital of France对应原文中的Paris，故答案为A)。"
+      },
+      "39": {
+        "answer": "M",
+        "explanation": "M)【精析】同义转述题。M)段定位句提到，约翰·特劳德斯是一位曾广泛报道过多伦多古典音乐界的评论家，他认为观众越热情，音乐家们自己的反应就越好。题干中的one critic直接对应原文中的John Terauds, a critic; 题干中的the audience's warm response would encourage the musicians to do a better job是对原文中the warmer an audience is, the better the musicians themselves will respond的同义转述，故答案为M)。"
+      },
+      "40": {
+        "answer": "D",
+        "explanation": "统的欣赏古典音乐的方式。题干中的 many commenters 直接对应原文内容；题干中的 argued for 正好和原文中的 came out on the side of silence 形成呼应，故答案为 D)。"
+      },
+      "41": {
+        "answer": "H",
+        "explanation": "H)【精析】细节推断题。H)段定位句指出，当歌剧首次在演出期间设置字幕时，许多纯粹主义者不喜欢这个想法，他们认为观众应该在观看之前先研究一下作品。但现在观众普遍可以在座椅靠背上找到字幕，很容易就能明白作品的内容。由此可推断出，有了这些椅背屏幕上的字幕，观众就没有必要再事先研究作品了。题干中的 on the seatback screen 对应原文中的 on the seatback；题干中的 study the works beforehand 是对原文中 study the works before attending 的同义转述，故答案为 H)。"
+      },
+      "42": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节归纳题。B) 段第一句衔接上文，表示很难想象今天在美国神圣的交响乐大厅内会发生类似的骚乱，接着提到平时在欣赏古典音乐表演时即便手机响了也得当心。最后一句又指出，大多数古典音乐的表演过程都被一种彬彬有礼的氛围笼罩着。由此可知，题干是对 B) 段的归纳概括:这种骚乱在古典音乐表演中极为罕见，说明人们都认为在欣赏表演的过程中观众不可以有干扰性的行为。题干中的 there should be no disturbance 对应原文中的 it's difficult to imagine a similar disturbance；题干中的 during classical music performance 对应原文中的 hangs over most classical proceedings，故答案为 B)。"
+      },
+      "43": {
+        "answer": "O",
+        "explanation": "O)【精析】同义转述题。O)段定位句提出疑问:面对如今电视节目中非正统歌剧演员深受好评的现象，更高级的机构如果也试图通过这些表演平台寻求改变，是否有可能损害音乐的完整性或智慧？题干和原文内容意思相符。题干中的compromising the integrity of classical music对应原文中的“compromising the integrity...of the music”；题干中的resort to是原文中appeal to的同义表达；题干中的television medium对应原文中的these outlets，故答案为O)。"
+      },
+      "44": {
+        "answer": "K",
+        "explanation": "K)【精析】细节归纳题。K)段定位句指出,乐团向费城学生出售会员资格,他们可以买日程表上每场音乐会的抢购票。乐团的主席瓦尔格莫也提到,每晚大约有300或350个孩子来参加这些音乐会。由此可知,题干是对K)段定位句的归纳概括。题干中的heavily discounted rush tickets对应原文中的\\$25 annual memberships和rush tickets;题干中的young students对应原文中的Philadelphia students和kids;题干中的classical concerts对应原文中的concerts,故答案为K)。"
+      }
+    },
+    "references": {}
+  }
+}

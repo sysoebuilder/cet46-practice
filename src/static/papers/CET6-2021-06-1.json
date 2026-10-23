@@ -1,0 +1,1418 @@
+{
+  "schema_version": "1.0",
+  "year": 2021,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay based on the graph below. You should start your essay with a brief description of the graph and comment on China's achievements in urbanization. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay based on the graph below. You should start your essay with a brief description of the graph and comment on China's achievements in urbanization. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay based on the graph below. You should start your essay with a brief description of the graph and comment on China's achievements in urbanization. You should write at least 150 words but no more than 200 words.",
+        "materials": "Degree of urbanization in China from 1980 to 2019\n\n1980 1985 1990 1995 2000 2005 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is going to leave his present job."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is going to attend a job interview."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He will meet his new manager in two weeks."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He will tell the management how he really feels."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It should be carefully analyzed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can be quite useful to senior managers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It should be kept private."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can improve interviewees' job prospects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may do harm to his fellow employees."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may displease his immediate superiors."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may adversely affect his future career prospects."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may leave a negative impression on the interviewer."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Pour out his frustrations on a rate-your-employer website."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Network with his close friends to find a better employer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Do some practice for the exit interview."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Prepare a comprehensive exit report."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her career as a botanist."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her month-long expedition."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her latest documentary."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her unsuccessful journey."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was caught in a hurricane."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She suffered from water shortage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She had to live like a vegetarian."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She had to endure many hardships."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They could no longer bear the humidity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A flood was approaching."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They had no more food in the canoe."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A hurricane was coming."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was memorable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was fruitful."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was unbearable."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was uneventful."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It ensures the accuracy of their arguments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It hurts laymen's dignity and self-esteem."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It diminishes laymen's interest in science."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It makes their expressions more explicit."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They will see the complexity of science."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They tend to disbelieve the actual science."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They feel great respect towards scientists."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can learn to communicate with scientists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Explain all the jargon terms."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find appropriate topics."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Do away with jargon terms."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Stimulate their interest."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "There were oil deposits below a local gassy hill."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The erupting gas might endanger local children."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There was oil leakage along the Gulf Coast."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The local gassy hill might start a huge fire."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The massive gas underground."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their lack of suitable tools."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their lack of the needed skill."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The sand under the hill."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was not as effective as he claimed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It rendered many oil workers jobless."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It gave birth to the oil drilling industry."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was not popularized until years later."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It ruined the state's cotton and beef industries."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It resulted in an oil surplus all over the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It totally destroyed the state's rural landscape."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It radically transformed the state's economy."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Insufficient motivation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tough regulations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Unsuitable jobs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Bad managers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Ineffective training."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Overburdening of managers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Toxic company culture."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Lack of regular evaluation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was based only on the perspective of employees."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It provided meaningful clues to solving the problem."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was conducted from frontline managers' point of view."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It collected feedback from both employers and employees."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is expanding at an accelerating speed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is yielding an unprecedented profit."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is bringing prosperity to the region."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is seeing an automation revolution."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It creates a lot of new jobs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It exhausts resources sooner."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It causes conflicts between employers and employees."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It calls for the retraining of unskilled mining workers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They will wait to see its effect."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They accept it with reservations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They welcome it with open arms."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are strongly opposed to it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have experienced a gradual decline since the year of 2017."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their annual death rate is about twice that of the global average."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They kill more people than any infectious disease."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their cost to the nation's economy is incalculable."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are not as reliable as claimed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They rise and fall from year to year."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They don't reflect the changes in individual countries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They show a difference between rich and poor nations."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Many of them are investing heavily in infrastructure."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Many of them have seen a decline in road-death rates."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Many of them are following the example set by Thailand."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many of them have increasing numbers of cars on the road."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Foster better driving behavior."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Provide better training for drivers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Abolish all outdated traffic rules."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Impose heavier penalties on speeding."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "A new study has drawn a bleak picture of cultural inclusiveness reflected in the children's literature available in Australia. Dr. Helen Adam from Edith Cowan University's School of Education _26_ the cultural diversity of children's books. She examined the books _27_ in the kindergarten rooms of four day-care centers in Western Australia. Just 18 percent of 2,413 books in the total collection contained any _28_ of non-white people. Minority cultures were often featured in stereotypical or tokenistic ways, for example, by _29_ Asian culture with chopsticks and traditional dress. Characters that did represent a minority culture usually had _30_ roles in the books. The main characters were mostly Caucasian. This causes concern as it can lead to an impression that whiteness is of greater value.\n\nDr. Adam said children formed impressions about ‘difference’ and identity from a very young age. Evidence has shown they develop own-race 31 from as young as three months of age. The books we\n\nshare with young children can be a valuable opportunity to develop children's understanding of themselves and others. Books can also allow children to see diversity. They discover both similarities and differences between themselves and others. This can help develop understanding, acceptance and 32 of diversity.\n\nCensus data has shown Australians come from more than 200 countries. They speak over 300 languages at home. Additionally, Australians belong to more than 100 different religious groups. They also work in more than 1,000 different occupations. “Australia is a multicultural society. The current 33 promotion of white middle-class ideas and lifestyles risks 34 children from minority groups. This can give white middle-class children a sense of 35 or privilege,” Dr. Adam said.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "alienating"
+        },
+        {
+          "label": "F",
+          "text": "investigated"
+        },
+        {
+          "label": "K",
+          "text": "secondary"
+        },
+        {
+          "label": "B",
+          "text": "appreciation"
+        },
+        {
+          "label": "G",
+          "text": "overwhelming"
+        },
+        {
+          "label": "L",
+          "text": "superiority"
+        },
+        {
+          "label": "C",
+          "text": "bias"
+        },
+        {
+          "label": "H",
+          "text": "portraying"
+        },
+        {
+          "label": "M",
+          "text": "temperament"
+        },
+        {
+          "label": "D",
+          "text": "fraud"
+        },
+        {
+          "label": "I",
+          "text": "representation"
+        },
+        {
+          "label": "N",
+          "text": "tentative"
+        },
+        {
+          "label": "E",
+          "text": "housed"
+        },
+        {
+          "label": "J",
+          "text": "safeguarded"
+        },
+        {
+          "label": "O",
+          "text": "threshold"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 192,
+          "end": 196
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 264,
+          "end": 268
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 411,
+          "end": 415
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 528,
+          "end": 532
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 647,
+          "end": 651
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 942,
+          "end": 944
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1294,
+          "end": 1296
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1606,
+          "end": 1608
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1668,
+          "end": 1670
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1755,
+          "end": 1757
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How Marconi Gave Us the Wireless World",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "A hundred years before iconic figures like Bill Gates and Steve Jobs permeated our lives, an Irish-Italian inventor laid the foundation of the communication explosion of the 21st century. Guglielmo Marconi was arguably the first truly global figure in modern communication. Not only was he the first to communicate globally, he was the first to think globally about communication. Marconi may not have been the greatest inventor of his time, but more than anyone else, he brought about a fundamental shift in the way we communicate."
+        },
+        {
+          "label": "B",
+          "text": "Today's globally networked media and communication system has its origins in the 19th century, when, for the first time, messages were sent electronically across great distances. The telegraph, the telephone, and radio were the obvious predecessors of the Internet, iPods, and mobile phones. What made the link from then to now was the development of wireless communication. Marconi was the first to develop and perfect this system, using the recently-discovered “air waves” that make up the electromagnetic spectrum."
+        },
+        {
+          "label": "C",
+          "text": "Between 1896, when he applied for his first patent in England at the age of 22, and his death in Italy in 1937, Marconi was at the center of every major innovation in electronic communication. He was also a skilled and sophisticated organizer, an entrepreneurial innovator, who mastered the use of corporate strategy, media relations, government lobbying, international diplomacy, patents, and prosecution. Marconi was really interested in only one thing: the extension of mobile, personal, long-distance communication to the ends of the earth (and beyond, if we can believe some reports). Some like to refer to him as a genius, but if there was any genius to Marconi it was this vision."
+        },
+        {
+          "label": "D",
+          "text": "In 1901 he succeeded in signaling across the Atlantic, from the west coast of England to Newfoundland in the USA, despite the claims of science that it could not be done. In 1924 he convinced the British government to encircle the world with a chain of wireless stations using the latest technology that he had devised, shortwave radio. There are some who say Marconi lost his edge when commercial broadcasting came along; he didn't see that radio could or should be used to frivolous (无聊的) ends. In one of his last public speeches, a radio broadcast to the United States in March 1937, he deplored that broadcasting had become a one-way means of communication and foresaw it moving in another\n\ndirection, toward communication as a means of exchange. That was visionary genius."
+        },
+        {
+          "label": "E",
+          "text": "Marconi's career was devoted to making wireless communication happen cheaply, efficiently, smoothly, and with an elegance that would appear to be intuitive and uncomplicated to the user—user-friendly, if you will. There is a direct connection from Marconi to today's social media, search engines, and program streaming that can best be summed up by an admittedly provocative exclamation: the 20th century did not exist. In a sense, Marconi's vision jumped from his time to our own."
+        },
+        {
+          "label": "F",
+          "text": "Marconi invented the idea of global communication—or, more straightforwardly, globally networked, mobile, wireless communication. Initially, this was wireless Morse code telegraphy (电报通讯), the principal communication technology of his day. Marconi was the first to develop a practical method for wireless telegraphy using radio waves. He borrowed technical details from many sources, but what set him apart was a self-confident vision of the power of communication technology on the one hand, and, on the other, of the steps that needed to be taken to consolidate his own position as a player in that field. Tracing Marconi's lifeline leads us into the story of modern communication itself. There were other important figures, but Marconi towered over them all in reach, power, and influence, as well as in the grip he had on the popular imagination of his time. Marconi was quite simply the central figure in the emergence of a modern understanding of communication."
+        },
+        {
+          "label": "G",
+          "text": "In his lifetime, Marconi foresaw the development of television and the fax machine, GPS, radar, and the portable hand-held telephone. Two months before he died, newspapers were reporting that he was working on a “death ray,” and that he had “killed a rat with an intricate device at a distance of three feet.” By then, anything Marconi said or did was newsworthy. Stock prices rose or sank according to his pronouncements. If Marconi said he thought it might rain, there was likely to be a run on umbrellas."
+        },
+        {
+          "label": "H",
+          "text": "Marconi's biography is also a story about choices and the motivations behind them. At one level, Marconi could be fiercely autonomous and independent of the constraints of his own social class. On another scale, he was a perpetual outsider. Wherever he went, he was never “of” the group; he was always the “other,” considered foreign in Britain, British in Italy, and “not American” in the United States. At the same time, he also suffered tremendously from a need for acceptance that drove, and sometimes stained, every one of his relationships."
+        },
+        {
+          "label": "I",
+          "text": "Marconi placed a permanent stamp on the way we live. He was the first person to imagine a practical application for the wireless spectrum, and to develop it successfully into a global communication system—in both terms of the word; that is, worldwide and all-inclusive. He was able to do this because of a combination of factors—most important, timing and opportunity—but the single-mindedness and determination with which he carried out his self-imposed mission was fundamentally character-based; millions of Marconi’s contemporaries had the same class, gender, race, and colonial privilege as he, but only a handful did anything with it. Marconi needed to achieve the goal that was set in his mind as an adolescent; by the time he reached adulthood, he understood, intuitively, that in order to have an impact he had to both develop an independent economic base and align himself with political power. Disciplined, uncritical loyalty to political power became his compass for the choices he had to make."
+        },
+        {
+          "label": "J",
+          "text": "At the same time, Marconi was uncompromisingly independent intellectually. Shortly after Marconi's death, the nuclear physicist Enrico Fermi—soon to be the developer of the Manhattan Project—wrote that Marconi proved that theory and experimentation were complementary features of progress. \"Experience can rarely, unless guided by a theoretical concept, arrive at results of any great significance...on the other hand, an excessive trust in theoretical conviction would have prevented Marconi from persisting in experiments which were destined to bring about a revolution in the technique of radio-communications.\" In other words, Marconi had the advantage of not being burdened by preconceived assumptions."
+        },
+        {
+          "label": "K",
+          "text": "The most controversial aspect of Marconi's life—and the reason why there has been no satisfying biography of Marconi until now—was his uncritical embrace of Benito Mussolini. At first this was not problematic for him. But as the regressive (倒退的) nature of Mussolini's regime became clear, he began to suffer a crisis of conscience. However, after a lifetime of moving within the circles of power, he was unable to break with authority, and served Mussolini faithfully (as president of Italy's national research council and royal academy, as well as a member of the Fascist Grand Council) until the day he died—conveniently—in 1937, shortly before he would have had to take a stand in the conflict that consumed a world that he had, in part, created."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Marconi was central to our present-day understanding of communication."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "As an adult, Marconi had an intuition that he had to be loyal to politicians in order to be influential."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Marconi disapproved of the use of wireless communication for commercial broadcasting."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Marconi's example demonstrates that theoretical concepts and experiments complement each other in making progress in science and technology."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Marconi's real interest lay in the development of worldwide wireless communication."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Marconi spent his whole life making wireless communication simple to use."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Because of his long-time connection with people in power, Marconi was unable to cut himself off from the fascist regime in Italy."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "In his later years, Marconi exerted a tremendous influence on all aspects of people's life."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "What connected the 19th century and our present time was the development of wireless communication."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Despite his autonomy, Marconi felt alienated and suffered from a lack of acceptance."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Humans are fascinated by the source of their failings and virtues. This preoccupation inevitably leads to an old debate: whether nature or nurture moulds us more. A revolution in genetics has poised this as a modern political question about the character of our society: if personalities are hard-wired into our genes, what can governments do to help us? It feels morally questionable, yet claims of genetic selection by intelligence are making headlines.\n\nThis is down to “hereditarian”（遗传论的）science and a recent paper claimed “differences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them”. With such an assertion, the work was predictably greeted by a lot of absurd claims about “genetics determining academic success”. What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils’ inborn ability and socioeconomic background were taken into account. It is a glimpse of the blindingly obvious—and there’s nothing to back strongly either a hereditary or environmental argument.\n\nYet the paper does say children are “unintentionally genetically selected” by the school system. Central to hereditarian science is a tall claim: that identifiable variations in genetic sequences can predict an individual’s aptness to learn, reason and solve problems. This is problematic on many levels. A teacher could not seriously tell a parent their child has a low genetic tendency to study when external factors clearly exist. Unlike-minded academics say the inheritability of human traits is scientifically unsound. At best there is a weak statistical association and not a causal link between DNA and intelligence. Yet sophisticated statistics are used to create an intimidatory atmosphere of scientific certainty.\n\nWhile there's an undoubted genetic basis to individual difference, it is wrong to think that socially\n\ndefined groups can be genetically accounted for. The fixation on genes as destiny is surely false too. Medical predictability can rarely be based on DNA alone; the environment matters too. Something as complex as intellect is likely to be affected by many factors beyond genes. If hereditarians want to advance their cause it will require more balanced interpretation and not just acts of advocacy.\n\nGenetic selection is a way of exerting influence over others, “the ultimate collective control of human destinies,” as writer H. G. Wells put it. Knowledge becomes power and power requires a sense of responsibility. In understanding cognitive ability, we must not elevate discrimination to a science; allowing people to climb the ladder of life only as far as their cells might suggest. This will need a more sceptical eye on the science. As technology progresses, we all have a duty to make sure that we shape a future that we would want to find ourselves in.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What did a recent research paper claim?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The type of school students attend makes a difference to their future."
+                },
+                {
+                  "label": "B",
+                  "text": "Genetic differences between students are far greater than supposed."
+                },
+                {
+                  "label": "C",
+                  "text": "The advantages of selective schools are too obvious to ignore."
+                },
+                {
+                  "label": "D",
+                  "text": "Students' academic performance is determined by their genes."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author think of the recent research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its result was questionable."
+                },
+                {
+                  "label": "B",
+                  "text": "Its implication was positive."
+                },
+                {
+                  "label": "C",
+                  "text": "Its influence was rather negligible."
+                },
+                {
+                  "label": "D",
+                  "text": "Its conclusions were enlightening."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author say about the relationship between DNA and intelligence?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is one of scientific certainty."
+                },
+                {
+                  "label": "B",
+                  "text": "It is not one of cause and effect."
+                },
+                {
+                  "label": "C",
+                  "text": "It is subject to interpretation of statistics."
+                },
+                {
+                  "label": "D",
+                  "text": "It is not fully examined by gene scientists."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do hereditarians need to do to make their claims convincing?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Take all relevant factors into account in interpreting their data."
+                },
+                {
+                  "label": "B",
+                  "text": "Conduct their research using more sophisticated technology."
+                },
+                {
+                  "label": "C",
+                  "text": "Gather gene data from people of all social classes."
+                },
+                {
+                  "label": "D",
+                  "text": "Cooperate with social scientists in their research."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author warn against in the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Exaggerating the power of technology in shaping the world."
+                },
+                {
+                  "label": "B",
+                  "text": "Losing sight of professional ethics in conducting research."
+                },
+                {
+                  "label": "C",
+                  "text": "Misunderstanding the findings of human cognition research."
+                },
+                {
+                  "label": "D",
+                  "text": "Promoting discrimination in the name of science."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Nicola Sturgeon's speech last Tuesday setting out the Scottish government's legislative programme for the year ahead confirmed what was already pretty clear. Scottish councils are set to be the first in the UK with the power to levy charges on visitors, with Edinburgh likely to lead the way.\n\nTourist taxes are not new. The Himayalan kingdom of Bhutan has a longstanding policy of charging visitors a daily fee. France's tax on overnight stays was introduced to assist thermal spa (温泉) towns to develop, and around half of French local authorities use it today.\n\nBut such levies are on the rise. Moves by Barcelona and Venice to deal with the phenomenon of “over-tourism” through the use of charges have recently gained prominence. Japan and Greece are among the countries to have recently introduced tourist taxes.\n\nThat the UK lags behind is due to our weak, by international standards, local government, as well as the opposition to taxes and regulation of our aggressively pro-market ruling party. Some UK cities have lobbied without success for the power to levy a charge on visitors. Such levies are no universal remedy as the amounts raised would be tiny compared with what has been taken away by central government since 2010. Still, it is to be hoped that the Scottish government's bold move will prompt others to act. There is\n\nno reason why visitors to the UK, or domestic tourists on holiday in hotspots such as Cornwall, should be exempt from taxation—particularly when vital local services including waste collection, park maintenance and arts and culture spending are under unprecedented strain.\n\nOn the contrary, compelling tourists to make a financial contribution to the places they visit beyond their personal consumption should be part of a wider cultural shift. Westerners with disposable incomes have often behaved as if they have a right to go wherever they choose with little regard for the consequences. Just as the environmental harm caused by aviation and other transport must come under far greater scrutiny, the social cost of tourism must also be confronted. This includes the impact of short-term lets on housing costs and quality of life for residents. Several European capitals, including Paris and Berlin, are leading a campaign for tougher regulation by the European Union. It also includes the impact of overcrowding, litter and the kinds of behaviour associated with noisy parties.\n\nThere is no “one size fits all” solution to this problem. The existence of new revenue streams for some but not all councils is complicated, and businesses are often opposed, fearing higher costs will make them uncompetitive. But those places that want them must be given the chance to make tourist taxes work.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn from Nicola Sturgeon's speech?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The UK is set to adjust its policy on taxation."
+                },
+                {
+                  "label": "B",
+                  "text": "Tourists will have to pay a tax to visit Scotland."
+                },
+                {
+                  "label": "C",
+                  "text": "The UK will take new measures to boost tourism."
+                },
+                {
+                  "label": "D",
+                  "text": "Edinburgh contributes most to Scotland's tourism."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "How come the UK has been slow in imposing the tourist tax?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its government wants to attract more tourists."
+                },
+                {
+                  "label": "B",
+                  "text": "The tax is unlikely to add much to its revenue."
+                },
+                {
+                  "label": "C",
+                  "text": "Its ruling party is opposed to taxes and regulation."
+                },
+                {
+                  "label": "D",
+                  "text": "It takes time for local governments to reach consensus."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Both international and domestic visitors in the UK should pay tourist tax so as to .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "elevate its tourism to international standards"
+                },
+                {
+                  "label": "B",
+                  "text": "improve the welfare of its maintenance workers"
+                },
+                {
+                  "label": "C",
+                  "text": "promote its cultural exchange with other nations"
+                },
+                {
+                  "label": "D",
+                  "text": "ease its financial burden of providing local services"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say about Western tourists?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They don't seem to care about the social cost of tourism."
+                },
+                {
+                  "label": "B",
+                  "text": "They don't seem to mind paying for additional services."
+                },
+                {
+                  "label": "C",
+                  "text": "They deem travel an important part of their life."
+                },
+                {
+                  "label": "D",
+                  "text": "They subject the effects of tourism to scrutiny."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What are UK people's opinions about the levy of tourist tax?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Supportive."
+                },
+                {
+                  "label": "B",
+                  "text": "Skeptical."
+                },
+                {
+                  "label": "C",
+                  "text": "Divided."
+                },
+                {
+                  "label": "D",
+                  "text": "Unclear."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "海南是仅次于台湾的中国第二大岛,是位于中国最南端的省份。海南岛风景秀丽,气候宜人,阳光充足,生物多样,温泉密布,海水清澈,大部分海滩几乎全年都是游泳和日光浴的理想场所,因而被誉为中国的四季花园和度假胜地,每年都吸引了大批中外游客。\n\n海南 1988 年建省以来,旅游业、服务业、高新技术产业飞速发展,是中国唯一的省级经济特区。在中央政府和全国人民的大力支持下,海南将建成中国最大的自由贸易试验区。"
+      }
+    ]
+  },
+  "id": "CET6-2021-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "A)【精析】事实细节题。对话开头男士提到,明天是他最后一天来上班,他两周内就会开始新的工作,人事部经理想在他离开之前和他面谈一次。因此答案为A)。"
+      },
+      "2": {
+        "answer": "B",
+        "explanation": "答案为B)。"
+      },
+      "3": {
+        "answer": "C",
+        "explanation": "C) 【精析】细节理解题。句(3)中男士说,女士的话让他重新考虑在离职面谈中透露什么内容,这总是有可能会影响他的声誉以及他在行业中建立人际关系网的能力。因此答案为 C)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)【精析】细节理解题。句(4)中男士说,或许他最好去一个给雇主打分的网站上一吐为快。因此答案为 A)。"
+      },
+      "5": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(5)中男士说,自从女士最新的纪录片发行以来,她已经成了名人,并问女士能否介绍一下她的纪录片。因此答案为 B)。"
+      },
+      "6": {
+        "answer": "D",
+        "explanation": "因为湿度简直令人难以忍受。因此答案为D)。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(7)中女士说,他们在半路上接到消息说飓风就要来了,所以他们不得不在短时间内撤离。因此答案为D)。"
+      },
+      "8": {
+        "answer": "C",
+        "explanation": "C)【精析】细节理解题。对话最后,男士问女士,这次行程是不是失败了,女士在句(8)中否认了男士的说法,并说他们在这次行程中收集了大量关于当地植物的数据。因此答案为 C)。"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节理解题。句(9)中提到,在一项新的研究中,阅读自动驾驶汽车和外科手术机器人等主题的文章时,接触术语的人后来表示,与阅读相同话题但没有接触专业术语的人相比,他们对科学的兴趣较小。也就是说,术语降低了外行人对科学的兴趣,答案为 B)。"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "C)【精析】细节理解题。句(10)中提到,在另一项研究中,研究人员发现,阅读含有术语的科学文章会让人怀疑真正的科学。因此答案为 C)。"
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "A)【精析】事实细节题。由句(12)可知,帕蒂罗·希金斯是当地一个声名狼藉的商人,他确信这座充满天然气的小山下面有石油。因此答案为A)。"
+      },
+      "13": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。由句(13)可知,当时的油井不是钻取的,基本上是挖出来的。希金斯的工人们几次想挖一个合适的洞都被山下的沙子挫败了。因此答案为 D)。"
+      },
+      "14": {
+        "answer": "C",
+        "explanation": "C) 【精析】事实细节题。由句(14)可知,在经历了几次挫折后,卢卡斯队长决定使用钻机,他的创新创造了现代石油钻探行业。因此答案为 C)。"
+      },
+      "15": {
+        "answer": "D",
+        "explanation": "D)【精析】细节归纳题。由句(15)可知,当时的得克萨斯州几乎完全是农村,没有大城市,几乎没有工业;棉花和牛肉是经济的基础。希金斯的油井改变了这一点。丰富的石油使一些勘探者成为百万富翁,但是石油的突然过剩并不完全是得克萨斯州的福音。20世纪30年代,油价暴跌,以至于在美国的某些地区,石油比水还便宜。这将成为得克萨斯州经济繁荣或萧条的常见模式。因此答案为D)。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "D) 【精析】事实细节题。由句(16)可知,最新研究显示,导致员工不满的一个主要原因是,很多人认为自己有一个糟糕的经理。因此答案为 D)。"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "认为这导致了糟糕的管理做法,这样的工作场所有时被描述为是有毒的。因此答案为 B)。"
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "A) 【精析】事实细节题。句(18)中提到,值得指出的一点是,这项研究只是基于员工的视角。研究人员没有询问高层领导对一线经理的看法。因此答案为 A)。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "D)【精析】细节理解题。句(19)中提到,支持者认为,这些自动化车辆将永远改变采矿业。自动化技术的应用可能只需要5年的时间就能实现全机器人采矿。一系列因素已将西澳大利亚沙漠地区推向自动化革命的前沿。因此答案为D)。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "业)的自动化和数字化创造了对不同工作岗位的需求。也就是说,采矿业数字化创造了很多新的就业岗位,答案为 A)。"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "C)【精析】细节理解题。句(21)中提到,工会已经接受了新技术引入的必然性,但它们对自动化技术的兴起仍持保留态度,它们主要担心的是对偏远社区的潜在影响。因此答案为 C)。"
+      },
+      "22": {
+        "answer": "B",
+        "explanation": "的两倍。因此答案为B)。"
+      },
+      "23": {
+        "answer": "C",
+        "explanation": "称,自世纪之交以来,死亡总人数或多或少保持不变,但这掩盖了各个国家的许多变化。因此答案为 C)。"
+      },
+      "24": {
+        "answer": "B",
+        "explanation": "亡人数在四年前达到顶峰。因此答案为B)。"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": "F) 【精析】同义转述题。F) 段最后一句说到，马可尼显然是现代通信概念出现过程中的核心人物。题干是对该句的同义转述。题干中的 central to 对应原文中的 the central figure in, 题干中的 our present-day understanding of communication 对应原文中的 a modern understanding of communication, 故答案为 F)。"
+      },
+      "37": {
+        "answer": "I",
+        "explanation": "I) 【精析】同义转述题。I)段倒数第二句分号后的部分提到,到了成年,他凭直觉明白,要想产生影响,他既要有独立的经济基础,又要与政权结盟。题干中的 as an adult 对应原文中的 by the time he reached adulthood, 题干中的 Marconi had an intuition that he had to be loyal to politicians in order to be influential 是对原文中“he understood, intuitively, that in order to have an impact he had to... and align himself with political power”的同义转述,故答案为 I)。"
+      },
+      "38": {
+        "answer": "D",
+        "explanation": "播出现时，马可尼失去了优势；他认为收音机不可以或不应该用来做无聊的事。随后一句也提到，他曾谴责广播已成为一种单向的通信手段，可见他对于无线通信用于商业广播持反对态度。题干中的disapproved of the use of wireless communication for commercial broadcasting 是对原文中 he didn't see that radio could or should be used to frivolous ends 和 he deplored that broadcasting had become a one-way means of communication 这两处信息的概括性转述，故答案为 D)。"
+      },
+      "39": {
+        "answer": "J",
+        "explanation": "J) 【精析】同义转述题。J) 段定位句后半部分指出，马可尼证明了理论和实验在互补中发展进步。题干中的 Marconi's example demonstrates 对应原文中的 Marconi proved；题干中的 theoretical concepts and experiments complement each other in making progress in science and technology 是对原文中 theory and experimentation were complementary features of progress 的同义转述，故答案为 J)。"
+      },
+      "40": {
+        "answer": "C",
+        "explanation": "正感兴趣的只有一件事:将移动的、个人的、远程的通信延伸到地球的尽头(甚至更远,如果我们相信一些报道的话)。由此可知,马可尼真正感兴趣的是如何发展全球无线通信。题干中的 Marconi's real interest 对应原文中的 Marconi was really interested; 题干中的 the development of worldwide wireless communication 是对原文中 the extension of mobile, personal, long-distance communication to the ends of the earth (and beyond, if we can believe some reports)的归纳概括,故答案为 C)。"
+      },
+      "41": {
+        "answer": "E",
+        "explanation": "E) 【精析】细节归纳题。E) 段定位句指出，马可尼在职业生涯中致力于使无线通信便宜、高效、顺畅，给用户直观和简明的优雅感——或者说是做到用户友好。题干中的 Marconi spent his whole life 对应原文中 Marconi's career was devoted to，题干中的 simple to use 是对原文中 cheaply, efficiently, smoothly, and with an elegance that would appear to be intuitive and uncomplicated to the user—user-friendly 的归纳概括，故答案为 E)。"
+      },
+      "42": {
+        "answer": "K",
+        "explanation": "K) 【精析】同义转述题。K) 段定位句指出，他一生在权力圈内活动，无法与政权决裂，始终为墨索里尼忠实服务。题干中的 his long-time connection with people in power 是对原文中的 a lifetime of moving within the circles of power 的转述，题干中的 unable to cut himself off from the fascist regime in Italy 是对原文中 unable to break with authority, and served Mussolini faithfully 的同义转述，故答案为 K)。"
+      },
+      "43": {
+        "answer": "G",
+        "explanation": "随后一句说,到那时,马可尼所说或所做的一切都是有新闻价值的,之后举了两个生活实例:股票价格随着他的声明涨涨跌跌,如果马可尼说他认为可能会下雨,那大家就很可能都跑去买雨伞。由此可以推知,晚年阶段的马可尼对人们生活的各方面都影响巨大。题干中的 in his later years 对应原文中的 two months before he died,题干中的 Marconi exerted a tremendous influence on all aspects of people's life 是对原文中 anything Marconi said or did was newsworthy 及其后两个生活中实例的归纳概括,故答案为 G)。"
+      },
+      "44": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节归纳题。B) 段第一句前半部分提到，今天的全球网络媒体和通信系统起源于 19 世纪，随后第二句举出了一些实例，而第三句则指出，是无线通信的发展成就了从那时到现在的联系。题干中的 what connected the 19th century and our present time 是对原文中 has its origins in the 19th century 和 what made the link from then to now 两处信息的概括性转述，故答案为 B)。"
+      }
+    },
+    "references": {}
+  }
+}

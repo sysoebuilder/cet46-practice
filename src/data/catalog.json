@@ -1,0 +1,835 @@
+[
+  {
+    "id": "CET4-2026-06-1",
+    "year": 2026,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2026-06-2",
+    "year": 2026,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2026-06-3",
+    "year": 2026,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2026-06-1",
+    "year": 2026,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2026-06-2",
+    "year": 2026,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2026-06-3",
+    "year": 2026,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2025-12-1",
+    "year": 2025,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2025-12-2",
+    "year": 2025,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2025-12-3",
+    "year": 2025,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2025-12-1",
+    "year": 2025,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2025-12-2",
+    "year": 2025,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2025-12-3",
+    "year": 2025,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2025-06-1",
+    "year": 2025,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2025-06-2",
+    "year": 2025,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2025-06-3",
+    "year": 2025,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2025-06-1",
+    "year": 2025,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2025-06-2",
+    "year": 2025,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2025-06-3",
+    "year": 2025,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2024-12-1",
+    "year": 2024,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2024-12-2",
+    "year": 2024,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2024-12-3",
+    "year": 2024,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2024-12-1",
+    "year": 2024,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2024-12-2",
+    "year": 2024,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2024-12-3",
+    "year": 2024,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2024-06-1",
+    "year": 2024,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2024-06-2",
+    "year": 2024,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2024-06-3",
+    "year": 2024,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2023-12-1",
+    "year": 2023,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2023-12-2",
+    "year": 2023,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2023-12-3",
+    "year": 2023,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2023-12-1",
+    "year": 2023,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2023-12-2",
+    "year": 2023,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2023-12-3",
+    "year": 2023,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2023-06-1",
+    "year": 2023,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2023-06-2",
+    "year": 2023,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2023-06-3",
+    "year": 2023,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2023-06-1",
+    "year": 2023,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2023-06-2",
+    "year": 2023,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2023-06-3",
+    "year": 2023,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2023-03-1",
+    "year": 2023,
+    "month": 3,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2023-03-2",
+    "year": 2023,
+    "month": 3,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2023-03-3",
+    "year": 2023,
+    "month": 3,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2022-12-1",
+    "year": 2022,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2022-12-2",
+    "year": 2022,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2022-12-3",
+    "year": 2022,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2022-12-1",
+    "year": 2022,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2022-12-2",
+    "year": 2022,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2022-12-3",
+    "year": 2022,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2022-09-1",
+    "year": 2022,
+    "month": 9,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2022-09-2",
+    "year": 2022,
+    "month": 9,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2022-09-3",
+    "year": 2022,
+    "month": 9,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2022-09-1",
+    "year": 2022,
+    "month": 9,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2022-09-2",
+    "year": 2022,
+    "month": 9,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2022-09-3",
+    "year": 2022,
+    "month": 9,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2022-06-1",
+    "year": 2022,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2022-06-2",
+    "year": 2022,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2022-06-3",
+    "year": 2022,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2022-06-1",
+    "year": 2022,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2022-06-2",
+    "year": 2022,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2022-06-3",
+    "year": 2022,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2021-12-1",
+    "year": 2021,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2021-12-2",
+    "year": 2021,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2021-12-3",
+    "year": 2021,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2021-06-1",
+    "year": 2021,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2021-06-2",
+    "year": 2021,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2021-06-3",
+    "year": 2021,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2021-06-1",
+    "year": 2021,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2021-06-2",
+    "year": 2021,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2021-06-3",
+    "year": 2021,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2020-12-1",
+    "year": 2020,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2020-12-2",
+    "year": 2020,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2020-12-3",
+    "year": 2020,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2020-12-1",
+    "year": 2020,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2020-12-2",
+    "year": 2020,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2020-12-3",
+    "year": 2020,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2020-09-1",
+    "year": 2020,
+    "month": 9,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2020-09-2",
+    "year": 2020,
+    "month": 9,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2020-09-3",
+    "year": 2020,
+    "month": 9,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2020-09-1",
+    "year": 2020,
+    "month": 9,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2020-09-2",
+    "year": 2020,
+    "month": 9,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2020-09-3",
+    "year": 2020,
+    "month": 9,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2020-07-1",
+    "year": 2020,
+    "month": 7,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2020-07-1",
+    "year": 2020,
+    "month": 7,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2019-12-1",
+    "year": 2019,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2019-12-2",
+    "year": 2019,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2019-12-3",
+    "year": 2019,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2019-12-1",
+    "year": 2019,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2019-12-2",
+    "year": 2019,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2019-12-3",
+    "year": 2019,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2019-06-1",
+    "year": 2019,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2019-06-2",
+    "year": 2019,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2019-06-3",
+    "year": 2019,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2019-06-1",
+    "year": 2019,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2019-06-2",
+    "year": 2019,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2019-06-3",
+    "year": 2019,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2018-12-1",
+    "year": 2018,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2018-12-2",
+    "year": 2018,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2018-12-3",
+    "year": 2018,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2018-12-1",
+    "year": 2018,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2018-12-2",
+    "year": 2018,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2018-12-3",
+    "year": 2018,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2018-06-1",
+    "year": 2018,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2018-06-2",
+    "year": 2018,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2018-06-3",
+    "year": 2018,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2018-06-1",
+    "year": 2018,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2018-06-2",
+    "year": 2018,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2018-06-3",
+    "year": 2018,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2017-12-1",
+    "year": 2017,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2017-12-2",
+    "year": 2017,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2017-12-3",
+    "year": 2017,
+    "month": 12,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2017-12-1",
+    "year": 2017,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2017-12-2",
+    "year": 2017,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2017-12-3",
+    "year": 2017,
+    "month": 12,
+    "level": "CET6",
+    "set_number": 3
+  },
+  {
+    "id": "CET4-2017-06-1",
+    "year": 2017,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 1
+  },
+  {
+    "id": "CET4-2017-06-2",
+    "year": 2017,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 2
+  },
+  {
+    "id": "CET4-2017-06-3",
+    "year": 2017,
+    "month": 6,
+    "level": "CET4",
+    "set_number": 3
+  },
+  {
+    "id": "CET6-2017-06-1",
+    "year": 2017,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 1
+  },
+  {
+    "id": "CET6-2017-06-2",
+    "year": 2017,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 2
+  },
+  {
+    "id": "CET6-2017-06-3",
+    "year": 2017,
+    "month": 6,
+    "level": "CET6",
+    "set_number": 3
+  }
+]

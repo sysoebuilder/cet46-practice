@@ -1,0 +1,1307 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this task, you are to write an essay on the role of physical exercise in achieving success at college. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "In this task, you are to write an essay on the role of physical exercise in achieving success at college. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "In this task, you are to write an essay on the role of physical exercise in achieving success at college. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Part of its dam wall collapsed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It released a lot of harmful gases."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was destroyed by an earthquake."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Some miners were trapped underground."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It posed a safety threat to the miners."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It brought the mine's operations to a halt."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It caused damage too heavy to assess."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was followed by two more earthquakes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It prepared beds for all the six new citizens."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It assigned a team of doctors for each expected baby."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It made ample preparations for various possibilities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It brought in the most advanced instruments."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They had to undergo 2-3 physical checkups."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were all of normal size except the sixth."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They could go home together with their mother a day later."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They needed to stay in the hospital for a couple of months."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is owned by the local government."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has been bought by an American."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has been turned into a public park."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a perfect tourist destination."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its seafood."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its unspoiled beaches."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its unusual coastline."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its architecture."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has an unmatched location."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is worth over 18 million euros."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has beautiful weather all year round."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is an ideal place to meet famous stars."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She has been attending some group classes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She has registered for two new gym classes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She became a member of the gym two months ago."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is entitled to a discount on all the gym exercises."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Considering the promotion of its regular classes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Taking measures to expand its exercise programs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Recruiting coaches for hot yoga and advanced spinning."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Offering existing members a discount off two new classes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She missed the deadline for the 10-week course."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She missed out on the gym's general discount."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She didn't sign up for membership in time."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She wasn't so much interested in hot yoga."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She doesn't want to reveal her card details over the phone."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She doesn't think it wise to pay before attending any class."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She might have to cancel her registration any minute."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She prefers to have the fee added to her monthly bill."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To make investments."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To research new markets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To sign a business contract."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To open a new office."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Dubai."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Beijing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Amsterdam."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Earl's Court."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Rent a bike for him to get around the town."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help him prepare his presentation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Reserve a meeting room in the head office."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Send him a map of the hotel area."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Bring his projector."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Keep all his receipts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Submit his claims form."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Pay with his credit card."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Whether a country's educational level is linked to women's rights."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Whether women's rights are making good progress around the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Whether a country's protection of women's rights is related to its public health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Whether women's rights are more often overlooked in less-developed countries."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their people still have better health if women's rights are respected."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They must make efforts to increase women's access to health care."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their people tend to attach importance to women's rights."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They need to invest more in hospital staff and facilities."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their link with a country's public health."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their potential impact on social progress."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their value to a country's international image."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their positive effect on economic development."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It creates a wonderful setting for dating."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may cause strange physical reactions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It turns parks into picnic sites."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may result in a crowded beach."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Breathing difficulty."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Excessive sweating."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Bad breath."
+                  },
+                  {
+                    "label": "D",
+                    "text": "High blood pressure."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It protects people against bacteria."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It accelerates people's blood circulation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It enables people to build up endurance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It provides people with extra energy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are more likely to win in combat sports."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are in the minority among the population."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have a higher chance of joining sports teams."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have more disadvantages in getting ahead."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their brain is more powerful than that of right-handed people."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The left side of their brain is more powerful than its right side."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They tend to be a lot more aggressive than right-handed people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their brain has a stronger connection between its two sides."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have a larger brain."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is related to their genes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It still remains unknown."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are better at reasoning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Teach them how to perform tasks with their right hand."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Help them fully develop their mathematical abilities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Encourage them to play fast-paced interactive sports."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Advise them to choose jobs that require quick reactions."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Researchers, writing in the journal Heart, pooled data from 23 studies and found that social isolation or feelings of loneliness were tied to an increased risk of coronary heart disease (冠心病) and strokes.\n\nThe studies included data from 181,006 men and women ages 18 and over. There were 4,628 coronary events and 3,002 strokes in follow-up periods _26_ from three to 21 years. Three of the papers _27_ loneliness, 18 looked at social isolation and two included both. Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death _28_ for\n\ndetermining coronary events and strokes.\n\nThe scientists found that loneliness and social isolation increased the _29_ risk of having a heart attack or a death from heart disease by 29 percent, and the risk of stroke by 32 percent. There were no _30_ between men and women.\n\n\"People have tended to focus from a policy point of view on _31_ lonely people to make them more _32_, \" said the lead author, Nicole K. Valtorta, a research fellow at the University of York in England. \"Our study _33_ that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\"\n\nThe authors _34_ that this was a review of observational studies and did not _35_ cause and effect.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "acknowledge"
+        },
+        {
+          "label": "I",
+          "text": "narrow"
+        },
+        {
+          "label": "B",
+          "text": "certificates"
+        },
+        {
+          "label": "J",
+          "text": "permanent"
+        },
+        {
+          "label": "C",
+          "text": "connected"
+        },
+        {
+          "label": "K",
+          "text": "produces"
+        },
+        {
+          "label": "D",
+          "text": "demonstrates"
+        },
+        {
+          "label": "L",
+          "text": "ranging"
+        },
+        {
+          "label": "E",
+          "text": "differences"
+        },
+        {
+          "label": "M",
+          "text": "relative"
+        },
+        {
+          "label": "F",
+          "text": "establish"
+        },
+        {
+          "label": "N",
+          "text": "submitting"
+        },
+        {
+          "label": "G",
+          "text": "formats"
+        },
+        {
+          "label": "O",
+          "text": "targeting"
+        },
+        {
+          "label": "H",
+          "text": "measured"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 349,
+          "end": 353
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 398,
+          "end": 402
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 591,
+          "end": 595
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 715,
+          "end": 719
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 847,
+          "end": 851
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 936,
+          "end": 940
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 973,
+          "end": 977
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1090,
+          "end": 1094
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1212,
+          "end": 1216
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1277,
+          "end": 1281
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The hidden costs colleges don't want you to know about",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "This fall, thousands of college students from across the country will begin their undergraduate studies at colleges around the nation. They will inevitably pack too much to fit in their tiny dorm rooms. They will also carry with them a huge student loan debt, in addition to countless “hidden” out-of-pocket costs paid for by their bank accounts and the bank accounts of their families."
+        },
+        {
+          "label": "B",
+          "text": "At my well-respected, private, four-year university in Washington, D.C., which boasts a yearly tuition of \\$44,046 not including room and board, I receive over \\$57,000 yearly in financial aid. As a student from a family that is struggling to make ends meet, my financial aid package is a combination of federal grants and federal work study, university merit scholarships and financial aid awards, and about \\$8,000 yearly in federally subsidized (有补贴的) and unsubsidized loans. On paper, my expenses and my financial aid just about even out. Off paper, they don't."
+        },
+        {
+          "label": "C",
+          "text": "Universities today are in the business of making money, and mine is no exception. They hit me right out of gate with a \\$160 fee to attend my freshman orientation, a price which does not include the cost of travel to and from the District. Almost every class has an associated fee not included in the cost of tuition, most between \\$40 and \\$100. Fees for lab science classes are the highest, and all students at my university are required to take at least one lab before they graduate. Buying a laptop proved a necessity and, thankfully, a relative bought me one as a gift. Renting a mini-fridge for my dorm room costs my roommates and me about \\$140 a year."
+        },
+        {
+          "label": "D",
+          "text": "Schools will charge you whatever they can. The costs of any damage to the dorm, including elevators, bathrooms, and common areas, are billed to every person on a dorm floor, or even the entire building if they do not know who caused the damage. After I fell out of my bed twice during my freshman year, the university installed a railing—for \\$20, billed to my student account. My financial aid did not anticipate any of these costs, and so it did not cover them."
+        },
+        {
+          "label": "E",
+          "text": "An Internet search of “hidden costs” of college turns up a host of articles on parent-centered websites on the college application process. These articles are almost always geared towards upper- and middle-class families. For students already struggling to pay tuition, these costs may be the least of their worries."
+        },
+        {
+          "label": "F",
+          "text": "So what hidden costs should low-income students really be paying attention to? My college experience offers a few examples."
+        },
+        {
+          "label": "G",
+          "text": "If you are a low-income student who will be attending school out-of-state, make sure you know if you can use your state benefits, such as the Supplemental Nutrition Assistance Program, or SNAP. It wasn't until after I had accepted admission to an out-of-state school that I learned that I could not use my Ohio Medicaid on campus for anything other than emergency care. My benefits became invalid the second I moved out of Ohio. After my freshman year, I had to opt for the school's insurance plan, which costs around \\$2,000 a year. Even if your school offers a flat-rate fee for a doctor's appointment at the student health center (mine is \\$20 a visit), these fees often do not include extra fees for lab tests or prescription medications (药物)."
+        },
+        {
+          "label": "H",
+          "text": "If you plan on paying off bills in your student account with a credit card, be aware of any additional costs. My school charges an additional fee for the use of a credit card to settle outstanding charges, which can add upwards of 3% of the balance to your bill."
+        },
+        {
+          "label": "I",
+          "text": "There is another depressing reality hidden within even the largest financial aid packages: Colleges often offer the most generous packages during freshman year as a way to attract new students. My family was careful to ask about the chances of financial aid being taken away after my freshman year. We were assured that, except for low grades or a raise in family income, no money would be taken away. We did not know to ask—and the school did not readily point out—that even if tuition rises, my financial aid package will stay the same. So when my university voted to raise tuition costs 3% at the end of my freshman year, my financial aid package remained the same and I was suddenly responsible for an additional \\$1,200 for the next year. The university administration will likely vote to raise costs at least once more before my graduation."
+        },
+        {
+          "label": "J",
+          "text": "Yes, I chose to attend an expensive university far from my hometown. Yes, there were cheaper options. But there are promising students from struggling families across the nation who should not rule out their dream schools entirely. All things considered, I am paying significantly less than the ticket price of my university, and having an educational experience in Washington, D.C., that I would not have had anywhere else. As a low-income student from a down-and-out Rust Belt community, these educational experiences have enormous potential to brighten my future—and my family's future."
+        },
+        {
+          "label": "K",
+          "text": "The key is to make sure that students and their families understand that hidden costs exist, and that they may prove problematic. Fill out a more comprehensive checklist, and be wary of listed prices that seem too low. Understand just how complicated the financial aid process is."
+        },
+        {
+          "label": "L",
+          "text": "Students and families must also understand their ability to self-advocate. They should not pay student bills or excess fees blindly. If something does not look right, ask about it. If it still doesn't look right, negotiate it. In cases where parents are working multiple jobs, are less knowledgeable about college\n\nbureaucracies, have limited English language skills, or are not contributing financially to their child's education, the burden of self-advocacy will fall on the student. I understand the difficulty, and the embarrassment. But it is necessary."
+        },
+        {
+          "label": "M",
+          "text": "In the grand scheme of things, however, colleges also must come to understand that the hidden fees they ask for may prove unmanageable for the very kinds of low-income or first-generation students they are trying desperately to attract."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Students' financial aid remains unchanged even when tuition rises."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Students may not be able to enjoy their state benefits when they go to college out of the state."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The financial aid the author receives is supposed to cover all her college expenses."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "When the person who damages dorm facilities is not identified, students are required to share the cost."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Though it is difficult and embarrassing, students should make inquiries about what fees they have to pay and why."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Today, many Americans have to go to college on student loans."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Receiving education in a private university in the nation's capital may change the author's future life and that of her family's."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Students may no longer be qualified for financial aid if they perform poorly in school or if their family income has increased."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "In addition to tuition, college students have to pay extra fees for the courses they take."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Some schools charge students a fee to their student accounts for using credit cards to pay bills."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "To write his 2010 book, The 5-Factor World Diet, nutritionist Harley Pasternak traveled to the healthiest countries around the world to learn more about what made their meals extra nourishing.\n\nHe noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal. Pasternak also came away with some valuable observations about how different the North American way of life was, compared with many other countries.\n\nFor starters, Americans eat much bigger portions than people in other countries. “We don’t prioritize eating seasonally or locally, and we also add lots of salt, sugar and thickening agents to our foods,” explained Pasternak. Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak’s book. They all seem to stick to the ethos (特质) of regional, seasonal produce.\n\nFor example, a traditional Mediterranean diet includes fruits, vegetables, whole grains, nuts and olive oil as the main components of nutritional intake. Fish, chicken and red wine make moderate appearances, while red meat, salt and sugar are used much less often. The benefits of a traditional Mediterranean diet have been studied since the 1970s, and researchers have found that living that olive oil life can help people lose weight, lower their heart disease risk and reverse diabetes.\n\nMost other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal\n\nabove the kitchen sink and calling it dinner.\n\nEach of the healthy eating cultures has its own unique feature. But Pasternak did take note of one unifying factor in all of the healthy societies he observed. \"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak. \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What characterizes Japanese and Chinese foods?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Variety."
+                },
+                {
+                  "label": "C",
+                  "text": "Color"
+                },
+                {
+                  "label": "B",
+                  "text": "Flavor."
+                },
+                {
+                  "label": "D",
+                  "text": "Naturalness."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What is typical of Americans in the way of eating?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They emphasize nutrition."
+                },
+                {
+                  "label": "C",
+                  "text": "They prioritize convenience."
+                },
+                {
+                  "label": "B",
+                  "text": "They tend to eat quite a lot."
+                },
+                {
+                  "label": "D",
+                  "text": "They care about flavors."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What features in Mediterranean, Nordic and Okinawan diets?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Fruits and vegetables."
+                },
+                {
+                  "label": "C",
+                  "text": "Seasonal local produce."
+                },
+                {
+                  "label": "B",
+                  "text": "Olive oil and red wine."
+                },
+                {
+                  "label": "D",
+                  "text": "Unprocessed ingredients."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do people in most healthy eating cultures have in common?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They get the whole family to eat at a table."
+                },
+                {
+                  "label": "B",
+                  "text": "They eat their meals regularly and punctually."
+                },
+                {
+                  "label": "C",
+                  "text": "They consume plenty of cereal for breakfast."
+                },
+                {
+                  "label": "D",
+                  "text": "They attach great importance to their meals."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Compared with the average American, people in healthy societies .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "walk at least 4 miles a day"
+                },
+                {
+                  "label": "C",
+                  "text": "pay more attention to body shape"
+                },
+                {
+                  "label": "B",
+                  "text": "do considerably more walking"
+                },
+                {
+                  "label": "D",
+                  "text": "consume a lot more organic food"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Recognizing when a friend or colleague feels sad, angry or surprised is key to getting along with others. But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. This and other research challenge the prevailing view that emotional intelligence is uniformly beneficial to its bearer.\n\nIn a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence. For example, they showed the students photographs of people's faces and asked them to what extent feelings such as happiness or disgust were being expressed. The students then had to give job talks in front of judges who displayed serious facial expressions. The scientists measured concentrations of stress hormones in the students' saliva (唾液) before and after the talk.\n\nIn students who were rated more emotionally intelligent, the stress measures increased more during the experiment and took longer to go back to baseline. The findings suggest that some people may be too emotionally clever for their own good, says Bechtoldt. “Sometimes you can be so good at something that it causes trouble,” she notes.\n\nIndeed, the study adds to previous research hinting at a dark side of emotional intelligence. A study published in 2002 in Personality and Individual Differences suggested that emotionally perceptive people might be particularly influenced by feelings of depression and hopelessness. Furthermore, several studies have implied that emotional intelligence can be used to manipulate others for personal gains.\n\nMore research is needed to see how exactly the relation between emotional intelligence and stress would play out in women and in people of different ages and education levels. Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions—both others' and your own, says Bechtoldt. For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says, \"you are not responsible for how other people feel.\"",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the finding of the new study?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Emotional intelligence helps people get along with others."
+                },
+                {
+                  "label": "B",
+                  "text": "Emotional intelligence is generally beneficial to its bearer."
+                },
+                {
+                  "label": "C",
+                  "text": "People who are aware of others' feelings may experience more stress."
+                },
+                {
+                  "label": "D",
+                  "text": "People who are emotionally stressed may have trouble making friends."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What was the purpose of psychologist Myriam Bechtoldt's experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To define different types of human feelings."
+                },
+                {
+                  "label": "B",
+                  "text": "To assess the impacts of being emotionally clever."
+                },
+                {
+                  "label": "C",
+                  "text": "To demonstrate how to distinguish different feelings."
+                },
+                {
+                  "label": "D",
+                  "text": "To identify gender differences in emotional intelligence."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the finding of Myriam Bechtoldt's study indicate?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Greater emotional cleverness means less trouble in one's life."
+                },
+                {
+                  "label": "B",
+                  "text": "Emotional intelligence helps people succeed in job interviews."
+                },
+                {
+                  "label": "C",
+                  "text": "People's psychological wellbeing is related to various factors."
+                },
+                {
+                  "label": "D",
+                  "text": "People may suffer from having a high emotional intelligence."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What do we learn about emotional intelligence from a number of studies?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "People suffering from depression are emotionally immature."
+                },
+                {
+                  "label": "B",
+                  "text": "People who look at the dark side of life often feel depressed."
+                },
+                {
+                  "label": "C",
+                  "text": "Some people may take advantage of it and benefit themselves."
+                },
+                {
+                  "label": "D",
+                  "text": "Some people may lack it and are easily manipulated by others."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author suggest sensitive individuals do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Avoid burdening themselves with others' feelings."
+                },
+                {
+                  "label": "B",
+                  "text": "Rid themselves of worries over worldly affairs."
+                },
+                {
+                  "label": "C",
+                  "text": "Learn to cope with people's negative feelings."
+                },
+                {
+                  "label": "D",
+                  "text": "Help people to deal with their troubles in life."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "在中国农历中,立秋(Start of Autumn)意味着夏天的结束和秋天的开始。立秋带来的首先是天气的变化,气温逐渐下降。人们看到树叶开始变黄飘落时,知道秋天已经来临,这就是所谓的“一叶知秋”。但此时酷热的天气并未完全结束,高温通常还会持续一段时间,被称为“秋老虎”。立秋对农民意义重大,这时各种秋季作物迅速生长、开始成熟,收获的季节即将到来。"
+      }
+    ]
+  },
+  "id": "CET4-2022-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

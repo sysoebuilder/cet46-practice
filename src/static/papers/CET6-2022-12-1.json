@@ -1,0 +1,1426 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With the application of information technology in education, college students can now learn in more diverse and efficient ways.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With the application of information technology in education, college students can now learn in more diverse and efficient ways.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With the application of information technology in education, college students can now learn in more diverse and efficient ways.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She hasn't started writing it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She hasn't decided on a topic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is proofreading the first draft."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is working on the references."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He lent many books to the man for reference."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He offered the man advice on resource hunting."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He published a lot in a number of reputable journals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He told the man to be selective when using e-resources."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He didn't think her dissertation topic viable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He wasn't interested in her dissertation topic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He didn't want her to rush through her dissertation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He wasn't specific about the length of her dissertation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Change her research methodology."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Consult her professor more."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Narrow down her dissertation topic."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Follow the man's advice."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has translated 12 books."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is a well-known nutritionist."
+                  },
+                  {
+                    "label": "C",
+                    "text": "His books sell well worldwide."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His latest book sold a million copies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The desire of Americans to try exotic cuisines."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The demand for information about food safety."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The fact that over half of Americans are overweight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The fact that science books are difficult to read."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The general public."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Those who are overweight."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Those who want to lose weight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The medical community."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Switch to a vegetarian diet."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Adhere to doctors' advice."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Follow a personalized diet."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Cut carbohydrate intake."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The rate of their growth increased dramatically."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The growth of their new brain cells doubled."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They began to show signs of depression."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They began to get irritated and restless."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To avoid them in the future."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To warn others against them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To make good sense of them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To reflect on their causes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Produce a surprising healing effect."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Weaken one's immunity in the long run."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make people more susceptible to illness."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Provide protection against mental illnesses."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Placing their own interests over their staff's."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Being overwhelmed by their daily routines."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Lacking the ability to relate to their staff."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Spending too much time handling email."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their leadership may be challenged."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their companies may go bankrupt."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Unexpected events may occur."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Major problems may result."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Keep an eye on their employees."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Motivate and inspire their team."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sacrifice some of the immediate goals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Have greater ambition in overall planning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cultivate self-control."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Respond only after work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Filter their email boxes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Check only when necessary."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The key to increasing healthy food supply."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The best way to improve marketing research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The impact of advertisements on consumption."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The importance of the appearance of food."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By focusing on the nutrients in different foods."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By emphasizing the diversity of food."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By stressing pleasing aesthetics of food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By winning the support of marketing professors."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can attract customers with the healthy qualities of their products."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can boost sales of healthy foods by making them visually appealing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can turn to marketing professors for advice."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can rely on advertising for sales promotion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has witnessed a spectacular surge in demand."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has met much criticism from environmentalists."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has seen more small businesses offering environment-friendly products."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has experienced increasingly fierce competition among global companies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Consumers now know much more about technology."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their mass production has sharply reduced the price."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Consumers tend to favor all that is novel."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their quality has been greatly improved."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Purchasing only this kind of products for home cleaning."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Writing positive comments about them on social media."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Demonstrating on TV how effective these products are."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Telling one another about their incomparable virtues."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Increasing cleaners' workload."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Breaking a time-honored ritual."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Blocking the fountains' works."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Polluting the fountains' water."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are occasionally retrieved by curious tourists."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are regularly donated to charity organizations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are mostly used for the fountains' maintenance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are usually used as wages for fountain cleaners."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is invested in a series of businesses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is used exclusively for its maintenance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is used to run a supermarket for the needy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is estimated to be about \\$40,000 a month."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was arrested for stealing money from four fountain cleaners."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He was sentenced to 34 years' imprisonment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He collected rare coins from around the world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He stole a lot of money from a fountain with a magnetic stick."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "During the summer, when I was a visiting poet at a residency out of state, an angry, confused woman wandered into my class and said: “I have three guns and I want to use them.” We all _26_. It wasn’t clear if she had the guns, but we each know that, when we teach in America, we are already in danger.\n\nI was dizzy with fear. The woman, who later turned out to be a schizophrenic (精神分裂症患者) without _27_ to her medications, was, by some force, wrestled out and _28_ away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges. My class went on; we talked about poems. But despite the fact that the rest of our days on campus passed _29_, I was rattled. I couldn't shake the sense that in this country we always live at _30_ risk.\n\nA few months later, crisis _31_ again. While my husband was locking his bike to drop off our 3-year-old daughter for her preschool-aged day camp, a different woman approached. Swiftly and for no _32_ reason, she bent down, picked up our daughter, and began to carry her down the street. It was so fast and confusing that my daughter _33_ cried. My husband, in a burst of speed, chased the woman and reclaimed our daughter. The woman, clearly confused, retreated into the public library. A _34_ of homeless people who generally know the other homeless in the area said they did not recognize the woman. The woman was so clearly unwell that when she was taken into custody she was incoherent. Heartbreakingly, she called our daughter by the name of someone else's child. Each part of the episode was as haunting as it was _35_.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "access"
+        },
+        {
+          "label": "I",
+          "text": "network"
+        },
+        {
+          "label": "B",
+          "text": "apparent"
+        },
+        {
+          "label": "J",
+          "text": "overriding"
+        },
+        {
+          "label": "C",
+          "text": "barely"
+        },
+        {
+          "label": "K",
+          "text": "peacefully"
+        },
+        {
+          "label": "D",
+          "text": "dedication"
+        },
+        {
+          "label": "L",
+          "text": "presumably"
+        },
+        {
+          "label": "E",
+          "text": "escorted"
+        },
+        {
+          "label": "M",
+          "text": "stifled"
+        },
+        {
+          "label": "F",
+          "text": "froze"
+        },
+        {
+          "label": "N",
+          "text": "struck"
+        },
+        {
+          "label": "G",
+          "text": "incredible"
+        },
+        {
+          "label": "O",
+          "text": "terrifying"
+        },
+        {
+          "label": "H",
+          "text": "indignant"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 184,
+          "end": 188
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 398,
+          "end": 402
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 460,
+          "end": 464
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 700,
+          "end": 704
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 787,
+          "end": 791
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 826,
+          "end": 830
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 994,
+          "end": 998
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1132,
+          "end": 1136
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1288,
+          "end": 1292
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1619,
+          "end": 1623
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": 7,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "This man is running 7 marathons on 7 continents in 7 days",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Michael Wardian pushed forward into the penetrating arctic (北极的) wind, fighting the urge to speed up. Too much effort and he'd begin to sweat, which, he was told, would only increase the risk of hypothermia (体温过低)."
+        },
+        {
+          "label": "B",
+          "text": "At the 2014 North Pole Marathon, the temperature dipped to minus-22 degrees F, with a wind chill that made it feel even colder. Along the route, armed guards wandered the\n\nlarge sheets of floating ice to minimize the risk of polar bear attacks."
+        },
+        {
+          "label": "C",
+          "text": "“I like to do stuff that scares me,” Wardian said. With ice frozen to his beard, Wardian crossed the finish line that April afternoon in a winning time of 4 hours 7 minutes and 40 seconds, almost two hours slower than his personal best over 26.2 miles. The race for Wardian, however, was less about the result than overcoming his aversion to the cold."
+        },
+        {
+          "label": "D",
+          "text": "In a few days, Wardian will once again compete in an unfamiliar territory and below-freezing temperatures. He will line up Monday in Antarctica (南极) for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days."
+        },
+        {
+          "label": "E",
+          "text": "An elite ultra-runner, Wardian has his sights on breaking the event's record average marathon time of 3:32:25 set last January by U.S. Marine Corps captain Daniel Cartica. Wardian, a 42-year-old Arlington resident, is a record-breaking racer, known in the ultra-running community for seeking tough courses and setting world records. Last year, he ran 1,254.65 miles in 47 races. The World Marathon Challenge, like most of Wardian's running goals, will be about pushing his limits. \"I love diverse and unique challenges,\" he said. \"I'm definitely interested in seeing what I can handle and what my body can accept. That drives me.\""
+        },
+        {
+          "label": "F",
+          "text": "Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director. The two hit it off, and soon Wardian was participating in Donovan's events. It was at the North Pole Marathon, a race that Donovan organizes, that Wardian first heard about the Irishman's plan for the World Marathon Challenge-a challenge that Donovan himself completed in 2009 and 2012. \"I knew that many people had a goal of running seven marathons on seven continents during any time period,\" Donovan, 50, said. \"I felt the natural extension to this idea would be to try to achieve it within a seven-day period.\""
+        },
+        {
+          "label": "G",
+          "text": "Wardian started saving for the trip in 2014, connecting with sponsors and getting approval from his wife, Jennifer, before committing. Registration for the event costs 36,000 euros, which covers international charter flights to each of the seven marathon locations: Union Glacier (Antarctica), Punta Arenas, Chile (South America), Miami (North America), Madrid (Europe), Marrakesh, Morocco (Africa), Dubai (Asia) and Sydney (Australia). The challenge is a test of both physical strength and mental fitness. Sleeping on a crammed plane, adjusting to different time zones and finding food to eat (Wardian is a vegetarian) would make it an exhausting trip over a month, let alone a week. “The key to a race like this is getting comfortable being uncomfortable,” said Becca Pizzi, last year's women’s champion. “The highs of the race are incredibly high, and the lows incredibly low.”"
+        },
+        {
+          "label": "H",
+          "text": "Since turning it into an organized event in 2015, Donovan has attracted a variety of 2022年12月英语六级真题第1套 第5页 共10页\n\nrunners. This year’s challenge will feature a far more elite field, which includes Ryan Hall, America’s fastest marathon runner. Despite his proven track record, Hall said he has no time goals and that he still suffers from the same fatigue issues that forced him to leave the professional ranks in 2015. Hall plans to run with his friend, Pastor Matthew Barnett of The Dream Center in Los Angeles—one of the six American men who will be competing. “I don’t expect to run a step with Mike, but I will be excited to see how he does,” said the 34-year-old Hall, who began weight-lifting after retiring. “If I finish within an hour of him in each marathon, I’d be surprised.”"
+        },
+        {
+          "label": "I",
+          "text": "Instead, 43-year-old Petr Vabrousek, an elite Czech Ironman champion, is expected to be Wardian's closest challenger. To others on the trip, simply finishing will be its own reward. Sinead Kane of Ireland is aiming to become the first blind person to complete the challenge. And Beth Ann Telford, a 47-year-old federal government worker from Fairfax and the only American female in this year's mix, is using the event as a platform to raise money for cancer research. It's a cause with a personal connection to Telford, who was diagnosed with brain cancer in 2004. “Doing something like this is definitely the hardest challenge that I’ve ever done except for the chemotherapy and brain surgery,” she said. “It’s going to raise awareness … I just wanted to do something that is epic and this certainly is right up there.” Wardian, too, hopes his involvement will give him a platform to promote a cause. He recently became an ambassador for the United Nations Women’s HeForShe initiative to fight inequalities faced by women and girls worldwide."
+        },
+        {
+          "label": "J",
+          "text": "On a chilly December afternoon, Wardian wove through Washington's crowded sidewalks on the way home from his full-time job as an international ship broker. His elastic, 6-foot frame bounced gently and efficiently off the ground with each step of the hilly six-mile trip back to Arlington. This is a daily routine during the week for Wardian, who started racing professionally in 2003 and runs seven days a week, often multiple times a day. When he travels, he prefers to explore new places on his feet."
+        },
+        {
+          "label": "K",
+          "text": "But in some ways, Wardian still has trouble thinking of himself as a runner. For the majority of his childhood, Wardian devoted his energy to becoming a Division I lacrosse (长曲棍球) player-a dream he realized when he was recruited to play at Michigan State University. “Once he decides to do something, he just works at it until he does it,” Michael’s younger sister, Mariele, said. “Once he decides to do it, it’s usually something that’s going to happen. He’s always been like that. He’s a very motivated individual.”"
+        },
+        {
+          "label": "L",
+          "text": "It was only a year or so ago that Wardian realized that he had been a runner longer than a lacrosse player. It was not until he ran in the 2004 U.S. Olympic Marathon Trials-the first of three for Wardian-that he felt that he was a legitimate runner. Now more than 10 years and numerous ultra-marathon national titles and world records later, he embraces that identity. Wardian wants to see how far his legs can take him, one epic challenge at a time. “I want to always keep doing things that are exciting, adventurous, different and most importantly, probably things I’m not the best at,” Wardian said, “because if you’re\n\nnot seeking things out that are challenging and difficult for you, then you're not growing ... So I hope maybe people see what I do, and say, 'Okay, I want to do something different or try something new ... I'm going to do something that scares me.' That's what I'm hoping people will take from it.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Wardian regards the various extraordinary challenges as a test of his physical endurance."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Wardian hopes his participation in the seven-day marathon series will contribute to a worthy cause."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Wardian is going to join over thirty other runners in a week-long marathon series."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Wardian was very much impressed by a race director's sense of adventure."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Once Wardian sets his mind on something, he is determined to make it happen."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "One top American marathoner quit his running career because of his physical condition."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "To many of the week-long marathon participants, completing the race will be a success in itself."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "For Wardian, the marathon in the Arctic was more about how to triumph over the extreme cold."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "To participate in the seven-day marathon series, Wardian had to raise a lot of money and have his wife's support."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Many people associate their self-worth with their work. The more successful their career, the better they feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences.\n\nIt's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that pleasure comes from a triumph which swells our self-respect, people will try to repeat the accomplishment. But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a negative type of motivation. It can hinder other more positive motivation types, such as completing a task purely because it's fulfilling or enjoyable.\n\nWhat consumes the employee instead is a pressing need to feel mighty and sure of themselves. They then take on only tasks and objectives which serve that ego-driven need.\n\nAs a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of effort. It depletes their energy, culminating in disproportionate levels of damaging sentiment.\n\nThose negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their diminished capacity for friendship and leisure. They end up dissatisfied both at work and outside of it.\n\nBut thankfully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually outweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effect of the positive motivation is that it neutralizes the existence of negative motivation.\n\nSure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands. However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say about the pursuit of work-related self-esteem?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may result in negative motivation."
+                },
+                {
+                  "label": "C",
+                  "text": "It can increase one's vigor as one keeps trying."
+                },
+                {
+                  "label": "B",
+                  "text": "It contributes to one's accomplishments."
+                },
+                {
+                  "label": "D",
+                  "text": "It costs too much emotionally and psychologically."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do employees tend to do in pursuing work-related self-esteem?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Take on tasks well beyond their actual capabilities."
+                },
+                {
+                  "label": "C",
+                  "text": "Resort to all means regardless of the consequences."
+                },
+                {
+                  "label": "B",
+                  "text": "Strive to succeed at the expense of their well-being."
+                },
+                {
+                  "label": "D",
+                  "text": "Exaggerate their sense of shame and worthlessness."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do we learn about people over-concerned with work-related self-esteem?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may often feel inferior to their colleagues."
+                },
+                {
+                  "label": "C",
+                  "text": "They are never satisfied with their achievements."
+                },
+                {
+                  "label": "B",
+                  "text": "They cannot enjoy their personal life to the full."
+                },
+                {
+                  "label": "D",
+                  "text": "They have their own view of friendship and leisure."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is the good news we learn from the recent research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The pursuit of goals may turn out to be enjoyable and pleasant."
+                },
+                {
+                  "label": "B",
+                  "text": "The emotional rewards from goal pursuit are worth the pains taken."
+                },
+                {
+                  "label": "C",
+                  "text": "The negative consequences of goal pursuit can mostly be avoided."
+                },
+                {
+                  "label": "D",
+                  "text": "The goal of swelling self-esteem can be achieved if one keeps trying."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can we infer from the last paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Workers have to make sacrifices to preserve self-esteem."
+                },
+                {
+                  "label": "B",
+                  "text": "Self-esteem swells when workers are strongly motivated.2022年12月英语六级真题第1套第8页共10页"
+                },
+                {
+                  "label": "C",
+                  "text": "Pursuit of goals affects people's personal lives to an unhealthy extent."
+                },
+                {
+                  "label": "D",
+                  "text": "People feel positive about their work as long as they are motivated."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found. The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries.\n\nWater scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this desperate situation being remedied without radical action being taken. Water resources are under increasing threat from population growth, climate change, rapid urbanization, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment (补充) of water resources.\n\nThe rate of damage to the natural environment was found to increase globally, despite concerted efforts to persuade government to take measures to improve the condition. “If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world’s environment will continue to decline,” warned UN executive director Achim Steiner.\n\nHe said the tools for improving the environment for millions of people existed in developed countries, but were in danger of not being used.\n\nThe study found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution; to control the damage to marine ecosystems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and to curb the degradation of land where modem agricultural methods were pursued without regard to the longer-term consequences.\n\nDespite the recent global agreement on cutting greenhouse gas emissions, global carbon output continues to rise. This will put a long-term strain on the ability of developing economies to feed their own people. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms.\n\nIn rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged\n\ninternational institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What is the major finding of the UN environmental study?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Human activity has rendered Mother Earth almost uninhabitable."
+                },
+                {
+                  "label": "B",
+                  "text": "Humans are doing more damage to the earth than it can cope with."
+                },
+                {
+                  "label": "C",
+                  "text": "Environmental problems have considerably weakened human prosperity."
+                },
+                {
+                  "label": "D",
+                  "text": "Environmental damage is more serious in developed countries these days."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is said about water scarcity in some of the poorest regions?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is getting so serious that there is little hope of solution."
+                },
+                {
+                  "label": "B",
+                  "text": "It largely accounts for their slow economic development."
+                },
+                {
+                  "label": "C",
+                  "text": "It can hardly be relieved if no drastic measures are taken."
+                },
+                {
+                  "label": "D",
+                  "text": "It is primarily caused by the acceleration of climate change."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does Achim Steiner say about the environmental condition?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It will deteriorate worldwide."
+                },
+                {
+                  "label": "B",
+                  "text": "It is attracting global attention."
+                },
+                {
+                  "label": "C",
+                  "text": "It is being slowly remedied globally."
+                },
+                {
+                  "label": "D",
+                  "text": "It will shrink the world's population."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What is the dilemma developing countries face?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They cannot modernise farming without causing land degradation."
+                },
+                {
+                  "label": "B",
+                  "text": "They cannot promote industrialisation without polluting waterways."
+                },
+                {
+                  "label": "C",
+                  "text": "They cannot boost crop yields without causing greenhouse gas emissions."
+                },
+                {
+                  "label": "D",
+                  "text": "They cannot catch up with rich countries without sacrificing the environment."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What should developing countries do in their future development according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They turn to developed countries for the assistance they need."
+                },
+                {
+                  "label": "B",
+                  "text": "They remedy environmental damage by slowing economic growth."
+                },
+                {
+                  "label": "C",
+                  "text": "They avoid damaging interference from international institutions."
+                },
+                {
+                  "label": "D",
+                  "text": "They improve people's livelihood without harming the environment."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "青藏高原(the Qinghai-Tibet Plateau)位于中国西南部，面积约230万平方公里，平均海拔4000米以上，被称为“世界屋脊”。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。\n\n青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。\n\n由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统，草地覆盖率不断增加，许多濒危物种得到更为有效的保护。"
+      }
+    ]
+  },
+  "id": "CET6-2022-12-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。对话一开始，男士询问女士的论文进度，女士在句(1)中回答说她还没开始写。因此答案为A)。"
+      },
+      "2": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(2)中男士提到,他在开始写论文之前先和教授讨论了去哪里找资料的问题。基于这个讨论,他在图书馆找到了参考书,并在网上找到了大量知名期刊文章。因此答案为B)。"
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "文是因为自己的题目不可行。根据句(3)可知,她的教授确实在一开始的时候提醒她可能会找不到足够的资料。因此答案为A)。"
+      },
+      "4": {
+        "answer": "D",
+        "explanation": "D)【精析】细节推断题。男士认为女士的论文题目太过狭窄,如果将题目扩大可能会找到更多资料。根据句(4)可知,女士认为扩大题目是个好主意,她会将对其他地区的民间传说的描述囊括进来。由此可知,女士会听从男士的建议。因此答案为D)。"
+      },
+      "5": {
+        "answer": "C",
+        "explanation": "C)【精析】细节推断题。句(5-1)中女士介绍说,约翰不仅是一位受人尊敬的作家,还是当今为数不多的撰写科学类文书的名人作家之一。根据句(5-2)可知,男士的4部著作在全球总共售出了700万册,并被翻译成12种不同的语言。由此可知,男士的著作畅销全世界。因此答案为C)。"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "重的事实让人们都知道如何解决这个问题，这也就驱动了男士去写相关的书。因此答案为C)。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。男士在句(7)中明确提到,他的上一部书主要是为医学界写的。因此答案为D)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)【精析】细节推断题。句(8)中男士提到,他认为每个人都需要考虑自己的新陈代谢,吃适合自己身体需求的东西。他不提倡单一饮食。有些人应该比其他人摄入更多的碳水化合物。不同的人对蛋白质和脂肪的需求量不同。也就是说,男士建议人们遵循个性化饮食。因此答案为B)。"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "新的脑细胞的生长翻倍。因此答案为B)。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "理也适用于人类。由此可知，人们对他们曾遇到过的危险情况有清晰的记忆是为了将来避开它们。因此答案为A)。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(11)中明确提到,科学家承认,长期的压力会让人更容易生病。因此答案为 C)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(12)中提到,对于许多管理者和担任领导职务的人来说,处理电子邮件让人左右为难。就数量、重要性和紧迫性而言,日常电子邮件的不可预测性、不可控制性和持续性可能导致他们的焦虑程度上升以及领导能力下降。因此答案为D)。"
+      },
+      "13": {
+        "answer": "D",
+        "explanation": "D)【精析】细节推断题。根据句(13)可知,管理者们忽略了起初可能只是小问题的事情,直到这些事情不幸由于疏忽而不可避免地变成了重大问题或危机。也就是说,忽视小问题可能会导致重大问题。因此答案为D)。"
+      },
+      "14": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(14)中提到,作为领导者,他们应该激励自己的团队去追求长期战略目标,应该少些雄心而更实际地监控团队的日常产出、设定明确的预期并定期提供反馈。因此答案为 B)。"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。短文中提到,领导者必须从其他任务中转移资源来查看、过滤和回复电子邮件。根据句(15)可知,这一问题的解决方法是培养自制力,就像肌肉一样——随着时间的推移,肌肉可以通过锻炼得到加强或改善。因此答案为A)。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(16)中提到,一个营销教授团队研究了食物视觉方面的重要性以及它如何影响食物选择。因此答案为D)。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "胖流行病。因此答案为A)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。讲座中提到了一个通过强调胡萝卜的外观和口感而成功将胡萝卜的销售量提高的案例。句(18)中讲话者提到,研究人员认为,其他公司可以通过类似的广告来增加健康食品的销量,将他们的产品描述为有吸引力和快乐的源泉。因此答案为B)。"
+      },
+      "19": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(19)中提到,近年来,许多国家提供更多环保清洁产品的小公司的数量激增,而且他们的生意也做得很好。因此答案为C)。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "持怀疑态度,但他们现在相信技术有能力完成曾经被认为不可能的事情。也就是说,消费者现在对技术有了更多的了解,所以新兴清洁产品会畅销。因此答案为 A)。"
+      },
+      "21": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。根据句(21)可知,顾客通过在社交媒体上留言(称赞它们的优点)来为这些产品进行营销。因此答案为 B)。"
+      },
+      "22": {
+        "answer": "B",
+        "explanation": "B)【精析】细节推断题。讲座开头提到,将零钱扔进喷泉是一种历史悠久的仪式:把一便士扔进水里,你的愿望可能会实现。但这些钱都得去往别处。根据句(22)可知,否则的话,越来越多的便士、美分和欧元可能会堵塞喷泉装置。因此答案为B)。"
+      },
+      "23": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(23)中明确提到,在纽约市,从公园里的喷泉中收集的硬币通常用于喷泉的维护。因此答案为C)。"
+      },
+      "24": {
+        "answer": "C",
+        "explanation": "员要求每晚都要清理喷泉,据报道,每天都会收集到高达4 000美元的世界各地的零钱。根据句(24)可知,每天晚上收集到的大部分钱都用于一家为有需要的人经营的超市。因此答案为C)。"
+      },
+      "36": {
+        "answer": "E",
+        "explanation": "E) 【精析】同义转述题。E) 段倒数第二、三句提出，沃迪恩喜欢多样化和独一无二的挑战，他很想看看自己能应付什么，身体能接受什么，由此可知，题干是对该处信息的同义转述。题干中的 various extraordinary 对应原文中的 diverse and unique，题干中的 a test of his physical endurance 是对原文中 what my body can accept 的转述，故答案为 E)。"
+      },
+      "37": {
+        "answer": "I",
+        "explanation": "I) 【精析】同义转述题。I) 段倒数第二句提到, 沃迪恩也希望他的参与能给他一个促进事业的平台。而结合前文, 这是在讲述沃迪恩打算参加一个 7 天马拉松系列赛的情况, 题干是对该处信息的转述。题干中的 his participation 对应原文中的 his involvement, 题干中的 contribute to 是对原文中 give him a platform to promote 的同义转述, 故答案为 I)。"
+      },
+      "38": {
+        "answer": "D",
+        "explanation": "D)【精析】同义转述题。D)段定位句提到,他将与32名其他探险者一起踏上一段不同寻常的旅程,参与者在7天内穿越不同的时区和气候,在7大洲跑7场马拉松。可知题干是对定位句信息的转述。题干中的over thirty other runners对应原文中的32 other adventure seekers,题干中的a week-long marathon series是对原文中“seven marathons...in seven days”的同义转述,故答案为D)。"
+      },
+      "39": {
+        "answer": "A",
+        "explanation": "dangerous point 是对原文中 increase the risk of hypothermia 的转述, 故答案为 A)。"
+      },
+      "40": {
+        "answer": "F",
+        "explanation": "F)【精析】细节归纳题。F)段第一句说,理查德·多诺万的举止吸引了沃迪恩,接着提到,吸引沃迪恩的就是他们在2010年的50K锦标赛上首次相遇时多诺万表现出来的冒险感,在爱尔兰戈尔韦举行的锦标赛上,多诺万担任比赛总监。可知题干是对该处信息的概括。题干中的very much impressed对应原文中的appealed to,故答案为F)。"
+      },
+      "41": {
+        "answer": "K",
+        "explanation": "K)【精析】同义转述题。K)段定位句提到，妹妹玛丽勒评价沃迪恩时说，一旦他决定做某件事，他就会不懈努力，直至完成。一旦他决定这样做，通常都能实现。题干中的 sets his mind on something 对应原文中的 decides to do something, 题干中的 make it happen 对应原文中的 works at it until he does it 和 something that's going to happen, 故答案为 K)。"
+      },
+      "42": {
+        "answer": "H",
+        "explanation": "H)【精析】细节归纳题。H)段定位句指出,今年的挑战赛特色是一个更为精英的圈子加入,其中包括美国最快的马拉松选手瑞安·霍尔。而随后一句中提到,霍尔因面临着疲劳问题,迫使他于2015年离开了职业队伍。可知题干是对定位部分信息的概括归纳。题干中的quit his running career对应原文中的leave the professional ranks,题干中的physical condition对应原文中的fatigue issues,故答案为H)。"
+      },
+      "43": {
+        "answer": "I",
+        "explanation": "奖了。根据前文,这里所说的旅途就是为期一周的马拉松赛事。题干中的“to many of the... participants”对应原文中的 to others on the trip, 题干中的 a success 对应原文中的 reward, 题干中的 in itself 对应原文中的“simply...its own”, 故答案为 I)。"
+      },
+      "44": {
+        "answer": "C",
+        "explanation": "干中的 triumph over the extreme cold 对应原文中的 overcoming his aversion to the cold, 故答案为 C)。"
+      }
+    },
+    "references": {}
+  }
+}

@@ -1,0 +1,1340 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 9,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on online libraries. You can start your essay with the sentence “Online libraries are becoming increasingly popular”. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on online libraries. You can start your essay with the sentence “Online libraries are becoming increasingly popular”. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on online libraries. You can start your essay with the sentence “Online libraries are becoming increasingly popular”. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Ship traffic in the Atlantic."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Exhaust from cars in Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Warm currents in the ocean."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Particles emitted by power plants."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They need to be taken seriously."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They might be causing trouble to air flights."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have a huge effect on fishery."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They may be affecting the world's climate."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To appeal for higher wages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To call for a permanent security guard."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To demand better health care."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To dismiss the bad-tempered supervisor."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It had already taken strong action."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It would take their appeal seriously."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It would put customers' needs first."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was seeking help from the police."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The road was flooded."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The road was frozen with snow."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The road was blocked."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The road was covered with spilled gas."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A truck plunged into a pool of liquid chocolate."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The heavy snow made driving very difficult."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The truck driver dozed off while driving."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A truck hit a barrier and overturned."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was a long time before the cleanup was finished."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was a hard task to remove the spilled substance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was fortunate that no passenger got injured."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was difficult to contact the manufacturer.\n\n四级2020年 25"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She wanted to save for a new phone."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She could enjoy discounts with cash."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She found it much safer to use cash."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She had been cheated using phone apps."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can save a lot more time and trouble."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They find it less difficult to make purchases."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They derive greater pleasure from buying things."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are less aware of the value of their money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "More valuable items."
+                  },
+                  {
+                    "label": "B",
+                    "text": "More non-essential things."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Everyday necessities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Electronic devices."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can improve shopping efficiency."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may lead to excessive spending."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is altering the way of shopping."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It appeals more to younger people."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He wanted to order some wooden furniture."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He had to change the furniture delivery time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had a problem with the furniture delivered."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He wanted the furniture store to give him a refund."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Send the furniture back to the store."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Describe the furniture he received."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Collect the furniture he ordered."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Buy another brand of furniture."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Correct their mistake."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improve their service."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Apologize to his wife."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give the money back."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She recommended a new style."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She offered some gift to the man."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She apologized to the man once more."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She checked all the items with the man."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Reading books of wisdom."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tidying up one's home."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sharing with others."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Donating to charity."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Things that make one happy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Things that are becoming rare."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Things that occupy little space."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Things that cost a lot of money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It joined the city's clean-up campaign."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It sold as many as fifty boxes of books."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It received an incredibly large number of donated books."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It did little business because of the unusual cold weather.\n\n四级2020年 26"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Give free meals to the homeless."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Help the vulnerable to cook lunches."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Provide shelter for the homeless."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Call for change in the local government."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Strengthen co-operation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Win national support."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Promote understanding."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Follow his example."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Spreading news of his deeds."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Following the example he sets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Writing him thank-you notes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Sending him hand-made bags."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To solve word search puzzles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To send smartphone messages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To test their eyesight using a phone app."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To install some audio equipment in a lab."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They could not go on until the ringing stopped."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could no longer concentrate on their task."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They grabbed the phone and called back right away."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They asked their experimenter to hang up the phone."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A rise in emotional problems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A reduction in the amount of sleep."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A decline in sports activities."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A decline in academic performance."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Protect the eyesight of the younger generation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take effective measures to raise productivity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Realize the disruptive effects of technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ensure they have sufficient sleep every day."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "There're three main types of financial stress people encounter. The first type is apparent in people being stressed about the _26_ ups and downs of investment markets—actually not so much the ups, but _27_ the downs. These people are usually unable or unprepared to endure the long haul.\n\nThe next common type of financial stress is that caused by debt. In a _28_ percentage of cases of debt-induced financial stress, credit cards and loans will be a central element. Often there'll be a car loan and perhaps a mortgage, but credit cards often seem to be the gateway to debt-related financial difficulties for many.\n\nThe third type of stress and _29_ the least known is inherited financial stress, which is the most destructive. It is experienced by those who have grown up in households where their parents regularly _30_ and fought about money. Money therefore becomes a stressful topic, and so the thought of sitting down and planning is an unattractive _31_.\n\nThose suffering inherited financial anxiety _32_ to follow one of two patterns. Either they put their head in the sand: they would _33_ examining their financial statements, budgeting, and\n\n四级2020年 27\n\ndiscussing financial matters with those closest to them. Alternatively, they would go to the other 34 , and micro-analyze everything, to the point of complete 35 . They're convinced that whatever decision they make will be the wrong one.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "appearance"
+        },
+        {
+          "label": "F",
+          "text": "extreme"
+        },
+        {
+          "label": "K",
+          "text": "proposition"
+        },
+        {
+          "label": "B",
+          "text": "argued"
+        },
+        {
+          "label": "G",
+          "text": "inaction"
+        },
+        {
+          "label": "L",
+          "text": "rebelled"
+        },
+        {
+          "label": "C",
+          "text": "avoid"
+        },
+        {
+          "label": "H",
+          "text": "incredibly"
+        },
+        {
+          "label": "M",
+          "text": "statement"
+        },
+        {
+          "label": "D",
+          "text": "considerable"
+        },
+        {
+          "label": "I",
+          "text": "normal"
+        },
+        {
+          "label": "N",
+          "text": "tend"
+        },
+        {
+          "label": "E",
+          "text": "definitely"
+        },
+        {
+          "label": "J",
+          "text": "possibly"
+        },
+        {
+          "label": "O",
+          "text": "traditional"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 126,
+          "end": 130
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 201,
+          "end": 205
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 359,
+          "end": 363
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 646,
+          "end": 650
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 818,
+          "end": 822
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 957,
+          "end": 961
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1008,
+          "end": 1012
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1095,
+          "end": 1099
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1265,
+          "end": 1267
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1325,
+          "end": 1327
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Doctor's orders: Let children just play",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Imagine a drug that could enhance a child's creativity and critical thinking. Imagine that this drug were simple to make, safe to take, and could be had for free. The nation's leading pediatricians (儿科医生) say this miracle compound exists. In a new clinical report, they are urging doctors to prescribe it liberally to the children in their care."
+        },
+        {
+          "label": "B",
+          "text": "“This may seem old-fashioned, but there are skills to be learned when kids aren’t told what to do,” said Dr. Michael Yogman, a Harvard Medical School pediatrician who led the drafting of the call to arms. Whether it’s rough physical play, outdoor play or pretend play, kids derive important lessons from the chance to make things up as they go, he said."
+        },
+        {
+          "label": "C",
+          "text": "The advice, issued Monday by the American Academy of Pediatrics, may come as a shock to some parents. After spending years fretting (烦恼) over which toys to buy, which apps to download and which skill-building programs to send their kids to after school, letting them simply play—or better yet, playing with them—could seem like a step backward. The pediatricians insist that it's not. The academy's guidance does not include specific recommendations for the dosing of play. Instead, it asks doctors to advise parents before their babies turn two that play is essential to healthy development."
+        },
+        {
+          "label": "D",
+          "text": "“Play is not silly behavior,” the academy’s report declares. It fosters children’s creativity, cooperation, and problem-solving skills—all of which are critical for a 21st-century workforce. When parents engage in play with their children, it builds a wall against the harmful effects of all kinds of stress, including poverty, the academy says. In the pediatricians’ view, essentially every life skill that’s valued in adults can be built up with play. “Collaboration, negotiation, decision-making, creativity, leadership, and increased physical activity are just some of the skills and benefits children gain through play,” they wrote. The pediatricians’ appeal comes as kids are being squeezed by increasing academic demands at school and the constant invasion of digital media."
+        },
+        {
+          "label": "E",
+          "text": "The trends have been a long time coming. Between 1981 and 1997, detailed time-use studies showed that the time children spent at play declined by 25 percent. Since the adoption of sweeping education reforms in 2001, public schools have steadily increased the amount of time devoted to preparing for standardized tests. The focus on academic “skills and drills” has cut deeply into recess (课间休息) and other time for free play.\n\n四级2020年 28"
+        },
+        {
+          "label": "F",
+          "text": "By 2009, a study of Los Angeles kindergarten classrooms found that five-year-olds were so burdened with academic requirements that they were down to an average of just 19 minutes per day of “choice time,” when they were permitted to play freely with blocks, toys or other children. One in four Los Angeles teachers reported there was no time at all for “free play.” Increased academic pressures have left 30 percent of U.S. kindergarten classes without any recess. Such findings prompted the American Academy of Pediatrics to issue a policy statement in 2013 on the “crucial role of recess in school.”"
+        },
+        {
+          "label": "G",
+          "text": "Pediatricians aren't the only ones who have noticed. In a report titled “Crisis in the Kindergarten,” a group of educators, health professionals and child advocates called the loss of play in early childhood “a tragedy, both for the children themselves and for our nation and the world.” Kids in play-based kindergartens “end up equally good or better at reading and other intellectual skills, and they are more likely to become well-adjusted healthy people,” the Alliance for Childhood said in 2009. Indeed, new research demonstrates why playing with blocks might have been time better spent, Yogman said. The trial assessed the effectiveness of an early mathematics intervention (干预) aimed at preschoolers. The results showed almost no gains in math achievement."
+        },
+        {
+          "label": "H",
+          "text": "Another playtime thief: the growing proportion of kids' time spent in front of screens and digital devices, even among preschoolers. Last year, Common Sense Media reported that children up through age eight spent an average of two hours and 19 minutes in front of screens each day, including an average of 42 minutes a day for those under two. This increase of digital use comes with rising risks of obesity, sleep deprivation and cognitive (认知的), language and social-emotional delays, the American Academy of Pediatrics warned in 2016."
+        },
+        {
+          "label": "I",
+          "text": "“I respect that parents have busy lives and it’s easy to hand a child an iPhone,” Yogman said. “But there’s a cost to that. For young children, it’s much too passive. And kids really learn better when they’re actively engaged and have to really discover things.”"
+        },
+        {
+          "label": "J",
+          "text": "The decline of play is a special hazard for the roughly 1 in 5 children in the United States who live in poverty. These 14 million children most urgently need to develop the resilience (韧劲) that is cultivated with play. Instead, Yogman said, they are disproportionately affected by some of the trends that are making play scarce: academic pressures at schools that need to improve test scores, outside play areas that are limited or unsafe, and parents who lack the time or energy to share in playtime."
+        },
+        {
+          "label": "K",
+          "text": "Yogman also worries about the pressures that squeeze playtime for more affluent kids. “The notion that as parents we need to schedule every minute of their time is not doing them a great service,” he said. Even well-meaning parents may be “robbing them of the opportunity to have that joy of discovery and curiosity—the opportunity to find things out on their own.”"
+        },
+        {
+          "label": "L",
+          "text": "Play may not be a hard sell to kids. But UCLA pediatrician Carlos Lerner acknowledged that the pediatricians' new prescription may meet with skepticism (怀疑) from parents, who are anxious for advice on how to give their kids a leg up in the world. They should welcome the simplicity of the message, Lerner said. \"It's liberating to be able to offer them this advice: that you spending time with your child and letting him play is one of the most valuable things you can do,\" he said. \"It doesn't have to involve spending a lot of money or time, or joining a parenting group. It's something we can offer that's achievable. They just don't recognize it right now as particularly valuable.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Increased use of digital devices steals away children's playtime."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Since the beginning of this century, an increasing amount of time has been shifted in public schools from recess to academic activities.\n\n四级2020年 29"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "It has been acknowledged that while kids may welcome pediatricians' recommendation, their parents may doubt its feasibility."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "According to some professionals, deprivation of young children's playtime will do harm not only to children themselves but to the country and the world."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "By playing with children, parents can prevent them from being harmed by stress."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Playing with digital devices discourages kids from active discovery, according to pediatrician Dr. Michael Yogman."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The suggestion of letting children simply play may sound like going backwards to parents who want to help build their children's skills."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Dr. Michael Yogman believes the idea that parents should carefully schedule children's time may not be helpful to their growth."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "One quarter of teachers in an American city said that children in kindergartens had no time for playing freely."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "According to a pediatrician, no matter what kind of play children engage in, they are learning how to create things."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Americans spend billions of dollars each year trying to change their weight with diets, gym memberships and plastic surgery.\n\nTrying to live up to the images of “perfect” models and movie heroes has a dark side: anxiety, depression, as well as unhealthy strategies for weight loss or muscle gain. It also has a financial cost. Having an eating disorder boosts annual health care costs by nearly US \\$ 2,000 per person.\n\nWhy is there both external and internal pressure to look “perfect”? One reason is that society rewards people who are thin and healthy-looking. Researchers have shown that body mass index is related to wages and income. Especially for women, there is a clear penalty at work for being overweight or obese. Some studies have also found an impact for men, though a less noticeable one.\n\nWhile the research literature is clear that labor market success is partly based on how employers and customers perceive your body image, no one had explored the other side of the question. Does a person's own perception of body image matter to earnings and other indicators of success in the workplace?\n\nOur recently published study answered this question by tracking a large national random sample of Americans over a critical time period when bodies change from teenage shape into adult form and when people build their identities.\n\nAs in other research, women in our sample tend to over-perceive their weight—they think they're heavier than they are—while men tend to under-perceive theirs.\n\nWe found no relationship between the average person's self-perception of weight and labor market outcomes, although self-perceived weight can influence self-esteem (自尊心), mental health and health behaviors.\n\n四级2020年 30\n\nWhile the continued gender penalty in the labor market is frustrating, our finding that misperceived weight does not harm workers is more heartening.\n\nSince employers' perception of weight is what matters in the labor market, changing discrimination laws to include body type as a category would help. Michigan is the only state that prohibits discrimination on the basis of weight and height. We believe expanding such protections would make the labor market more fair and efficient.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author say may have an adverse impact on people?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Undergoing plastic surgeries in pursuit of beauty."
+                },
+                {
+                  "label": "B",
+                  "text": "Imitating the lifestyles of heroes and role models."
+                },
+                {
+                  "label": "C",
+                  "text": "Striving to achieve perfection regardless of financial cost."
+                },
+                {
+                  "label": "D",
+                  "text": "Attempting to meet society's expectation of appearance."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What have researchers found out about people's earnings?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are closely related to people's social status."
+                },
+                {
+                  "label": "B",
+                  "text": "They have to do with people's body weight and shape."
+                },
+                {
+                  "label": "C",
+                  "text": "They seem to matter much less to men than to women."
+                },
+                {
+                  "label": "D",
+                  "text": "They may not be equal to people's contributions."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author's recent study focus on?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Previous literature on indicators of competitiveness in the workplace."
+                },
+                {
+                  "label": "B",
+                  "text": "Traits that matter most in one's pursuit of success in the labor market."
+                },
+                {
+                  "label": "C",
+                  "text": "Whether self-perception of body image impacts one's workplace success."
+                },
+                {
+                  "label": "D",
+                  "text": "How bosses' perception of body image impacts employees' advancement."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is the finding of the author's recent research?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Being overweight actually does not do much harm to the overall well-being of employees."
+                },
+                {
+                  "label": "B",
+                  "text": "People are not adversely affected in the workplace by false self-perception of body weight."
+                },
+                {
+                  "label": "C",
+                  "text": "Self-esteem helps to combat gender inequality in the workplace."
+                },
+                {
+                  "label": "D",
+                  "text": "Gender inequality continues to frustrate a lot of female employees."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author think would help improve the situation in the labor market?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Banning discrimination on the basis of employees' body image."
+                },
+                {
+                  "label": "B",
+                  "text": "Expanding protection of women against gender discrimination."
+                },
+                {
+                  "label": "C",
+                  "text": "Helping employees change their own perception of beauty."
+                },
+                {
+                  "label": "D",
+                  "text": "Excluding body shape as a category in the labor contract."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "The work-life balance is dead. By this, I'm not advocating that you should give up your pursuit of having a fulfilling career and a thriving personal life, and I'm definitely not saying that you have to give up one to have the other. I also acknowledge that we have a work-life problem, but I'm arguing that the concept of balance has never been helpful, because it's too limiting. You see, our language makes a difference, and how we refer to things matters because it affects our thinking and therefore our actions.\n\nAt the minimum, most of us work because we want to be able to support ourselves, our families, and the people around us. In the ideal world, we're all doing work that we're proud of and that provides meaning and purpose to us. But even if your job doesn't give you shivers of joy each new day, working is a\n\n四级2020年 31\n\npart of what each of us does and the contribution we make to society. When you separate work and life, it's a little bit harder to make that connection. But when you think of work as part of a full life and a complete experience, it becomes easier to see that success in one aspect often supports another.\n\nLosing your balance and falling isn't pleasant. A goal to balance suggests that things could quickly get off balance, and that causes terrible outcomes. It's more constructive to think of solutions that continue to evolve over shifts in life and work. Rather than falling or failing, you may have good days or better days or not-so-good days. These variations are normal, and it's more useful to think of life as something that is ever evolving and changing, rather than a high-risk enterprise where things could go wrong with one misstep.\n\nHow we talk to ourselves matters, and how we talk about issues makes a difference. Let's bury \"work-life balance\" and think bigger and better about work-life fulfillment to do a little less balancing and a lot more living.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author suggest by saying “The work-life balance is dead”?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The hope of achieving a thriving life is impossible to realize."
+                },
+                {
+                  "label": "B",
+                  "text": "The pursuit of a fulfilling career involves personal sacrifice."
+                },
+                {
+                  "label": "C",
+                  "text": "The imbalance between work and life simply doesn’t exist anymore."
+                },
+                {
+                  "label": "D",
+                  "text": "The concept of work-life balance contributes little to a fulfilling life."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does the author say about our use of language?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It impacts how we think and behave."
+                },
+                {
+                  "label": "B",
+                  "text": "It changes with the passage of time."
+                },
+                {
+                  "label": "C",
+                  "text": "It reflects how we communicate."
+                },
+                {
+                  "label": "D",
+                  "text": "It differs from person to person."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the author say we do in an ideal world?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "We do work that betters the lives of our families and friends."
+                },
+                {
+                  "label": "B",
+                  "text": "We do work that gives us bursts of joy each new day."
+                },
+                {
+                  "label": "C",
+                  "text": "We do meaningful work that contributes to society."
+                },
+                {
+                  "label": "D",
+                  "text": "We do demanding work that brings our capacity into full play."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say about life?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is cyclical."
+                },
+                {
+                  "label": "C",
+                  "text": "It is fulfilling."
+                },
+                {
+                  "label": "B",
+                  "text": "It is dynamic."
+                },
+                {
+                  "label": "D",
+                  "text": "It is risky."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author advise us to do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Make life as simple as possible."
+                },
+                {
+                  "label": "B",
+                  "text": "Talk about balance in simpler terms."
+                },
+                {
+                  "label": "C",
+                  "text": "Balance life and work in a new way."
+                },
+                {
+                  "label": "D",
+                  "text": "Strive for a more fulfilling life."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "茅台(Moutai)是中国最有名的白酒，在新中国成立前夕，被选为国宴用酒。\n\n据说赤水沿岸的村民四千年前就开始酿造茅台。在西汉时期，那里的人们生产出了高质量的茅台，并把它贡给皇帝。自唐朝开始，这种地方酒通过海上丝绸之路运往海外。\n\n茅台味道柔和,有一种特殊的香味;适量饮用可以帮助缓解疲劳,有镇静作用,因而广受国内外消费者的喜爱。\n\n四级2020年 32"
+      }
+    ]
+  },
+  "id": "CET4-2020-09-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "36": {
+        "answer": "H",
+        "explanation": "H)【精析】同义转述题。定位句提到另一个盗走游戏时间的小偷,即孩子花在屏幕和数字设备前的时间越来越多。题干中的 Increased use of digital devices 对应定位句中的 the growing proportion of kids' time spent in front of screens and digital devices,故答案为 H)。"
+      },
+      "37": {
+        "answer": "E",
+        "explanation": "academic “skills and drills” has cut deeply into recess and other time for free play 的概括归纳，故答案为 E)。"
+      },
+      "38": {
+        "answer": "L",
+        "explanation": "L) 【精析】细节归纳题。定位句指出, 让孩子们接受玩游戏这一建议不难, 但可能会遭到家长们的质疑, 他们急切地希望得到如何助孩子一臂之力的建议。题干中的 kids may welcome pediatricians' recommendation 对应定位句中的 Play may not be a hard sell to kids, 题干中的 their parents may doubt its feasibility 是对定位句中 the pediatricians' new prescription may meet with skepticism from parents 的概括归纳, 故答案为 L)。"
+      },
+      "39": {
+        "answer": "G",
+        "explanation": "health professionals and child advocates 的概括归纳, 题干中的 deprivation of young children's playtime will do harm not only to children themselves but to the country and the world 是对定位句中 called the loss of play in early childhood “a tragedy, both for the children themselves and for our nation and the world”的同义转述, 故答案为 G)。"
+      },
+      "40": {
+        "answer": "D",
+        "explanation": "D)【精析】细节归纳题。定位句指出,当父母和玩子们一起耍耍时,这就为玩子筑起了一堵墙,以抵御包括贫困在内的各种压力带来的有害影响。题干中的 By playing with children 是对定位句中 When parents engage in play with their children 的同义转述,题干中的 prevent them from being harmed by stress 是对定位句中 builds a wall against the harmful effects of all kinds of stress, including poverty 的概括归纳,故答案为 D)。"
+      },
+      "41": {
+        "answer": "I",
+        "explanation": "I) 【精析】细节归纳题。定位段指出,尤格曼认为,父母因为忙碌而让玩子耍手机是有代价的。对小玩子来说,耍手机太被动了。当玩子们积极参与并真正发现事物时,但我们可以学得更好。换言之,儿科医生尤格曼认为耍手机或数字设备会阻碍玩子主动发现事物。题干是对定位段的概括归纳,故答案为I)。"
+      },
+      "42": {
+        "answer": "C",
+        "explanation": "同义转述,题干中的 parents who want to help build their children's skills 是对定位句中 spending years fretting over which toys to buy, which apps to download and which skill-building programs to send their kids to after school 的概括归纳,故答案为 C)。"
+      },
+      "43": {
+        "answer": "K",
+        "explanation": "K)【精析】同义转述题。定位句指出,尤格曼认为,父母需要为玩子安排但我们每一分钟的时间这样一种观念其实并不是在帮玩子。题干中的 the idea that parents should carefully schedule children's time 和 may not be helpful 分别是对定位句中 The notion that as parents we need to schedule every minute of their time 和 could seem like a step backward 的同义转述,题干中的 may not be helpful 是对定位句中 not doing them a great service 的同义转述,故答案为 K)。"
+      },
+      "44": {
+        "answer": "F",
+        "explanation": "F) 【精析】同义转述题。定位句指出,洛杉矶四分之一的教师表示根本没有时间“自由地耍耍”。题干中的 One quarter of teachers in an American city 和 had no time for playing freely 分别是对定位句中 One in four Los Angeles teachers 和 there was no time at all for “free play.” 的同义转述,故答案为 F)。"
+      }
+    },
+    "references": {}
+  }
+}

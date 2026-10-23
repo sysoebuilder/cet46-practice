@@ -1,0 +1,12 @@
+{
+  "pages": [
+    { "path": "pages/index/index", "style": { "navigationStyle": "custom", "navigationBarTitleText": "轻松刷真题" } },
+    { "path": "pages/practice/index", "style": { "navigationStyle": "custom", "navigationBarTitleText": "做题", "app-plus": { "softinputMode": "adjustResize" } } },
+    { "path": "pages/history/index", "style": { "navigationStyle": "custom", "navigationBarTitleText": "做题历史" } },
+    { "path": "pages/score/index", "style": { "navigationStyle": "custom", "navigationBarTitleText": "真题评分" } }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black", "navigationBarBackgroundColor": "#f6f5ed", "backgroundColor": "#f6f5ed",
+    "rpxCalcMaxDeviceWidth": 960, "rpxCalcBaseDeviceWidth": 375, "rpxCalcIncludeWidth": 750
+  }
+}

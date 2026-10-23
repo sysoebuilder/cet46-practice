@@ -1,0 +1,711 @@
+{
+  "schema_version": "1.0",
+  "year": 2020,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop the ability to meet challenges. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop the ability to meet challenges. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop the ability to meet challenges. You should write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "特别说明"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Social distancing is putting people out of work, canceling school and tanking the stock market. It has been _26_ by fear, and it is creating even more fear as money problems and uncertainty grow. However, at its core is love, and a sacrifice to protect those most _27_ to the coronavirus (冠状病毒) effects—the elderly, people with compromised immune systems, and those whose life-saving resources would be used up by a _28_ epidemic.\n\nAmericans make life-saving decisions every day as a matter of course. We cut food into bite-sized pieces, we wear seatbelts, and we take care not to exceed the speed limit. But social distancing is _29_ in that it is completely self-sacrificing. Those who will benefit may be the elderly relatives of the _30_ person we didn't pass in Starbucks, on the subway, or in the elevator.\n\nSocial distancing is millions of people making hundreds of sacrifices to keep the elderly alive. It doesn't include the _31_ to run from society or make an excuse to avoid one's obligations—such as life-saving medical work or the parental obligation to buy groceries. What it does include is applying love through caution. And in doing so, it offers an _32_ opportunity for those who care about the elderly to find new ways to love them.\n\nIf we're not _33_ as much in our normal work or school, we have extra time to call parents and grandparents. We can also ask elderly relatives how to best support them _34_ and use our sacrifices as an opportunity to bring us, our community and the world _35_.\n\n6 · 1",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "amazing"
+        },
+        {
+          "label": "I",
+          "text": "sentimentally"
+        },
+        {
+          "label": "B",
+          "text": "closer"
+        },
+        {
+          "label": "J",
+          "text": "spiritually"
+        },
+        {
+          "label": "C",
+          "text": "driven"
+        },
+        {
+          "label": "K",
+          "text": "temptations"
+        },
+        {
+          "label": "D",
+          "text": "engaged"
+        },
+        {
+          "label": "L",
+          "text": "thriftier"
+        },
+        {
+          "label": "E",
+          "text": "malignant"
+        },
+        {
+          "label": "M",
+          "text": "tickled"
+        },
+        {
+          "label": "F",
+          "text": "oppressing"
+        },
+        {
+          "label": "N",
+          "text": "unique"
+        },
+        {
+          "label": "G",
+          "text": "premises"
+        },
+        {
+          "label": "O",
+          "text": "vulnerable"
+        },
+        {
+          "label": "H",
+          "text": "random"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 108,
+          "end": 112
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 264,
+          "end": 268
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 416,
+          "end": 420
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 630,
+          "end": 634
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 737,
+          "end": 741
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 934,
+          "end": 938
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1167,
+          "end": 1171
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1266,
+          "end": 1270
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1421,
+          "end": 1425
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1508,
+          "end": 1512
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Why Lifelong Learning Is the International Passport to Success",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Picture yourself at a college graduation day, with a fresh cohort (一群) of students about to set sail for new horizons. What are they thinking while they throw their caps in the air? What is it with this thin sheet of paper that makes it so precious? It's not only the proof of acquired knowledge but plays into the reputation game of where you were trained. Being a graduate from Harvard Law School carries that extra glamour, doesn't it? Yet take a closer look, and the diploma is the perfect ending to the modern tragedy of education."
+        },
+        {
+          "label": "B",
+          "text": "Why? Because universities and curricula are designed along the three unities of French classical tragedy: time, action, and place. Students meet at the university campus (unity of place) for classes (unity of action) during their 20s (unity of time). This classical model has traditionally produced prestigious universities, but it is now challenged by the digitalisation of society—which allows everybody who is connected to the internet to access learning—and by the need to acquire skills in step with a fast-changing world. Universities must realise that learning in your 20s won't be enough. If technological diffusion and implementation develop faster, workers will have to constantly refresh their skills."
+        },
+        {
+          "label": "C",
+          "text": "The university model needs to evolve. It must equip students with the right skills and knowledge to compete in a world ‘where value will be derived largely from human interaction and the ability to invent and interpret things that machines cannot’, as the English futurist Richard Watson puts it. By teaching foundational knowledge and up-to-date skills, universities will provide students with the future-proof skills of lifelong learning, not just get them ‘job-ready’.\n\n6 · 2"
+        },
+        {
+          "label": "D",
+          "text": "Some universities already play a critical role in lifelong learning as they want to keep the value of their diplomas. This new role comes with a huge set of challenges, and needs largely to be invented. One way to start this transformation process could be to go beyond the ‘five-year diploma model’ to adapt curricula to lifelong learning. We call this model the lifelong passport."
+        },
+        {
+          "label": "E",
+          "text": "The Bachelor's degree could be your passport to lifelong learning. For the first few years, students would ‘learn to learn’ and get endowed with reasoning skills that remain with them for the rest of their lives. For instance, physics allows you to observe and rationalise the world, but also to integrate observations into models and, sometimes, models into theories or laws that can be used to make predictions. Mathematics is the language used to formulate the laws of physics or economy, and to make rigorous computations that turn into predictions. These two disciplines naturally form the foundational pillars of education in technical universities."
+        },
+        {
+          "label": "F",
+          "text": "Recent advances in computational methods and data science push us into rethinking science and engineering. Computers increasingly become principal actors in leveraging data to formulate questions, which requires radically new ways of reasoning. Therefore, a new discipline blending computer science, programming, statistics and machine learning should be added to the traditional foundational topics of mathematics and physics. These three pillars would allow you to keep learning complex technical subjects all your life because numeracy (计算) is the foundation upon which everything else is eventually built."
+        },
+        {
+          "label": "G",
+          "text": "According to this new model, the Master of Science (MSc) would become the first stamp in the lifelong learning journey. The MSc curriculum should prepare students for their professional career by allowing them to focus on acquiring practical skills through projects."
+        },
+        {
+          "label": "H",
+          "text": "Those projects are then interwoven with fast-paced technical modules (模块) learned ‘on-the-fly’ and ‘at will’ depending on the nature of the project. If, for instance, your project is developing an integrated circuit, you will have to take a module on advanced concepts in microelectronics. The most critical skills will be developed before the project even starts, in the form of boot camps (短期强化训练), while the rest can be fostered along with the project, putting them to immediate use and thus providing a rich learning context."
+        },
+        {
+          "label": "I",
+          "text": "In addition to technical capabilities, the very nature of projects develops social and entrepreneurial skills, such as design thinking, initiative taking, team leading, activity reporting or resource planning. Not only will those skills be actually integrated into the curriculum but they will be very important to have in the future because they are difficult to automate."
+        },
+        {
+          "label": "J",
+          "text": "After the MSc diploma is earned, there would be many more stamps of lifelong learning over the years. If universities decide to engage in this learning model, they will have to cope with many organisational challenges that might shake their unity of place and action. First, the number of students would be unpredictable. If all of a university's alumni (往届毕业生) were to become\n\n6 · 3\n\nstudents again, the student body would be much bigger than it is now, and it could become unsustainable for the campus in terms of both size and resources. Second, freshly graduated students would mix with professionally experienced ones. This would change the classroom dynamics, perhaps for the best. Project-based learning with a mixed team reflects the reality of the professional world and could therefore be a better preparation for it."
+        },
+        {
+          "label": "K",
+          "text": "Sound like science fiction? In many countries, part-time studying is not exceptional: on average across OECD countries, part-time students in 2016 represented 20 per cent of enrolment in tertiary education. In many countries, this share is higher and can exceed 40 per cent in Australia, New Zealand and Sweden."
+        },
+        {
+          "label": "L",
+          "text": "If lifelong learning were to become a priority and the new norm, diplomas, just like passports, could be revalidated periodically. A time-determined revalidation would ease administration for everybody. Universities as well as employers and employees would know when they have to retrain. For instance, graduates from the year 2000 would have to come back in 2005."
+        },
+        {
+          "label": "M",
+          "text": "This could fix the main organisational challenges for the university, but not for the learners, due to lack of time, family obligations or funds. Here, online learning might be an option because it allows you to save your ‘travel time’, but it has its limits. So far, none of the major employers associated with online learning platforms such as Coursera and Udacity has committed to hire or even interview graduates of their new online programmes."
+        },
+        {
+          "label": "N",
+          "text": "Even if time were not an issue, who will pay for lifelong learning? That's the eternal debate: should it be the learner's responsibility, that of his employer, or of the state? For example, in Massachusetts, the healthcare professions require continuing education credits, which are carefully evidenced and documented. Yet the same state's lawyers don't require continuing legal education, although most lawyers do participate in it informally. One explanation is that technology is less of a factor in law than it is in healthcare."
+        },
+        {
+          "label": "O",
+          "text": "Europe has many scenarios, but the French and Swiss ones are interesting to compare. In France, every individual has a right to lifelong learning organised via a personal learning account that is credited as you work. In Switzerland, lifelong learning is a personal responsibility and not a government one. However, employers and the state encourage continuing education either by funding parts of it or by allowing employees to attend it."
+        },
+        {
+          "label": "P",
+          "text": "Universities have a fundamental role to play in this journey, and higher education is in for a change. Just like classical theatre, the old university model produced talent and value for society. We are not advocating its abolition but rather calling for the adaptation of its characteristics to meet the needs of today."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Students should develop the key skills before they start a project.\n\n6 · 4"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "By acquiring reasoning skills in the first few years of college, students can lay a foundation for lifelong learning."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The easy access to learning and rapid technological changes have brought the traditional model of education under challenge."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Unbelievable as it may seem, part-time students constitute a considerable portion of the student body in many universities across the world."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Some social and managerial skills, which are not easily automated, will be of great importance to students' future careers."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "A new model of college education should provide students with the knowledge and skills that will make them more inventive and capable of lifelong learning."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "A mixed student body may change the classroom dynamics and benefit learning."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The question of who will bear the cost of lifelong learning is a topic of constant debate."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "To the traditional subjects of math and physics should be added a new discipline which combines computer science with statistics and other components."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Students who are burdened with family duties might choose to take online courses."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Why does social media trigger feelings of loneliness and inadequacy? Because instead of being real life, it is, for the most part, impression management, a way of marketing yourself, carefully choosing and filtering the pictures and words to put your best face forward.\n\nOnline “friends” made through social media do not follow the normal psychological progression of an interpersonal relationship. You share neither physical time nor emotional conversations over the Internet. You simply communicate photographs and catchy posts to a diverse group of people whom you have “friended” or “followed” based on an accidental interaction. This is not to say that your social media friends can’t be real friends. They absolutely can, but the two are not synonymous.\n\n6 · 5\n\nGenerally speaking, there are no unfiltered comments or casually taken photos on our social media pages. And, rightfully so, because it wouldn't feel safe to be completely authentic and vulnerable with some of our “friends” whom we don't actually know or with whom trust has yet to be built.\n\nSocial media can certainly be an escape from the daily grind, but we must be cautioned against the negative effects, such as addiction, on a person's overall psychological well-being.\n\nAs humans, we yearn for social connection. $Scrolling$ (滚动) through pages of pictures and comments, however, does not provide the same degree of fulfillment as face-to-face interactions do. Also, we tend to idealize others' lives and compare our downfalls to their greatest accomplishments, ending in feelings of loneliness and inadequacy.\n\nSocial media can lead people on the unhealthy quest for perfection. Some people begin to attend certain events or travel to different places so that they can snap that “perfect” photo. They begin to seek validation through the number of people who “like” their posts. In order for it to play a psychologically healthy role in your social life, social media should supplement an already healthy social network. Pictures and posts should be byproducts of life’s treasured moments and fun times, not the planned and calculated image that one is putting out into cyberspace in an attempt to fill insecurities or unmet needs.\n\nUltimately, social media has increased our ability to connect with various types of people all over the globe. It has opened doors for businesses and allowed us to stay connected to people whom we may not otherwise get to follow. However, social media should feel like a fun experience, not one that contributes to negative thoughts and feelings. If the latter is the case, increasing face-to-face time with trusted friends, and minimizing time scrolling online, will prove to be a reminder that your social network is much more rewarding than any “like,” “follow” or “share” can be.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author imply social media may do to our life?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may facilitate our interpersonal relationships."
+                },
+                {
+                  "label": "B",
+                  "text": "It may filter our negative impressions of others."
+                },
+                {
+                  "label": "C",
+                  "text": "It may make us feel isolated and incompetent."
+                },
+                {
+                  "label": "D",
+                  "text": "It may render us vulnerable and inauthentic."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why do people post comments selectively on social media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They do not find all their online friends trustworthy."
+                },
+                {
+                  "label": "B",
+                  "text": "They want to avoid offending any of their audience."
+                },
+                {
+                  "label": "C",
+                  "text": "They do not want to lose their followers."
+                },
+                {
+                  "label": "D",
+                  "text": "They are eager to boost their popularity."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What are humans inclined to do according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Exaggerate their life's accomplishments."
+                },
+                {
+                  "label": "C",
+                  "text": "Paint a rosy picture of other people's lives."
+                },
+                {
+                  "label": "B",
+                  "text": "Strive for perfection regardless of the cost."
+                },
+                {
+                  "label": "D",
+                  "text": "Learn lessons from other people's downfalls."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is the author's view of pictures and posts on social media?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They should record the memorable moments in people's lives.\n\n6 · 6"
+                },
+                {
+                  "label": "B",
+                  "text": "They should be carefully edited so as to present the best image."
+                },
+                {
+                  "label": "C",
+                  "text": "They should be shown in a way that meets one's security needs."
+                },
+                {
+                  "label": "D",
+                  "text": "They should keep people from the unhealthy quest for perfection."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author advise people to do when they find their online experience unconstructive?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Use social media to increase their ability to connect with various types of people."
+                },
+                {
+                  "label": "B",
+                  "text": "Stay connected to those whom they may not otherwise get to know and befriend."
+                },
+                {
+                  "label": "C",
+                  "text": "Try to prevent negative thoughts and feelings from getting into the online pages."
+                },
+                {
+                  "label": "D",
+                  "text": "Strengthen ties with real-life friends instead of caring about their online image."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Imagine that an alien species landed on Earth and, through their mere presence, those aliens caused our art to vanish, our music to homogenize, and our technological know-how to disappear. That is effectively what humans have been doing to our closest relatives—chimps(大猩猩).\n\nBack in 1999, a team of scientists led by Andrew Whiten showed that chimps from different parts of Africa behave very differently from one another. Some groups would get each other's attention by rapping branches with their knuckles (指关节), while others did it by loudly ripping leaves with their teeth. The team identified 39 of these traditions that are practiced by some communities but not others—a pattern that, at the time, hadn't been seen in any animal except humans. It was evidence, the team said, that chimps have their own cultures.\n\nIt took a long time to convince skeptics that such cultures exist, but now we have plenty of examples of animals learning local traditions from one another.\n\nBut just when many scientists have come to accept the existence of animal cultures, many of those cultures might vanish. Ammie Kalan and her colleagues have shown, through years of intensive fieldwork, that the very presence of humans has eroded the diversity of chimp behavior. Where we flourish, their cultures wither. It is a bitterly ironic thing to learn on the 20th anniversary of Whiten's classic study.\n\n“It’s amazing to think that just 60 years ago, we knew next to nothing of the behavior of our sister species in the wild,” Whiten says. “But now, just as we are truly getting to know our primate(灵长类) cousins, the actions of humans are closing the window on all we have discovered.”\n\n“Sometimes in the rush to conserve the species, I think we forget about the individuals,” says Cat Hobaiter, a professor at the University of St. Andrews. “Each population, each community, even each generation of chimps is unique. An event might only have a small impact on the total population of chimps, but it may wipe out an entire community—an entire culture. No matter what we do to restore habitat or support population growth, we may never be able to restore that culture.”\n\nNo one knows whether the destruction of chimp culture is getting worse. Few places have tracked chimp behavior over long periods, and those that have are also more likely to have protected their animals from human influence.\n\nObviously, conservationists need to think about saving species in a completely new way—by preserving animal traditions as well as bodies and genes. “Instead of focusing only on the\n\n6 · 7\n\nconservation of genetically based entities like species, we now need to also consider culturally based entities,\" says Andrew Whiten.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say we humans have been doing to chimps?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Ruining their culture."
+                },
+                {
+                  "label": "B",
+                  "text": "Accelerating their extinction."
+                },
+                {
+                  "label": "C",
+                  "text": "Treating them as alien species."
+                },
+                {
+                  "label": "D",
+                  "text": "Homogenizing their living habits."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is the finding of Andrew Whiten's team?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Chimps demonstrate highly developed skills of communication."
+                },
+                {
+                  "label": "B",
+                  "text": "Chimps rely heavily upon their body language to communicate."
+                },
+                {
+                  "label": "C",
+                  "text": "Chimps behave in ways quite similar to those of human beings."
+                },
+                {
+                  "label": "D",
+                  "text": "Different chimp groups differ in their way of communication."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What did Ammie Kalan and her colleagues find through their intensive fieldwork?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Whiten's classic study has little impact on the diversity of chimp behavior."
+                },
+                {
+                  "label": "B",
+                  "text": "Chimp behavior becomes less varied with the increase of human activity."
+                },
+                {
+                  "label": "C",
+                  "text": "Chimps alter their culture to quickly adapt to the changed environment."
+                },
+                {
+                  "label": "D",
+                  "text": "It might already be too late to prevent animal cultures from extinction."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does Cat Hobaiter think we should do for chimp conservation?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Try to understand our sister species' behavior in the wild."
+                },
+                {
+                  "label": "B",
+                  "text": "Make efforts to preserve each individual chimp community."
+                },
+                {
+                  "label": "C",
+                  "text": "Study the unique characteristics of each generation of chimps."
+                },
+                {
+                  "label": "D",
+                  "text": "Endeavor to restore chimp habitats to expand its total population."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author suggest conservationists do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Focus entirely on culturally-based entities rather than genetically-based ones."
+                },
+                {
+                  "label": "B",
+                  "text": "Place more stress on animal traditions than on their physical conservation."
+                },
+                {
+                  "label": "C",
+                  "text": "Conserve animal species in a novel and all-round way."
+                },
+                {
+                  "label": "D",
+                  "text": "Explore the cultures of species before they vanish."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "北京大兴国际机场位于天安门广场以南46公里处，于2019年9月30日投入使用。该巨型工程于2014年开工建设，高峰时工地上有4万多工人。航站楼设计紧凑，可以允许最大数量的飞机直接停靠在最靠近航站楼中心的位置，这给乘客提供了极大的方便。航站楼共有82个登机口，但乘客通过安检后，只需不到8分钟就能抵达任何一个登机口。机场的设计可确保每小时300架次起降。机场年客运量2040年将达到1亿人次，有望成为世界上最繁忙的机场。\n\n6 · 8"
+      }
+    ]
+  },
+  "id": "CET6-2020-12-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "C",
+        "explanation": "driven。[确定词性]空格所在部分It has been by fear构成典型的被动语态,空格词应为-ed分词。"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "vulnerable。[确定词性]空格所在句为倒装语序,可还原为love,and a sacrifice(主语)+to protect those most to the coronavirus effects(a sacrifice的后置定语)+is(系动词)+at its core(表语)。空格词应为形容词,且能与to搭配,most to the coronavirus effects为those的后置定语。[锁定答案]空格句首先指出,社交隔离的核心是爱,是为了保护那些人(those)而做出的一种牺牲。随后破折号引出三类人群:老年人、免疫系统受损的人、救命资源将被耗尽的人。those most to the coronavirus effects(最 冠状病毒影响的人)显然是对三类人群特征的概括,空格词应意为“易感的/易受影响的/易受侵害的”,vulnerable to为固定搭配,表示“易受……的侵害”,O 正确。"
+      },
+      "28": {
+        "answer": "E",
+        "explanation": "mali<sub>gnant</sub>。[确定词性]空格位于冠词a和名词e<sub>pidemic</sub>间,可能为名词、形容词、-in<sub>g</sub>分词、-ed分词。[锁定答案]those...by a epidemic与其前两类群体(the elderly,people with...)一样指向“冠状病毒易感人群”,可推知a epidemic即指“冠状病毒大流行”,空格词既应体现该流行病的性质/特点,又应契合“救命资源会被 流行病耗尽”这一句内语义,故空28应表示“危险的/恶性的/大规模的”等,E正确。"
+      },
+      "29": {
+        "answer": "N",
+        "explanation": "unique。[确定词性]空格所在句结构为social distancin<sub>g</sub>(名词短语/主语)+is(系/助动词)+ +in that...(状语从句),空格词可能为名词、形容词(句子为主系表结构,空格词充当表语),或-in<sub>g</sub>分词(句子为现在进行时,空格词与is构成谓语动词),或-ed分词(句子为被动语态,空格词与is构成谓语动词)。[锁定答案]空格前两句介绍美国人不时在做出拯救生命的决定,“将食物切成小块、系好安全带、不超速”等做法涉及“自己、家人以及其他人的生命安全”。空格句指出,但社交隔离是 ,因为它完全是自我牺牲式的(com<sub>pletely self</sub>-sacrificin<sub>g</sub>,即完全是为了他人的生命安全)。借助①②句和③句间的对比可知,空格词应体现“社交隔离作为挽救生命之举的独特之处/不同寻常”,N 正确。"
+      },
+      "30": {
+        "answer": "H",
+        "explanation": "random。[确定词性]空格词位于冠词the和名词p<sub>erson</sub>间,应为person的修饰成分,可能为名词、形容词、-in<sub>g</sub>分词、-ed分词。[锁定答案]空格句指出,(社交隔离的)受益者可能是我们在星巴克、地铁或电梯里都未曾擦肩而过的 某个人的年长亲属。结合上句“社交隔离完全是自我牺牲式的(我们与受益者毫无关联/完全不相识)”可知,the person应该体现我们(we,即实行社交隔离的人)与这些老人(the elderly relatives,即受益者)的“毫无瓜葛/完全不相识”。H)random 意为“任意的,胡乱的,随意的”符合要求,the random person强调“任意的/随便的/毫不相干的某个人”,与定语从句信息(以点带面,说明我们与这些人完全未曾谋面)一致,共同强调这些老人“并非我们自己的亲人,而是陌生人的亲人”。"
+      },
+      "31": {
+        "answer": "K",
+        "explanation": "temptations。[确定词性]空格前为及物动词include和冠词the,后为不定式to run from...,空格词应为名词,跟the一起作include的宾语。[锁定答案]第三段前三句Social distancing is...、It doesn􀆳t include...、What it does include...提示句群逻辑为“说明社交隔离的内涵→说明社交隔离不包含的做法→说明社交隔离真正应包含的做法”,初步判断空格词表负面语义,备选项中只有 K满足条件。进一步聚焦②句发现,破折号后内容解释说明one􀆳s obligations,即 to...or...—such as...整体语义为“(借社交隔离之名)逃离社会或逃避责任的空格词应表示“(错误的)做法/趋势/想法”等,temptations可表示“采取某种(不良)行为的想法”,确定 K正确。"
+      },
+      "32": {
+        "answer": "A",
+        "explanation": "amazing。[确定词性]空格词位于冠词an和名词o<sub>pportunity</sub>间,应为o<sub>pportunity</sub>的修饰成分,可能为名词、形容词、-in<sub>g</sub>分词、-ed分词,且以元音音素开头。[锁定答案]空格前句指出,社交隔离真正包含的是谨慎地去爱。空格句指出,在这样做的过程中,它为那些关心老人的人们提供了找到关爱新方式的 机会。两句均传达出作者强烈的建议和肯定,可推知空格词应含正面语义,表示“宝贵的/绝佳的/神奇的”等,A 符合文意,amazing opportunity“良机/令人惊喜的机会”可体现文中“无心插柳柳成荫,坏事(被迫社交隔离)变好事(找到关爱老人新方式的良机)”的情景。"
+      },
+      "33": {
+        "answer": "D",
+        "explanation": "en<sub>gaged</sub>。[确定词性]空格前为 we􀆳re not(主语+系/助动词),后为as much in...(表示程度的副词短语),空格词为形容词、-in<sub>g</sub>分词、-ed分词,且能与in搭配。[锁定答案]本题的解题思路有二:1.从句内逻辑来看,空格所在条件状语从句“如果我们不再那样 正常的工作和学习”为主句“有更多时间打电话给父母和祖父母”成立的条件,“有更多的空闲时间”势必意味着“减少了在工作和学习上投入的时间”。2.从上下文关联来看,空格所在句恰好呼应首段“社交隔离正令人们失业、停学”。综上,空格词应表“(不再)忙于/专注于”等,be engaged in为固定搭配,意为“忙于”,D正确。"
+      },
+      "34": {
+        "answer": "J",
+        "explanation": "spiritually。[确定词性]空格所在句第一个and前的结构为 We(主语)+can also ask(谓语)+elderly relatives(宾语)+how to best support them 。空格词只能为副词,修饰support them。[锁定答案]We can also表明空格句承接上句(多给老人打打电话),引出作者的另外的建议:我们还可以问问年长亲属怎样才能 最好地支持他们。可见此处指向为老年人提供精神上的/更大的/实际的支持。support sb spiritually表示“在精神上支持某人”,空格选项为J。"
+      },
+      "35": {
+        "answer": "B",
+        "explanation": "closer。[确定词性]空格所在句 第一个 and 后的结构为 (We can also)use our sacrifices as an opportunity to bring A,B,and C ,空格词可能为名词(构成bring sb sth双宾语结构),或形容词、副词"
+      },
+      "36": {
+        "answer": "H",
+        "explanation": "36.Students should develop the key skills before they start a project. 学生应当在开展项目之前学会关键技能。􀪋[答案]H [精解]由定位词定位至 H 段③句。该句指出,学生必须在项目开始之前学会最关键的技能(其他技能则可在项目推进期间加以培养),试题是对此处信息的复现,the key skills对应原文的 The most critical skills。"
+      },
+      "37": {
+        "answer": "E",
+        "explanation": "[答案]E [精解]由定位词定位至 E段。①句指出,学士学位是通向终身学习的通行证;②句指出,大学教育在起初几年将让学生学会学习,掌握伴其一生的推理能力。因此,学生在大学起初几年获得的推理技能是终身学习的基础,试题是对两句信息的整合。"
+      },
+      "38": {
+        "answer": "B",
+        "explanation": "[答案]B [精解]由定位词定位至 B段④句。该句后半部分指出,传统的大学教育模式如今面临两方面挑战:社会的数字化(人人均可联网学习)和人们对最新技能的需求(以跟上快速变化的世界)。试题是对此部分信息的改写,其中 The easy access to learning 和 rapid technological changes 分别是对 everybody who is connected to the internet to access learnin<sub>g</sub>和a fast-changing world的概括。"
+      },
+      "39": {
+        "answer": "K",
+        "explanation": "[答案]K [精解]由定位词定位至 K 段。首句针对上文情形“已参加工作的毕业生重返校园学习”指出,这或许令人难以置信;②③句以多国数据说明:经合组织成员国的在职学生占比实际上最高可达40%。试题是对段落信息的提炼与概括,considerable portion准确体现在职学生占比之高。"
+      },
+      "40": {
+        "answer": "I",
+        "explanation": "[答案]I[精解]由定位词定位至I段。末句指出,社交与创业技能在未来会非常重要,因为它们很难被机器取代(those skills回指首句social and entrepreneurial skills),试题是对该句的同义改写。"
+      },
+      "41": {
+        "answer": "C",
+        "explanation": "[答案]C [精解]由定位词定位至 C段。②句指出,在当今世界,价值主要源自人际互动以及发明和解释事物的能力;③句又提出,通过教授基础知识和最新技能,大学教育新模式将赋予学生与时俱进的终身学习技能。试题是对两句信息的提炼,A new model of college education是对②句It的正确解读。"
+      },
+      "42": {
+        "answer": "J",
+        "explanation": "[答案]J[精解]由定位词定位至J段。⑥⑦句指出“混合式/多元化(mixed)”学生群体的益处:改善课堂互动方式;反映了 职场真实情况,是一种更好的就业准备方式。试题中的 benefit learning 是对 change the classroom dynamics...for the best、a better preparation for it(it指代the professional world)的合理概括。"
+      },
+      "43": {
+        "answer": "N",
+        "explanation": "[答案]N [精解]由定位词定位至 N 段。①②句抛出疑问“该由谁来为终身学习买单? 是学习者、其雇主,还是政府?”,并评价指出这是一场永无休止的争论。试题是对两句的同义改写,bear the cost of lifelong learning和a topic of constant debate分别同义替换p<sub>ay for lifelong learning</sub>和the eternal debate。"
+      },
+      "44": {
+        "answer": "F",
+        "explanation": "[答案]F[精解]由定位词定位至 F段③句。该句指出,一门融合计算机科学、编程、统计学和机器学习的新学科应加入数学和物理学这两门传统基础学科的行列,试题是对原文信息的同义改写,combines...with... and...与原文blending...and...同义。"
+      },
+      "45": {
+        "answer": "M",
+        "explanation": "[答案]M [精解]由定位词定位至 M 段。首句指出问题:定期认证文凭对于缺少时间、家庭义务缠身或有资金困难的学习者而言无济于事。②句提出解决办法:在线学习或许是一种替代选择。试题是对这两句内容的概括。"
+      }
+    },
+    "references": {}
+  }
+}

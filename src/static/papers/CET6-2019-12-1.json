@@ -1,0 +1,1402 @@
+{
+  "schema_version": "1.0",
+  "year": 2019,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of having a sense of social responsibility. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of having a sense of social responsibility. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay on the importance of having a sense of social responsibility. You should write at least 150 words but no more than 200 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the question will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the question will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Magazine reporter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Fashion designer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Website designer."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Features editor."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Designing sports clothing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Answering daily emails."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Consulting fashion experts."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Interviewing job-seekers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is challenging."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is tiresome."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is fascinating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is fashionable."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her persistence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her competence."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her experience."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her confidence."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is enjoyable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is educational."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is divorced from real life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is adapted from a drama."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All the roles are played by famous actors and actresses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is based on the real-life experiences of some celebrities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its plots and events reveal a lot about Frankie's actual life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is written, directed, edited and produced by Frankie himself."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Go to the theater and enjoy it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Recommend it to her friends."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Watch it with the man."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Download and watch it."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has drawn criticisms from scientists."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has been showing for over a decade."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a ridiculous piece of satire."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is against common sense."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are likely to get injured when moving too fast."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They believe in team spirit for good performance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They need to keep moving to avoid getting hurt."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have to learn how to avoid body contact."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They do not have many years to live after retirement."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to live a longer life with early retirement."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They do not start enjoying life until full retirement."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They keep themselves busy even after retirement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It prevents us from worrying."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It slows down our aging process."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It enables us to accomplish more in life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It provides us with more chances to learn."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It tends to dwell upon their joyous experiences."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It wanders for almost half of their waking time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has trouble concentrating after a brain injury."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It tends to be affected by their negative feelings."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To find how happiness relates to daydreaming."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To observe how one's mind affects one's behavior."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To see why daydreaming impacts what one is doing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To study the relation between health and daydreaming."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It helps them make good decisions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It helps them tap their potentials."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It contributes to their creativity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It contributes to clear thinking."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Subjects with clear goals in mind outperformed those without clear goals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The difference in performance between the two groups was insignificant."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Non-daydreamers were more focused on their tasks than daydreamers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Daydreamers did better than non-daydreamers in task performance."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are the oldest buildings in Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are part of the Christian tradition."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are renovated to attract tourists."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are in worsening condition."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have a history of 14 centuries."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are 40 metres tall on average."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are without foundations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They consist of several storeys."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Wood was harmonious with nature."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Wooden buildings kept the cold out."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Timber was abundant in Scandinavia."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The Vikings liked wooden structures."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Similarities between human babies and baby animals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Cognitive features of different newly born mammals."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Adults' influence on children."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Abilities of human babies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can distinguish a happy tune from a sad one."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They love happy melodies more than sad ones."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They fall asleep easily while listening to music."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are already sensitive to beats and rhythms."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Infants' facial expressions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Babies' emotions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Babies' interaction with adults."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Infants' behaviors."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may harm the culture of today's workplace."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may hinder individual career advancement."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may result in unwillingness to take risks."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may put too much pressure on team members."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can hardly give expression to their original views."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can become less motivated to do projects of their own."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They may find it hard to get their contributions recognized."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They may eventually lose their confidence and creativity."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can enlarge their professional circle."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can get chances to engage in research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can make the best use of their expertise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can complete the project more easily."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may cause lots of arguments in a team."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may prevent making a timely decision."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may give rise to a lot of unnecessary expenses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may deprive a team of business opportunities."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "When considering risk factors associated with serious chronic diseases, we often think about health indicators such as cholesterol, blood pressure, and body weight. But poor diet and physical inactivity also each increase the risk of heart disease and have a role to play in the development of some cancers. Perhaps worse, the _26_ effects of an unhealthy diet and insufficient exercise are not limited to your body. Recent research has also shown that _27_ in a high-fat and high-sugar diet may have negative effects on your brain, causing learning and memory _28_.\n\nStudies have found obesity is associated with impairments in cognitive functioning, as _29_ by a range of learning and memory tests, such as the ability to remember a list of words presented some minutes or hours earlier. There is also a growing body of evidence that diet-induced cognitive impairments can emerge _30_ —within weeks or even days. For example, one study found healthy adults _31_ to a high-fat diet for five days showed impaired attention, memory, and mood compared with a low-fat diet control group. Another study also found eating a high-fat and high-sugar breakfast each day for as little as four days resulted in problems with learning and memory\n\n32 to those observed in overweight and obese individuals.\n\nBody weight was not hugely different between the groups eating a healthy diet and those on high fat and sugar diets. So this shows negative _33_ of poor dietary intake can occur even when body weight has not changed _34_. Thus, body weight is not always the best indicator of health and a thin person still needs to eat well and exercise _35_.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "assessed"
+        },
+        {
+          "label": "I",
+          "text": "excelling"
+        },
+        {
+          "label": "B",
+          "text": "assigned"
+        },
+        {
+          "label": "J",
+          "text": "indulging"
+        },
+        {
+          "label": "C",
+          "text": "consequences"
+        },
+        {
+          "label": "K",
+          "text": "loopholes"
+        },
+        {
+          "label": "D",
+          "text": "conspicuously"
+        },
+        {
+          "label": "L",
+          "text": "rapidly"
+        },
+        {
+          "label": "E",
+          "text": "deficits"
+        },
+        {
+          "label": "M",
+          "text": "redundant"
+        },
+        {
+          "label": "F",
+          "text": "designated"
+        },
+        {
+          "label": "N",
+          "text": "regularly"
+        },
+        {
+          "label": "G",
+          "text": "detrimental"
+        },
+        {
+          "label": "O",
+          "text": "similar"
+        },
+        {
+          "label": "H",
+          "text": "digestion"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 327,
+          "end": 331
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 453,
+          "end": 457
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 561,
+          "end": 565
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 655,
+          "end": 659
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 882,
+          "end": 886
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 959,
+          "end": 963
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1236,
+          "end": 1238
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1435,
+          "end": 1439
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1511,
+          "end": 1515
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1633,
+          "end": 1637
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Increased Screen Time and Wellbeing Decline in Youth",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Have young people never had it so good? Or do they face more challenges than any previous generation? Our current era in the West is one of high wealth. This means minors enjoy material\n\nbenefits and legal protections that would have been the envy of those living in the past. But there is an increasing suspicion that all is not well for our youth. And one of the most popular explanations, among some experts and the popular media, is that excessive “screen time” is to blame. (This refers to all the attention young people devote to their phones, tablets and laptops.) However, this is a contentious theory and such claims have been treated skeptically by some scholars based on their reading of the relevant data."
+        },
+        {
+          "label": "B",
+          "text": "Now a new study has provided another contribution to the debate, uncovering strong evidence that adolescent wellbeing in the United States really is experiencing a decline and arguing that the most likely cause is the electronic riches we have given them. The background to this is that from the 1960s into the early 2000s, measures of average wellbeing went up in the US. This was especially true for younger people. It reflected the fact that these decades saw a climb in general standards of living and avoidance of mass societal traumas like full-scale war or economic deprivation. However, the “screen time” hypothesis, advanced by researchers such as Jean Twenge, is that electronic devices and excessive time spent online may have reversed these trends in recent years, causing problems for young people’s psychological health."
+        },
+        {
+          "label": "C",
+          "text": "To investigate, Twenge and her colleagues dived into the “Monitoring the Future” dataset based on annual surveys of American school students from grades 8, 10, and 12 that started in 1991. In total, 1.1 million young people answered various questions related to their wellbeing. Twenge’s team’s analysis of the answers confirmed the earlier, well-established wellbeing climb, with scores rising across the 1990s, and into the later 2000s. This was found across measures like self-esteem, life satisfaction, happiness and satisfaction with individual domains like job, neighborhood, or friends. But around 2012 these measures started to decline. This continued through 2016, the most recent year for which data is available."
+        },
+        {
+          "label": "D",
+          "text": "Twenge and her colleagues wanted to understand why this change in average wellbeing occurred. However, it is very hard to demonstrate causes using non-experimental data such as this. In fact, when Twenge previously used this data to suggest a screen time effect, some commentators were quick to raise this problem. They argued that her causal-sounding claims rested on correlational data, and that she had not adequately accounted for other potential causal factors. This time around, Twenge and her team make a point of saying that they are not trying to establish causes as such, but that they are assessing the plausibility of potential causes."
+        },
+        {
+          "label": "E",
+          "text": "First, they explain that if a given variable is playing a role in affecting wellbeing, then we should expect any change in that variable to correlate with the observed changes in wellbeing. If not, it is not plausible that the variable is a causal factor. So the researchers looked at time spent in a number of activities that could plausibly be driving the wellbeing decline. Less sport, and fewer\n\nmeetings with peers correlated with lower wellbeing, as did less time reading print media (newspapers) and, surprisingly, less time doing homework. (This last finding would appear to contradict another popular hypothesis that it is our burdening of students with assignments that is causing all the problems.) In addition, more TV watching and more electronic communication both correlated with lower wellbeing. All these effects held true for measures of happiness, life satisfaction and self-esteem, with the effects stronger in the 8th and 10th-graders."
+        },
+        {
+          "label": "F",
+          "text": "Next, Twenge's team dug a little deeper into the data on screen time. They found that adolescents who spent a very small amount of time on digital devices—a couple of hours a week—had the highest wellbeing. Their wellbeing was even higher than those who never used such devices. However, higher doses of screen time were clearly associated with lower happiness. Those spending 10-19 hours per week on their devices were 41 percent more likely to be unhappy than lower-frequency users. Those who used such devices 40 hours a week or more (one in ten teenagers) were twice as likely to be unhappy. The data was slightly complicated by the fact that there was a tendency for kids who were social in the real world to also use more online communication, but by bracketing out different cases it became clear that the real-world sociality component correlated with greater wellbeing, whereas greater time on screens or online only correlated with poorer wellbeing."
+        },
+        {
+          "label": "G",
+          "text": "So far, so plausible. But the next question is, are the drops in average wellbeing happening at the same time as trends toward increased electronic device usage? It looks like it—after all, 2012 was the tipping point when more than half of Americans began owning smartphones. Twenge and her colleagues also found that across the key years of 2013-16, wellbeing was indeed lowest in years where adolescents spent more time online, on social media, and reading news online, and when more youth in the United States had smartphones. And in a second analysis, they found that where technology went, dips in wellbeing followed. For instance, years with a larger increase in online usage were followed by years with lower wellbeing, rather than the other way around. This does not prove causality, but is consistent with it. Meanwhile, TV use did not show this tracking. TV might make you less happy, but this is not what seems to be driving the recent declines in young people's average happiness.\n\n[ H ] A similar but reversed pattern was found for the activities associated with greater wellbeing. For example, years when people spent more time with friends were better years for wellbeing (and followed by better years). Sadly, the data also showed face-to-face socializing and sports activity had declined over the period covered by the survey."
+        },
+        {
+          "label": "I",
+          "text": "There is another explanation that Twenge and her colleagues wanted to address: the impact of the great recession of 2007-2009, which hit a great number of American families and might be\n\naffecting adolescents. The dataset they used did not include economic data, so instead the researchers looked at whether the 2013-16 wellbeing decline was tracking economic indicators. They found some evidence that some crude measures, like income inequality, correlated with changes in wellbeing, but economic measures with a more direct impact, like family income and unemployment rates (which put families into difficulties), had no relationship with wellbeing. The researchers also note that the recession hit some years before we see the beginning of the wellbeing drop, and before the steepest wellbeing decline, which occurred in 2013."
+        },
+        {
+          "label": "J",
+          "text": "The researchers conclude that electronic communication was the only adolescent activity that increased at the same time psychological wellbeing declined. I suspect that some experts in the field will be keen to address alternative explanations, such as unassessed variables playing a role in the wellbeing decline. But the new work does go further than previous research and suggests that screen time should still be considered a potential barrier to young people's flourishing."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "The year when most Americans began using smartphones was identified as a turning point in young Americans' level of happiness."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Scores in various wellbeing measures began to go downward among young Americans in recent years."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Unfortunately, activities involving direct contact with people, which contributed to better wellbeing, were found to be on the decline."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "In response to past critics, Twenge and her co-researchers stress they are not trying to prove that the use of digital devices reduces young people's wellbeing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "In the last few decades of the 20th century, living standards went up and economic depressions were largely averted in the US."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Contrary to popular belief, doing homework might add to students' wellbeing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The author believes the researchers' new study has gone a step further regarding the impact of screen time on wellbeing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The researchers found that extended screen time makes young people less happy."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Data reveals that economic inequality rather than family income might affect people's wellbeing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Too much screen time is widely believed to be the cause of unhappiness among today's young people."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "\"The dangerous thing about lying is people don't understand how the act changes us,\" says Dan Ariely, behavioural psychologist at Duke University. Psychologists have documented children lying as early as the age of two. Some experts even consider lying a developmental milestone, like crawling and walking, because it requires sophisticated planning, attention and the ability to see a situation from someone else's perspective to manipulate them. But, for most people, lying gets limited as we develop a sense of morality and the ability to self-regulate.\n\nHarvard cognitive neuroscientist Joshua Greene says, for most of us, lying takes work. In studies, he gave study subjects a chance to deceive for monetary gain while examining their brains in a functional MRI machine, which maps blood flow to active parts of the brain. Some people told the truth instantly and instinctively. But others opted to lie, and they showed increased activity in their frontal parietal (颅腔壁的) control network, which is involved in difficult or complex thinking. This suggests that they were deciding between truth and dishonesty—and ultimately opting for the latter. For a follow-up analysis, he found that people whose neural (神经的) reward centres were more active when they won money were also more likely to be among the group of liars—suggesting that lying may have to do with the inability to resist temptation.\n\nExternal conditions also matter in terms of when and how often we lie. We are more likely to lie, research shows, when we are able to rationalise it, when we are stressed and fatigued or see others being dishonest. And we are less likely to lie when we have moral reminders or when we think others are watching. “We as a society need to understand that, when we don’t punish lying, we increase the probability it will happen again,” Ariely says.\n\nIn a 2016 study published in the journal Nature Neuroscience, Ariely and colleagues showed how dishonesty alters people's brains, making it easier to tell lies in the future. When people uttered a falsehood, the scientists noticed a burst of activity in their amygdala. The amygdala is a crucial part of the brain that produces fear, anxiety and emotional responses including that sinking, guilty feeling you get when you lie. But when scientists had their subjects play a game—in which they won money by deceiving their partner, they noticed the negative signals from the amygdala began to decrease. Not only that, but when people faced no consequences for dishonesty, their falsehoods tended to get even more sensational. This means that if you give people multiple opportunities to lie for their own benefit, they start with little lies which get bigger over time.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "Why do some experts consider lying a milestone in a child's development?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It shows they have the ability to view complex situations from different angles."
+                },
+                {
+                  "label": "B",
+                  "text": "It indicates they have an ability more remarkable than crawling and walking."
+                },
+                {
+                  "label": "C",
+                  "text": "It represents their ability to actively interact with people around them."
+                },
+                {
+                  "label": "D",
+                  "text": "It involves the coordination of both their mental and physical abilities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why does the Harvard neuroscientist say that lying takes work?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is hard to choose from several options."
+                },
+                {
+                  "label": "B",
+                  "text": "It is difficult to sound natural or plausible."
+                },
+                {
+                  "label": "C",
+                  "text": "It requires speedy blood flow into one's brain."
+                },
+                {
+                  "label": "D",
+                  "text": "It involves lots of sophisticated mental activity."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "Under what circumstances do people tend to lie?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When they become too emotional."
+                },
+                {
+                  "label": "B",
+                  "text": "When they face too much peer pressure."
+                },
+                {
+                  "label": "C",
+                  "text": "When the temptation is too strong."
+                },
+                {
+                  "label": "D",
+                  "text": "When the consequences are not imminent."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "When are people less likely to lie?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "When they are worn out and stressed."
+                },
+                {
+                  "label": "B",
+                  "text": "When they are under watchful eyes."
+                },
+                {
+                  "label": "C",
+                  "text": "When they think in a rational way."
+                },
+                {
+                  "label": "D",
+                  "text": "When they have a clear conscience."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author say will happen when a liar does not get punished?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may feel justified."
+                },
+                {
+                  "label": "B",
+                  "text": "They will tell bigger lies."
+                },
+                {
+                  "label": "C",
+                  "text": "They will become complacent."
+                },
+                {
+                  "label": "D",
+                  "text": "They may mix lies and truths."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Here's how the Pacific Northwest is preparing for “The Big One”. It's the mother of all disaster drills for what could be the worst disaster in American history. California has spent years preparing for “The Big One”—the inevitable earthquake that will undoubtedly unleash all kinds of havoc along the famous San Andreas fault (断层). But what if the fault that runs along the Pacific Northwest delivers a gigantic earthquake of its own? If the people of the Cascadia region have anything to do with it, they won't be caught unawares.\n\nThe region is engaged in a multi-day earthquake-and-tsunami (海啸) drill involving around 20,000 people. The Cascadia Rising drill gives area residents and emergency responders a chance to practice what to do in case of a 9.0-magnitude earthquake and tsunami along one of the nation's dangerous—and underestimated—faults.\n\nThe Cascadia Earthquake Zone is big enough to compete with San Andreas (it's been called the most dangerous fault in America), but it's much lesser known than its California cousin. Nearly 700 miles long, the earthquake zone is located by the North American Plate off the coast of Pacific British Columbia, Washington, Oregon and Northern California.\n\nCascadia is what's known as a “megathrust” fault. Megathrusts are created in earthquake zones—land plate boundaries where two plates converge. In the areas where one plate is beneath another, stress builds up over time. During a megathrust event, all of that stress releases and some of the world's most powerful earthquakes occur. Remember the 9.1 earthquake and tsunami in the Indian Ocean off Sumatra in 2004? It was caused by a megathrust event as the India plate moved beneath the Burma micro-plate.\n\nThe last time a major earthquake occurred along the Cascadia fault was in 1700, so officials worry that another event could occur any time. To prevent that event from becoming a catastrophe, first responders will join members of the public in rehearsals that involve communication, evacuation, search and rescue, and other scenarios.\n\nThousands of casualties are expected if a 9.0 earthquake were to occur. First, the earthquake would shake metropolitan areas including Seattle and Portland. This could trigger a tsunami that would create havoc along the coast. Not all casualties can necessarily be prevented—but by coordinating across local, state, and even national borders, officials hope that the worst-case scenario can be averted. On the exercise’s website, officials explain that the report they prepare during this rehearsal will inform disaster management for years to come.\n\nFor hundreds of thousands of Cascadia residents, “The Big One” isn’t a question of if, only when. And it’s never too early to get ready for the inevitable.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does “The Big One” refer to?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A gigantic geological fault."
+                },
+                {
+                  "label": "B",
+                  "text": "A large-scale exercise to prepare for disasters."
+                },
+                {
+                  "label": "C",
+                  "text": "A massive natural catastrophe."
+                },
+                {
+                  "label": "D",
+                  "text": "A huge tsunami on the California coast."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What is the purpose of the Cascadia Rising drill?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To prepare people for a major earthquake and tsunami."
+                },
+                {
+                  "label": "B",
+                  "text": "To increase residents' awareness of imminent disasters."
+                },
+                {
+                  "label": "C",
+                  "text": "To teach people how to adapt to post-disaster life."
+                },
+                {
+                  "label": "D",
+                  "text": "To cope with the aftermath of a possible earthquake."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What happens in case of a megathrust earthquake according to the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Two plates merge into one."
+                },
+                {
+                  "label": "B",
+                  "text": "A variety of forces converge."
+                },
+                {
+                  "label": "C",
+                  "text": "Boundaries blur between plates."
+                },
+                {
+                  "label": "D",
+                  "text": "Enormous stress is released."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What do the officials hope to achieve through the drills?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Coordinating various disaster-relief efforts."
+                },
+                {
+                  "label": "B",
+                  "text": "Reducing casualties in the event of a disaster."
+                },
+                {
+                  "label": "C",
+                  "text": "Minimizing property loss caused by disasters."
+                },
+                {
+                  "label": "D",
+                  "text": "Establishing disaster and emergency management."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author say about “The Big One”?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Whether it will occur remains to be seen."
+                },
+                {
+                  "label": "B",
+                  "text": "How it will arrive is too early to predict."
+                },
+                {
+                  "label": "C",
+                  "text": "Its occurrence is just a matter of time."
+                },
+                {
+                  "label": "D",
+                  "text": "It keeps haunting Cascadia residents."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "牡丹(peony)花色艳丽,形象高雅,象征着和平与繁荣,因而在中国被称为“花中之王”。中国许多地方都培育和种植牡丹。千百年来,创作了许多诗歌和绘画赞美牡丹。唐代时期,牡丹在皇家园林普遍种植并被誉为国花,因而特别风行。十世纪时,洛阳古城成为牡丹栽培中心,而且这一地位一直保持到今天。现在,成千上万的国内外游客蜂拥到洛阳参加一年一度的牡丹节,欣赏洛阳牡丹的独特之美,同时探索九朝古都的历史。\n\n(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      }
+    ]
+  },
+  "id": "CET6-2019-12-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "A",
+        "explanation": "Magazine reporter. C)Website designer. A)杂志记者。􀪋 C)网页设计师。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "Designing sports clothing. A)设计运动服装。B)Consulting fashion experts. B)咨询时尚专家。C)Answering daily emails. C)回复日常邮件。D)Interviewing job-seekers. D)面试求职者。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "It is enjoyable. C)It is divorced from real life. A)它充满乐趣。 C)它脱离现实生活。B)It is educational. D)It is adapted from a drama B)它富有教育意义。D)它改编自一部戏剧。"
+      },
+      "6": {
+        "answer": "A",
+        "explanation": "All the roles are played by famous actors and actresses. A)所有角色都由知名演员扮演。B)It is based on the real-life experiences of some celebrities. B)它基于一些名人的现实生活经历。<sup>C</sup>)Its <sup>plots and events reveal a lot about Frankie</sup>􀆳s actual life. C)它的情节和事件揭示了很多关于弗兰基D)It is written,directed,edited and produced by Frankie 的现实生活。himself. D)它由弗兰基亲自编写、导演、剪辑、出品。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "It has drawn criticisms from scientists. A)它招致科学家批评。B)It has been showing for over a decade. B)它已在播十多年。C)It is a ridiculous piece of satire. C)它是一部荒谬的讽刺剧。D)It is against common sense. D)它违背常理。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "They are likely to get injured when moving too fast. A)如果移动过快,他们可能会受伤。B)They believe in team spirit for good performance. B)他们相信有团队精神才能取得好的表现。C)They need to keep moving to avoid getting hurt. C)他们必须不停移动,才能避免受伤。D)They have to learn how to avoid body contact. D)他们必须学习如何避免身体接触。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "They do not have many years to live after retirement. A)退休之后,他们活不了多少年。B)They tend to live a longer life with early retirement. B)早点退休,他们通常会更长寿。C)They do not start enjoying life until full retirement. C)直到完全退休,他们才能开始享受生活。D)They keep themselves busy even after retirement. D)即使已经退休,他们仍是忙个不停。"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "It prevents us from worrying. A)它让我们不再担忧。B)It slows down our aging process. B)它延缓我们的衰老进程。C)It enables us to accomplish more in life. C)它使得我们在生活中取得更多成就。D)It provides us with more chances to learn. D)它为我们提供更多学习机会。"
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "It tends to dwell upon their joyous experiences. A)它往往停留在快乐的经历上。B)It wanders for almost half of their waking time. B)人们醒着的近一半时间里,它都在游走。C)It has trouble concentrating after a brain injury. C)大脑损伤后,它很难集中。D)It tends to be affected by their negative feelings. D)它往往会受到人们负面情绪的影响。"
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "It helps them make good decisions. A)它帮助人们做出明智的决定。B)It helps them tap their potentials. B)它帮助人们挖掘潜能。C)It contributes to their creativity. C)它有助于发展创造力。D)It contributes to clear thinking. D)它有助于形成清晰的思维。"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "Subjects with clear goals in mind outperformed those A)头脑中有清晰目标的实验对象比没有清without clear goals. 晰目标的表现得好。B)The difference in performance between the two groups B)两组表现差异并不显著。was insignificant. C)Non-daydreamers were more confused on their tasks C)未做白日梦者比做白日梦者对自己的任than daydreamers. 务更专注。D)Daydreamers did better than non-daydreamers in task D)做白日梦者比未做白日梦者在任务中表performance. 现得更好。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "They are the oldest buildings in Europe. A)它们是欧洲最古老的建筑。B)They are part of the Christian tradition. B)它们是基督教传统的一部分。C)They are renovated to attract tourists. C)它们被翻新以吸引游客。D)They are in worsening condition. D)它们的受损状况日益严重。"
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "They have a history of 14 centuries. A)它们有14个世纪的历史。B)They are 40 metres tall on average. B)它们平均高度为40米。C)They are without foundations. C)它们没有地基。D)They consist of several storeys. D)它们有多个楼层。"
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "Wood was harmonious with nature. A)木材与自然和谐共生。B)Wooden buildings kept the cold out. B)木制建筑可以御寒。C)Timber was abundant in Scandinavia. C)斯堪的纳维亚木材丰富。D)The Vikings liked wooden structures. D)维京人喜爱木制结构。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "Similarities between human babies and baby animals. A)人类婴儿和动物幼崽的相同点。B)Cognitive features of different newly born mammals. B)不同新生哺乳动物的认知特征。C)Adults􀆳influence on children. C)成年人对儿童的影响。D)Abilities of human babies. D)人类婴儿的能力。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "They can distinguish a happy tune from a sad one. A)他们能区分欢快和悲伤的曲调。B)They love happy melodies more than sad ones. B)他们更喜欢欢快而非悲伤的旋律。C)They fall asleep easily while listening to music. C)他们听音乐时很容易睡着。D)They are already sensitive to beats and rhythms. D)他们早已对节拍和韵律有悟性。"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "Infants􀆳facial expressions. A)婴儿的面部表情。B)Babies􀆳emotions. B)婴儿的情绪。C)Babies􀆳interaction with adults. C)婴儿与成年人的互动。D)Infants􀆳behaviors. D)婴儿的行为。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "It may harm the culture of today􀆳s workplace. A)它可能会破坏当今的职场文化。B)It may hinder individual career advancement. B)它可能会阻碍个人的职业发展。C)It may result in unwillingness to take risks. C)它可能会导致不愿冒险的心理。D)It may put too much pressure on team members. D)它可能会给队员带来太多压力。"
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "They can hardly give expression to their original views. A)他们难以表达自己的独到见解。B)They can become less motivated to do projects of their own. B)他们独立做项目的动力会减少。C)They may find it hard to get their contributions recognized. C)他们可能会发现自身贡献难以得到认可。D)They may eventually lose their confidence and creativity. D)他们最终可能会失去自信心与创造力。"
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "They can enlarge their professional circle. A)他们可以扩大自己的职业圈。B)They can get chances to engage in research. B)他们可以有机会从事研究。C)They can make the best use of their expertise. C)他们可以充分发挥自身专长。D)They can complete the project more easily. D)他们可以更容易地完成项目。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "It may cause lots of arguments in a team. A)它可能会在团队中引起很多争论。B)It may prevent making a timely decision. B)它可能会妨碍及时做出决定。C)It may give rise to a lot of unnecessary expenses. C)它可能会导致许多不必要的开支。D)It may deprive a team of business opportunities. D)它可能会使团队丧失商业机遇。"
+      },
+      "26": {
+        "answer": "G",
+        "explanation": "detrimental。[确定词性]空格前为定冠词the,后为名词复数effects,空格词修饰effects,应为名词、形容词、in<sub>g</sub>分词、ed分词。[锁定答案]②句指出不良饮食和缺乏锻炼会增加心脏病、癌症的风险,③句以“也许更糟糕的是(Perhaps worse)”标志递进语义,指出影响不仅限于身体,④句进而解释可能对大脑产生负面(negative)影响。可推知,空格词应与negative同义,表示“负面/不利/有害”之意,G)detrimental正确。"
+      },
+      "27": {
+        "answer": "J",
+        "explanation": "indulging 28.E)deficits。[确定词性]“ 27 in a high-fat and high-sugar diet”在that引导的宾语从句中充当主语,故空27应为in<sub>g</sub>分词、ed分词、名词,且能与in搭配。“learning and memory 28 ”位于动词causin<sub>g</sub>之后,根据cause的用法cause sth可判断,空28应为名词(learning and memory作空格词的修饰成分)。[锁定答案]空格句大意为:新近研究也表明, 高脂高糖的饮食可能对你的大脑产生负面影响,导致/使得学习和记忆功能 。空27应与negative的明显贬义一致,表示“过度摄入/沉迷食用”等意, J)indulging正确。空28所在分句所述对学习和记忆功能的影响体现negative effects on your brain,空28应表示“下降/减退”等意,E)deficits正确。注:cause表“使发生、导致”时通常引出“不好的结果”。"
+      },
+      "29": {
+        "answer": "A",
+        "explanation": "assessed。[确定词性]空格词位于as引导的方式状语从句中,其后为介词 by,空格词应为ed分词。[锁定答案]空格句大意为:多项研究发现,肥胖与认知功能(如……的能力)障碍密切相关,正如由一系列学习和记忆测试 的那样。可见“肥胖与认知功能障碍密切相关”是研究结果,(as by)a range of...tests为具体研究方式,空格词应表示“证明/显示/指向/评估/推测”等意,A)assessed正确。"
+      },
+      "30": {
+        "answer": "L",
+        "explanation": "rapidly。[确定词性]空格词位于由that引导的evidence的同位语从句中,从句基本成分已经完整,空格词应为副词。[锁定答案]空格句大意为:也有越来越多证据表明,饮食引起的认知障碍可能 显露———在几周甚至几天之内。由“几周甚至几天之内”可推知空格词应体现“快速/迅速”之意,L)rapidly正确。"
+      },
+      "31": {
+        "answer": "B",
+        "explanation": "assigned。[确定词性]空格所在的宾语从句谓语为showed impaired attention...,因此判断to a high-fat diet for five days作healthy adults的后置定语,空格词应为形容词、ed分词、in<sub>g</sub>分词,且能与to连用。[锁定答案]空格句大意为:一项研究发现,与低脂饮食的实验对照组相比, 五天高脂饮食组的健康成年人出现了注意力、记忆、情绪受损的情况。可知高脂饮食组是实验人为设置,空格词应表示“被要求/被指派、分派”等意,B)assigned符合要求。注:control此处为科学术语“对照实验,(实验的)对照(物)”,由compared with、low-fat diet可大致推断其意。"
+      },
+      "32": {
+        "answer": "O",
+        "explanation": "similar。[确定词性]空格前主谓宾成分及信息完整:eating...for...days resulted in problems...,故判断 to those...(those后为过去分词observed...所充当的后置定语,故此处为代词,回指前文p<sub>roblems</sub>)为另一信息群,只能为修饰成分,为状语或定语,空格词应为形容词、ed分词、in<sub>g</sub>分词,且能与to连用。[锁定答案]空格句大意为:另一项研究也发现,每天摄入高脂高糖早餐,仅仅四天就导致了学习和记忆问题, 超重和肥胖者身上所发现的那些(问题)。可见全句将“短期高脂高糖饮食的健康者”与“肥胖者”这两类人群相对比,意在说明高脂高糖饮食的危害类似超重。空格词应体现比较意味,O) similar符合要求。"
+      },
+      "33": {
+        "answer": "C",
+        "explanation": "consequences 34.D)conspicuously。[确定词性]空33前为形容词negative,后为介词of,空33应为名词。空34前为动词changed,后以句号结尾,空格词应为名词或副词。[锁定答案]①句指出,健康饮食组和高脂高糖组的体重并无明显差别。②句在承认①句既定事实的基础上展开逻辑推论:那么这表明,就算体重没有变化/超重,不良饮食摄入的负面 也可能出现。空34所在部分“就算体重没有变化”呼应①句“体重并无明显差别”,可知空34应与hu<sub>gely</sub>同义,表示“显著/明显”,D)conspicuously正确。空33则呼应前文所述“负面影响/结果”等,C)consequences符合要求。"
+      },
+      "35": {
+        "answer": "N",
+        "explanation": "regularly。[确定词性]空格前为动词exercise,后以句号结尾,空格词应为名词或副词。[锁定答案]空格词位于“eat well and exercise ”两个动词短语组成的并列结构中,两个短语均应指向健康的生活方式。N)re<sub>gularly</sub>“经常地”与动词exercise共同组成与eat well相近的结构,语法形式和语义方向上均一致,符合要求。"
+      }
+    },
+    "references": {}
+  }
+}

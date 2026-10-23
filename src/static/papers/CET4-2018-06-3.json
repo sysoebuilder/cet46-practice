@@ -1,0 +1,695 @@
+{
+  "schema_version": "1.0",
+  "year": 2018,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30minutes to write a short essay on the importance of speaking ability and how to develop it. You should write at least 120 words but no more tha n180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30minutes to write a short essay on the importance of speaking ability and how to develop it. You should write at least 120 words but no more tha n180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30minutes to write a short essay on the importance of speaking ability and how to develop it. You should write at least 120 words but no more tha n180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": null
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于 2018 年 6 月四级考试全国共考了两套听力, 本套真题听力与前两套内容相同, 只是选项顺序不同, 因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 25,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Neon (霓虹) is to Hong Kong as red phone booths are to London and fog is to San Francisco. When night falls, red and blue and other colors 26 a hazy (雾蒙蒙的) glow over a city lit up by tens of thousands of neon signs. But many of them are going dark, 27 by more practical, but less romantic, LEDs (发光二极管).\n\nChanging building codes, evolving tastes, and the high cost of maintaining those wonderful old signs have businesses embracing LEDs, which are energy 28 , but still carry great cost. \"To me, neon represents memories of the past,\" says photographer Sharon Blance, whose series Hong Kong Neon celebrates the city's famous signs. \"Looking at the signs now I get a feeling of amazement, mixed with sadness.\"\n\nBuilding a neon sign is an art practiced by 29 trained on the job to mold glass tubes into 30 shapes and letters. They fill these tubes with gases that glow\n\n1\n\nwhen 31 . Neon makes orange, while other gases make yellow or blue. It takes many hours to craft a single sign.\n\nBlance spent a week in Hong Kong and 32 more than 60 signs; 22 of them appear in the series that capture the signs lighting up lonely streets—an 33 that makes it easy to admire their colors and craftsmanship. \"I love the beautiful, handcrafted, old-fashioned 34 of neon,\" says Blance. The signs do nothing more than 35 a restaurant, theater, or other business, but do so in the most striking way possible.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "alternative"
+        },
+        {
+          "label": "B",
+          "text": "approach"
+        },
+        {
+          "label": "C",
+          "text": "cast"
+        },
+        {
+          "label": "D",
+          "text": "challenging"
+        },
+        {
+          "label": "E",
+          "text": "decorative"
+        },
+        {
+          "label": "F",
+          "text": "efficient"
+        },
+        {
+          "label": "G",
+          "text": "electrified"
+        },
+        {
+          "label": "H",
+          "text": "identify"
+        },
+        {
+          "label": "I",
+          "text": "photographed"
+        },
+        {
+          "label": "J",
+          "text": "professionals"
+        },
+        {
+          "label": "K",
+          "text": "quality"
+        },
+        {
+          "label": "L",
+          "text": "replaced"
+        },
+        {
+          "label": "M",
+          "text": "stimulate"
+        },
+        {
+          "label": "N",
+          "text": "symbolizes"
+        },
+        {
+          "label": "O",
+          "text": "volunteers"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 137,
+          "end": 139
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 247,
+          "end": 249
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 453,
+          "end": 455
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 752,
+          "end": 754
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 799,
+          "end": 801
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 874,
+          "end": 876
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1019,
+          "end": 1021
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1127,
+          "end": 1129
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1241,
+          "end": 1243
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1298,
+          "end": 1300
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "This fall, David Aderhold, the chief of a high-achieving school district near Princeton, New Jersey, sent parents an alarming 16-page letter. The school district, he said, was facing a crisis. Its students were overburdened and stressed out, having to cope with too much work and too many demands. In the previous school year, 120 middle and high school students were recommended for mental health assessments and 40 were hospitalized. And on a survey administered by the district, students wrote things like, \"I hate going to school,\" and \"Coming out of 12 years in this district, I have learned one thing: that a grade, a percentage or even a point is to be valued over anything else.\""
+        },
+        {
+          "label": "B",
+          "text": "With his letter, Aderhold inserted West Windsor-Plainsboro Regional School District into a national discussion about the intense focus on achievement at elite schools, and whether it has gone too far. At follow-up meetings, he urged parents to join him in advocating a \"whole child\" approach to schooling that respects \"social-emotional development\" and \"deep and meaningful learning\" over academics alone. The alternative, he suggested, was to face the prospect of becoming another Palo Alto, California, where outsize stress on teenage students is believed to have contributed to a number of suicides in the last six years.\n\n2"
+        },
+        {
+          "label": "C",
+          "text": "But instead of bringing families together, Aderhold's letter revealed a divide in the district, which has 9,700 students, and one that broke down roughly along racial lines. On one side are white parents like Catherine Foley, a former president of the Parent-Teacher-Student Association at her daughter's middle school, who has come to see the district's increasingly pressured atmosphere as opposed to learning. \"My son was in fourth grade and told me, 'I'm not going to amount to anything because I have nothing to put on my resume,'\" she said. On the other side are parents like Mike Jia, one of the thousands of Asian-American professionals who have moved to the district in the past decade, who said Aderhold's reforms would amount to a \"dumbing down\" of his children's education. \"What is happening here reflects a national anti-intellectual trend that will not prepare our children for the future,\" Jia said."
+        },
+        {
+          "label": "D",
+          "text": "About 10 minutes from Princeton and an hour and a half from New York City, West Windsor and Plainsboro have become popular bedroom communities for technology entrepreneurs, researchers and engineers, drawn in large part by the public schools. From the last three graduating classes, 16 seniors were admitted to MIT. It produces Science Olympiad winners, classically trained musicians and students with perfect SAT scores."
+        },
+        {
+          "label": "E",
+          "text": "The district has become increasingly popular with immigrant families from China, India and Korea. This year, 65 percent of its students are Asian-American, compared with 44 percent in 2007. Many of them are the first in their families born in the United States. They have had a growing influence on the district. Asian-American parents are enthusiastic supporters of the competitive instrumental music program. They have been huge supporters of the district's advanced mathematics program, which once began in the fourth grade but will now start in the sixth. The change to the program, in which 90 percent of the participating students are Asian-American, is one of Aderhold's reforms."
+        },
+        {
+          "label": "F",
+          "text": "Asian-American students have been eager participants in a state program that permits them to take summer classes off campus for high school credit, allowing them to maximize the number of honors and Advanced Placement classes they can take, another practice that Aderhold is limiting this school year. With many Asian-American children attending supplementary instructional programs, there is a perception among some white families that the elementary school curriculum is being sped up to accommodate them."
+        },
+        {
+          "label": "G",
+          "text": "Both Asian-American and white families say the tension between the two groups has grown steadily over the past few years, as the number of Asian families has risen. But the division has become more obvious in recent months as Aderhold has made changes, including no-homework nights, an end to high school midterms and finals, and an initiative that made it easier to participate in the music program.\n\n3"
+        },
+        {
+          "label": "H",
+          "text": "Jennifer Lee, professor of sociology at the University of California, Irvine, and an author of the Asian American Achievement Paradox, says misunderstanding between first-generation Asian-American parents and those who have been in this country longer are common. What white middle-class parents do not always understand, she said, is how much pressure recent immigrants feel to boost their children into the middle class. \"They don't have the same chances to get their children internships (实习职位) or jobs at law firms,\" Lee said. \"So what they believe is that their children must excel and beat their white peers in academic settings so they have the same chances to excel later. \""
+        },
+        {
+          "label": "I",
+          "text": "The issue of the stresses felt by students in elite school districts has gained attention in recent years as schools in places like Newton, Massachusetts, and Palo Alto have reported a number of suicides. West Windsor-Plainsboro has not had a teenage suicide in recent years, but Aderhold, who has worked in the district for seven years and been chief for the last three years, said he had seen troubling signs. In a recent art assignments, a middle school student depicted (描绘) an overburdened child who was being scolded for earning an A, rather than an A+ , on a math exam. In the image, the mother scolds the student with the words, \"Shame on you!\" Further, he said, the New Jersey Education Department has flagged at least two pieces of writing on state English language assessments in which students expressed suicidal thoughts."
+        },
+        {
+          "label": "J",
+          "text": "The survey commissioned by the district found that 68 percent of high school honor and Advanced Placement students reported feeling stressed about school \"always or most of the time.\" \"We need to bring back some balance,\" Aderhold said. \"You don't want to wait until it's too late to do something. \""
+        },
+        {
+          "label": "K",
+          "text": "Not all public opinion has fallen along racial lines. Karen Sue, the Chinese-American mother of a fifth-grader and an eighth-grader, believes the competition within the district has gotten out of control. Sue, who was born in the United States to immigrant parents, wants her peers to dial it back. \"It's become an arms race, an educational arms race,\" she said. \"We all want our kids to achieve and be successful. The question is, at what cost?\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Aderhold is limiting the extra classes that students are allowed to take off campus."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "White and Asian-American parents responded differently to Aderhold's appeal."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Suicidal thoughts have appeared in some students' writings."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Aderhold's reform of the advanced mathematics program will affect Asian-American students most."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Aderhold appealed for parents' support in promoting an all-round development of children, instead of focusing only on their academic performance.\n\n4"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "One Chinese-American parent thinks the competition in the district has gone too far."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Immigrant parents believe that academic excellence will allow their children equal chances to succeed in the future."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Many businessmen and professionals have moved to West Windsor and Plainsboro because of the public schools there."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "A number of students in Aderhold's school district were found to have stress-induced mental health problems."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "The tension between Asian-American and white families has increased in recent years."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 and 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "For thousands of years, people have known that the best way to understand a concept is to explain it to someone else. \"While we teach, we learn,\" said Roman philosopher Seneca. Now scientists are bringing this ancient wisdom up-to-date. They're documenting why teaching is such a fruitful way to learn, and designing innovative ways for young people to engage in instruction.\n\nResearchers have found that students who sign up to tutor others work harder to understand the material, recall it more accurately and apply it more effectively. Student teachers score higher on tests than pupils who're learning only for their own sake. But how can children, still learning themselves, teach others? One answer: They can tutor younger kids. Some studies have found that first-born children are more intelligent than their later-born siblings (兄弟姐妹). This suggests their higher IQs result from the time they spend teaching their siblings. Now educators are experimenting with ways to apply this model to academic subjects. They engage college undergraduates to teach computer science to high school students, who in turn instruct middle school students on the topic.\n\nBut the most cutting-edge tool under development is the \"teachable agent\"—a computerized character who learns, tries, makes mistakes and asks questions just like a real-world pupil. Computer scientists have created an animated (动画的) figure called Betty's Brain, who has been \"taught\" about environmental science by hundreds of middle school students. Student teachers are\n\n5\n\nmotivated to help Betty master certain materials. While preparing to teach, they organize their knowledge and improve their own understanding. And as they explain the information to it, they identify problems in their own thinking.\n\nFeedback from the teachable agents further enhances the tutors' learning. The agents questions compel student tutors to think and explain the materials in different ways, and watching the agent solve problems allows them to see their knowledge put into action.\n\nAbove all, it's the emotions one experiences in teaching that facilitate learning. Student tutors feel upset when their teachable agents fail, but happy when these virtual pupils succeed as they derive pride and satisfaction from someone else's accomplishment.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What are researchers rediscovering through their studies?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Seneca's thinking is still applicable today."
+                },
+                {
+                  "label": "B",
+                  "text": "Better learners will become better teachers."
+                },
+                {
+                  "label": "C",
+                  "text": "Human intelligence tends to grow with age."
+                },
+                {
+                  "label": "D",
+                  "text": "Philosophical thinking improves instruction."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn about Betty's Brain?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a character in a popular animation."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a teaching tool under development."
+                },
+                {
+                  "label": "C",
+                  "text": "It is a cutting-edge app in digital games."
+                },
+                {
+                  "label": "D",
+                  "text": "It is a tutor for computer science students."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "How does teaching others benefit student tutors?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It makes them aware of what they are strong at."
+                },
+                {
+                  "label": "B",
+                  "text": "It motivates them to try novel ways of teaching."
+                },
+                {
+                  "label": "C",
+                  "text": "It helps them learn their academic subjects better."
+                },
+                {
+                  "label": "D",
+                  "text": "It enables them to better understand their teachers."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do students do to teach their teachable agents?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They motivate them to think independently."
+                },
+                {
+                  "label": "B",
+                  "text": "They ask them to design their own questions."
+                },
+                {
+                  "label": "C",
+                  "text": "They encourage them to give prompt feedback.\n\n6"
+                },
+                {
+                  "label": "D",
+                  "text": "They use various ways to explain the materials."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is the key factor that eases student tutors' learning?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their sense of responsibility."
+                },
+                {
+                  "label": "B",
+                  "text": "Their emotional involvement."
+                },
+                {
+                  "label": "C",
+                  "text": "The learning strategy acquired."
+                },
+                {
+                  "label": "D",
+                  "text": "The teaching experience gained."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "A new batch of young women—members of the so-called Millennial (千禧的) generation—has been entering the workforce for the past decade. At the starting line of their careers, they are better educated than their mothers and grandmothers had been—or than their young male counterparts are now. But when they look ahead, they see roadblocks to their success. They believe that women are paid less than men for doing the same job. They think it's easier for men to get top executive jobs than it is for them. And they assume that if and when they have children, it will be even harder for them to advance in their careers.\n\nWhile the public sees greater workplace equality between men and women now than it did 20-30 years ago, most believe more change is needed. Among Millennial women, 75% say this country needs to continue making changes to achieve gender equality in the workplace, compared with 57% of Millennial men. Even so, relatively few young women (15%) say they have been discriminated against at work because of their gender.\n\nAs Millennial women come of age they share many of the same views and values about work as their male counterparts. They want jobs that provide security and flexibility, and they place relatively little importance on high pay. At the same time, however, young working women are less likely than men to aim at top management jobs: 34% say they're not interested in becoming a boss or top manager; only 24% of young men say the same. The gender gap on this question is even wider among working adults in their 30s and 40s, when many women face the trade-offs that go with work and motherhood.\n\nThese findings are based on a new Pew Research Center survey of 2,002 adults, including 810 Millennials (ages 18-32), conducted Oct. 7-27, 2013. The survey finds that, in spite of the dramatic gains women have made in educational attainment and labor force participation in recent decades, young women view this as a man's world—just as middle-aged and older women do.\n\n7",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What do we learn from the first paragraph about Millennial women starting their careers?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can get ahead only by striving harder."
+                },
+                {
+                  "label": "B",
+                  "text": "They expect to succeed just like Millennial men."
+                },
+                {
+                  "label": "C",
+                  "text": "They are generally quite optimistic about their future."
+                },
+                {
+                  "label": "D",
+                  "text": "They are better educated than their male counterparts."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "How do most Millennial women feel about their treatment in the workplace?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are the target of discrimination."
+                },
+                {
+                  "label": "B",
+                  "text": "They find it satisfactory on the whole."
+                },
+                {
+                  "label": "C",
+                  "text": "They think it needs further improving."
+                },
+                {
+                  "label": "D",
+                  "text": "They find their complaints ignored."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What do Millennial women value most when coming of age?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A sense of accomplishment."
+                },
+                {
+                  "label": "B",
+                  "text": "Job stability and flexibility."
+                },
+                {
+                  "label": "C",
+                  "text": "Rewards and promotions."
+                },
+                {
+                  "label": "D",
+                  "text": "Joy derived from work."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What are women in their 30s and 40s concerned about?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The welfare of their children."
+                },
+                {
+                  "label": "B",
+                  "text": "The narrowing of the gender gap."
+                },
+                {
+                  "label": "C",
+                  "text": "The fulfillment of their dreams in life."
+                },
+                {
+                  "label": "D",
+                  "text": "The balance between work and family."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What conclusion can be drawn about Millennial women from the 2013 survey?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They still view this world as one dominated by males."
+                },
+                {
+                  "label": "B",
+                  "text": "They account for half the workforce in the job market."
+                },
+                {
+                  "label": "C",
+                  "text": "They see the world differently from older generations."
+                },
+                {
+                  "label": "D",
+                  "text": "They do better in work than their male counterparts.\n\n8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30minutes to translate a passage from Chi nese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30minutes to translate a passage from Chi nese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，中国有越来越多的城市开始建设地铁。发展地铁有助于减少城市的交通拥堵和空气污染。 地铁具有安全、快捷和舒适的优点。越来越多的人选择地铁作为每天上班或上学的主要交通工具。如今，在中国乘坐地铁正变得越来越方便。在有些城市里，乘客只需用卡或手机就可以乘坐地铁。许多当地老年市民还可以免费乘坐地铁。\n\n9"
+      }
+    ]
+  },
+  "id": "CET4-2018-06-3",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "E",
+        "explanation": "详解:动词辨析题。空格前有系动词 was，因此空格处应填入形容词作表语或动词的分词形式与 was 一起作谓语，备选项中的两个形容词均不符合句意，因此应填入动词的分词形式。本句意为，当这座大楼于 1962 年首次\\_\\_\\_\\_时，它的外墙都是薄薄的方形石板。接下来提到了“翻新”（renovation），由此推知，1962 年是首次建造，故答案为E)constructed 建造，构筑。备选项中的其他动词均不符合文意，故排除。"
+      },
+      "27": {
+        "answer": "O",
+        "explanation": "## 27.答案:O)undertaken 开始进行，着手做"
+      },
+      "28": {
+        "answer": "F",
+        "explanation": "详解:动词辨析题。空格前是名词词组 the building’s owners，空格后仍然是名词词组 the solar panel company，句子缺少谓语，因此空格处应填入动词。本句意为，在这次翻新期间，大楼的所有者 CIS 公司 \\_太阳能电池板公司 Solarcentury。下一句提到，他们就用太阳能电池板覆盖整幢大楼达成一致。由此推断，CIS 公司向 Solarcentury公司咨询了相关事情，两家公司商量后达成一致，故答案为 F)consulted 咨询，商量。由时间状语 during this renovation可知，空格处应填入动词的过去式，而且是及物动词，因此排除 D)competed、M)range 和 N)scale；又因为 Solarcentury这家公司一直存在，并不是新发现的，所以排除 H)discovered。"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "29.答案:C)collection 收集，采集，组群"
+      },
+      "32": {
+        "answer": "K",
+        "explanation": "32.答案:K)necessarily 必然，必定"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "详解:名词辨析题。空格前是介词 by，后面应该跟名词词组，因此空格处应填入名词。此处意为，但是它产生的污染确实比通过化石燃料来\\_\\_\\_\\_\\_\\_ \\_能源所造成的污染少。由句意可知，这里是对比两种方式产生能源的污染情况，因此答案为 L)production 生产，产生。energy 是从 fossil fuels 中得来的，因此空格处应填入由动词转化来的名词，其余备选名词均不符合，故排除。"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "详解:形容词辨析题。空格前是动词 get，可以填入名词作宾语，但备选名词均不符合此处句意，而 get 也可以作为系统词，后面跟形容词作表语，因此此处应填入形容词。此处意为，随着太阳能电池板变得 \\_\\_\\_\\_，世界上有可能会看到更多被太阳能电池板覆盖的摩天大楼。本段第一句提到，这种绿色建筑未必划算，而本句又提到以后会有更多太阳能电池板覆盖的摩天大楼，说明太阳能电池板的成本会降低，故答案为 A)cheaper 更便宜。太阳能电池板本身就是清洁能源，不可能“更清洁”，因此排除 B)cleaner。"
+      },
+      "35": {
+        "answer": "J",
+        "explanation": "详解:名词辨析题。空格前是介词 of，后面应该跟名词或动名词，备选项中没有动名词，因此空格处应填入名词。本句意为，想象这样一个世界:建造最高的摩天大楼不再是一个关于 的竞赛，而是一个关于收集最多太阳能的竞赛。由空格前的 tallest 可知，摩天大楼比的是高度，因此本题答案为 J) height 高度。其余备选名词均不符合此处句意，故排除。"
+      },
+      "36": {
+        "answer": "K",
+        "explanation": "详解:K)段第三、四句指出，佐治亚南方大学一名 20 岁的大三学生这一年在书本和程序的访问代码上花费了 900美元。“那可是两个月的房租啊，”她说道。由此可知，学生每年在访问代码上花费可能相当于两个月的房租。题干是对定位句的同义转述，故答案为 K)。"
+      },
+      "37": {
+        "answer": "D",
+        "explanation": "详解:D)段第一句提到，“说起这些访问代码，我们认为这是教科书垄断的新形式，是一种把学生锁在这个系统中的新方式，”美国公共利益研究集团高等教育倡导者伊桑·斯奈克对 BuzzFeed 新闻说道。题干中的 tie the stydents to the digital system 对应原文中的 lock students around this system，故答案为 D)。"
+      },
+      "44": {
+        "answer": "J",
+        "explanation": "详解:定位句提到，亨特老师指出，“线上系统或许能让我的生活轻松很多，但是我觉得好像自己不再有控制权。课上讨论才是我的专业知识最能带给学生益处的地方。”由此推断，线上系统可能会剥夺老师们充分利用专业知识为学生服务的机会。题干中的 deprive…of opportunities to 是对原文中 giving up control 的同义转述，故答案为 J)。"
+      },
+      "45": {
+        "answer": "C",
+        "explanation": "详解:C)段首句提到，但批评家认为这些数字访问代码代表着和教科书生意相同的寻利观念。由此可知，数字访问代码受到批判是因为它们和教科书生意一样都寻求利益。题干中的 criticized 和 profit-driven 分别对应原文中的critics 和 profit-seeking，题干是对定位句的同义转述，故答案为 C)。"
+      },
+      "46": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章首段第三、四句指出，如果你有时健忘，你很可能不需要担心。因为痴呆症的症状与年龄相关的记忆缺失的症状有很明显的区别。由此可见，健忘并不一定就是痴呆症的症状，故答案为 A。"
+      },
+      "47": {
+        "answer": "C",
+        "explanation": "详解:事实细节题。文章第三段指出，大脑像身体的其它部位一样衰老。某些部位会萎缩，尤其是大脑中那些对学习、记忆和计划十分重要的区域。脑细胞的变化会影响大脑不同区域之间的交流。由此可见，大脑中不同区域间的交流会逐渐衰退，故答案为 C。"
+      },
+      "48": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章第五段指出，当你忘记整个经历，那就是“一面红色的信号旗，意味着可能存在更严重的问题。”忘记如何操作一个熟悉的物品，如微波炉，或是忘记如何开车到一个你以前拜访过很多次的朋友家时，这也是大脑出现问题的征兆。选项 A)中的 do one’s daily routines 是对原文中 operate a familiar object like a microwave oven 和 drive to the house of a friend you’ve visited many times before 的概括，故答案为 A。"
+      },
+      "49": {
+        "answer": "C",
+        "explanation": "详解:事实细节题。第七段前两句提到，你不必自己弄明白这些事情。达夫勒建议人们去看医生，检查药物、健康问题和其它会影响记忆的因素。由此可见，当出现严重的记忆缺失症状时，人们应该寻求专业人士的帮助，故答案为 C。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "详解:推理判断题。文章最后一段指出，读书、看电影、培养新的兴趣或活动都可以迫使一个人用新奇的方式思考。换言之，就是让大脑忙碌和运转起来。同样，身体也要动起来，因为锻炼是著名的大脑助推器。由此推断，要应对记忆的缺失，人们需要在精神和身体两个方面保持积极状态，故答案为 D。"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "详解:推理判断题。第二段首句指出，史密森学会档案馆的负责人艾菲·卡普萨里斯说:“我们在二十世纪七十年代中期发现这封信丢失了。”该段末句指出，“这个实习生很有可能在没人看管时又将这封信拿走了。”由此可见，这封信被盗了不止一次，故答案为 B)。"
+      },
+      "52": {
+        "answer": "A",
+        "explanation": "详解:事实细节题。文章第三段第三、四句指出，艺术品犯罪小组找回了这封信，但是却不能提起诉讼，因为已经过了诉讼的时限。联邦调查局与档案馆密切合作最终确定该信件为真迹，故答案为 A)。"
+      },
+      "53": {
+        "answer": "D",
+        "explanation": "详解:事实细节题。第四段提到，达尔文写这封信是为了感谢美国的一位地质学家费迪纳得·万德韦尔·海登博士，感谢他给自己寄送一个区域地质研究的复印件。由此可见，这封信是一封感谢信。故答案为 D。"
+      },
+      "54": {
+        "answer": "D",
+        "explanation": "详解:实施细节题。文章第五段第四句提到，将它修复后，档案馆会拍摄数码照片并将其上传至网上为大家所用。由此可见，档案馆修复文件后，会将这封信的电子版本上传至网络，为大众所用。故答案为 D。"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "详解:实施细节题。最后一段第二句提到，自从二十世纪七十年代以来，档案馆流程已经发生了巨大的变化，故答案为 B。"
+      }
+    },
+    "references": {}
+  }
+}

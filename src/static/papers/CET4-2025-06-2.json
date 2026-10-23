@@ -1,0 +1,1299 @@
+{
+  "schema_version": "1.0",
+  "year": 2025,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose your university is conducting a survey to collect students' opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose your university is conducting a survey to collect students' opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose your university is conducting a survey to collect students' opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 25,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are young teenagers from Atlanta."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They won this year's 7 Mile Bridge Run."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They completed the race in less than 40 minutes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are both students at Marathon High School."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It drew competitors from more than 40 countries."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is watched live online by fans all over the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It closed the city of Big Pine Key to traffic for three hours."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is one of the most popular running events in the southeastern U.S."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was once a full-time ambassador."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He became an astronaut in 2015."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He was soon to retire from the army."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He used to be a helicopter pilot."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has been unbelievably exciting and rewarding."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has been extraordinarily tough and demanding."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has contributed a great deal to human flights to space."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has given him exceptional privilege as an ambassador."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are known for their loyalty to their owners."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are regular visitors to the store."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are brought in by the store's customers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are pets kept by the store staff."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It might be a nuisance to the loyal shoppers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It might be 12 months old."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It might have been abandoned by its owner."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It might have got lost."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Feed the cats."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sit in the shop aisles."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Remove any store signs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Bring in pets with them."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Sharing her room with friends."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Living off campus."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Cutting down her living expenses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Moving to the city center."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The facilities available."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Changes in living conditions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Various costs involved."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The distance to her home."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Went through much trouble."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Studied on the bus."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Commuted to save money."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Lived on campus."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Discuss the matter with the woman's mother."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make a decision within a few days."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Try his best to persuade his wife."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Weigh the benefits against the disadvantages."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Interviewing the man."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Looking for Lawrence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Choosing a present for her nephew."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Helping the man with his shopping."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Quite educational."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Driven by batteries."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Incredibly popular."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Obviously childish."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One he loves for helping exercise his mind."
+                  },
+                  {
+                    "label": "B",
+                    "text": "One he can play together with his sister."
+                  },
+                  {
+                    "label": "C",
+                    "text": "One he finds interesting and challenging."
+                  },
+                  {
+                    "label": "D",
+                    "text": "One he can play either alone or in a group."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has been enjoyed by kids for decades."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has been played both indoors and outdoors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It always reminds people of times of war."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It distinguishes itself as one of the oldest games."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A display of a variety of products increases consumers' interest."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Too many choices decrease one's desire to buy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Fewer choices lead to lower customer satisfaction."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Customers given more choices are more likely to get confused."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "What kind of display results in more sales."
+                  },
+                  {
+                    "label": "B",
+                    "text": "What kind of display creates more interest."
+                  },
+                  {
+                    "label": "C",
+                    "text": "What kind of display attracts a greater crowd of customers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "What kind of display leads to greater customer satisfaction."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "There are situations where customers buy nothing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "There are tricks to increase customer satisfaction."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There are ways to predict customer preferences."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There are rules that motivate customers to buy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Stressful."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Worthwhile."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Burdensome."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Energy-boosting."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By linking it with employees' salary."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By improving work schedules."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By taking it as the New Year resolution."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By making it part of the job."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was very important to their well-being."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It had taken little of their spare time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was an outlet for their personal fulfillment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It helped improve their working environment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It amounts to 2,000 tons daily."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It mostly comes from supermarkets."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is estimated at 11% of the UK’s total food supply."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has a lot to do with independent luxury food suppliers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It rents bicycles to deliver food."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It delivers luxury hand-made food."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It sells sought-after coffee beans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It recycles waste food from the city."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It pays special attention to the size and shape of its products."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It tries to escape the constraints of the current food system."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It cooperates closely with local producers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It aims to provide high-quality products."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To ensure a regular supply."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To make up for the waste products."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To maintain a unique menu."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To meet customers' urgent demand."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Sir Alfred Hitchcock was an English movie director and producer. Famously _26_ to as 'The Master of Suspense,' Hitchcock is one of the most influential filmmakers in the history of _27_. He was an extraordinary director who entertained his audience with _28_ and gripping suspense movies.\n\nHis fascination with crime began at an early age when he was _29_ by his father who made him spend a few minutes inside a prison for his misconduct. Hence, his movies are _30_ of the guilt and innocence of the wrongdoer and the victim. He had a gift for creating stories that consisted of deceit, robbery, murder, corruption, and other criminal _31_ with incredible plot twists in the storyline. The principal characters in his movies were often ordinary people _32_ in unwanted and unavoidable situations.\n\nHe was _33_ productive and his amazing body of work is considered fascinating by the critics. Most of his movies have _34_ the test of time and are considered to be masterpieces. He is also remembered by other filmmakers, for he continues to inspire them to be passionate about their work. He is also _35_ by people around the world for his entertaining and exciting stories.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "caught"
+        },
+        {
+          "label": "I",
+          "text": "punished"
+        },
+        {
+          "label": "B",
+          "text": "cinema"
+        },
+        {
+          "label": "J",
+          "text": "referred"
+        },
+        {
+          "label": "C",
+          "text": "engaging"
+        },
+        {
+          "label": "K",
+          "text": "stood"
+        },
+        {
+          "label": "D",
+          "text": "graphically"
+        },
+        {
+          "label": "L",
+          "text": "symbolic"
+        },
+        {
+          "label": "E",
+          "text": "highly"
+        },
+        {
+          "label": "M",
+          "text": "tuned"
+        },
+        {
+          "label": "F",
+          "text": "incentive"
+        },
+        {
+          "label": "N",
+          "text": "visually"
+        },
+        {
+          "label": "G",
+          "text": "instincts"
+        },
+        {
+          "label": "O",
+          "text": "worshipped"
+        },
+        {
+          "label": "H",
+          "text": "offences"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 74,
+          "end": 78
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 181,
+          "end": 185
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 254,
+          "end": 258
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 351,
+          "end": 355
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 461,
+          "end": 465
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 635,
+          "end": 639
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 752,
+          "end": 756
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 805,
+          "end": 809
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 916,
+          "end": 920
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1099,
+          "end": 1103
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Is juicing actually good for you?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Freshly juiced fruit has become a basic dietary item—especially for busy, health-conscious consumers who can save time on making (and perhaps even chewing) their food without missing out on nutrients. Fruit juice also has been linked to claims that it can help you both lose weight and stay healthy. All of which, of course, has made it highly profitable. The global fruit and vegetable juices market was valued at \\$154 billion in 2016 and is expected to grow."
+        },
+        {
+          "label": "B",
+          "text": "But is juicing really as healthy as we think? Most foods containing fructose—a naturally occurring sugar found in all fruits and fruit juices—don’t seem to have harmful effects as long as they’re not contributing to excess daily calories. This is because the fibre found in whole fruits is intact, and the sugar is contained within the fruit’s cells. It takes our digestive system a while to break these cells down and for fructose to enter the bloodstream."
+        },
+        {
+          "label": "C",
+          "text": "But this is not the case with fruit juice. Unlike whole fruit, fruit juice has most of the fibre removed. This is why the fructose in fruit juices counts as ‘free sugars’—which also include honey and the sugars added to foods. It’s recommended by the World Health Organisation that adults have no more than 30g of added\n\nsugar, the equivalent of 150ml of fruit juice, per day. The problem is that, with the fibre removed, fruit juice's fructose is absorbed more quickly. Sudden increases in blood sugar cause the release of insulin (胰岛素) to bring it back down to a stable level. Over time, this mechanism can wear out, increasing the risk of developing type 2 diabetes. In 2013, researchers analysed the health data of 100,000 people collected between 1986 and 2009 and found that fruit juice consumption was linked with increased risk of type 2 diabetes. Another study found a relationship between fruit juice and type 2 diabetes after following the diets and diabetes status of more than 70,000 nurses over 18 years. The researchers explain that the possible reason for this may partly have been the lack of the other components found in whole fruit, like fibre."
+        },
+        {
+          "label": "D",
+          "text": "Juices containing vegetables can provide more nutrients and less sugar than juices made up of just fruit—but they still lack valuable fibre. Diets high in fibre have been linked to a lower risk of developing heart disease, stroke, high blood pressure and diabetes, and it’s recommended adults consume 30g per day."
+        },
+        {
+          "label": "E",
+          "text": "Aside from the link to type 2 diabetes, many studies agree that fruit juice is harmful if it contributes to an excess in calories. In an analysis of 155 studies, John Sievenpiper, associate professor at the University of Toronto's Department of Nutritional Sciences, set out to understand if the associations between sugary soft drinks and health—including risk of diabetes and heart disease—were applicable to the food and drink we generally consume as part of a healthy diet. He compared studies looking into the effects of fructose-containing sugars with control diets free from or lower in these sugars. His aim? To isolate the effects of consuming too many calories from the effects of foods containing different sugars."
+        },
+        {
+          "label": "F",
+          "text": "He found negative effects on blood sugar and insulin levels when food provided excess calories from sugars, including fruit juice. However, when the calories weren't in excess overall, there were some advantages to consuming whole fruit—and even fruit juice. Sievenpiper concludes that the recommended 150ml of fruit juice per day, which is an average serving, is reasonable. The paper concluded that foods containing fructose may have some small benefits for long-term blood sugar control when they don't lead to over-consumption of calories. But when they do lead to too many calories, they risk raising blood sugar and insulin levels."
+        },
+        {
+          "label": "G",
+          "text": "So while we know that fruit juice can cause diabetes if it's part of a diet that has more calories overall, it's less clear how juice affects the long-term health of those who aren't overweight. But we have a higher risk of consuming more than the recommended daily number of calories (around 2,000 for women and 2,500 for men) on the days we drink juice, according to research. Numerous studies have shown that drinking fruit juice doesn't make us consume any less of other foods throughout the day."
+        },
+        {
+          "label": "H",
+          "text": "As it is easy to consume large amounts of fruit juice quite quickly, extra calories are taken in. And extra calories can contribute to weight gain. One way we can improve the effects of fruit juice on our health is making sure we select ripe fruit to retain as much of its goodness as possible, according to Roger Clemens, professor of pharmaceutical (药物的) sciences at the University of Southern California."
+        },
+        {
+          "label": "I",
+          "text": "Another reason for fruit juice's recent popularity is the argument that it can help to remove poisonous or harmful substances from the body. However, “the whole concept of a juice diet helping to remove poisonous or harmful substances from the body is completely false,” says Clemens. “We consume compounds every day that may be poisonous and our bodies do a wonderful job of removing and eliminating anything harmful from our bodies.”"
+        },
+        {
+          "label": "J",
+          "text": "And juice isn't a cure-all for getting your nutrients, either. “There are a lot of nutrients contained in the parts · 2025 年 6 月四级真题（第二套）· 14\n\nof the fruits, such as in apple skins, that are excluded when you juice them,” says Heather Ferris, a professor of medicine. “You end up with sugary water with some vitamins.”"
+        },
+        {
+          "label": "K",
+          "text": "Plus, she adds, it's not an ideal way to reach the advised 'five a day'. \"People try to get five servings of fruit and vegetables per day and don't realise this isn't just about getting vitamins,\" she says. \"It's also about reducing the amount of grain carbs (碳水化合物) and protein and fats in our diet, and increasing fibre.\" So while fruit juice is better than no fruit at all, there are limits. It particularly comes with risks when we consume more than 150ml of free sugars per day, or when it puts us over our recommended calorie intake. It provides us with vitamins—but fruit juice is far from a quick fix."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Fruit juice is different from whole fruit in that it contains much less fibre."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Some people believe a juice diet helps to rid our body of harmful or poisonous substances."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "A lot of research comes to the same conclusion that fruit juice does harm to the human body when it leads to surplus calories."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The claimed health benefits of fruit and vegetable juices have rendered the industry very profitable."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "To increase the benefits of fruit juice to our health, we'd better choose ripe fruit to make juice."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Diets containing large amounts of fibre reduce the risk of heart disease, diabetes and other health hazards."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "According to a research paper, drinking fruit juice is beneficial on condition that it is consumed in reasonable amounts."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "One expert claims that juicing wastes a lot of nutrients contained in fruits."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "It takes some time for fruit's cells to be digested and for fructose to be absorbed."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "A lot of research has demonstrated that drinking fruit juice does not reduce our daily consumption of other foods."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "We all take a little extra effort to look nice for special occasions. But most of us have conflicting feelings about dressing up and feel guilty about taking the time to focus on clothes. Science now suggests the right dress may give ourselves the extra edge in our professional and personal lives.\n\nWe hear sayings like “dress for the job you want; not the job you have”. Most people don’t really believe in them, but research into the impact of clothes on behavior now suggests that there may actually be a grain of truth in these sayings. Science says that the clothes we wear affect our behavior, our mood and even the way we interact with others because of the symbolic meaning that we assign to different types of clothing.\n\nWe consider some clothes to be powerful, some to be fun, and so on. We even evaluate people whom we have just met based on their clothes. We also evaluate ourselves based on what we are wearing because of the\n\nway they make us feel. This means that the experience of wearing something affects our attitudes and our choice of behavior.\n\nThere's a reason tailored jackets are associated with being ‘dressed for success’. It seems that wearing formal office wear puts us in the right frame of mind to conduct business. Wearing power clothing makes us feel more confident and even increases hormones needed for displaying dominance. This in turn helps us become better negotiators and abstract thinkers.\n\nWhile a good suit works wonders for our performance in the boardroom, wearing formal wear isn't a great idea when we want to socialize. Studies have found that people tend to be less open and less able to relax when they wear formal clothes.\n\nOn the other hand, a casual dress helps us become more friendly and creative. These findings support the idea of wearing business casuals on a Friday; since colleagues are most likely to take out time to socialize on the last work day of the week. I mean, who wants to hang out with people in their suits?",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does science suggest the right dress may do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Add to our advantage in work and life."
+                },
+                {
+                  "label": "C",
+                  "text": "Help us to enjoy a fuller personal life."
+                },
+                {
+                  "label": "B",
+                  "text": "Enable us to look a lot more attractive."
+                },
+                {
+                  "label": "D",
+                  "text": "Provide extra energy for what we do."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why does science say the clothes one wears may affect their interaction with others?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Clothes usually represent one's social and economic status."
+                },
+                {
+                  "label": "B",
+                  "text": "Clothes largely determine one's likability by people around."
+                },
+                {
+                  "label": "C",
+                  "text": "Different types of clothing markedly reflect different personalities."
+                },
+                {
+                  "label": "D",
+                  "text": "Different types of clothing convey different messages symbolically."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "How do the clothes we wear sway our evaluation of ourselves?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "By exerting an effect on our power of judgment."
+                },
+                {
+                  "label": "B",
+                  "text": "By impacting how we feel about ourselves."
+                },
+                {
+                  "label": "C",
+                  "text": "By affecting what we take as the basis for assessment."
+                },
+                {
+                  "label": "D",
+                  "text": "By influencing our interpretation of symbolic messages."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "Why does the author say tailored jackets are associated with being ‘dressed for success’?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are necessary for formal business dealings."
+                },
+                {
+                  "label": "B",
+                  "text": "They may help people concentrate on their business."
+                },
+                {
+                  "label": "C",
+                  "text": "They are vital to keeping a dominant position in business transactions."
+                },
+                {
+                  "label": "D",
+                  "text": "They may enable people to have the right mentality for doing business."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What are people advised to do when they want to socialize?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Focus on clothing."
+                },
+                {
+                  "label": "C",
+                  "text": "Dress casually."
+                },
+                {
+                  "label": "B",
+                  "text": "Wear a good suit."
+                },
+                {
+                  "label": "D",
+                  "text": "Look unusual."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "With the rise of pop music, jazz, and electronic music, both opera and classical music started to fade away from the public eye. Some people are beginning to wonder whether opera and classical music are still\n\nrelevant to the modern world of music. Granted, you will not typically see today's teenagers lending their ears to Bach anytime soon, but there are some major indicators that both opera and classical music are now still quite alive.\n\nThe most major indicator of classical music's importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies (旋律) as those that were used in some of classical music's best works. Even so, it can be difficult for those who do not study music theory to see this as an indicator, since it is subtle and just shows the impact symphonic (交响乐的) orchestras have had on society's taste in music.\n\nA better example for the relevance of opera and classical music can be seen in the invention of the rock opera. Opera, in its simplest definition, is telling a story using music as its form. The art of telling a story using music has not faded in the least bit. In fact, sometimes actual orchestras are used for major parts of the opera itself. Some of the world's greatest hits have been parts of rock operas.\n\nFans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. Symphonic orchestra compositions have also been created solely for the purpose of being included in major motion pictures. These are often very well received amongst mainstream music fans.\n\nClassical music and opera are the very foundation of what our modern music is based upon. Considering the huge impact they have had on our current society, it is without doubt that we can expect them to continue to remain important for centuries to come.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author think of classical music and opera in today's world?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They still make their presence felt."
+                },
+                {
+                  "label": "B",
+                  "text": "They have given way to electronic music."
+                },
+                {
+                  "label": "C",
+                  "text": "They will not fade away from the public eye."
+                },
+                {
+                  "label": "D",
+                  "text": "They are no longer relevant to teenagers' lives."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn about much of the popular music currently produced?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can be difficult for many classical music fans to appreciate."
+                },
+                {
+                  "label": "B",
+                  "text": "It can be seen as an indicator of refinement on classical music."
+                },
+                {
+                  "label": "C",
+                  "text": "It caters to society's taste in music in a more subtle way than classical music."
+                },
+                {
+                  "label": "D",
+                  "text": "It contains elements similar to those in some masterpieces of classical music."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why does the author mention the invention of the rock opera?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To illustrate how to tell a story using music."
+                },
+                {
+                  "label": "B",
+                  "text": "To present the simplest definition of opera."
+                },
+                {
+                  "label": "C",
+                  "text": "To show the relevance of opera and classical music."
+                },
+                {
+                  "label": "D",
+                  "text": "To justify the necessity of using orchestras in opera."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why are classical music pieces still used as background music in modern movies?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There are few types of music for movie producers to choose from."
+                },
+                {
+                  "label": "B",
+                  "text": "They are considered to be the most expressive type of music."
+                },
+                {
+                  "label": "C",
+                  "text": "They are well received by movie fans from all over the world."
+                },
+                {
+                  "label": "D",
+                  "text": "They are essential for movies to become the world's greatest hits."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What do we learn about our modern music?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It could not have come into being without classical music and opera as its foundation."
+                },
+                {
+                  "label": "B",
+                  "text": "It cannot outcompete classical music and opera in its impact on our current society."
+                },
+                {
+                  "label": "C",
+                  "text": "It will not enjoy as much popularity as classical music and opera among music fans."
+                },
+                {
+                  "label": "D",
+                  "text": "It might not be able to rival classical music and opera in importance for centuries to come."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "近年来，中国东北地区正在大力开发冰雪资源。例如，哈尔滨利用丰富的冰雪资源打造了极具地方特色的“冰雪大世界”，让游客在欣赏冰雪之美的同时也能体验当地独特的民俗文化。如今，曾令人畏惧的冰天雪地正吸引着四面八方的游客，成为深受欢迎的旅游胜地。冰雪旅游业正为当地的经济发展做出越来越大的贡献。"
+      }
+    ]
+  },
+  "id": "CET4-2025-06-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

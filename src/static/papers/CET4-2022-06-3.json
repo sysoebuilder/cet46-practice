@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "year": 2022,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 3,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you are going to write a proposal to your school clinic for improving its service. You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "proposal",
+        "instructions": {
+          "directions": "Suppose you are going to write a proposal to your school clinic for improving its service. You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you are going to write a proposal to your school clinic for improving its service. You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+        "materials": "|  |\n| --- |\n|  |\n|  |\n|  |\n|  |",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于 2022 年 6 月四级考试全国只考了一套听力,本套真题听力与第一套内容完全一样,只是顺序不一样,因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "sections": []
+  },
+  "Reading": {
+    "availability": "source_omitted",
+    "instructions": {
+      "directions": "",
+      "notices": [
+        "说明:由于2022年6月四级考试阅读理解部分全国只考了两套试题，本套真题阅读与前两套内容完全一样，只是顺序不一样，因此在本套真题中不再重复出现。"
+      ],
+      "time_limit_minutes": 40,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": null,
+    "paragraph_matching": null,
+    "passage_comprehension": null
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "从前，有个农夫正在地里耕作，突然看见一只兔子飞奔而过，撞在一棵大树上死了。农夫毫不费力就吃到了兔肉，心里非常高兴。他想，“如果总是这样该多好啊！”于是，他不再耕作，每天守候在那棵树旁，等待着能再捡到撞死在树上的兔子。他等呀等，等了一天又一天，田地也荒芜了，却再也没有等到第二只兔子。人们因而都嘲笑他把偶然当成了必然。"
+      }
+    ]
+  },
+  "id": "CET4-2022-06-3",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

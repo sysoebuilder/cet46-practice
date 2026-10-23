@@ -1,0 +1,1303 @@
+{
+  "schema_version": "1.0",
+  "year": 2025,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "You should copy the sentence given in quotes at the beginning of your essay.\n\n✍️ 写作提示:文章需以指定句子开头，可从技能提升、心理准备、实习实践、时间管理等角度展开论述。\n\n二、听力理解",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has distinguished himself in foreign service."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is his country's ambassador to Winopia."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is currently an electrical engineer."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He craves attention from the media."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A government reshuffle."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A fundamental reform."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Some sort of political reorientation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Some sort of crisis of legitimacy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All diplomats have more or less similar stories to tell."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a prerequisite to get some practice in diplomacy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Different people can take different paths."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a must to first obtain a law degree."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Key skills required of a diplomat."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The making of an expert diplomat."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Diplomatic discourse and rhetoric."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Contributions by diplomatic envoys."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have got their work done."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They both look tired."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can meet again tomorrow anyway."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are both anxious to go home."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The board members' insufficient support."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Two months devoted to the same contract."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Working two months without any progress."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The man's long concentration on the project."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Unprofessional."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Inspirational."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Exceptional."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Delusional."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Fewer rectifications of the contract."
+                  },
+                  {
+                    "label": "B",
+                    "text": "More support from the board members."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The early implementation of the project."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The alignment of all sections of the contract."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When two employees propose contrary solutions to their dispute."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When two employees are directed by their respective manager."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When two people behave in an apparently clashing manner."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When two people tell different stories of the same event."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How it got resolved."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How it happened."
+                  },
+                  {
+                    "label": "C",
+                    "text": "What it was about."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When it was settled."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They intervened promptly lest their dispute escalate."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tried to ascertain the actual facts of the matter."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They assumed the best about them and moved on."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They persuaded them to put their conflict aside."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Dine out daily."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Budget sensibly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Enjoy cooking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Shop at groceries."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Shopping."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Sewing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Entertaining oneself."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Fashion designing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Satisfy their taste."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Cut down expenses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Eat more healthily."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Cultivate new hobbies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People's intense focus on convenience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People's deteriorating family finances."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People's strong aversion to junk foods."
+                  },
+                  {
+                    "label": "D",
+                    "text": "People's increasing dislike of cooking."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its owner's flight is delayed because of bad weather."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Airlines cannot find its owner without an ID tag on it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Airline staff have not correctly coded its destination tag."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its owner has forgot to pick it up from the baggage claim."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its tag may get torn off on the conveyor belt."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its tag may get stuck in the sorting machine."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may be sent to a wrong destination."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may be picked up by someone else."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Purchase irretrievably lost things at auction."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Contact the airport staff to find our missing bag."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Get the airline agent's phone number before boarding."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Avoid packing valuable items in our checked baggage."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can be behaviorally hazardous."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can be especially disappointing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can be socially harmful."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can be really embarrassing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They considered it inevitable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They held a negative view towards it."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were concerned with its effects."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They saw it as a sign of social evolution."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Elaborate forms of social contact."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ill effects on one's sense of pride."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Poor relationships with others."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Vicious cycles of detachment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The ill treatment they get as tourists."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The nonprofessional business they see."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The impersonal accommodations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The many adventures on their way."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have been the classic way to visit Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They attract tourists with location and decoration."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have long been competing with chain hotels."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are in fact a completely new idea in America."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Your financial status."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Your family's consent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Your property."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Your personality."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Costs for starting the business."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The number of guests to receive."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The facilities to provide."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Opportunities for income.\n\n三、阅读理解"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "By now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who maintain the habit over time. But is it 26 too late to start?\n\nNew research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early 27, which were similar to those of people who exercised consistently throughout their lives. This was a 28 of 32% to 35% compared to people who did not exercise. Those who began exercising in middle age also saw reductions in their incidence of 29 diseases, such as heart disease and cancer, which were similar to the steady exercisers.\n\nSo why bother exercising consistently throughout your life? The authors of the study 30 that some might interpret the study's findings to mean that they can delay starting an exercise program but this would be a mistake. There are other benefits, both mental and physical, to staying consistently active that we should not 31. These real health benefits include better 32 functioning and lowered risk of gaining weight. The latter is 33 important given the global obesity epidemic. In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those 34 later in life. It is ideal, then, for people to start exercising when they are children or 35, and it is good to maintain an active lifestyle at all times regardless of your age. However, this study does indicate that, if you have not been active, you can still benefit if you start becoming active in your 40s and 50s.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "adolescents"
+        },
+        {
+          "label": "B",
+          "text": "arbitrarily"
+        },
+        {
+          "label": "C",
+          "text": "chronic"
+        },
+        {
+          "label": "D",
+          "text": "cognitive"
+        },
+        {
+          "label": "E",
+          "text": "concede"
+        },
+        {
+          "label": "F",
+          "text": "disregard"
+        },
+        {
+          "label": "G",
+          "text": "drop"
+        },
+        {
+          "label": "H",
+          "text": "ever"
+        },
+        {
+          "label": "I",
+          "text": "maneuver"
+        },
+        {
+          "label": "J",
+          "text": "mortality"
+        },
+        {
+          "label": "K",
+          "text": "particularly"
+        },
+        {
+          "label": "L",
+          "text": "patterns"
+        },
+        {
+          "label": "M",
+          "text": "refute"
+        },
+        {
+          "label": "N",
+          "text": "stereotype"
+        },
+        {
+          "label": "O",
+          "text": "vocal"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 154,
+          "end": 156
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 366,
+          "end": 368
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 470,
+          "end": 472
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 611,
+          "end": 613
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 789,
+          "end": 791
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 1027,
+          "end": 1029
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1073,
+          "end": 1075
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1138,
+          "end": 1140
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1346,
+          "end": 1348
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1440,
+          "end": 1442
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Restaurants are now employing robots—should chefs be worried? (A-P paragraphs)\n\n原文段落 A – P",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Like most chefs, Flippy is not afraid of hard work. Since last summer, that has meant 11am until 7pm shifts at Caliburger in Pasadena, California, as well as short assignments at Chick-N-Tots at Dodger Stadium in Los Angeles. These are long hours of repetitive work, where the boss demands absolute consistency. But you won't hear Flippy complain or say anything, in fact. For Flippy is a robot—a cloud-connected mechanical arm with 3D therma scanners for eyes—that can flip burgers or fry 80 baskets of food an hour, monitor that food and even clean up afterwards."
+        },
+        {
+          "label": "B",
+          "text": "Flippy was created by Miso Robotics, part of the Cali Group, which is described by its CEO, John Miller, as: “A technology company that happens to sell cheeseburgers.” Cali creates new machines that it road-tests in its Caliburger restaurants across the world, into which Flippy will be deployed this year. And Flippy is not alone. Also in California, Bear Robotics has developed a self-guiding robot, Penny, which has so far served 40,000 diners."
+        },
+        {
+          "label": "C",
+          "text": "Ten years ago, robot-chefs and waiters were pure science fiction. Today, they are a reality, and at prices that make them a plausible investment. From May, Penny will be shipped on a subscription basis that offers “an immediate return”, says Bear Robotics' chief operating officer, Juan Higueros. Flippy will cost a reported \\$60,000 to \\$100,000. Fully automated burger restaurants managed with minimal human oversight—where customers order at screens,\n\npay electronically and eat food cooked and delivered by robots—are now a possibility."
+        },
+        {
+          "label": "D",
+          "text": "The technology exists, it just needs knitting together cost-effectively and in a way diners buy into. In an industry keen to slash labour costs and increase profits, further automation seems inevitable. After an eight-month test at Kang Nam Tofu House in California, Bear Robotics credited Penny with driving a 28% increase in sales. Meanwhile, in US trials, the self-ordering screens that McDonald's is currently installing at its 1,300 UK restaurants yielded a reported 30% rise in order values."
+        },
+        {
+          "label": "E",
+          "text": "Personalisation is seen as key to the appeal of this technology, alongside its ability to reliably push so-called “upsells” (meal deals, extras, larger drinks) to customers. Soon when you log into a restaurant app, it will be able to use your data and purchasing history to recommend dishes to you—factoring in everything from the weather to, if you are ordering at a screen that can read your face, your mood."
+        },
+        {
+          "label": "F",
+          "text": "\"Right now people compromise on choice. We're presented with a onesize-fits-all menu. Ultimately, technology can allow us to make personal choices. You love spicy food and chicken? Here's the dish people like you mostly order,\" says Tom Weaver, CEO at the hospitality tech company Flyt. He talks enthusiastically about the Helsinki pop-up Take-In, a full-service restaurant where diners ordered dishes in from various delivery services. \"For the first time in a few hundred years, digital is allowing us to create new versions of restaurants.\""
+        },
+        {
+          "label": "G",
+          "text": "If high-street fast food is automation-ready, its impact on high-end restaurants is likely to be subtler and slower. \"It'll probably be a very long time before we see a five-star robot-chef,\" says Noel Sharkey, professor of AI and robotics at the University of Sheffield. \"Apart from the AI creativity gap, great cooking involves a subtle understanding of ingredients and delicate cooking that would be enormously challenging for robots. Placing fragile foods on plates would be incredibly slow.\""
+        },
+        {
+          "label": "H",
+          "text": "Currently, robots have limited functionality. A human needs to load Penny with plates that diners lift off themselves. At the robot-powered US pizzadelivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans. But Moley, which will launch soon, offers an idea of the sophistication to come. Modelled on the movements of a MasterChef contest winner, Tim Anderson, its robotic arms are fixed over a stove and programmed to prepare dishes from raw ingredients. It is designed for domestic use, but a commercial version is planned that opens up the possibility of restaurant kitchens automating even highly technically challenging tasks."
+        },
+        {
+          "label": "I",
+          "text": "For now, the kitchen technology that QSR Automations supplies to Mitchells & Butlers' pubs or KFC is less glamorous. Rather than having a chef shouting out diners' orders, the QSR system automatically distributes those orders across screens. The kitchen screens then tell chefs when to start cooking each dish, so that your plate of fish, chips and peas comes together at the right time."
+        },
+        {
+          "label": "J",
+          "text": "The restaurant industry is currently suffering a severe shortage of skilled chefs—a deficit of 11,000, according to the skills agency People 1st. \"Automation systems designed to make the process more idiot-proof are trying to bridge that gap,\" says Stefan Chomka, the editor of Restaurant magazine."
+        },
+        {
+          "label": "K",
+          "text": "In terms of simplifying or enhancing the customer experience, online restaurant booking has been the easily-won success of the internet age. Automated at-table ordering and payment is seen as the next landmark. Until then, early adopters, such as the Manchester bar owner Andy Smith, who uses the Ordoo app at his venue 33 Oldham Street, may well experience growing but \"lower than expected\" acceptance."
+        },
+        {
+          "label": "L",
+          "text": "Embarrassing failures in restaurant tech frequently hit the headlines. The TGI Fridays drone that injured a Brooklyn Daily photographer; US burger chain Shake Shack having to retreat from plans for entirely cashless ordering sites. But, says Chomka, such technology could miss the mark if it only offers \"solutions to problems that don't really exist\". \"Payments being automatic\"\n\ncould be useful, he adds. But, in an expensive restaurant, \"how quick do you need dinner to be?\""
+        },
+        {
+          "label": "M",
+          "text": "That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs. \"Unite is concerned that without safeguards, any benefits will bypass workers in low-paying jobs, such as waiters,\" says the union's London regional officer, Dave Turnbull. \"We're urging Members of Parliament to ensure automation does not just benefit a wealthy few like previous industrial revolutions.\""
+        },
+        {
+          "label": "N",
+          "text": "The industry principle is that automation will allow it to redeploy staff more effectively. Jobs will change, if not immediately decrease in number. \"Self-order screens mean more demand for people front-of-house. Last year, we recruited 1,000 new managers,\" says McDonald's COO, Jason Clark. Caliburger has a programme to retrain staff as robot engineers or \"chef techs\"."
+        },
+        {
+          "label": "O",
+          "text": "But ultimately the chance to reduce overheads by employing fewer people or at lower rates will be what attracts big brands to technology. Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery. Companies such as Domino and Just Eat have both experimented with robot and drone delivery, which is already legal in Reykjavik, Iceland. \"Robot food deliveries are the future,\" says Noel Sharkey. \"Small, 4mph ground robots are safe and will work 24 hours a day.\""
+        },
+        {
+          "label": "P",
+          "text": "Combined with machine learning of anticipated order volumes and the minute-by-minute cooking data generated by systems such as QSR, that robot fleet could deliver almost instantly. \"Restaurants will prepare food ahead of orders coming in,\" predicts Just Eat's director of engineering, Danie Richardson. \"I'll be able to say 'Let's have pizza' to my family, my intelligent assistant will hear and 10 minutes later the food will be at my door.\" No one is putting an exact date on it yet. But in the dining room and on your doorstep, the robots are coming."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "It is now possible to fully automate a burger restaurant with little human supervision."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "At a robot-powered US company, complicated tasks still have to be performed by humans."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "More automation appears to be a certainty in industries eager to cut labour costs and raise profits."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "There are often front-page reports of failures in technological innovation of the restaurant industry."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Robot-chef Flippy does not fear laborious work, nor does it make any complaints."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Digital technology makes it possible for businesses to innovate restaurant models."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Fondness for human warmth in catering to customers will give hope to employees who are afraid of losing jobs to robots."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "There is an acute shortage of experienced chefs in the catering industry and automated cooking is expected to fill the gap."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Over the coming decade, many jobs in traditional restaurants will disappear due to robot delivery."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "According to an expert in AI and robotics, it may be quite some time before a master robot-chef appears.\n\n📖 长篇阅读匹配题:根据A-P段落信息，判断上述陈述出自哪一段。"
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable soul to confide in. However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.\n\nThe chaos and never-ending turmoil that accompanies everyday life is an aggressive obstacle in the pursuit of stable friendships. As students, we use this excuse to shrug off losing people who we once thought to be loved ones.\n\nInstead of viewing our lives as a race, where everyone is on their own path to some form of success, we must relearn to value the connections we make along the track. We must reevaluate the harm of radical, individual freedom.\n\nRadical individualism elevates the freedom of the individual over the collective. It argues, for instance, that universal healthcare, an example of collectivism, threatened the dream of many Americans.\n\nMany of us have fallen victim to an individualistic culture. Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person.\n\nAs a society, we idolize the concept of \"losing friends on the road to success.\" I remember hearing in high school, \"Don't worry about losing friendships, just focus on study and getting into college. That's all that will matter in the long run,\" a sentiment that is not unique to my experience. It's preached in many success stories, and it's embedded in the way we see growth. Motivational speakers will push their audience to be complacent to the inevitable end of losing friends. Spend too much time with friends? You're losing time better utilized on your achievements. Invest time in your relationships? Invest time in your work instead.\n\nThis constant need to succeed has blinded us from seeing through the whirlwind of change that accompanies our everyday lives. We are expected to tangibly succeed, earn awards, get higher positions, earn better grades. In order to succeed, we lose friends, and that has sadly become normalized.\n\nWe cannot be complacent with losing friendships because they are our anchors.\n\nYes, pursue success. Challenge yourself. Push limits. But contrary to all the self-proclaimed success experts, doing it alone does not make you more successful or any better than someone who achieved it with the help of others.\n\nPut effort into fostering healthy relationships, and maintaining them through your busy schedule that seems like it leaves no time for anyone else. Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What often happens when people are eager to pursue individual success?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They lack a shoulder to cry on."
+                },
+                {
+                  "label": "B",
+                  "text": "They have no soul to confide in."
+                },
+                {
+                  "label": "C",
+                  "text": "They cannot find reliable friends."
+                },
+                {
+                  "label": "D",
+                  "text": "They ignore their ties with friends."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author advise people to do in their pursuit of radical individualism?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Reexamine its detrimental effects."
+                },
+                {
+                  "label": "B",
+                  "text": "Shrug off the loss of their loved ones."
+                },
+                {
+                  "label": "C",
+                  "text": "Avoid the chaos and turmoil involved."
+                },
+                {
+                  "label": "D",
+                  "text": "Remove aggressive obstacles in the way."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What is American society's assumption of personal achievement?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is to be duly celebrated and highly commended."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a sure way to fulfill a person's dream."
+                },
+                {
+                  "label": "C",
+                  "text": "It revolves around an individualistic culture."
+                },
+                {
+                  "label": "D",
+                  "text": "It reflects a person's exceptional endeavor."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What is preached in many success stories?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Attaching importance to academic gains on the road to success."
+                },
+                {
+                  "label": "B",
+                  "text": "Investing one's time in work instead of connecting with friends."
+                },
+                {
+                  "label": "C",
+                  "text": "Trying to strengthen friendships in one's pursuit of personal success."
+                },
+                {
+                  "label": "D",
+                  "text": "Excelling in academic performance to get into a prestigious college."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What can we infer from the passage regarding the pursuit of success?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "No one can succeed without pushing limits."
+                },
+                {
+                  "label": "B",
+                  "text": "No one can afford to neglect close friends."
+                },
+                {
+                  "label": "C",
+                  "text": "Collectivism is superior to individualism."
+                },
+                {
+                  "label": "D",
+                  "text": "Success experts often lead people to ruin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": null,
+          "question_range": null,
+          "passage": "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, \"I believe that unarmed truth and unconditional love will have the final word in reality.\"\n\nMore than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction. From disputes over climate change to debates about how slavery is taught, America is at a crossroads. And the battle for equity is at the heart of these vital conversations.\n\nStudy after study shows that inequity has had appalling consequences. A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes \\$90-\\$113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades.\n\nThis statistic represents a flood of issues we've failed to confront as a nation. It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us. However, by honoring King's legacy, we can get our country back on the path toward true equity.\n\nStudents—and adults for that matter—simply cannot understand the conflicts we have today without understanding what caused them in the first place. That means we have a responsibility to help them make connections between U.S. history and current events. It also means giving them the tools they need to address inequity and bias in their own lives. Adherence to these principles, along with a commitment to truthful dialogue, can help every student better appreciate how far we've come and more clearly see the roads we have yet to travel.\n\nWith more truthful analysis of the need for more qualified, diverse educators, we can improve our recruiting, training, and retention strategies for schools across the country.\n\nUnfortunately, our deeply rooted divisions are delaying these advancements. A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\". But reports of increased polarization shouldn't persuade us to look away from one another. Instead, they should compel us to address our shared issues head-on.\n\nWe are not, as some would suggest, living in a \"post-racial society\". We simply cannot afford to keep our heads buried in the sand when it comes to racial inequity. Unless we get honest about intolerance, bias, and how these social diseases impact the ways we treat one another, injustice will continue to haunt us. But our children and our grandchildren deserve better.\n\nOn this Martin Luther King Day and beyond, let's commit to working together to disrupt the status quo. Let's continue to build a better, more inclusive nation; and in the words of Martin Luther King Jr., \"A society at peace with itself, a society that can live with its conscience.\"",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author think about today's America?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is struggling to transform fiction into reality."
+                },
+                {
+                  "label": "B",
+                  "text": "It has been the focus of many vital conversations."
+                },
+                {
+                  "label": "C",
+                  "text": "It still has a long way to go before equity can be truly realized."
+                },
+                {
+                  "label": "D",
+                  "text": "It has got to a point where people disagree on nearly every issue."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn from the passage about black students in the past 20 years?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have been unfairly treated regarding higher education."
+                },
+                {
+                  "label": "B",
+                  "text": "They have been battling hard to address equity issues."
+                },
+                {
+                  "label": "C",
+                  "text": "They have boosted their lifetime incomes by billions of dollars."
+                },
+                {
+                  "label": "D",
+                  "text": "They have come to see the consequences of racial discrimination."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "How can Americans bridge the differences that divide them?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "By dealing with the thorny issues confronting them."
+                },
+                {
+                  "label": "B",
+                  "text": "By seizing every chance to enhance racial harmony."
+                },
+                {
+                  "label": "C",
+                  "text": "By continuing to pursue Martin Luther King Jr.'s cause."
+                },
+                {
+                  "label": "D",
+                  "text": "By striving to identify exceedingly valuable opportunities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "How do most Americans view America as a nation according to a recent survey?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is compelled to address its historical social issues."
+                },
+                {
+                  "label": "B",
+                  "text": "It is delaying advancements toward racial equality."
+                },
+                {
+                  "label": "C",
+                  "text": "It has kept itself from polarization."
+                },
+                {
+                  "label": "D",
+                  "text": "It has become increasingly split."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author suggest Americans do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Ensure the wellbeing of their children and grandchildren."
+                },
+                {
+                  "label": "B",
+                  "text": "Make joint efforts to tackle the nation's equity issues."
+                },
+                {
+                  "label": "C",
+                  "text": "Restrain their intolerance and discrimination."
+                },
+                {
+                  "label": "D",
+                  "text": "Restore social order for a harmonious nation.\n\n四、翻译"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "",
+      "notices": [],
+      "time_limit_minutes": null,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "【原文】\n\n尊老是中华民族的传统美德，深深植根于中国人的思想和行为中，是人们普遍遵守的行为规范和社会准则。在当今的中国，这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务已成为社会共识，例如社区专门开设长者食堂，公共场所配置优先座位。政府还出台了一系列政策，为老年人的权益提供有力保障。尊老是社会和谐与发展的重要基石，有助于培育良好的社会氛围，推动整个社会文明进步。\n\n本资源根据2025年12月六级真题（第一套）内容整理，完整保留所有原文及题目，仅用于学习交流，排版原创。题目版权归原考试机构所有，无商业用途。\n\n```"
+      }
+    ]
+  },
+  "id": "CET6-2025-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

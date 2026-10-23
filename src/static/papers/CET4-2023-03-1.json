@@ -1,0 +1,1303 @@
+{
+  "schema_version": "1.0",
+  "year": 2023,
+  "month": 3,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you have taken part in a career planning seminar. Write an account of the seminar and summarize what you have learned from it. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "unknown",
+        "instructions": {
+          "directions": "Suppose you have taken part in a career planning seminar. Write an account of the seminar and summarize what you have learned from it. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you have taken part in a career planning seminar. Write an account of the seminar and summarize what you have learned from it. You will have 30 minutes for this task and should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A proposed policy allowing Africans to travel in Africa without a visa."
+                  },
+                  {
+                    "label": "B",
+                    "text": "An agreement among 13 African countries to set up a free-trade zone."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A plan to invite all African countries to join the African Union."
+                  },
+                  {
+                    "label": "D",
+                    "text": "An important initiative to permit tourists to visit Africa without a visa."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It will attract more investments from all over the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It will help many African countries reduce trade deficits."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It will reduce the cost of trade between African countries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It will allow Africans to play a bigger role in world trade."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cooling down volcanic rock with sea water."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Storing carbon dioxide underground as a gas."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Capturing carbon dioxide and burying it under the sea."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Pumping carbon dioxide underground to form stone."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Lack of burying ground."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Long time for processing."
+                  },
+                  {
+                    "label": "C",
+                    "text": "High consumption of water."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Enormous cost of energy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It varies with the seasons."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has been on the decline."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has caused nationwide concern."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is ninety grams daily on average."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They emphasize food variety."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They prefer French stick loaves."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They do more cooking than men."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They favor diets lower in calories."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They bake more bread at home."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They spend less time eating breakfast."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They eat more fruit than they used to."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They put jam instead of butter on bread."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "After the rush hour."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Early in the morning."
+                  },
+                  {
+                    "label": "C",
+                    "text": "As soon as possible."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Around lunch time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Two first class seats."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Two seats together."
+                  },
+                  {
+                    "label": "C",
+                    "text": "One window seat."
+                  },
+                  {
+                    "label": "D",
+                    "text": "One seat near the exit."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In the middle of the platform."
+                  },
+                  {
+                    "label": "B",
+                    "text": "At the far end of the platform."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Behind the yellow line."
+                  },
+                  {
+                    "label": "D",
+                    "text": "In the waiting room."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Wait in a queue for his turn."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Go to the baggage claim area."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Pay an extra fee for the service."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Give the ticket to the train guard."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Almost all of them were operating at a deficit."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have all been turned into movie theatres."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Nearly all of them closed down decades ago."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have adapted to meet fashion changes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It shows foreign movies exclusively."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It shows movies from the 1950s."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is the oldest theatre in London."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is located next to a hat factory."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They wear hats on social occasions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They don't speak foreign languages."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They enjoy watching foreign movies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They don't go to movie theatres often."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are meant mostly for immigrants."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They attract large crowds of young Londoners."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are hard for English people to appreciate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have an English translation on the screen."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She doesn't think smartphones can replace tablets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She incorporates smartphones into her teaching."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She cannot stop children using smartphones."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She regards smartphones as a distraction."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To enforce school discipline."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To make students concentrate."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To help children grow up to be professionals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To cultivate children's good study habits."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Use books and pens only."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Cut down their screen time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make full use of electronic devices."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Learn to use the internet for research."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By cleaning the kitchen floor."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By looking after her baby brother."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By helping her mother do the dishes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By helping her brother wash windows."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She ordered a large number of dolls."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She checked if a purple doll was ordered."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She mistakenly canceled her mom's order."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She ordered a more expensive doll instead."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They asked the children's hospital to pick them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They took all of them to the children's hospital."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They opened all of them one by one."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They discussed where to keep them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The time one starts school."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The classroom atmosphere."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The school that one attends."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The relationship with classmates."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To help parents decide when to send their children to school."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To find causes for differences in the participants' performance."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To identify students having potential to be professional athletes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To offer constructive suggestions for making educational policies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Political leaders."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Financial analysts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Professional athletes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "High-school students."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Leadership ability."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Commitment to work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Risk-taking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Self-confidence."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "It's a fantasy that goes back centuries: a message in a bottle, carried ashore from far-off lands.\nAuthors, artists and children _26_ have dreamed of such a gift from the sea.\nThis time, though, it's not a bottle that washes ashore. It's eggs—thousands of little toy eggs.\nThat's what happened on the German island of Langeoog this week.\nLying just off the North Sea coast, it found itself _27_ by an invasion of colored plastic eggs--much to the _28_ of local children, because the eggs contained toys.\n\nPolice 29 the eggs came from a freighter that lost part of its cargo during an unusually _30_ storm, the worst to hit Germany's northeastern coast since 2006. At any rate, what was lost now has been found, by many of the community's littlest residents.\n\n\"The surprise eggs have found their way to freedom,\" said Mayor Uwe Garrel. However, the joy of the moment _31_ off soon.\n\n\"At first, I thought this was a wonder, because everything was so _32_, but then we realized that this is a huge _33_ in the end,\" said the mayor. He also noted the plastic bags and other materials that have washed ashore on the island can cause serious problems for _34_.\n\nStill, all these little eggs contained an extra treat with their toys. They _35_ notes from afar.\n\nThere was just one problem for the German children who received them: They were written in Russian.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "wore"
+        },
+        {
+          "label": "I",
+          "text": "intense"
+        },
+        {
+          "label": "B",
+          "text": "wildlife"
+        },
+        {
+          "label": "J",
+          "text": "human"
+        },
+        {
+          "label": "C",
+          "text": "suspect"
+        },
+        {
+          "label": "K",
+          "text": "effective"
+        },
+        {
+          "label": "D",
+          "text": "struck"
+        },
+        {
+          "label": "L",
+          "text": "delight"
+        },
+        {
+          "label": "E",
+          "text": "similar"
+        },
+        {
+          "label": "M",
+          "text": "colorful"
+        },
+        {
+          "label": "F",
+          "text": "quantity"
+        },
+        {
+          "label": "N",
+          "text": "bore"
+        },
+        {
+          "label": "G",
+          "text": "overthrown"
+        },
+        {
+          "label": "O",
+          "text": "alike"
+        },
+        {
+          "label": "H",
+          "text": "mess"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 129,
+          "end": 133
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 390,
+          "end": 394
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 447,
+          "end": 451
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 512,
+          "end": 514
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 594,
+          "end": 598
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 866,
+          "end": 870
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 948,
+          "end": 952
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 995,
+          "end": 999
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1149,
+          "end": 1153
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1232,
+          "end": 1236
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Hyphenating your last name after marriage?",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Congratulations on deciding to get married! While being married is great and wonderful, the act of getting married can be quite stressful. There is the planning of the ceremony itself, the merging (合并) of two households and all of the details involved in that. You also have to take the time to apply for your marriage license and then decide whether or not you are going to keep your last name or change it."
+        },
+        {
+          "label": "B",
+          "text": "This is where a lot of people have trouble. Once upon a time, it was just customary for a bride to take her groom's last name as hen own and abandon her maiden name completely. The act of keeping her own last name was considered taboo (禁忌) and people's eyebrows would raise right off their faces when they found out that the bride was even considering something so radical. Over time, though, more and more women are deciding to keep their last names."
+        },
+        {
+          "label": "C",
+          "text": "There are a lot of reasons to want to keep your own last name. Hopefully you have a supportive groom who understands why this idea is the most appealing to you. A lot of times, though, the act of keeping your name is still something that causes concern. Even if your groom is fine with it, his family (or your own) might not be so understanding."
+        },
+        {
+          "label": "D",
+          "text": "There are a couple of ways to compromise on the issue. You could choose an entirely new last name for the two of you to share. This way neither of you gets “your” way and you both have to deal with the legalities of going through a name change. Most of the time, though, the most popular compromise is to hyphenate your last name and the last name of your groom. For example, if your groom’s name is John Smith and your name is Kate Jones. You would name yourself Kate\n\nJones-Smith or Kate Smith-Jones. This allows you to keep going by your own last name while legally adopting your husband's last name at the same time."
+        },
+        {
+          "label": "E",
+          "text": "The compromise is the biggest reason that so many women choose to hyphenate their last names. It is a way of you keeping your own identity while also making your future husband happy. It allows you to stay connected to accomplishments that you achieved before you got married. For example, many women who choose to hyphenate do so partially because they have earned higher educational degrees and certifications under their maiden names. They might have also had things published or publicized and want to stay connected to that identity. Hyphenating your last name can help you bridge the gap between your personal and professional lives. Many women who opt to simply keep their own names do so because they don't want to give up all that they have accomplished professionally. Adopting their husband's last name makes it hard for them to claim ownership of these accomplishments personally because they happened under their “other” name."
+        },
+        {
+          "label": "F",
+          "text": "While tradition is one thing, there isn't any logical reason to completely change your name. Keeping your name and joining it to your husband's through hyphenation is as legal as simply adopting his name or as simply keeping your own and leaving his out of the picture entirely."
+        },
+        {
+          "label": "G",
+          "text": "Probably the most important reason to consider hyphenation is your identity. You’ve spent your whole life building your identity under a certain name. Obviously you will still be you even if you’ve taken on your husband’s last name and omitted yours entirely. At the same time, your name is associated with the identity you’ve built up and hyphenation allows you to respect that while also respecting tradition and your husband’s family’s identity."
+        },
+        {
+          "label": "H",
+          "text": "If you care about outside opinions on your name, you should know that a large portion of today's society is annoyed by the hyphenated name. Some people find it “snobby” (势利的) and others simply find it irritating because they have a hard time remembering which last name they are supposed to say first. Some people even believe that not simply adopting your husband's last name is a huge sign of disrespect and a lack of commitment."
+        },
+        {
+          "label": "I",
+          "text": "It is possible that your future husband will find this choice offensive. Some men, regardless of how you might feel about some things, are traditionalists and feel that it is simply “right” for the woman to take the man’s last name as her own. Whether your future husband insisting on your adopting his last name is a red flag to you or not, it is still something that you should take into consideration."
+        },
+        {
+          "label": "J",
+          "text": "There are all sorts of reasons to hyphenate your name or not to hyphenate your name. The basis for each of these things, however, is whether or not you are willing to make a compromise when it comes to changing your name. The hyphenation is the epitome (体现) of a compromise. One spouse wants a complete name change. The other spouse wants no name change. Hyphenating the two names is a way for each person to, at least a little bit, “win” the argument."
+        },
+        {
+          "label": "K",
+          "text": "And don't forget the legal stuff! Making the decision is just part of the process. From there you are going to have to legally change your name all over the place. You'll need to change your name at the bank, with social security, with your credit cards, on your driver's license, at the gym ... everywhere. It's easy to get overwhelmed just thinking about it."
+        },
+        {
+          "label": "L",
+          "text": "What matters, of course, is that the two of you are going to be happily married—hopefully for the of your lives. At the end of the day, whether you each keep your names, whether you come up with an entirely new name for the two of you to share or whether you hyphenate your current last names, what matters is that you love each other and are going to be joining your lives together. Try to remember that as you are staring at the application for your marriage license and filling out the portion that reads “name after you get married” (or whatever the legalese for that might be)."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Many people today still find name hyphenation upon marriage unacceptable."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "As a compromise, a bride will in most cases adopt a name that combines the couple's last names."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The bride should consider adopting her groom's last name whether he feels strongly about it or not."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Making preparations for marriage causes a lot of stress."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Hyphenating the last names could be a win-win solution should arguments arise about what name to adopt upon marriage."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "It used to be considered socially unacceptable for a bride to retain her maiden name."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "The bride who adopts a hyphenated last name after marriage can maintain connections with their past achievements."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Hyphenating names allows the bride to preserve her own identity while respecting tradition."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "No matter what name the bride adopts, it is most important that the newly-weds truly love each other."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Legally speaking, the bride is free to choose whatever name she prefers."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "It’s good to be smart. After all, intelligent people earn more money, accumulate more wealth, and even live longer. But there’s another side to the story. The brightest people and strongest leaders sometimes make errors others don’t, especially in situations that require common sense.\n\nTravis Bradberry, president at TalentSmart, explained Bradberry in his post Why Smart People Act so Stupid that “rational thinking and intelligence don’t tend to go hand in hand”. Intelligent people are more prone to silly mistakes because of blind spots in how they use logic. These blind spots exist because smart people tend to be overconfident in their reasoning abilities. “They’re so used to being right and having quick answers that they don’t even realise when they’re making a mess by answering without thinking things through.”\n\nA lifetime of praise leads smart people to develop too much faith in their intelligence and abilities. They often fail to recognise when they need help, and when they do recognise it, they tend to believe that no one else is capable of providing it.\n\n“It’s hard for anyone to graciously accept the fact that they’re wrong. It’s even harder for smart people because they grow so used to being right all the time that it becomes a part of their identity,” Bradberry wrote. “For smart people, being wrong can feel like a personal attack, and being right, a necessity.”\n\nSmart people also have a hard time accepting feedback. They tend to undervalue the opinions of others, which means they have trouble believing that anyone is qualified to give them useful feedback. Not only does this tendency hinder their growth and performance, it can lead to harmful relationships, both personally and professionally.\n\nSmart people develop overachieving personalities because things come so easily to them. They simply don't understand how hard some people have to work to accomplish the same things, and because of that, they push people too hard. They set the bar too high, and when people take too long or don't get things quite right, they assume it's due to a lack of effort. So they push even harder.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn from the passage about the brightest people?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can make silly mistakes in straightforward situations."
+                },
+                {
+                  "label": "B",
+                  "text": "They usually turn a blind eye to their own weaknesses."
+                },
+                {
+                  "label": "C",
+                  "text": "They are admired by people around them."
+                },
+                {
+                  "label": "D",
+                  "text": "They can differ in their personalities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What accounts for the existence of intelligent people's logical blind spots?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Their irrational way of thinking."
+                },
+                {
+                  "label": "B",
+                  "text": "Too much faith in their ability to think."
+                },
+                {
+                  "label": "C",
+                  "text": "Their ignorance of behavioural science."
+                },
+                {
+                  "label": "D",
+                  "text": "Too much concern about their work."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "How do smart people react when they are found to be wrong?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They shit the blame to others."
+                },
+                {
+                  "label": "B",
+                  "text": "They graciously accept the facts."
+                },
+                {
+                  "label": "C",
+                  "text": "They may feel shocked."
+                },
+                {
+                  "label": "D",
+                  "text": "They may get offended."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What may happen to smart people who find it difficult to accept suggestions?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They may suffer in their professional and private life."
+                },
+                {
+                  "label": "B",
+                  "text": "They may lose faith in their administrative abilities."
+                },
+                {
+                  "label": "C",
+                  "text": "They may commit more errors than ever before."
+                },
+                {
+                  "label": "D",
+                  "text": "They may experience a lot of emotional stress."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What is said about those working with or under overachieving people?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They put a lot of effort into their work."
+                },
+                {
+                  "label": "B",
+                  "text": "They set higher goals for themselves."
+                },
+                {
+                  "label": "C",
+                  "text": "They are under increasing pressure."
+                },
+                {
+                  "label": "D",
+                  "text": "They take less time to get things done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Of the endless troubles that come with being driven from one's home country, losing educational certificates may seem small. But it isn't. Refugees who settle in other countries often find themselves unable to continue on their previous career path due to a new set of employer standards or skills requirements. To solve this problem, the U.S. State Department is posing a solution: online learning.\n\nThe State Department will announce a partnership with an online education platform called Coursera. The platform will allow refugees worldwide to take thousands of online courses for free. “Coursera for Refugees” will be available for any non-profit group that supports refugees in any country, as well as individual refugees. They can apply for fully funded access to Coursera’s course catalog, which means they can take all of the platform’s classes and obtain professional certificates for free. The platform currently offers professor-led lectures on a broad range of topics, from data science to fashion design.\n\nAs the world migrant crisis intensifies, employment is becoming a global concern. The new program aims to aid refugees by offering “important skills that will help them in the global economy,” Evan Ryan, U.S. assistant secretary of state for educational and cultural affairs, said on a press call last week. “What we don’t want to do is not act,” added Coursera chief operations officer Lila Ibrahim.\n\nThe idea isn't without its kinks. For one, starting on a new career path is not as simple as watching a few videos and obtaining an online certificate; even those looking to continue previous careers can't simply rely on an online lecture to get them up-to-date on standards, policies, and practices. For another, most of the classes on Coursera are in English, and though there are plans to add translations, language barriers can be a big obstacle. Then there are the questions over the value of massive open online courses (MOOCs) themselves—both for refugees and for average learners.\n\nBut it's still early days and there are signs of hope. In 2015, a joint study found $72\\%$ of people taking MOOCs saw career benefits afterward.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "Why is the U.S. State Department launching an online learning program for refugees?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To enable them to settle down in host countries."
+                },
+                {
+                  "label": "B",
+                  "text": "To allow them to learn as many job skills as possible."
+                },
+                {
+                  "label": "C",
+                  "text": "To offer them a platform to pursue advanced degrees."
+                },
+                {
+                  "label": "D",
+                  "text": "To help them to meet new employment standards."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we know about \"Coursera for Refugees\"?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It provides refugees with a wide range of courses free of charge."
+                },
+                {
+                  "label": "B",
+                  "text": "It offers free online data services for refugees around the world."
+                },
+                {
+                  "label": "C",
+                  "text": "It allows refugees to obtain degrees in various academic fields."
+                },
+                {
+                  "label": "D",
+                  "text": "It supplies refugees with a great variety of job opportunities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does the passage say is a consequence of the global migrant crisis?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Instability increases in host countries."
+                },
+                {
+                  "label": "B",
+                  "text": "The global economic crisis intensifies."
+                },
+                {
+                  "label": "C",
+                  "text": "A lot more refugees die during migration."
+                },
+                {
+                  "label": "D",
+                  "text": "Refugees find it more difficult to get a job."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What does the author say causes refugees' difficulty in taking online courses?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Cultural environment."
+                },
+                {
+                  "label": "B",
+                  "text": "Changed academic requirements."
+                },
+                {
+                  "label": "C",
+                  "text": "Lack of language skills."
+                },
+                {
+                  "label": "D",
+                  "text": "Difference in teaching platforms."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What did the joint study find about the MOOCs several years ago?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They helped solve learners' financial problems."
+                },
+                {
+                  "label": "B",
+                  "text": "They benefited most of the learners."
+                },
+                {
+                  "label": "C",
+                  "text": "They changed some learners' career path."
+                },
+                {
+                  "label": "D",
+                  "text": "They provided the most needed vocational skills."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "随着生活水平的提高，更多人开始加入到自驾游的行列之中。自驾游者既可驾驶自家车也可借车或租车出游。司机可能是车主或结伴出游者。自驾游与传统的组团旅游不同，它能够更好地满足旅游者的个性化需求，使他们更好地享受旅游的过程。自驾游尤其受到年轻出游者的欢迎。年轻人追求独立自由的生活，而自驾游恰好满足了他们的这一需求。"
+      }
+    ]
+  },
+  "id": "CET4-2023-03-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

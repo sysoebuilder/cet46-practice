@@ -1,0 +1,1303 @@
+{
+  "schema_version": "1.0",
+  "year": 2023,
+  "month": 12,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 25,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their brains work in harmony."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their interests are quite similar."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are generally the same age."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have the same ethnic background."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can be touching."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can work both ways."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is hard to predict."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It resembles family ties."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Search for their half-brothers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find out more about their ancestry."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Identify their biological fathers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "See whether they are actually related."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were both given up for adoption."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They flew 737 airplanes as pilots."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were born to the same mother."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were both 60 years of age."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One of his friends was caught littering."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The beautiful beach was spoiled with lots of trash."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Other tourists refused to join in the cleanup."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The kilometer-long beach was practically deserted."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A passerby."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The beach authorities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A local woman."
+                  },
+                  {
+                    "label": "D",
+                    "text": "One of the five tourists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The tourists' good deed was not noticed by the locals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some natives were selling poor-quality food to tourists."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The number of tourists to the beach is on a steady decline."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was tourists not natives who were cleaning up the beach."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has to play football with workmates."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is going to visit a friend."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has got some books to read."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is physically unfit for it."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To teach kids about animal protection."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To see some rare animals in cages."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To learn how popular zoos could be."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To give her little nephew a treat."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He enjoys excellent health."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He coaches tennis players every week."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is keen on extreme sports."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He spends most of his time in the gym."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Tending to his swollen ankle."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Writing three book reports."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Concentrating on reading."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Planning Christmas celebrations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is being debated by hundreds of retirees."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It partly records his own experience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is attracting many people's attention."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It argues for postponing retirement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One should foresee a financial crisis."
+                  },
+                  {
+                    "label": "C",
+                    "text": "One should have one million dollars to retire."
+                  },
+                  {
+                    "label": "B",
+                    "text": "One should trust financial planners' figures."
+                  },
+                  {
+                    "label": "D",
+                    "text": "One should start saving as early as possible."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It doesn't need to be permanent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It helps to reduce travel expenses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It shouldn't be considered risky."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is the way to quit a job one hates."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By keeping close contact with one's employers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By investing half of one's monthly income."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By retiring when one reaches sixty years old."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By following the counsel of financial planners."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They tended to be easily anticipated by those belonging to their own race."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tended to be arbitrarily judged by individuals of opposing groups."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were readily shared among members of the same social or racial group."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were influenced by the presence of someone from an outsider group."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When they tried to make a positive impression on the researchers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When an unknown student from another university was present."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When an experimenter from the research team took notice."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When they were offered both candy and fruit as a snack."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By advertising its social benefits."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By supporting struggling consumers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By teaching consumers diet strategies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By maintaining its positive image."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The academic and learning issues struggling students encounter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The risk students face due to a history of mental health problems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The effect of interacting with therapy dogs on students under pressure."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The work universities are doing to help students succeed academically."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their communicative skills."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their academic networking."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their executive functioning."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their leadership capacities."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Rid students of their anxiety."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Contribute little to typical students' success."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Add to some students' stress."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Help students with mental issues pull through."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Work hard and plan carefully."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Aim high and expect great results."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Attempt to succeed at any cost."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Remain optimistic even in difficulty."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Regarding failure as something inevitable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Venturing into sectors never explored before."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Trying out innovative marketing strategies."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Being willing to experiment with novel ideas."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Expect future success so as to move forward."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Distinguish between good and bad risks."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Learn from our failure and forge ahead."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Examine our strategies and find out weaknesses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Fresher offers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "More challenges."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Safer operation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Less competition."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": 10,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "Exercising for just 10 minutes a week is linked to a longer life, according to a new study published in The British Journal of Sports Medicine.\n\nSeveral recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful _26_ on health. Still, the idea that exercising for just 10 minutes a week may be enough to increase your lifespan is novel. It's also somewhat _27_, since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of _28_ exercise each week.\n\nThe study was based on data from more than 88,000 U.S. adults who _29_ in the National Health Interview Survey between 1997 and 2008.\n\nContrary to some research that has found an _30_ limit to the amount of exercise that is healthy, the researchers found that there was _31_ no limit to the longevity (长寿) benefits of exercise. Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46% lower _32_ of death than the least active group.\n\nStill, observational studies like this one cannot prove cause and effect; they can only find _33_. The researchers also were not able to _34_ for certain lifestyle factors that could affect lifespan, including\n\ndietary habits and changes in physical activity over time. Despite these _35_, the study's results are yet another indication of the power of physical activity, even in small amounts.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "adjust"
+        },
+        {
+          "label": "I",
+          "text": "participated"
+        },
+        {
+          "label": "B",
+          "text": "alter"
+        },
+        {
+          "label": "J",
+          "text": "patterns"
+        },
+        {
+          "label": "C",
+          "text": "approximately"
+        },
+        {
+          "label": "K",
+          "text": "populated"
+        },
+        {
+          "label": "D",
+          "text": "controversial"
+        },
+        {
+          "label": "L",
+          "text": "risk"
+        },
+        {
+          "label": "E",
+          "text": "coordinates"
+        },
+        {
+          "label": "M",
+          "text": "seemingly"
+        },
+        {
+          "label": "F",
+          "text": "impact"
+        },
+        {
+          "label": "N",
+          "text": "type"
+        },
+        {
+          "label": "G",
+          "text": "limitations"
+        },
+        {
+          "label": "O",
+          "text": "upper"
+        },
+        {
+          "label": "H",
+          "text": "moderate"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 268,
+          "end": 272
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 412,
+          "end": 416
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 542,
+          "end": 546
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 634,
+          "end": 638
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 747,
+          "end": 751
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 838,
+          "end": 842
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1021,
+          "end": 1025
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1158,
+          "end": 1162
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1202,
+          "end": 1206
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1349,
+          "end": 1353
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "How Climate Change Will Affect What You Eat",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Earlier this year, scientists warned that one in six animal species could go extinct (灭绝的) due to climate change. Could the same thing happen to our crops and other foodstuffs too?"
+        },
+        {
+          "label": "B",
+          "text": "It's clear that farmers in many parts of the world are going to find things harder in the coming decades. Last week, BBC Future explored one scientist's efforts to help crops cope with the increased probability of droughts. By using the genes from resurrection (复活) plants, Jill Farrant of the University of Cape Town is exploring whether she can design crops to survive for much longer periods without water."
+        },
+        {
+          "label": "C",
+          "text": "But if we can't find ways to protect other foods, will they survive climate change? Fortunately, there is some good news on this front. Despite alarmist headlines about \"foods that are going extinct,\" there is no evidence that major food types like beans, chocolate, wine, corn or wheat will cease to exist."
+        },
+        {
+          "label": "D",
+          "text": "But that doesn't mean it's all good news for future food. We will probably have to change where we grow certain crops, as some regions get too hot. The disadvantage, obviously, is that local farmers will suffer under this situation. And some people may struggle to get the same access to certain foods. \"Even if overall food production may be unaffected, food security can still be impacted,\" says Margaret Walsh, a scientist at the US Department of Agriculture's Climate Change Program Office. In other words, even if a certain food is still grown on some corner of the Earth, it doesn't mean that everyone will continue to have the same degree of access as today."
+        },
+        {
+          "label": "E",
+          "text": "Overall, the yields of many foods, from staples to life-enhancing extras such as coffee and chocolate, will likely be impacted by climate change too. How those decreases will be felt will depend on the degree of warming and the crop in question, but in general, “anything over about  $30^{\\circ}$ C is very bad for crops,” says Wolfram Schlenker, an associate professor of international and public affairs at Columbia University. For\n\nexample, statistical studies that he and a colleague built of corn and soybean (大豆) production in the US show a steep decline after crossing the  $30^{\\circ}$ C temperature threshold (临界点)."
+        },
+        {
+          "label": "F",
+          "text": "In the US—the world's largest producer of corn and soybeans—farms can move north to some degree, Schlenker says. But eventually, yields will likely suffer because the soil north of Iowa declines in quality—a legacy of glacial (冰川的) expansion. Other studies, including studies of wheat in India and corn in Africa, also found that there is a threshold above which yields sharply decline: crops can adapt and move, but only to a point. “What’s common to all studies is the finding that extreme heat is damaging to crop growth, although exact cutoffs vary by crop,” Schlenker says. “If predictions for the end of the century are true, though, I think a lot of agricultural areas in the US will see significant hits.”"
+        },
+        {
+          "label": "G",
+          "text": "Under current conditions, about 4% of the world's croplands experience drought in any given year, but by the end of the century those conditions are forecasted to jump to about 18% per year. Some studies indicate that horticulture crops—generally, everything besides staples—may be impacted most severely, largely because they tend to be confined to a smaller geographic area. Researcher Andrew Jarvis and his colleagues found that 80% of coffee-growing zones in Central America and Brazil could become unsuitable by 2050, for example, while climate change will likely have “great impacts” on cocoa (可可粉) production in West Africa. “High quality chocolate will be less available in the future, and if you want it, you’ll have to pay a lot more for it,” Jarvis says."
+        },
+        {
+          "label": "H",
+          "text": "This means that, for those who can afford it, some foods will simply cost them more in the future. But for poorer people, those same price jumps will likely cause certain foods to go extinct from their diets. “The more you reduce, the shorter the supply, and the higher the price will jump,” Schlenker says."
+        },
+        {
+          "label": "I",
+          "text": "Another potential climate change-induced problem is our dependence on commodity crops—wheat, soybeans, corn and rice—which currently provide humanity with 75% of its calories, either directly or indirectly through the animals we raise on those crops. Jarvis and his colleagues also found that, over the past five decades, the world has seen an increasing standardisation of diets; the foods we eat globally today are 36% more similar than they were in 1961. While this can be good news for the world’s poorest people who now consume more calories, protein and fat than in the past, homogeneity (同一性) and over-dependence on a handful of staples leaves us vulnerable to threats such as drought, disease and pests—all of which are predicted to worsen in many parts of the world as a result of climate change."
+        },
+        {
+          "label": "J",
+          "text": "There are ways we could soften the coming blow to the global food supply, however. Like Farrant's work with resurrection crops, a number of companies, organisations and researchers are aiming to create drought- and temperature-resistant crops through genetic engineering and conventional breeding. For now, the jury is still out as to how successful those endeavours will be. “The people at Monsanto who I’ve talked to are much more optimistic that they’ll be able to engineer heat-tolerant crops,” Schlenker says. “On the other hand, scientists at the USDA who I’ve spoken with are much more cautious.”"
+        },
+        {
+          "label": "K",
+          "text": "Until genetic engineering comes to fruition, other strategies might also help in some places, including applying more fertiliser, implementing better irrigation, using machinery that gets crops out of the field faster or installing storage facilities to delay spoilage. “Many places could benefit a great deal just by using technologies that already exist,” Walsh says. “General farm management can go a long way toward easing changes.”"
+        },
+        {
+          "label": "L",
+          "text": "Finally, diversifying our diet away from heat-sensitive wheat, corn, rice and other crops could also help. \"We've seen profound changes in the last decades in what we eat largely as a result of international trade, and I think that trend toward more diversification will continue,\" Jarvis says. \"Depending on a greater number of plant species creates a more vigorous and less risky food system—and one that provides a broader range of nutritional requirements.\""
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "One consequence of climate change is that some people may not have adequate access to certain foods."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "People around the world are eating foods more similar than what they used to eat."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "A recent news report talked about scientific efforts to help crops survive droughts through genetic engineering."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "It is predicted that climate change will affect the availability and price of quality chocolate."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "People wonder if certain crops and foodstuffs could disappear like some animal species due to climate change."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Although farms in the US can move a bit northward, crop yields may decrease."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "One possible solution to the food security problem is diversification of diet."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "It remains unsettled whether the global food supply problem can be solved by creating heat-tolerant crops through genetic engineering."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Poor people may have to give up eating certain foods because of their high prices."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "A number of existing farming technologies could be used to reduce the negative effect of climate change on food production."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "One of my bad habits is saying “busy” when people ask me how I’m doing. Sometimes it’s because I actually am busy, but other times it’s because that’s what I think I’m supposed to say. That’s what important people say. That’s what people who get promoted say. But working long hours doesn’t drive better results. Never taking a vacation won’t lead to a promotion. So why are we so proud to talk about how busy we are all the time?\n\nIn 2016, researchers from Columbia, Harvard, and Georgetown conducted a study to figure it out. They found busy people are perceived to be of high status, and interestingly, these status attributions are heavily influenced by our own beliefs about social mobility. In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing.\n\nThat's why we feel like we have to appear busy, and there's a real perception that if someone is knee-deep in meetings, emails, and stress, then they're probably a big deal. This culture of busyness is making it hard for\n\nemployees to find work-life balance. According to a recent study, one in five highly engaged employees is at risk of burnout (精疲力竭).\n\nPersonally, I'm going to stop saying \"busy\" when people ask me how I am. It sounds self-righteous (自以为是的) and sets the wrong tone. Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off.\n\nThat's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won't be checking email until you're back. Managers need to think twice about emailing their teams on the weekend and talking about how busy they are. Leaders should take time off themselves and encourage employees to do the same.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What is a reason for the author to be in the habit of saying \"busy\" when asked how he is doing?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "He just follows successful people's example."
+                },
+                {
+                  "label": "C",
+                  "text": "He thinks everyone should be devoted to work."
+                },
+                {
+                  "label": "B",
+                  "text": "He is actually proud to be fully occupied."
+                },
+                {
+                  "label": "D",
+                  "text": "He believes busyness ensures accomplishments."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "Why do we tend to think that busy people are of high status?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Our status can be attributed to our social mobility."
+                },
+                {
+                  "label": "B",
+                  "text": "We hold the belief that hard work leads to success."
+                },
+                {
+                  "label": "C",
+                  "text": "Our own opportunity for success never comes easily."
+                },
+                {
+                  "label": "D",
+                  "text": "We find few people of high status have time for leisure."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What do we learn about the culture of busyness from a recent study?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It places employees in endless meetings, emails and stress."
+                },
+                {
+                  "label": "B",
+                  "text": "It compels some 20% of employees to appear always busy."
+                },
+                {
+                  "label": "C",
+                  "text": "It distorts many employees' belief of what a satisfying life is."
+                },
+                {
+                  "label": "D",
+                  "text": "It does much harm to many busy employees' well-being."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What do such utterances as “I have limited access to email” sound like according to the author?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "One is too busy to check all emails in time."
+                },
+                {
+                  "label": "B",
+                  "text": "One is opposed to the prevailing work culture."
+                },
+                {
+                  "label": "C",
+                  "text": "One is forced by circumstances to stop working."
+                },
+                {
+                  "label": "D",
+                  "text": "One is simply enjoying their time off work."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Why did the author and his colleagues launch the Out of Office Email Generator?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To enable busy employees to spend less time checking emails."
+                },
+                {
+                  "label": "B",
+                  "text": "To ensure employees as well as employers truly have time off."
+                },
+                {
+                  "label": "C",
+                  "text": "To stop managers from talking about how busy their teams usually are."
+                },
+                {
+                  "label": "D",
+                  "text": "To encourage both employers and employees to answer emails promptly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Female employees consistently pay lower airfares than men do for the same flights because they tend to book earlier.\n\nWe compared the airfare paid by employees in the same position within a company for the same class of travel and used a common statistical technique to account for other factors that might affect differences in airfares. We found that women paid on average \\$18 less per ticket than their male colleagues. Further\n\ninvestigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average.\n\nWe wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. None of these explained away the gender gap, so we applied data collected from surveys that express consumer preferences that play a central role in economic decisions, such as patience and risk avoidance.\n\nWe found that only the concept of “negative reciprocity”—in which an employee who feels unfairly treated engages in negative behaviors, such as spending their company’s money less carefully—explains these differences. The surveys showed men tend to exhibit more of these negative behaviors than women. This isn’t to say that all men engage in these behaviors—or that booking relatively late is a sign of abnormal behavior. It only means that the gender gap disappears when we plug in the negative reciprocity variable.\n\nPrior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale (士气) and culture.\n\nOur results show another way these negative behaviors can manifest themselves, like in airline bookings, and add to evidence that women are less likely to engage in them.\n\nCompanies spend significant sums of money on business travel. While that \\$18 difference per ticket may seem small, it adds up. Our analysis suggests early booking by women can translate into savings of \\$1 million a year for a large multinational company with 20,000 regular travelers.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What did the author's team conclude about the gender difference in airfares from their further investigation?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is largely attributed to women booking earlier than men."
+                },
+                {
+                  "label": "B",
+                  "text": "It is largely explained by women's choosing cheaper flights."
+                },
+                {
+                  "label": "C",
+                  "text": "It is mainly accounted for by male employees' readiness to pay more."
+                },
+                {
+                  "label": "D",
+                  "text": "It is due to the fact that women care more about their company's money."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What did the researchers want to determine by testing a variety of possible explanations?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "What made male frequent travelers book air tickets late."
+                },
+                {
+                  "label": "B",
+                  "text": "What caused women to plan ahead in booking business trips."
+                },
+                {
+                  "label": "C",
+                  "text": "What motivated women to book cheaper flights."
+                },
+                {
+                  "label": "D",
+                  "text": "What accounted for the gender gap in airfares."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What happened when the negative reciprocity variable was taken into account?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Both men and women were found to engage in negative behaviors."
+                },
+                {
+                  "label": "B",
+                  "text": "Neither men nor women viewed booking late as a bad behavior."
+                },
+                {
+                  "label": "C",
+                  "text": "The gender difference in airfare expenses no longer existed."
+                },
+                {
+                  "label": "D",
+                  "text": "The gender gap tended to narrow to a significant degree."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What did prior research on negative reciprocity among workers find?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can do more harm to the workplace than to employees."
+                },
+                {
+                  "label": "B",
+                  "text": "It contributes to the male-female divide in the workplace."
+                },
+                {
+                  "label": "C",
+                  "text": "It proves to be counterproductive in a number of ways."
+                },
+                {
+                  "label": "D",
+                  "text": "It can result in increasing labor-management conflicts."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author emphasize about their analysis in the last paragraph?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can help companies increase their savings significantly."
+                },
+                {
+                  "label": "B",
+                  "text": "It can duly contribute to companies' business performance."
+                },
+                {
+                  "label": "C",
+                  "text": "It can translate women's booking practice into men's behavior."
+                },
+                {
+                  "label": "D",
+                  "text": "It can enhance large multinational companies' competitiveness."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "中国政府十分重视人民的健康饮食（diet）。通过大力提倡健康饮食，人们对合理营养增进健康的重要性有了更加深刻的认识。“吃得安全、吃得营养、吃得健康”是人民对美好生活的基本需要，是提升人民幸福感的必然要求，也为食品产业的发展提供了新机遇。目前，各级政府都在采取多种举措确保人民饮食健康，推进健康中国的建设。"
+      }
+    ]
+  },
+  "id": "CET4-2023-12-1",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

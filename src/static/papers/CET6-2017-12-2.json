@@ -1,0 +1,1313 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 12,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying \"Seek to understand others, and you will be understood.\" You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying \"Seek to understand others, and you will be understood.\" You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay commenting on the saying \"Seek to understand others, and you will be understood.\" You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Say a few words to thank the speaker."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Introduce the speaker to the audience."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Give a lecture on the history of the town."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Host a talk on how to give a good speech."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was the founder of the local history society."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has worked with Miss Bligh for 20 years."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has published a book on public speaking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He joined the local history society when young."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She was obviously better at talking than writing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She had a good knowledge of the town's history."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Her speech was so funny as to amuse the audience."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Her ancestors came to the town in the 18th century."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He read exactly what was written in his notes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He made an embarrassing remark."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He kept forgetting what he was going to say."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He was too nervous to speak up."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "What their retailers demand."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How they are going to beat their rivals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "What their rivals are doing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "How dramatically the market is changing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They should be taken seriously."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their business strategy is quite effective."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are rapidly catching up."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their potential has been underestimated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She had given it to Tom."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She had not seen it yet."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It simply made her go frantic."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was not much of a big concern."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Restructuring the whole company."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Promoting cooperation with Jayal Motors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Employing more forwarding agents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Exporting their motorbikes to Indonesia."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It makes claims in conflict with the existing research."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It focuses on the link between bedtime and nutrition."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It cautions against the overuse of coffee and alcohol."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It shows that “night owls” work much less efficiently."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They pay greater attention to food choice."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They tend to achieve less than their peers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They run a higher risk of gaining weight."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They stand a greater chance to fall sick."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Get up late."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Exercise more."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Sleep 8 hours a day."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Go to bed earlier."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "All of the acting nominees are white."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has got too much publicity on TV."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is prejudiced against foreign films."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Only 7% of the nominees are female."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "22 percent of movie directors were people of color."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Half of the TV programs were ethnically balanced."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Only one-fifth of TV shows had black characters."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Only 3.4 percent of film directors were women."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Non-white males."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Females of color over 40."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Program creators."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Asian speaking characters."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They constitute $17\\%$ of Hollywood movie characters."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are most underrepresented across TV and film."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They contribute little to the U.S. film industry."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They account for $8.5\\%$ of the U.S. population."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One that can provide for emergency needs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "One that can pay for their medical expenses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "One that covers their debts and burial expenses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "One that ensures a healthy life for their later years."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Purchase insurance for their children."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Save sufficient money for a rainy day."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Buy a home with a small down payment."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Add more insurance on the breadwinner."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When their children grow up and leave home."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When they have saved enough for retirement."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When their family move to a different place."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When they have found better-paying jobs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 22 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 22
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They do more harm than good."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have often been ignored."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They do not help build friendship."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They may not always be negative."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Biased sources of information."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Misinterpretation of Shakespeare."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ignorance of cultural differences."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Tendency to jump to conclusions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are hard to dismiss once attached to a certain group."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They may have a negative impact on people they apply to."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They persist even when circumstances have changed."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are often applied to minorities and ethnic people."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They impact people more or less in the same way."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some people are more sensitive to them than others."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A positive stereotype may help one achieve better results."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A negative stereotype sticks while a positive one does not."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 23 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 23,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Use some over-the-counter medicine instead."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Quit taking the medicine immediately."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Take some drug to relieve the side effect."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ask your pharmacist to explain why it occurs."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may help patients fall asleep."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may cause serious harm to one's liver."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may lead to mental problems."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may increase the effect of certain drugs."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Tell their children to treat medicines with respect."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Keep medicines out of the reach of their children."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make sure their children use quality medicines."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ask their children to use legitimate medicines."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The Pacific island nation of Palau has become home to the sixth largest marine sanctuary in the world. The new marine reserve, now the largest in the Pacific, will _26_ no fishing or mining. Palau also established the world's first shark sanctuary in 2009.\n\nThe tiny island nation has set aside 500,000 square kilometres — 80 percent — of its maritime _27_, for full protection. That's the highest percentage of an _28_ economic zone devoted to marine conservation by any country in the world. The remaining 20 percent of the Palau seas will be reserved for local fishing by individuals and small-scale _29_ fishing businesses with limited exports.\n\n“Island 30 have been among the hardest hit by the threats facing the ocean,” said President Tommy Remengesau Jr. in a statement. “Creating this sanctuary is a bold move that the people of Palau recognise as 31 to our survival. We want to lead the way in restoring the health of the ocean for future generations.”\n\nPalau has only been an _32_ nation for twenty years and has a strong history of environmental protection. It is home to one of the world's finest marine ecosystems, with more than 1,300 species of fish and 700 species of coral.\n\nSenator Hokkons Baules, lead 33 of the Palau National Marine Sanctuary Act, said the sanctuary will “help build a 34 future for the Palauan people by honoring the conservation traditions of our past”. These include the centuries-old custom of “bul”, where leaders would call a temporary stop to fishing for key species in order to give fish 35 an opportunity to replenish(补充).",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "allocate"
+        },
+        {
+          "label": "I",
+          "text": "permit"
+        },
+        {
+          "label": "B",
+          "text": "celebrities"
+        },
+        {
+          "label": "J",
+          "text": "secure"
+        },
+        {
+          "label": "C",
+          "text": "commercial"
+        },
+        {
+          "label": "K",
+          "text": "solitary"
+        },
+        {
+          "label": "D",
+          "text": "communities"
+        },
+        {
+          "label": "L",
+          "text": "spectacle"
+        },
+        {
+          "label": "E",
+          "text": "essential"
+        },
+        {
+          "label": "M",
+          "text": "sponsor"
+        },
+        {
+          "label": "F",
+          "text": "exclusive"
+        },
+        {
+          "label": "N",
+          "text": "stocks"
+        },
+        {
+          "label": "G",
+          "text": "independent"
+        },
+        {
+          "label": "O",
+          "text": "territory"
+        },
+        {
+          "label": "H",
+          "text": "indulge"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 164,
+          "end": 168
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 352,
+          "end": 356
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 415,
+          "end": 419
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 603,
+          "end": 607
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 658,
+          "end": 660
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 857,
+          "end": 859
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 987,
+          "end": 991
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1222,
+          "end": 1224
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1307,
+          "end": 1309
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1534,
+          "end": 1536
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Data sharing: An open mind on open data",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "It is a movement building steady momentum: a call to make research data, software code and experimental methods publicly available and transparent. A spirit of openness is gaining acceptance in the science community, and is the only way, say advocates, to address a ‘crisis’ in science whereby too few findings are successfully reproduced. Furthermore, they say, it is the best way for researchers to gather the range of observations that are necessary to speed up discoveries or to identify large-scale trends."
+        },
+        {
+          "label": "B",
+          "text": "The open-data shift poses a confusing problem for junior researchers. On the one hand, the drive to share is gathering official steam. Since 2013, global scientific bodies have begun to back policies that support increased public access to research. On the other hand, scientists disagree about how much and when they should share data, and they debate whether sharing it is more likely to accelerate science and make it more robust, or to introduce vulnerabilities and problems. As more journals and funders adopt data-sharing requirements, and as a growing number of enthusiasts call for more openness, junior researchers must find their place between adopters and those who continue to hold out, even as they strive to launch their own careers."
+        },
+        {
+          "label": "C",
+          "text": "One key challenge facing young scientists is how to be open without becoming scientifically vulnerable. They must determine the risk of jeopardizing a job offer or a collaboration proposal from those who are wary of — or unfamiliar with — open science. And they must learn how to capitalize on the movement's benefits, such as opportunities for more citations and a way to build a reputation without the need for conventional metrics, such as publication in high-impact journals."
+        },
+        {
+          "label": "D",
+          "text": "Some fields have embraced open data more than others. Researchers in psychology, a field rocked by findings of irreproducibility in the past few years, have been especially vocal supporters of the drive for more-open science. A few psychology journals have created incentives to increase interest in reproducible science — for example, by affixing an ‘open-data’ badge to articles that clearly state where data are available. According to social psychologist Brian Nosek, executive director of the Center for Open Science, the average data-sharing rate for the journal Psychological Science, which uses the badges, increased tenfold to 38% from 2013 to 2015."
+        },
+        {
+          "label": "E",
+          "text": "Funders, too, are increasingly adopting an open-data policy. Several strongly encourage, and some require, a data-management plan that makes data available. The US National Science Foundation is among these. Some philanthropic (慈善的) funders, including the Bill & Melinda Gates Foundation in Seattle, Washington, and the Wellcome Trust in London, also mandate open data from their grant recipients."
+        },
+        {
+          "label": "F",
+          "text": "But many young researchers, especially those who have not been mentored in open science, are uncertain about whether to share or to stay private. Graduate students and postdocs, who often are working on their lab head's grant, may have no choice if their supervisor or another senior colleague opposes sharing."
+        },
+        {
+          "label": "G",
+          "text": "Some fear that the potential impact of sharing is too high, especially at the early stages of a career. “Everybody has a scary story about someone getting scooped (被抢先),” says New York University astronomer David Hogg. Those fears may be a factor in a lingering hesitation to share data even when publishing in journals that mandate it."
+        },
+        {
+          "label": "H",
+          "text": "Researchers at small labs or at institutions focused on teaching arguably have the most to lose when sharing hard-won data. “With my institution and teaching load, I don’t have postdocs and grad students,” says Terry McGlynn, a tropical biologist at California State University, Dominguez Hills. “The stakes are higher for me to share data because it’s a bigger fraction of what’s happening in my lab.”"
+        },
+        {
+          "label": "I",
+          "text": "Researchers also point to the time sink that is involved in preparing data for others to view. Once the data and associated materials appear in a repository (存储库), answering questions and handling complaints can take many hours."
+        },
+        {
+          "label": "J",
+          "text": "The time investment can present other problems. In some cases, says data scientist Karthik Ram, it may be difficult for junior researchers to embrace openness when senior colleagues — many of whom head selection and promotion committees — might ridicule what they may view as misplaced energies. “I’ve heard this recently — that embracing the idea of open data and code makes traditional academics uncomfortable,” says Ram. “The concern seems to be that open advocates don’t spend their time being as productive as possible.”"
+        },
+        {
+          "label": "K",
+          "text": "An open-science stance can also add complexity to a collaboration. Kate Ratliff, who studies social attitudes at the University of Florida, Gainesville, says that it can seem as if there are two camps in a field — those who care about open science and those who don’t. “There’s a new area to navigate — ‘Are you cool with the fact that I’ll want to make the data open?’ — when talking with somebody about an interesting research idea,” she says."
+        },
+        {
+          "label": "L",
+          "text": "Despite complications and concerns, the upsides of sharing can be significant. For example, when information is uploaded to a repository, a digital object identifier (DOI) is assigned. Scientists can use a DOI to publish each step of the research life cycle, not just the final paper. In so doing, they can potentially get three citations — one each for the data and software, in addition to the paper itself. And although some say that citations for software or data have little currency in academia, they can have other benefits."
+        },
+        {
+          "label": "M",
+          "text": "Many advocates think that transparent data procedures with a date and time stamp will protect scientists from being scooped. “This is the sweet spot between sharing and getting credit for it, while discouraging plagiarism (剽窃),” says Ivo Grigorov, a project coordinator at the National Institute of Aquatic Resources Research Secretariat in Charlottenlund, Denmark. Hogg says that scooping is less of a problem than many think. “The two cases I’m familiar with didn’t involve open data or code,” he says."
+        },
+        {
+          "label": "N",
+          "text": "Open science also offers junior researchers the chance to level the playing field by gaining better access to crucial data. Ross Mounce, a postdoc studying evolutionary biology at the University of Cambridge, UK, is a vocal champion of open science, partly because his fossil-based research depends on access to others' data. He says that more openness in science could help to discourage what some perceive as a common practice of shutting out early-career scientists' requests for data."
+        },
+        {
+          "label": "O",
+          "text": "Communication also helps for those who worry about jeopardizing a collaboration, he says. Concerns about open science should be discussed at the outset of a study. “Whenever you start a project with someone, you have to establish a clear understanding of expectations for who owns the data, at what point they go public and who can do what with them,” he says."
+        },
+        {
+          "label": "P",
+          "text": "In the end, sharing data, software and materials with colleagues can help an early-career researcher to gain recognition — a crucial component of success. “The thing you are searching for is reputation,” says Titus Brown, a genomics (基因组学) researcher at the University of California, Davis. “To get grants and jobs, you have to be relevant and achieve some level of public recognition. Anything you do that advances your presence — especially in a larger sphere, outside the communities you know — is a net win.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Astronomer David Hogg doesn't think scooping is as serious a problem as generally thought."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Some researchers are hesitant to make their data public for fear that others might publish something similar before them."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Some psychology journals have offered incentives to encourage authors to share their data."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "There is a growing demand in the science community that research data be open to the public."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Sharing data offers early-career researchers the chance to build a certain level of reputation."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Data sharing enables scientists to publish each step of their research work, thus leading to more citations."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Scientists hold different opinions about the extent and timing of data sharing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Potential problems related to data sharing should be made known to and discussed by all participants at the beginning of a joint research project."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Sharing data and handling data-related issues can be time-consuming."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "Junior researchers may have no say when it comes to sharing data."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "In the beginning of the movie I, Robot, a robot has to decide whom to save after two cars plunge into the water—Del Spooner or a child. Even though Spooner screams “Save her! Save her!” the robot rescues him because it calculates that he has a 45 percent chance of survival compared to Sarah’s 11 percent. The robot’s decision and its calculated approach raise an important question: would humans make the same choice? And which choice would we want our robotic counterparts to make?\n\nIsaac Asimov evaded the whole notion of morality in devising his three laws of robotics, which hold that 1. Robots cannot harm humans or allow humans to come to harm; 2. Robots must obey humans, except where the order would conflict with law 1; and 3. Robots must act in self-preservation, unless doing so conflicts with laws 1 or 2. These laws are programmed into Asimov's robots—they don't have to think, judge, or value. They don't have to like humans or believe that\n\nhurting them is wrong or bad. They simply don't do it.\n\nThe robot who rescues Spooner's life in $I$, Robot follows Asimov's zero$^{th}$ law: robots cannot harm humanity (as opposed to individual humans) or allow humanity to come to harm—an expansion of the first law that allows robots to determine what's in the greater good. Under the first law, a robot could not harm a dangerous gunman, but under the zero$^{th}$ law, a robot could kill the gunman to save others.\n\nWhether it's possible to program a robot with safeguards such as Asimov's laws is debatable. A word such as “harm” is vague (what about emotional harm? Is replacing a human employee harm?), and abstract concepts present coding problems. The robots in Asimov's fiction expose complications and loopholes in the three laws, and even when the laws work, robots still have to assess situations.\n\nAssessing situations can be complicated. A robot has to identify the players, conditions, and possible outcomes for various scenarios. It's doubtful that a computer program can do that—at least, not without some undesirable results. A roboticist at the Bristol Robotics Laboratory programmed a robot to save human proxies (替身) called “H-bots” from danger. When one H-bot headed for danger, the robot successfully pushed it out of the way. But when two H-bots became imperiled, the robot choked 42 percent of the time, unable to decide which to save and letting them both “die.” The experiment highlights the importance of morality: without it, how can a robot decide whom to save or what’s best for humanity, especially if it can’t calculate survival odds?",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What question does the example in the movie raise?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Whether robots can reach better decisions."
+                },
+                {
+                  "label": "B",
+                  "text": "Whether robots follow Asimov's zero $^{th}$ law."
+                },
+                {
+                  "label": "C",
+                  "text": "How robots may make bad judgments."
+                },
+                {
+                  "label": "D",
+                  "text": "How robots should be programmed."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What does the author think of Asimov's three laws of robotics?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are apparently divorced from reality."
+                },
+                {
+                  "label": "B",
+                  "text": "They did not follow the coding system of robotics."
+                },
+                {
+                  "label": "C",
+                  "text": "They laid a solid foundation for robotics."
+                },
+                {
+                  "label": "D",
+                  "text": "They did not take moral issues into consideration."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the author say about Asimov's robots?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They know what is good or bad for human beings."
+                },
+                {
+                  "label": "B",
+                  "text": "They are programmed not to hurt human beings."
+                },
+                {
+                  "label": "C",
+                  "text": "They perform duties in their owners' best interest."
+                },
+                {
+                  "label": "D",
+                  "text": "They stop working when a moral issue is involved."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the author want to say by mentioning the word “harm” in Asimov’s laws?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Abstract concepts are hard to program."
+                },
+                {
+                  "label": "B",
+                  "text": "It is hard for robots to make decisions."
+                },
+                {
+                  "label": "C",
+                  "text": "Robots may do harm in certain situations."
+                },
+                {
+                  "label": "D",
+                  "text": "Asimov’s laws use too many vague terms."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What has the roboticist at the Bristol Robotics Laboratory found in his experiment?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Robots can be made as intelligent as human beings some day."
+                },
+                {
+                  "label": "B",
+                  "text": "Robots can have moral issues encoded into their programs."
+                },
+                {
+                  "label": "C",
+                  "text": "Robots can have trouble making decisions in complex scenarios."
+                },
+                {
+                  "label": "D",
+                  "text": "Robots can be programmed to perceive potential perils."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Our world now moves so fast that we seldom stop to see just how far we have come in just a few years. The latest iPhone 6s, for example, has a dual-core processor and fits nicely into your pocket. By comparison, you would expect to find a technological specification like this on your standard laptop in an office anywhere in the world.\n\nIt's no wonder that new applications for the Internet of Things are moving ahead fast when almost every new device we buy has a plug on the end of it or a wireless connection to the internet. Soon, our current smartphone lifestyle will expand to create our own smart home lifestyle too.\n\nAll researches agree that close to 25 billion devices, things and sensors will be connected by 2020 which incidentally is also the moment that Millennials (千禧一代) are expected to make up 75 percent of our overall workforce, and the fully connected home will become a reality for large numbers of people worldwide.\n\nHowever, this is just the tip of the proverbial iceberg as smart buildings and even cities increasingly become the norm as leaders and business owners begin to wake up to the massive savings that technology can deliver through connected sensors and new forms of automation coupled with intelligent energy and facilities management.\n\nOnline security cameras, intelligent lighting and a wealth of sensors that control both temperature and air quality are offering an unprecedented level of control, efficiency, and improvements to what were once classed necessary costs when running a business or managing a large building.\n\nWe can expect that the ever-growing list of devices, systems and environments remain connected, always online and talking to each other. The big benefit will not only be in the housing of this enormous and rapidly growing amount of data, but will also be in the ability to run real time data analytics to extract actionable and ongoing knowledge.\n\nThe biggest and most exciting challenge of this technology is how to creatively leverage this ever-growing amount of data to deliver cost savings, improvements and tangible benefits to both businesses and citizens of these smart cities.\n\nThe good news is that most of this technology is already invented. Let's face it, it wasn't too long ago that the idea of working from anywhere and at anytime was some form of a distant utopian (乌托邦式的) dream, and yet now we can perform almost any office-based task from any location in the world as long as we have access to the internet.\n\nIt's time to wake up to the fact that making smart buildings, cities and homes will dramatically improve our quality of life in the years ahead.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the example of iPhone 6s serve to show?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The huge capacity of the smartphones people now use."
+                },
+                {
+                  "label": "B",
+                  "text": "The widespread use of smartphones all over the world."
+                },
+                {
+                  "label": "C",
+                  "text": "The huge impact of new technology on people's everyday life."
+                },
+                {
+                  "label": "D",
+                  "text": "The rapid technological progress in a very short period of time."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What can we expect to see by the year 2020?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Apps for the Internet of Things."
+                },
+                {
+                  "label": "B",
+                  "text": "The popularization of smart homes."
+                },
+                {
+                  "label": "C",
+                  "text": "The emergence of Millennials."
+                },
+                {
+                  "label": "D",
+                  "text": "Total globalization of the world."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What will business owners do when they become aware of the benefits of the Internet of Things?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Employ fewer workers in their operations."
+                },
+                {
+                  "label": "B",
+                  "text": "Gain automatic control of their businesses."
+                },
+                {
+                  "label": "C",
+                  "text": "Invest in more smart buildings and cities."
+                },
+                {
+                  "label": "D",
+                  "text": "Embrace whatever new technology there is."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What is the most exciting challenge when we possess more and more data?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "How to turn it to profitable use."
+                },
+                {
+                  "label": "B",
+                  "text": "How to do real time data analysis."
+                },
+                {
+                  "label": "C",
+                  "text": "How to link the actionable systems."
+                },
+                {
+                  "label": "D",
+                  "text": "How to devise new ways to store it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does the author think about working from anywhere and at anytime?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is feasible with a connection to the internet."
+                },
+                {
+                  "label": "B",
+                  "text": "It will thrive in smart buildings, cities and homes."
+                },
+                {
+                  "label": "C",
+                  "text": "It is still a distant utopian dream for ordinary workers."
+                },
+                {
+                  "label": "D",
+                  "text": "It will deliver tangible benefits to both boss and worker."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "青海湖位于海拔 3,205 米、青海省省会西宁以西约 100 公里处,是中国最大的咸水湖,面积 4,317 平方公里,最深处 25.5 米。有 23 条河注入湖中,其中大部分是季节性的。百分之八十的湖水源于五条主要河流。青海湖位于跨越亚洲的几条候鸟迁徙路线的交叉处。许多鸟类把青海湖作为迁徙过程中的暂息地。湖的西侧是著名的“鸟岛”,吸引着来自全世界各地的观鸟者。每年夏天,游客们也来这里观看国际自行车比赛。"
+      }
+    ]
+  },
+  "id": "CET6-2017-12-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

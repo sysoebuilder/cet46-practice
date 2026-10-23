@@ -1,0 +1,1312 @@
+{
+  "schema_version": "1.0",
+  "year": 2025,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+        "materials": "30 minutes\n\n(请于正式开考后半小时内完成该部分,之后将进行听力考试)\n\n\n\nYou should copy the sentence given in quotes at the beginning of your essay.\n\n公众号【语听颖想说】\n\n请认真填写以下信息:\n\n准考证号:\n\n姓名:\n\n错填、未填以上信息,按违规处理!",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have to make a choice by the end of the day."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Both candidates are very keen on getting the job."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They hold different views on the procedure."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Both candidates are quite competitive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Both Rachel and Peter came across as respectful and professional."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Rachel scored moderately higher grades than Peter at school."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Both Rachel and Peter excelled in their academic pursuit."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Peter appeared slightly stronger than Rachel physically."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "His use of body language."
+                  },
+                  {
+                    "label": "C",
+                    "text": "His unusual state of mind."
+                  },
+                  {
+                    "label": "B",
+                    "text": "His accumulation of experience."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His knowledge about the company."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Compare the candidates side by side again."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ask the board to cast the deciding vote."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Find a way to break the tie next time."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Let John make the final decision."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The private label \"L'Orange\"."
+                  },
+                  {
+                    "label": "C",
+                    "text": "This season's new fashion."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The woman's latest collection."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The head designer's role."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Something reflecting the social norms."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Something meeting public expectations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Something slightly absurd."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Something a bit ambiguous."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Merge styles often at opposite ends of the fashion spectrum."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Learn from the designs of the Asian rural mountain villagers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make velvet capes look both majestic and masculine."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Draw intricate patterns onto a traditional power suit.\n\n6·1"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Obtaining the woman's signature."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Seeing the woman's new creations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Incorporating indigenous aspects into his work."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Sharing more ideas with the woman next time."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "unparsed",
+        "instructions": {
+          "directions": "",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": null
+        },
+        "section": "B",
+        "groups": [],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They could readily recognize their owner simply by looking."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could understand the implications of human commands."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They could be domesticated to act as our companions."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They could follow pointing gestures without training."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Cultivating them to be intelligent creatures."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Training them to behave like domesticated dogs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Understanding how humans impact their behavior."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Taking measures to reduce their numbers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Tame them through repeated training."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Treat them with sensitivity and respect."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Make them responsive to our commands."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Watch their behavior and try to improve it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The temperature inside it varies from place to place."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Proper placement facilitates access to food products."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its different shelves are designed for different purposes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The space in an average fridge changes from top to bottom."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To slow the rising of temperature in it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To provide a big box of evenly cold air."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To prevent germs from growing quickly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To keep the food cold as long as possible.\n\n6·2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "On the top shelf."
+                  },
+                  {
+                    "label": "B",
+                    "text": "In the middle section."
+                  },
+                  {
+                    "label": "C",
+                    "text": "On the inside of its doors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At the back of its bottom shelf."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They will be extra-chilly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They will be hard to defrost."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They will be contaminated."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They will be ruined."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Chronic depression."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Growing feebleness."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Hip fracture."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Fatal infections."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It feels real and relevant."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It contributes to psychology."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It outcompetes lots of academics' research."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It wins recognition outside of Birmingham."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By bringing together experts old and young."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By counting on advanced modern technology."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By making full use of her expertise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By combining multiple perspectives."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They don't teach basic organization."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They don't focus on teaching techniques."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They attach little importance to recipes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They hire very few distinguished chefs."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It's unique to celebrity chefs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It's a way of transformation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It's too demanding for them."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It's a way of life to them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Respect others so as to be respected."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Use time and resources in a wise way."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Cultivate a habit of self-discipline."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Learn from philosophers earnestly.\n\n6 · 3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The motive for hard work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The reason for stagnation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The basis for self-improvement."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The justification for self-confidence."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Feel confidence, happiness and satisfaction."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Believe they have achieved their life goals."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Use a key tool for setting ambitious goals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Stop imagining further progress in life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "We feel we are always falling behind others."
+                  },
+                  {
+                    "label": "B",
+                    "text": "We have to adapt to the ever-changing goal."
+                  },
+                  {
+                    "label": "C",
+                    "text": "There are various misconceptions about goal setting."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There are always problems with the goal originally set."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A noticeable change in the number of goals to achieve."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Measuring always against the gap rather than the gain."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Measuring where we've come from instead of measuring against the goal."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A proper conception of what we fail to notice in trying to achieve our goals."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "The slow progress of women in elective office is frustrating for some political observers and experts—including myself. Achieving gender equality in Congress is an important goal. This is because the number of women involved in legislative decisions has significant _26_ for all the policies that governments _27_. Female legislators are more likely than men to introduce, speak about and work to pass policies that disproportionately affect women and girls, such as paid family leave, pay _28_ and gender-based violence.\n\nHaving more women in Congress also fosters a greater sense of connection between female voters and government. In addition, it _29_ women's sense that government cares about their concerns and inspires young women to become more politically engaged.\n\n6·4\n\nWhile women are underrepresented in governments around the globe, it is a particularly 30 problem in the United States. Currently, the U.S. ranks 73rd in the world when it comes to female representation in government.\n\nBut the reason women are so _31_ underrepresented in U.S. government is not because they face resistance from voters or struggle to raise money. On the contrary, decades of research shows that female candidates raise as much money and win as often as male politicians with similar _32_.\n\nRather, the slow progress of women in politics is a tale of two political parties.\n\nIn the next Congress, there will be 107 female Democratic lawmakers and 42 female Republican lawmakers in the Senate and House combined.\n\nIn order for women to gain half of the seats in Congress, more women need to run, _33_ on Republican tickets. This will require the Republican Party as a whole to _34_ recruiting women — and not just for one election cycle, but in a _35_ way.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "bolsters"
+        },
+        {
+          "label": "I",
+          "text": "formidable"
+        },
+        {
+          "label": "B",
+          "text": "consequences"
+        },
+        {
+          "label": "J",
+          "text": "impetus"
+        },
+        {
+          "label": "C",
+          "text": "credentials"
+        },
+        {
+          "label": "K",
+          "text": "lavish"
+        },
+        {
+          "label": "D",
+          "text": "dramatically"
+        },
+        {
+          "label": "L",
+          "text": "prioritize"
+        },
+        {
+          "label": "E",
+          "text": "enact"
+        },
+        {
+          "label": "M",
+          "text": "suffices"
+        },
+        {
+          "label": "F",
+          "text": "equity"
+        },
+        {
+          "label": "N",
+          "text": "sustained"
+        },
+        {
+          "label": "G",
+          "text": "especially"
+        },
+        {
+          "label": "O",
+          "text": "tenured"
+        },
+        {
+          "label": "H",
+          "text": "evasively"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 266,
+          "end": 270
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 309,
+          "end": 313
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 490,
+          "end": 494
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 650,
+          "end": 654
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 866,
+          "end": 868
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 1026,
+          "end": 1030
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "_32_",
+          "start": 1279,
+          "end": 1283
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1590,
+          "end": 1594
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1671,
+          "end": 1675
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1741,
+          "end": 1745
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Benefits of Solitude",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "I can be a reluctant socialiser. I'm sometimes secretly pleased when social plans are called off. I get restless a few hours into a hangout. I even once went on a free 10-day silent meditation (冥想) retreat—not for the meditation, but for the silence."
+        },
+        {
+          "label": "B",
+          "text": "So I can relate to author Anneli Rufus, who wrote in Party of One: The Loners' Manifesto: \"When parents on TV shows punished their kids by ordering them to go to their rooms, I was confused. I loved my room. Being there behind a locked door was a treat. To me a punishment was being ordered to play games with my cousin Louis.\"\n\n6·5"
+        },
+        {
+          "label": "C",
+          "text": "Unsocial tendencies like these are often far from ideal. Abundant research shows the harms of social isolation, considered a serious public health problem in countries that have rapidly ageing populations (though talk of a ‘loneliness epidemic’ may be exaggerated). In the UK, the Royal College of General Practitioners says that loneliness has the same risk level for premature death as diabetes. Strong social connections are important for cognitive functioning, motor function and a smoothly running immune system."
+        },
+        {
+          "label": "D",
+          "text": "This is especially clear from cases of extreme social isolation. Examples of people kept in captivity, children kept isolated in abusive orphanages, and prisoners kept in solitary confinement all show how prolonged solitude can lead to hallucinations (幻觉) and other forms of mental instability."
+        },
+        {
+          "label": "E",
+          "text": "But these are severe and involuntary cases of aloneness. For those of us who just prefer plenty of alone time, emerging research suggests some good news: there are upsides to being alone—for both our work lives and our emotional well-being."
+        },
+        {
+          "label": "F",
+          "text": "Solitude is a time for reflection, for thinking about things more deeply. In a world increasingly focused on speed and competitiveness, solitude is precious and something to be treasured. And there are benefits in learning to love your solitude."
+        },
+        {
+          "label": "G",
+          "text": "One key benefit of solitude is improved creativity. Gregory Feist, who focuses on the psychology of creativity at California's San Jose State University, has defined creativity as thinking or activity with two key elements: originality and usefulness. He has found that personality traits commonly associated with creativity are openness (receptiveness to new thoughts and experiences), self-confidence, and autonomy — which may include “a lack of concern for social norms” and “a preference for being alone”. In fact, Feist's research on both artists and scientists shows that one of the most prominent features of creative folks is their lesser interest in socialising."
+        },
+        {
+          "label": "H",
+          "text": "One reason for this is that such people are likely to spend sustained time alone working on their craft. Plus, Feist says, many artists “are trying to make sense of their internal world and a lot of internal personal experiences that they’re trying to give expression and meaning to through their art.” Solitude allows for the reflection and observation necessary for that creative process."
+        },
+        {
+          "label": "I",
+          "text": "A recent justification of these ideas came from University at Buffalo psychologist Julie Bowker, who researches social withdrawal. Social withdrawal is usually categorised into three types: shyness caused by fear or anxiety; avoidance, from a dislike of socialising; and unsociability, from a preference for solitude. A paper by Bowker and her colleagues was the first to show that a type of social withdrawal could have a positive effect—they found that creativity was linked\n\n6 · 6\n\nspecifically to unsociability. They also found that unsociability had no correlation with aggression (shyness and avoidance did). This was significant because while previous research had suggested that unsociability might be harmless, Bowker and colleagues' paper showed that it could actually be beneficial. Unsociable people are likely to be “having just enough interaction,” Bowker says. “They have a preference for being alone, but they also don’t mind being with others.”"
+        },
+        {
+          "label": "J",
+          "text": "Still, it turns out that solitude is important for more than creativity. It's commonly believed that leaders need to be sociable. But this depends, among other things, on the personalities of their employees. One 2011 study showed that in branches of a pizza chain where employees were more passive, outgoing bosses were associated with higher profits. But in branches where employees were more active, introverted (内向的) leaders were more effective. One reason for this is that introverted people are less likely to feel threatened by strong personalities and suggestions. They're also more likely to listen."
+        },
+        {
+          "label": "K",
+          "text": "Since ancient times, meanwhile, people have been aware of a link between isolation and mental focus. After all, cultures with traditions of religious hermits (隐士) believe that solitude is important for enlightenment. Recent research has given us a better understanding of why. One benefit of unsociability is the brain's state of active mental rest, which goes hand-in-hand with the stillness of being alone. When another person is present, your brain can't help but pay some attention. This can be a positive distraction. But it's still a distraction."
+        },
+        {
+          "label": "L",
+          "text": "Daydreaming in the absence of such distractions activates the brain's default-mode network. Among other functions, this network helps to consolidate memory and understand others' emotions. Giving free rein to a wandering mind not only helps with focus in the long term but strengthens your sense of both yourself and others. Paradoxically, therefore, periods of solitude actually help when it comes time to socialise once more. And the occasional absence of focus ultimately helps concentration in the long run."
+        },
+        {
+          "label": "M",
+          "text": "A more recent advocate of thoughtful and productive solitude is Susan Cain, author of Quiet: The Power of Introverts in a World That Can't Stop Talking and founder of Quiet Revolution, a company that promotes quiet and introvert-friendly workplaces. “These days, we tend to believe that creativity emerges from a decidedly unreserved socialising process, but in fact it requires sustained attention and deep focus,” she says. “Also, humans are such absorbent social beings that when we surround ourselves with others, we automatically take in their opinions and aesthetics. To truly chart our own path or vision, we have to be willing to isolate ourselves, at least for some period of time.”"
+        },
+        {
+          "label": "N",
+          "text": "Still, the line between useful solitude and dangerous isolation can be blurry. “Almost anything can be adaptive and maladaptive, depending on how extreme they get,” Feist says. A disorder\n\n6·7\n\nhas to do with dysfunction. If someone stops caring about people and cuts off all contact, this could point to an irrational neglect of social relations. But creative unsociability is a far cry from this. In fact, Feist says, “there’s a real danger with people who are never alone.” It’s hard to examine one’s own thoughts, feelings and motives, to be self-aware, and fully relaxed unless you have occasional solitude. In addition, introverts tend to have fewer but stronger friendships — which has been linked to greater happiness."
+        },
+        {
+          "label": "O",
+          "text": "As with many things, quality reigns over quantity. Nurturing a few solid relationships without feeling the need to constantly populate your life with endless chatting ultimately may be better for you."
+        },
+        {
+          "label": "P",
+          "text": "Thus, if your personality tends toward unsociability, you shouldn't feel the need to change. Of course, that comes with qualifications. But as long as you have regular social contact, you are choosing solitude rather than being forced into it, you have at least a few good friends and your solitude is good for your well-being or productivity, there's no point agonising over how to fit a square personality into a round hole."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Lots of research demonstrates that being socially isolated is harmful to the elderly."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Being alone enables artists to think and observe, which is a must for their creation."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "To one writer, being forced to play with others was a penalty while being kept alone in a room was quite a pleasure."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Recent research shows for the first time that there is a specific link between being creative and being unsociable."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "We must be willing to stay alone at least for some in time order to plot our own course."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "According to new research, for people who prefer being alone, solitude can be beneficial to their work lives and emotional health."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "It may turn out to be better for one to cultivate a few steady relationships than to busy themselves socialising."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Allowing your mind to wander freely is conducive to sharpening your focus in the long run."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Research conducted on artists and scientists indicates that creative people are less interested in hanging out with others.\n\n6·8"
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "According to Feist, you will have difficulty knowing yourself if you do not stay alone occasionally."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Simulators are most often utilized within industries such as nuclear power, aviation and surgery where failure results in disastrous consequences. To maximize the value from a simulation learning experience, participants should immediately and directly apply their learning to a specific intervention within their organization.\n\nMost organizations aspire to deploy significant change programs, only to find them nearly impossible to implement. That is largely because successful change requires more than a vision; it requires a workforce that not only doesn't resist change, but embraces it.\n\nTo achieve success, an organization must build a transformation program that will allow change to be rapidly pulled across its departments and throughout its layers. Regardless of the level of senior management commitment, unless key thought leaders at all levels embrace the change, the initiative will wither and die. To create this kind of widespread passion, learning leaders must expose the workforce to what could be, which will enable them to rethink their mental models, enable them to break free from their deep-rooted paradigms and embrace the opportunity to learn.\n\nAllowing participants to enter a simulated environment provides them with the opportunity to experience alternative realities which can prompt them to rethink their current beliefs.\n\nBehavioral change is not easy for most adults. Lectures, training programs and workshops can explain the intellectual elements of transformation, but they are seldom effective at getting to the behavioral aspects that lie at the heart of a significant change initiative. Further, under normal working conditions, managers rarely see the full effect of their employee development efforts. As such, an intervention like a simulation can provide the stimulus for change.\n\nAn effective simulation can be better than experience as a learning tool because it accelerates time, compresses space, and unlike reality, is specifically designed to maximize participant learning. Simulations provide an immersive learning experience where skills, processes and knowledge all can be highlighted in a way reality cannot. The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free models is what makes simulation one of the most productive forms of learning.\n\nWell-designed simulations can enable individuals and groups to develop a deep level of understanding about how their decisions and intuitive responses to business stimuli affect their fellow\n\n6·9\n\nparticipants and the organization as a whole. To reap the benefits, however, simulations must feel like reality. At the end of the successful simulation, participants must declare “this is us.” If they don’t, they will view the experience as a game, which can be difficult to apply on the job, or worse, irrelevant to everyday work tasks. To maximize benefits from simulation, participants should immediately apply the learning from the experience to forge a smooth link between learning and doing.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do we learn about successful changes in organizations?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can be immediately implemented with great ease."
+                },
+                {
+                  "label": "B",
+                  "text": "They are usually led by organization leaders of vision."
+                },
+                {
+                  "label": "C",
+                  "text": "They call for enthusiastic support from the workforce."
+                },
+                {
+                  "label": "D",
+                  "text": "They often result from simulation learning experiences."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What should learning leaders do to arouse learners' passion for change?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Allow them to see what could possibly be achieved."
+                },
+                {
+                  "label": "B",
+                  "text": "Help them break free from their old paradigms."
+                },
+                {
+                  "label": "C",
+                  "text": "Encourage them to rethink their thought models."
+                },
+                {
+                  "label": "D",
+                  "text": "Stimulate them to embrace fresh opportunities."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What does the passage say about lectures, training programs and workshops?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are generally incapable of changing workers' behaviors on the job."
+                },
+                {
+                  "label": "B",
+                  "text": "They are interventions different from simulations in creating stimuli for change."
+                },
+                {
+                  "label": "C",
+                  "text": "They aim at transforming the behaviors of the workers in an organization."
+                },
+                {
+                  "label": "D",
+                  "text": "They help managers achieve the full effect of employee development efforts."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What makes simulation one of the most fruitful forms of learning?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Its capability of saving time by accelerating the immersive learning experience."
+                },
+                {
+                  "label": "B",
+                  "text": "Its potential for learners to examine their skills, knowledge and learning process."
+                },
+                {
+                  "label": "C",
+                  "text": "Its capability of providing all participants with a practical learning experience."
+                },
+                {
+                  "label": "D",
+                  "text": "Its potential for learners to explore, experiment and practice without any risk."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What should participants do in a simulation to reap the greatest benefits possible?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Take the experience as a mere game."
+                },
+                {
+                  "label": "B",
+                  "text": "Apply promptly what they learn to their jobs."
+                },
+                {
+                  "label": "C",
+                  "text": "Develop a deep level of understanding."
+                },
+                {
+                  "label": "D",
+                  "text": "Strive to connect closely with their leaders."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "GDP growth is not a good indicator of how well a country is performing, and should not be the\n\n6 · 10\n\nprimary goal of governments. Unlimited growth is not sustainable, and economic thinking is moving toward the idea that we should aim for sustainability in our economic models. But while a sustainable economy is vital to our future, it is a means to an end, not an end in itself.\n\nThe idea that governments should focus on happiness has its critics. There are concerns about how happiness can be measured. Is happiness not a fleeting and subjective psychological state? Don't different people experience different levels of happiness? Even on the broadest interpretation of ‘happiness’ as prosperity or ‘life satisfaction’, people want different things.\n\nOf course, governments cannot impose life satisfaction on citizens. But our happiness relies on collaborative efforts as a society. A government's obligation lies in creating conditions that promote prosperity. And there is good reason to suppose that such conditions exist, are globally applicable, and are discoverable through research.\n\nIn a recently published article, philosopher Julian Baggini suggests we should focus on ‘real wealth’ for citizens, which does not depend on GDP growth. Access is key: people do not need to own, but rather access things that enable them to live well. Technological advances and changes in social behavior enable us to make more efficient use of the assets that we already have. And focusing on access to the resources people need to live better lives could help reduce inequality.\n\nAs far as it goes, this has much in common with proposals tabled by ‘happiness’ advocates. But it sets the bar far too low for what governments can and should be doing for their citizens.\n\nFor example, it's not clear how a ‘real wealth’ economy would remedy the epidemic of mental ill-health that plagues our society. In Western countries, at least — poor mental health is more detrimental to wellbeing than poverty. Over and above a vastly improved provision of therapeutic mental healthcare, there are preventative measures for improving mental health that governments could and should adopt. The WHO recommends establishing institutions that facilitate community participation — educational programs and interventions that provide skills for promoting mental wellbeing. It says a lot, however, that the WHO feels the need to appeal to the economic benefits of improving mental health to persuade governments that the cost of taking proposed measures is justified. As long as the economy is their priority, governments need go no further than ensuring citizens’ continued productivity.\n\nTo demand that governments set the ‘happiness’ of citizens as their highest priority is to demand that they view citizens as ends in themselves.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the passage say is the more recent thinking of economic growth?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It should be made sustainable."
+                },
+                {
+                  "label": "B",
+                  "text": "It is vital to the future of humanity."
+                },
+                {
+                  "label": "C",
+                  "text": "It should be governments' chief concern."
+                },
+                {
+                  "label": "D",
+                  "text": "It is an indicator of government performance."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "Why are some people opposed to the idea that governments should focus on happiness?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Governments cannot impose happiness on citizens."
+                },
+                {
+                  "label": "B",
+                  "text": "People's happiness is built upon their own endeavor.\n\n6·11"
+                },
+                {
+                  "label": "C",
+                  "text": "Happiness means different things to different people."
+                },
+                {
+                  "label": "D",
+                  "text": "Happiness depends on sustainable economic growth."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does philosopher Julian Baggini suggest governments do in a recently published article?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Try to reduce inequality between the rich and the poor."
+                },
+                {
+                  "label": "B",
+                  "text": "Provide people with access to resources for a better life."
+                },
+                {
+                  "label": "C",
+                  "text": "Change people's behaviors to put social wealth to better use."
+                },
+                {
+                  "label": "D",
+                  "text": "Make use of advanced technologies to improve people's lives."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why does the WHO feel the need to appeal to the economic benefits of improving mental health to justify its recommendations?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Mental health programs cannot be executed without GDP growth."
+                },
+                {
+                  "label": "B",
+                  "text": "Psychological interventions are conducive to people's wellbeing."
+                },
+                {
+                  "label": "C",
+                  "text": "Poor mental health is detrimental to a nation's economic system."
+                },
+                {
+                  "label": "D",
+                  "text": "Governments still take economic development as their priority."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What message does the author try to convey at the end of the passage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Governments' goal should be prosperity-driven."
+                },
+                {
+                  "label": "B",
+                  "text": "Governments' goal should be people-oriented."
+                },
+                {
+                  "label": "C",
+                  "text": "Governments should consider citizens' views in decision-making."
+                },
+                {
+                  "label": "D",
+                  "text": "Governments should set sustained productivity as their top priority."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "粤港澳大湾区（Guangdong-Hong Kong-Macao Greater Bay Area）具有得天独厚的地理位置，拥有完善的交通基础设施和丰富的产业资源。大湾区是中国开放程度最高、经济活力最强的区域之一，在国家经济发展中具有重要的战略地位。大湾区不仅将建成充满活力的世界级城市群和具有全球影响力的国际科技创新中心，还将打造成适合工作、购物、旅游的优质生活圈。随着改革开放的不断深入，大湾区的建设将进一步推动区域经济发展。到2035年，大湾区将实现成为国际一流湾区的目标。\n\n6·12\n\n未得到监考教师指令前,不得翻阅该试题册!"
+      }
+    ]
+  },
+  "id": "CET6-2025-06-2",
+  "solutions": {
+    "origin": null,
+    "items": {},
+    "references": {}
+  }
+}

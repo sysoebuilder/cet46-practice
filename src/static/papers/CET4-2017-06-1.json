@@ -1,0 +1,1540 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a computer you used at college. Your advertisement may include its brand, specifications/features, condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分，之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "advertisement",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a computer you used at college. Your advertisement may include its brand, specifications/features, condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分，之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a computer you used at college. Your advertisement may include its brand, specifications/features, condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+        "materials": "(请于正式开考后半小时内完成该部分，之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and questions will be spoken only once. After you hear questions, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [
+        "注意:此部分试题请在答题卡 1 上作答。"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and questions will be spoken only once. After you hear questions, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [
+            "注意:此部分试题请在答题卡 1 上作答。"
+          ],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 2 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The self-driving system was faulty."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The car was moving at a fast speed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The man in the car was absent-minded."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The test driver made a wrong judgment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have generally done quite well."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They have caused several severe crashes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have posed a threat to other drivers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have done better than conventional cars."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is a queen been specialist."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He works at a national park."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He removed the beyond from the boot."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He drove the bees away from his car."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were making a lot of noise"
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were looking after the queen"
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were dancing in a unique way"
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were looking for a new box to live in"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The latest test on a rare animal species"
+                  },
+                  {
+                    "label": "B",
+                    "text": "The finding of two new species of frog"
+                  },
+                  {
+                    "label": "C",
+                    "text": "The second trip to a small remote island"
+                  },
+                  {
+                    "label": "D",
+                    "text": "The discovery of a new species of snake"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He fell from a tall palm tree by accident"
+                  },
+                  {
+                    "label": "B",
+                    "text": "A snake crawled onto his head in his sleep"
+                  },
+                  {
+                    "label": "C",
+                    "text": "He discovered a rare fog on a deserted"
+                  },
+                  {
+                    "label": "D",
+                    "text": "A poisonous snake attacked him on his field trip"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "From its origin"
+                  },
+                  {
+                    "label": "B",
+                    "text": "From its length"
+                  },
+                  {
+                    "label": "C",
+                    "text": "From its colour"
+                  },
+                  {
+                    "label": "D",
+                    "text": "From its genes"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The airport is a long way from the hotel"
+                  },
+                  {
+                    "label": "B",
+                    "text": "His flight is leaving in less than 2 hours"
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has to check a lot of luggage"
+                  },
+                  {
+                    "label": "D",
+                    "text": "The security check takes time"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In cash"
+                  },
+                  {
+                    "label": "B",
+                    "text": "By credit card"
+                  },
+                  {
+                    "label": "C",
+                    "text": "With his smart phone"
+                  },
+                  {
+                    "label": "D",
+                    "text": "With a traveler’s check"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Look after his luggage"
+                  },
+                  {
+                    "label": "B",
+                    "text": "Find a porter for him"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Give him a receipt"
+                  },
+                  {
+                    "label": "D",
+                    "text": "Confirm his flight"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Posting a comment on the hotel’s webpage"
+                  },
+                  {
+                    "label": "B",
+                    "text": "Staying in the same hotel next time he comes"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Signing up for membership of Sheraton Hotel"
+                  },
+                  {
+                    "label": "D",
+                    "text": "Loading her luggage onto the airport shuttle"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He becomes tearful in wind"
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is the only boy in his family"
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is his teacher's favorite student"
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has stopped making terrible faces"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Warn him of danger by making up a story"
+                  },
+                  {
+                    "label": "B",
+                    "text": "Give him some cherry stones to play with"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Do something funny to amuse him"
+                  },
+                  {
+                    "label": "D",
+                    "text": "Tell him to play in her backyard"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They could knock pp unconscious"
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could fly against a strong wind"
+                  },
+                  {
+                    "label": "C",
+                    "text": "They could sometimes terrify adults"
+                  },
+                  {
+                    "label": "D",
+                    "text": "They could break people's legs"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One would have curly hair if they ate too much stale bread"
+                  },
+                  {
+                    "label": "B",
+                    "text": "One would go to prison if they put a stamp on upside down"
+                  },
+                  {
+                    "label": "C",
+                    "text": "One would have to shave their head to remove a bat in their hair"
+                  },
+                  {
+                    "label": "D",
+                    "text": "One would get a spot on their tongues if they told a lie deliberately"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question,you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Everything seemed to be changing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People were formal and disciplined."
+                  },
+                  {
+                    "label": "C",
+                    "text": "People were excited to go travelling overseas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Things from the Victorian era came back alive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Watching TV at home."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Meeting people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Drinking coffee."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Trying new foods."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He was interested in stylish dresses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He was able to take a lot of money."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was a young student in the 1960s."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He was a man full of imagination."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They avoid looking at them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They run away immediately."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They show anger on their faces."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They make threatening sounds."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It turns to its owner for help."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It turns away to avoid conflict."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It looks away and gets angry too."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It focuses its eyes on their mouths."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By observing their facial features carefully."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By focusing on a particular body movement."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By taking in their facial expressions as a whole."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By interpreting different emotions in different ways."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have to look for food and shelter underground."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They take little notice of the changes in temperature."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They resort to different means to survive the bitter cold."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have difficulty adapting to the changed environment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have their weight reduced to minimum."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They consume energy stored before the long sleep."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can maintain their heart beat at the normal rate."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can keep their body temperature warm and stable."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By staying in hiding places and eating very little."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By seeking food and shelter in people’s houses."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By growing thicker hair to stay warm."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By storing enough food beforehand."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To stay safe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To save energy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To keep company."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To protect the young."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices, Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "The method for making beer has changed over time. Hops (啤酒花)，for example, which give many a modem beer its bitter flavor, are a (26) recent addition to the beverage. This was first mentioned in reference to brewing in the ninth century. Now, researchers have found a (27) ingredient in residue (残留物） from 5,000-year-old beer brewing equipment. While digging two pits at a site in the central plains of China, scientists discovered fragments from pots and vessels. The different shapes of the containers (28) they were used to brew, filter, and store beer. They may be ancient “beer-making tools,” and the earliest (29 evidence of beer brewing in China, the researchers reported in the Proceedings of the National Academy of Sciences. To (30) that theory, the team examined the yellowish, dried (31) inside the vessels. The majority of the grains, about 80%, were from cereal crops like barley (大麦),and about 10% were bits of roots, (32) _lily, which would have made the beer sweeter, the scientists say. Barley was an unexpected find: the crop was domesticated in Western Eurasia and didn't become a (33) food in central China until about 2,000 years ago, according to the researchers. Based on that timing, they indicate barley may have (34) in the region not as food, but as (35) _material for beer brewing.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "arrived"
+        },
+        {
+          "label": "B",
+          "text": "consuming"
+        },
+        {
+          "label": "C",
+          "text": "direct"
+        },
+        {
+          "label": "D",
+          "text": "exclusively"
+        },
+        {
+          "label": "E",
+          "text": "including"
+        },
+        {
+          "label": "F",
+          "text": "inform"
+        },
+        {
+          "label": "G",
+          "text": "raw"
+        },
+        {
+          "label": "H",
+          "text": "reached"
+        },
+        {
+          "label": "I",
+          "text": "relatively"
+        },
+        {
+          "label": "J",
+          "text": "remains"
+        },
+        {
+          "label": "K",
+          "text": "resources"
+        },
+        {
+          "label": "L",
+          "text": "staple"
+        },
+        {
+          "label": "M",
+          "text": "suggest"
+        },
+        {
+          "label": "N",
+          "text": "surprising"
+        },
+        {
+          "label": "O",
+          "text": "test"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 129,
+          "end": 131
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 268,
+          "end": 270
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 504,
+          "end": 506
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 615,
+          "end": 617
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 738,
+          "end": 740
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 795,
+          "end": 797
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 933,
+          "end": 935
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1101,
+          "end": 1103
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1239,
+          "end": 1241
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1278,
+          "end": 1280
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Blessing and Curse of the People Who Never Forget\n\nA handful of people can recall almost every day of their lives in enormous detail—and after years of research, neuroscientists (神经科学专家) are finally beginning to understand how they do it.",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "For most of us, memory is a mess of blurred and faded pictures of our lives. As much as we would like to cling on to our past, even the saddest moments can be washed away with time."
+        },
+        {
+          "label": "B",
+          "text": "Ask Nima Veiseh what he was doing for any day in the past 15 years, however, and he will give you the details of the weather, what he was wearing, or even what side of the train he was sitting on his journey to work. “My memory is like a library of video tapes, walk-throughs of every day of my life from waking to sleeping,” he explains."
+        },
+        {
+          "label": "C",
+          "text": "Veiseh can even put a date on when those tapes started recording: 15 December 2000, when he met his first girlfriend at his best friend's 16th birthday party. He had always had a good memory, but the thrill of young love seems to have shifted a gear in his mind: from now on, he would start recording his whole life in detail. “I could tell you everything about every day after that.”"
+        },
+        {
+          "label": "D",
+          "text": "Needless to say, people like Veiseh are of great interest to neuroscientists hoping to understand the way the brain records our lives. A couple of recent papers have finally opened a window on these people’s extraordinary minds. And such research might even suggest ways for us all to relive our past with greater clarity."
+        },
+        {
+          "label": "E",
+          "text": "“Highly superior autobiographical memory” （or HSAM for short) first came to light in the early 2000s, with a young woman named Jill Price. Emailing the neuroscientist and memory researcher Jim McGaugh one day, she claimed that she could recall every day of her life since the age of 12. Could he help explain her experiences?"
+        },
+        {
+          "label": "F",
+          "text": "McGaugh invited her to his lab, and began to test her: he would give her a date and ask her to tell\n\nhim about the world events on that day. True to her word, she was correct almost every time."
+        },
+        {
+          "label": "G",
+          "text": "It didn’t take long for magazines and documentary film-makers to come to understand her “total recall”， and thank to the subsequent media interest, a few dozen other subjects (including Veiseh) have since come forward and contacted the team at the University of California, Irvine."
+        },
+        {
+          "label": "H",
+          "text": "Interestingly, their memories are highly self-centred: although they can remember “autobiographical” life events in extraordinary detail, they seem to be no better than average at recalling impersonal information, such as random (任意选取的）lists of words. Nor are they necessarily better at remembering a round of drinks, say. And although their memories are vast, they are still likely to suffer from “false memories”.Clearly, there is no such thing as a “perfect” memory—their extraordinary minds are still using the same flawed tools that the rest of us rely on. The question is, how?"
+        },
+        {
+          "label": "I",
+          "text": "Lawrence Patihis at the University of Southern Mississippi recently studied around 20 people with HSAM and found that they scored particularly high on two measures: fantasy proneness (倾向)and absorption. Fantasy proneness could be considered a tendency to imagine and daydream, whereas absorption is the tendency to allow your mind to become fully absorbed in an activity to pay complete attention to the sensations (感受)and the experiences. “I’m extremely sensitive to sounds, smells and visual detail,” explains Nicole Donohue, who has taken part in many of these studies. “I definitely feel things more strongly than the average person.”"
+        },
+        {
+          "label": "J",
+          "text": "The absorption helps them to establish strong foundations for recollection, says Patihis, and the fantasy proneness means that they revisit those memories again and again in the coming weeks and months. Each time this initial memory trace is “replayed”, it becomes even stronger. In some ways, you probably go through that process after a big event like your wedding day,but the difference is that thanks to their other psychological tendencies, the HSAM subjects are doing it day in, day out, for the whole of their lives."
+        },
+        {
+          "label": "K",
+          "text": "Not everyone with a tendency to fantasise will develop HSAM, though, so Patihis suggests that something must have caused them to think so much about their past. “Maybe some experience in their childhood meant that they became obsessed (着迷）with calendars and what happened to them,” says Patihis."
+        },
+        {
+          "label": "L",
+          "text": "The people with HSAM I’ve interviewed would certainly agree that it can be a mixed blessing. On the plus side, it allows you to relive the most transformative and enriching experiences. Veiseh, for instance, travelled a lot in his youth. In his spare time, he visited the local art galleries, and the paintings are now lodged deep in his autobiographical memories."
+        },
+        {
+          "label": "M",
+          "text": "“Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries，” he says. “That’s a big education in art by itself.” With this comprehensive knowledge of the history of art, he has since become a professional painter."
+        },
+        {
+          "label": "N",
+          "text": "Donohue, now a history teacher, agrees that it helped during certain parts of her education. “I can definitely remember what I learned on certain days at school. I could imagine what the teacher was saying or what it looked like in the book.”"
+        },
+        {
+          "label": "O",
+          "text": "Not everyone with HSAM has experienced these benefits, however. Viewing the past in high definition can make it very difficult to get over pain and regret. “It can be very hard to forget embarrassing moments,” says Donohue. “You feel the same emotions—it is just as raw, just as fresh... You can’t turn off that stream of memories, no matter how hard you try.” Veiseh agrees. “It is like having these open wounds—they are just a part of you,” he says."
+        },
+        {
+          "label": "P",
+          "text": "This means they often have to make a special effort to lay the past to rest. Bill, for instance, often gets painful “flashbacks”，in which unwanted memories intrude into his consciousness, but overall he has chosen to see it as the best way of avoiding repeating the same mistakes. “Some people are absorbed in the past but not open to new memories, but that’s not the case for me. I look forward to each day and experiencing something new.”"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "People with HSAM have the same memory as ordinary people when it comes to impersonal information."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Fantasy proneness will not necessarily cause people to develop HSAM."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "Veiseh began to remember the details of his everyday experiences after he met his first young love."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Many more people with HSAM started to contact researchers due to the mass media."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "People with HSAM often have to make efforts to avoid focusing on the past."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Most people do not have clear memories of past events."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "HSAM can be both a curse and a blessing."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "A young woman sought explanation from a brain scientist when she noticed her unusual memory."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Some people with HSAM find it very hard to get rid of unpleasant memories."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "A recent study of people with HSAM reveals that they are liable to fantasy and full absorption in an activity."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": null
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "The phrase almost completes itself: midlife crisis. It’s the stage in the middle of the journey when people feel youth vanishing, their prospects narrowing and death approaching.\n\nThere’s only one problem with the cliche (套话).It isn’t true.\n\n“In fact, there is almost no hard evidence for midlife crisis other than a few small pilot studies conducted decades ago,” Barbara Hagerty writes in her new book, Life Reimagined. The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift “can be exciting, rather than terrifying”.\n\nBarbara Hagerty looks at some of the features of people who turn midlife into a rebirth. They break routines, because “autopilot is death”. They choose purpose over happiness 一 having a clear sense of purpose even reduces the risk of Alzheimer’s disease. They give priority to relationships, as careers often recede(逐渐淡化).\n\nLife Reimagined paints a picture of middle age that is far from gloomy. Midlife seems like the second big phase of decision-making. Your identity has been formed; you’ve built up your resources; and now you have the chance to take the big risks precisely because your foundation is already secure.\n\nKarl Barth described midlife precisely this way. At middle age, he wrote, “the sowing is behind; now is the time to reap. The run has been taken; now is the time to leap. Preparation has been made; now is the time for the venture of the work itself.”\n\nThe middle-aged person, Barth continued, can see death in the distance, but moves with a “measured haste” to get big new things done while there is still time.\n\nWhat Barth wrote decades ago is even truer today. People are healthy and energetic longer. We have presidential candidates running for their first term in office at age 68, 69 and 74. A longer lifespan is changing the narrative structure of life itself. What could have been considered the beginning of a descent is now a potential turning point—the turning point you are most equipped to take full advantage of.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What does the author think of the phrase “midlife crisis”？",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It has led to a lot of debate."
+                },
+                {
+                  "label": "B",
+                  "text": "It is widely acknowledged."
+                },
+                {
+                  "label": "C",
+                  "text": "It is no longer fashionable."
+                },
+                {
+                  "label": "D",
+                  "text": "It misrepresents real life."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "How does Barbara Hagerty view midlife?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It may be the beginning of a crisis."
+                },
+                {
+                  "label": "B",
+                  "text": "It can be a new phase of one’s life."
+                },
+                {
+                  "label": "C",
+                  "text": "It can be terrifying for the unprepared."
+                },
+                {
+                  "label": "D",
+                  "text": "It may see old-age diseases approaching."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "How is midlife pictured in the book Life Reimagined?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It can be quite rosy."
+                },
+                {
+                  "label": "B",
+                  "text": "It can be burdensome."
+                },
+                {
+                  "label": "C",
+                  "text": "It undergoes radical transformation."
+                },
+                {
+                  "label": "D",
+                  "text": "It makes for the best part of one’s life."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "According to Karl Barth, midlife is the time",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "to relax"
+                },
+                {
+                  "label": "B",
+                  "text": "to mature"
+                },
+                {
+                  "label": "C",
+                  "text": "to harvest"
+                },
+                {
+                  "label": "D",
+                  "text": "to reflect"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What does the author say about midlife today?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is more meaningful than other stages of life."
+                },
+                {
+                  "label": "B",
+                  "text": "It is likely to change the narrative of one’s life,"
+                },
+                {
+                  "label": "C",
+                  "text": "It is more important to those with a longer lifespan."
+                },
+                {
+                  "label": "D",
+                  "text": "It is likely to be a critical turning point in one’s life."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "In spring, chickens start laying again, bringing a welcome source of protein at winter’s end. So it’s no surprise that cultures around the world celebrate spring by honoring the egg.\n\nSome traditions are simple, like the red eggs that get baked into Greek Easter breads. Others elevate the egg into a fancy art, like the heavily jewel-covered “eggs” that were favored by the Russians starting in the 19th century.\n\nOne ancient form of egg art comes to us from Ukraine. For centuries, Ukrainians have been drawing complicated patterns on eggs. Contemporary artists have followed this tradition to create eggs that speak to the anxieties of our age: Life is precious, and delicate. Eggs are, too.\n\n“There’s something about their delicate nature that appeals to me,” says New Yorker cartoonist Roz Chast. Several years ago, she became interested in eggs and learned the traditional Ukrainian technique to\n\ndraw her very modem characters. “I’ve broken eggs at every stage of the process—from the very beginning to the very, very end.”\n\nBut there’s an appeal in that vulnerability. “There’s part of this sickening horror of knowing you’re walking on the edge with this, that I kind of like, knowing that it could all fall apart at any second.” Chast’s designs, such as a worried man alone in a tiny rowboat, reflect that delicateness.\n\nTraditional Ukrainian decorated eggs also spoke to those fears. The elaborate patterns were believed to offer protection against evil.\n\n“There’s an ancient legend that as long as these eggs are made, evil will not prevail in the world,” says Joan Brander, a Canadian egg-painter who has been painting eggs for over 60 years, having learned the art from her Ukrainian relatives.\n\nThe tradition, dating back to 300 B.C., was later incorporated into the Christian church. The old symbols, however, still endure. A decorated egg with a bird on it, given to a young married couple, is a wish for children. A decorated egg thrown into the field would be a wish for a good harvest.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "Why do people in many cultures prize the egg?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is a welcome sign of the coming of spring."
+                },
+                {
+                  "label": "B",
+                  "text": "It is their major source of protein in winter."
+                },
+                {
+                  "label": "C",
+                  "text": "It can easily be made into a work of art."
+                },
+                {
+                  "label": "D",
+                  "text": "It can bring wealth and honor to them."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What do we learn about the decorated “eggs” in Russia?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They are shaped like jewel cases."
+                },
+                {
+                  "label": "B",
+                  "text": "They are cherished by the rich."
+                },
+                {
+                  "label": "C",
+                  "text": "They are heavily painted in red."
+                },
+                {
+                  "label": "D",
+                  "text": "They are favored as a form of art."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "Why have contemporary artists continued the egg art tradition?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Eggs serve as an enduring symbol of new life."
+                },
+                {
+                  "label": "B",
+                  "text": "Eggs have an oval shape appealing to artists."
+                },
+                {
+                  "label": "C",
+                  "text": "Eggs reflect the anxieties of people today."
+                },
+                {
+                  "label": "D",
+                  "text": "Eggs provide a unique surface to paint on."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why does Chast enjoy the process of decorating eggs?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "She never knows if the egg will break before the design is completed."
+                },
+                {
+                  "label": "B",
+                  "text": "She can add multiple details to the design to communicate her idea."
+                },
+                {
+                  "label": "C",
+                  "text": "She always derives great pleasure from designing something new."
+                },
+                {
+                  "label": "D",
+                  "text": "She is never sure what the final design will look like until the end."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What do we learn from the passage about egg-painting?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It originated in the eastern part of Europe."
+                },
+                {
+                  "label": "B",
+                  "text": "It has a history of over two thousand years."
+                },
+                {
+                  "label": "C",
+                  "text": "It is the most time-honored form of fancy art."
+                },
+                {
+                  "label": "D",
+                  "text": "It is especially favored as a church decoration."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "黄河是亚洲第三、世界第六长的河流。“黄”这个字描述的是其河水浑浊的颜色。黄河发源于青海，流经九个省份，最后注入渤海。黄河是中国赖以生存的几条河流之一。黄河流域(river basin)是中国古代文明的诞生地，也是中国早期历史上最繁荣的地区。然而，由于极具破坏力的洪水频发，黄河曾造成多次灾害。在过去几十年里，政府采取了各种措施防止灾害发生。"
+      }
+    ]
+  },
+  "id": "CET4-2017-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "D",
+        "explanation": "D)。详解 新闻中提到,谷歌表示,自动驾驶汽车在并道时,随车测试人员认为公交车会减速或停下,以便让自动驾驶汽车并入车流,因此测试人员并没有转换到人工驾驶模式。由此可知,测试人员判断失误是导致事故发生的原因,答案为 D)。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "A)。详解 新闻末尾提到,自动驾驶汽车在美国各州超过100万英里的行驶里程中运行良好,目前也只是出现过小事故。由此可知,总体来说,自动驾驶汽车运行得比较好,答案为A)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)。详解 新闻中提到,Tom Moses 在附近的一个国家公园工作,故答案为 B)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)。详解 新闻中, Tom Moses 说他第一次看到这么多蜜蜂聚集在一个地方, 它们挨得非常近, 飞来飞去发出很多噪音。因此答案为 A)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)。详解 新闻开头提到,科学家在巴哈马群岛的一个偏远小岛上发现了蛇类新物种,之后报道了科学家对这一新物种的发现过程及研究。由此可知,新闻的主要内容是关于蛇类新物种的发现,答案为 D)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)。详解 新闻中提到,科学家在两次加勒比群岛之旅中发现了20条新物种蛇,在他们的第二次旅途中,一条蛇戏剧性地出现了,它在队长睡觉时爬到了他的头上。因此答案为 B)。"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "C)。详解 新闻中提到,科学家把新物种的蛇命名为银蟒,主要是因为它的颜色类似金属,而且科学家发现第一条银蟒时,它正在一棵银色的棕榈树上往上爬。由此可知,科学家主要是根据颜色给这一新物种蛇命名的,答案为 C)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)。详解 对话开头部分,男士说自己要去机场,因航班离起飞时间不足两小时,故而询问女士去机场的最快方法。因此答案为 B)。"
+      },
+      "9": {
+        "answer": "B",
+        "explanation": "B)。详解 对话中女士询问男士如何支付酒吧账单,男士说用信用卡。因此答案为 B)。"
+      },
+      "10": {
+        "answer": "C",
+        "explanation": "C)。详解男士说自己需要收据才能到公司报销。由此可知，男士需要女士出具收据，答案为C)。"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "A)。详解 对话结尾,女士给男士收据后,请男士方便时在酒店的网站上留言评论,这就是女士请男士帮的忙,因此答案为 A)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)。详解对话开头,男士说 Ben 一改过去的做法,不再做吓人的鬼脸了。因此答案为 D)。"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "A)。详解对话中男士说，Mary阿姨过去常说如果误吞了樱桃核，樱桃树就会从嘴里长出来。结合Ben的经历可知，Mary阿姨说此话的目的是警告男士吃樱桃核会有危险，答案为A)。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "D)。详解 对话中女士提到了自己被大人吓住的经历,第一个就是天鹅挥动翅膀的时候会把人的腿打断。因此答案为 D)。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "C)。详解 对话末尾,男士说他妻子的祖母说如果蝙蝠钻进头发里,就只能剃光头把它弄出来,这令妻子很害怕。因此答案为 C)。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "A)。详解 讲话者说如果能回到从前他喜欢的时间,他想重温20世纪60年代,那时候他20来岁,一切都在复兴,复兴表明充满了变化,因此答案为A)。"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "B)。详解 讲话者提到晚上去咖啡厅和朋友见面是最流行的事。短文中的“was the thing”是口语表达，意思是“很火，很流行”，因此答案为 B)。"
+      },
+      "18": {
+        "answer": "C",
+        "explanation": "C)。详解 讲话者提到他在20世纪60年代时是个学生,不用出去工作,也不会闲坐在家里。因此答案为 C)。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "A)。详解 短文开头提到,狗是人类最好的朋友,在遇到主人生气时,它们有一个很明显的应对策略,那就是把目光移开。新研究表明,在遇到生气的人时,狗会减少与他们的目光交流。因此答案为 A)。"
+      },
+      "20": {
+        "answer": "D",
+        "explanation": "D)。详解 赫尔辛基大学的研究者们训练了31只狗用于实验,观察它们见到威胁、高兴或中性表情时的反应。实验表明,看到狗生气的表情时,它们的目光会更多地落在对方的嘴巴上。因此答案为D)。"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "C)。详解 短文末尾提到,研究者们说,狗通过整体地看人脸的表情来判断人的情绪,而不是只聚焦在人类所表现出来的某一表情特征。这表明狗不是通过某一个表情特征而是像人类一样收集多种面部表情特征来判断人们的情绪的。因此答案为 C)。"
+      },
+      "22": {
+        "answer": "C",
+        "explanation": "C)。详解 短文中提到动物有三种方式度过寒冷的冬天,分别是冬眠、适应环境和迁徙。这说明动物在冬季会寻求不同的方法来应对寒冷,答案为 C)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "B)。详解 短文中提到,在冬天来临之前,选择冬眠的动物会多吃食物以变胖,这样可以提供它们在冬眠的时候所需要的能量。由此可知,冬眠的动物在冬眠时消耗的是冬眠前储存的能量,答案为 B)。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "A)。详解 短文结尾处提到,有些鸟考虑到安全因素会成群结队地迁徙。因此答案为 A)。"
+      },
+      "26": {
+        "answer": "I",
+        "explanation": "relatively。详解 副词辨析题。空格前面是不定冠词 a, 后面为形容词 recent, 因此空格处需要填入副词, 以修饰其后的形容词。前一句中提到啤酒花给现代啤酒增添了一丝苦味, 后面说这一点在九世纪关于酿造的参考材料中被首次提到, 由此推出啤酒花的出现年代并不久远, 而是相当近的, 因此 I) relatively“相对地, 相当地”符合句意。在备选副词中, exclusively“专门地, 排外地”与此处要表达的“相当地”意思不符合, 可以排除。"
+      },
+      "27": {
+        "answer": "N",
+        "explanation": "surprising。详解形容词辨析题。空格前面有不定冠词 a, 后面是名词 ingredient“成分”, 因此空格处需填入形容词来修饰后面的名词。句中提到, 研究人员在 5 000 年前的啤酒酿造设备的残留物中发现了这一成分, 说明该成分还是很令人吃惊的, 因此 N) surprising 符合句意。在备选形容词中, direct 和 raw 不能与 ingredient 搭配使用, 而 staple 与句意不符, 故均排除。"
+      },
+      "28": {
+        "answer": "M",
+        "explanation": "suggest。详解 动词辨析题。空格前面是名词短语 different shapes of the containers “容器的不同形状”，空格后面是一个完整的从句 they were used to…，由此推出空格处应填入动词作整个句子的谓语。空格前面提到“容器的不同形状”，后面提到“它们是被用来酿造、过滤和储存啤酒的”，由此推出 M) suggest “表明，暗示”符合句意，即“不同的形状表明它们有各自的用途”。在备选动词中，consuming 和 including 为动名词形式，均不能作谓语，可以排除；其他动词 arrived、inform、reached、test 均与句意不符，可以排除。"
+      },
+      "29": {
+        "answer": "C",
+        "explanation": "direct。详解形容词辨析题。空格前为形容词最高级,空格后为名词,由此推断仍需填入形容词,与前面的 the earliest 一起修饰 evidence。空格所在句意为“这些容器可能就是古代的酿酒工具,这也成为中国古代酿酒最早的证据”。根据句意可知,容器也是非常直接的证据,故 C) direct“直接的”为答案。备选项中其他的形容词 raw, surprising 和 staple 无法与 evidence 搭配,均排除。"
+      },
+      "30": {
+        "answer": "O",
+        "explanation": "test。详解 动词辨析题。空格前面有不定式符号 to, 后面是名词短语 that theory, 由此可知空格处应填入动词原形。上文中提到了考古研究人员的一些发现, 下文中提到团队又对某些物质进行了检验, 由此推出研究人员应该是想通过检验来证实这些理论, 故 O) test“证实, 测试”符合句意。在备选动词中, inform 也是动词原形, 但用在此处与句意不符, 故排除。"
+      },
+      "31": {
+        "answer": "J",
+        "explanation": "remains。详解名词辨析题。空格前有形容词 yellowish 和 dried, 其后是介词短语 inside the vessels, 由此推出空格处应填入名词作宾语。该句提到这是容器中一种黄色、干燥的物质, 再结合备选项可知, J) remains“残留物, 遗址”符合句意。而 K) resources“资源”与句意不符, 可以排除。"
+      },
+      "32": {
+        "answer": "E",
+        "explanation": "including。详解 动词辨析题。空格所在句位于由 and 连接的并列句中,且其前为名词 roots,其后为名词 lily,故此处只能填入动词的现在分词或过去分词形式表示从属关系。句子表达的意思是“约 80% 为谷物,约 10% 为植物的根茎”。而“百合”恰好属于根茎类植物,由此推出 E) including“包含”符合句意。备选项中的 arrived、consuming 和 reached 均与句意不符,可以排除。"
+      },
+      "33": {
+        "answer": "L",
+        "explanation": "staple。详解形容词辨析题。空格前面有不定冠词 a, 后面为名词 food, 因此空格处应填入形容词, 用于修饰其后的名词 food。空格前提到这种农作物是在西欧亚大陆被培育出来的, 由此推出并非是当时中国中原地区的主要食物来源, 故 L) staple“主要的, 基本的”符合句意。备选项中的形容词 raw 虽可与 food 搭配, 但与句意不符, 可以排除。"
+      },
+      "34": {
+        "answer": "A",
+        "explanation": "arrived。详解 动词辨析题。空格处于 indicate 后的宾语从句中,其前面为助动词 have,其后为介词短语 in the region,由此推出应填入动词的过去分词作从句的谓语。备选项中动词的过去分词只有 arrived 和 reached,而 reached 不能与后面的介词 in 搭配,因此 A) arrived 为答案。"
+      },
+      "35": {
+        "answer": "G",
+        "explanation": "raw。详解形容词辨析题。空格前面有介词 as, 后面有不可数名词 material, 由此推出应填入形容词修饰后面的名词 material。句中提到大麦最初传入这一地区并不是作为食物, 而是作为酿酒的材料, raw material 为固定搭配, 意为“原材料”, 故 G) raw“生的, 未经加工的”为答案。"
+      },
+      "36": {
+        "answer": "H",
+        "explanation": "详解) 定位句说明了拥有 HSAM 者的记忆特征是高度自我中心化的: 尽管他们能够非常详细地记住“自传式”生活事件, 但是在记忆非个人信息方面, 比如随机排列的单词, 他们似乎不比普通人强。题干中的 have the same memory as ordinary people 是对定位句中 seem to be no better than average 的同义转述, 故答案为 H)。"
+      },
+      "37": {
+        "answer": "K",
+        "explanation": "详解 定位句提到,不是每一个有幻想倾向的人都能具有“超级自传体记忆”的能力。题干中的 Fantasy proneness 对应定位句中 a tendency to fantasise; not necessarily 对应定位句中的 Not everyone,故答案为 K)。"
+      },
+      "38": {
+        "answer": "C",
+        "explanation": "详解 定位段主要介绍了维瑟的超强记忆启动的经历: 在最好朋友的生日晚会上遇到自己的初恋后, 维瑟开始能记住生活中的每个细节。题干是对定位段的总结, 故答案为 C)。"
+      },
+      "39": {
+        "answer": "G",
+        "explanation": "详解) 由定位段可知,得益于这些媒体后续的兴趣,几十个其他的受试者(包括维瑟)自告奋勇与加利福尼亚大学欧文分校的研究团队取得了联系。题干中的 due to the mass media 是对定位句中 thanks to the subsequent media interest 的同义转述; researchers 对应定位句中的 the team,故答案为 G)。"
+      },
+      "41": {
+        "answer": "A",
+        "explanation": "详解 定位段指出,对于大多数人而言,记忆就像一本逐渐模糊、褪色的人生画册。无论我们多想要抓住过去,即使最痛苦的时刻也会随着时间消逝。也就是说,大部分人对过去发生的事件没有清晰的记忆。题干是对定位段的概括,故答案为 A)。"
+      },
+      "42": {
+        "answer": "L",
+        "explanation": "详解 定位句提出了文章主题:拥有 HSAM 的人福祸相依。下文分别举例解释福和祸的具体内容。题干中的 both a curse and a blessing 是对定位句中 a mixed blessing 的同义转述,故答案为 L)。"
+      },
+      "43": {
+        "answer": "E",
+        "explanation": "详解 定位段提到,一位名叫吉尔·普莱斯的年轻女士给神经科学专家兼记忆研究员吉姆·麦克高夫发邮件,声称她可以回忆起12岁以来每一天的生活。麦克高夫能否帮助解释她的经历呢?题干中的her unusual memory是对定位段中she could recall every day of her life since the age of 12的概括。整个题干是对定位段的概括归纳,故答案为E)。"
+      },
+      "44": {
+        "answer": "O",
+        "explanation": "详解 定位句提到,不是每一个拥有 HSAM 的人都能体会这些好处。对过去记得太清楚就会很难从痛苦和遗憾中解脱出来。题干中的 get rid of unpleasant memories 对应定位句中的 get over pain and regret。题干是对定位句的同义转述,故答案为 O)。"
+      },
+      "45": {
+        "answer": "I",
+        "explanation": "详解 定位句指出,南密西西比大学的劳伦斯·帕特西斯近来研究了约20位拥有HSAM者,发现他们在幻想倾向和专注力两方面得分特别高。幻想倾向可以理解为想象和做白日梦的倾向,而专注力则是使自己的思维全神贯注于某种活动(对感受和经历投入全部的关注)的倾向。题干是对定位句的同义转述,故答案为I)。"
+      },
+      "46": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 the phrase “midlife crisis” 定位到首段: The phrase almost completes itself: midlife crisis. It’s the stage in the middle of the journey when people feel youth vanishing, their prospects narrowing and death approaching. 和第二段: There’s only one problem with the cliché (套话). It isn’t true."
+      },
+      "47": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 view midlife 定位到第四段第一句: Barbara Hagerty looks at some of the features of people who turn midlife into a rebirth."
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "。定位 由题干中的 midlife pictured 和 life Reimagined 定位到第五段:Life Reimagined paints a picture of middle age that is far from gloomy...is already secure."
+      },
+      "49": {
+        "answer": "B",
+        "explanation": "。定位 由题干中的 Karl Barth 和 midlife is the time 定位到文章第七段。"
+      },
+      "50": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 midlife today 定位到第八段第一句: What Barth wrote decades ago is even truer today. 和最后一句: What could have been considered the beginning of a descent is now a potential turning point..."
+      },
+      "51": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 prize the egg 定位到第一段: In spring, chickens start laying again, bringing a welcome source of protein at winter's end. So it's no surprise that cultures around the world celebrate spring by honoring the egg."
+      },
+      "52": {
+        "answer": "D",
+        "explanation": "。定位 由题干中的 the decorated “eggs” in Russia 定位到第二段第二句: Others elevate the egg into a fancy art, like the heavily jewel-covered “eggs” that were favored by the Russians starting in the 19th century."
+      },
+      "53": {
+        "answer": "C",
+        "explanation": "。定位由题干中的contemporary artists和continued the egg art tradition定位到第三段第三句。"
+      },
+      "54": {
+        "answer": "A",
+        "explanation": "。定位 由题干中的 Chast 和 process of decorating eggs 定位到第五段前两句: But there's an appeal in that vulnerability. “There's part of this sickening horror...that I kind of like,...”"
+      },
+      "55": {
+        "answer": "B",
+        "explanation": "。定位由题干及各选项可定位至最后一段第一句。"
+      }
+    },
+    "references": {}
+  }
+}

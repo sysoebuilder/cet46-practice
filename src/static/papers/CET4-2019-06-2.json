@@ -1,0 +1,1520 @@
+{
+  "schema_version": "1.0",
+  "year": 2019,
+  "month": 6,
+  "level": "CET4",
+  "set_number": 2,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to write a news report to your campus newspaper on a visit to a local farm organized by your Student Union. You should write at least 120 words but no more than180 words.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "report",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to write a news report to your campus newspaper on a visit to a local farm organized by your Student Union. You should write at least 120 words but no more than180 words.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "For this part, you are allowed 30 minutes to write a news report to your campus newspaper on a visit to a local farm organized by your Student Union. You should write at least 120 words but no more than180 words.",
+        "materials": null,
+        "word_limit": {
+          "minimum": 120,
+          "maximum": 180
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and then questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A）, B), C) and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 25,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and then questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A）, B), C) and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Heavy floods."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Bad economy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Safety concerns."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Workers’ strikes."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is competitive with its numerous tourist destinations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It provides many job opportunities for French people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is the biggest concern of the French government."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It plays an important role in the nation’s economy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To carry out a scientific survey."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To rescue two sick American workers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To establish a new research station."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To deliver urgent medical supplies."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The darkness and cold."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The biting winds."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The heavy snow and fog."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The ice all around."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By tying it to a door handle."
+                  },
+                  {
+                    "label": "C",
+                    "text": "With a remote control craft."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By shaking it back and forth."
+                  },
+                  {
+                    "label": "D",
+                    "text": "With a full-sized helicopter."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has lots of fans on Facebook."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He often suffers from toothaches."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has rich experience in flying."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has learned to pull teeth from a video."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Spend more time together."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Do something fun and creative."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tell them adventure stories."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Play with them in a safe place."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A) , B），C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To confirm an urgent appointment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To ask the woman to sign a document."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To collect a package from the woman."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To arrange the delivery of a package."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is doing shopping."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She is not at home."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She is visiting a friend."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is not feeling well."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He will be off duty the whole day."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He will have to have his car repaired."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He will be working somewhere else."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He will be too busy to spare and time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Sign her name."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Pay a small fee."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Confirm online."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Show up in person."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Vacation in Italy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Throw a farewell party."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Study abroad."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Go to a fashion show in Milan."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Quite sleepy."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Rather depressed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Very excited."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Nearly exhausted."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has to attend a party."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He has to make a presentation."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He has to meet a friend."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has to finish an assignment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Say goodbye to the woman at the airport."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Drive the Woman to the airport."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Meet the woman at the Black Cat Cafe."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Have lunch with the woman."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has kept growing over the centuries."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its top is hidden in clouds of volcanic smoke."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its height changes with each volcanic eruption."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has a recorded history of 1500 years."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are now a tourist destination."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They attract a lot of migrating birds."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They provide shelter for the farmers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They make good fields for farming.\n\n2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They nest on the volcano’s slopes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They feed on certain small mammals."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They compete with each other for food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They match large mammals in strength."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is self-employed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He studies talent."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is a career advisor."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He owns a magazine."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Doing what they like best."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Making no excuses for failures."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Loving the work they do."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Following their natural instinct."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It does not come to anything without hard work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It may prove to be quite different from hard work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a natural gift only some special people can possess."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It does not come to you until something special happens."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is a bit difficult to learn."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is a traditional type of ballet."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was popular in New Zealand."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It evolved in the mid-1970s."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She wanted her to be a ballet dancer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She hated to see her idling about."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She used to be a ballet dancer herself."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She was too busy to look after her."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "After she started teaching English."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When she moved to New York city."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Before she left for New Zealand."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Once she began to live on her own."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has renewed her passion for life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has helped her make new friends."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has made her happy and energetic."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has enabled her to start a new career."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": "Questions 26 to 35 are based on the following passage.",
+      "passage": "Just because they can’t sing opera or ride a bicycle doesn’t mean that animals don’t have culture. There’s no better example of this than killer whales. As one of the most 26 predators（食肉动物），killer whales may not fit the 27 of a cultured creature. However, these beasts of the sea do display a vast range of highly 28 behaviors that appear to be driving their genetic development.\n\nThe word “culture” comes from the Latin “colere,” which 29 means “to cultivate.” In\n\n3\n\nother words, it refers to anything that is 30 or learnt, rather than instinctive or natural. Among human populations, culture not only affects the way we live, but also writes itself into our genes, affecting who we are. For instance, having spent many generations hunting the fat marine mammals of the Arctic, the Eskimos of Greenland have developed certain genetic 31 that help them digest and utilize this fat-rich diet, thereby allowing them to 32 in their cold climate.\n\nLike humans, killer whales have colonized a range of different 33 across the globe, occupying every ocean basin on the planet, with an empire that 34 from pole to pole. As such, different populations of killer whales have had to learn different hunting techniques in order to gain the upper hand over their local prey（猎物）. This, in turn, has a major effect on their diet, leading scientists to 35 that the ability to learn population-specific hunting methods could be driving the animals’ genetic development.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "acquired"
+        },
+        {
+          "label": "I",
+          "text": "image"
+        },
+        {
+          "label": "B",
+          "text": "adaptations"
+        },
+        {
+          "label": "J",
+          "text": "literally"
+        },
+        {
+          "label": "C",
+          "text": "brutal"
+        },
+        {
+          "label": "K",
+          "text": "refined"
+        },
+        {
+          "label": "D",
+          "text": "deliberately"
+        },
+        {
+          "label": "L",
+          "text": "revolves"
+        },
+        {
+          "label": "E",
+          "text": "expressed"
+        },
+        {
+          "label": "M",
+          "text": "speculate"
+        },
+        {
+          "label": "F",
+          "text": "extends"
+        },
+        {
+          "label": "N",
+          "text": "structure"
+        },
+        {
+          "label": "G",
+          "text": "habitats"
+        },
+        {
+          "label": "O",
+          "text": "thrive"
+        },
+        {
+          "label": "H",
+          "text": "humble"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "26",
+          "start": 172,
+          "end": 174
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "27",
+          "start": 221,
+          "end": 223
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "28",
+          "start": 315,
+          "end": 317
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "29",
+          "start": 438,
+          "end": 440
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "30",
+          "start": 513,
+          "end": 515
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "31",
+          "start": 837,
+          "end": 839
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 919,
+          "end": 921
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "33",
+          "start": 1009,
+          "end": 1011
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "34",
+          "start": 1093,
+          "end": 1095
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "35",
+          "start": 1340,
+          "end": 1342
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "Living with parents edges out other living arrangements for 18-to 34-year-olds",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Broad demographic ( 人 口 的 )shifts is marital status, educational attainment and employment have transformed the way young adults in the U.S. are living, and a new Pew Research Center analysis highlights the implications of these changes for the most basic element of their lives—where they call home. In 2014, for the first time in more than 130 years, adults ages 18 to 34 were slightly more likely to be living in their parents’ home than they were to be living with a spouse or partner in their own household."
+        },
+        {
+          "label": "B",
+          "text": "This turn of events is fueled primarily by the dramatic drop in the share of young Americans who are choosing to settle down romantically before age 35. Dating back to 1880, the most common living arrangement among young adults has been living with a romantic partner, whether a spouse or a significant other. This type of arrangement peaked around 1960, when 62% of the nation’s 18-to 34-year-olds were living with a spouse or partner in their own household, and only one-in-five were living with their parents."
+        },
+        {
+          "label": "C",
+          "text": "By 2014, 31.6% of young adults were living with a spouse or partner in their own household, below the share living in the home of their parent(s) (32.1%). Some 14% of young\n\n4\n\nadults lived alone, were a single parent or lived with one or more roommates. The remaining 22% lived in the home of another family member (such as a grandparent, in-law or sibling (兄弟姐妹)), a non-relative, or in group quarters like college dormitories."
+        },
+        {
+          "label": "D",
+          "text": "It’s worth noting that the overall share of young adults living with their parents was not at a record high in 2014. This arrangement peaked around 1940, when about 35% of the nation’s 18-to 34-year-olds lived with mom and/or dad (compared with 32% in 2014). What has changed, instead, is the relative share adopting different ways of living in early adulthood, with the decline of romantic coupling pushing living at home to the top of a much less uniform list of living arrangements."
+        },
+        {
+          "label": "E",
+          "text": "Among young adults, living arrangements differ significantly by gender. For men ages 18 to 34, living at home with mom and/or dad has been the dominant living arrangement since 2009, In 2014,28% of young men were living with a spouse of partner in their own home, while 35% were living in the home of their parent(s). Young women, however, are still more likely to be living with a spouse of romantic partner(35%) than they are to be living with their parent(s)(29%)."
+        },
+        {
+          "label": "F",
+          "text": "In 2014, more young women (16%) than young men (13%) were heading up a household without a spouse or partner. This is mainly because women are more likely than men to be single parents living with their children. For their part, young men (25%) are more likely than young women (19%) to be living in the home of another family member, a non-relative or in some type of group quarters."
+        },
+        {
+          "label": "G",
+          "text": "A variety of factors contribute to the long-run increase in the share of young. Adults living with the parents. The first in the postponement of, if not retreat from, marriage. The average age of first marriage has risen steadily for decades. In addition, a growing share of young adult may be avoiding marriage altogether. A previous Pew Research Center analysis projected that as many as one-in-four of today’s young adult may never marry. While cohabitation（同居）has been on the rise, the overall share of young adults either married or living with an unmarried partner has substantially fallen since 1990."
+        },
+        {
+          "label": "H",
+          "text": "In addition, trends in both employment status and wages have likely contributed to the growing share of young adults who are living in the home of their parent(s), and this is especially true of young men. Employed young men are much less likely to live at home than young men without a job, and employment among young men has fallen significantly in recent decades. The share of young men with jobs peaked around 1960 at 84%. In 2014, only 71% of 18-to-34-year-old men were employed. Similarly with earnings, young men’s wages (after adjusting for inflation) have been on a downward trajectory ( 轨迹 ) since 1970 and fell significantly form 2000 to 2010. As wages have fallen ,the share of young men living in the home of their parent(s) has risen."
+        },
+        {
+          "label": "I",
+          "text": "Economic factors seem to explain less of why young adult women are increasingly likely to live at home. Generally, young women have had growing success in the paid labor market since 1960 and hence might increasingly be expected to be a be to afford to afford to live independently of their parents. For women, delayed marriage—which is related, in part, to labor market outcomes for men—may explain more of the increase in their living in the family home."
+        },
+        {
+          "label": "J",
+          "text": "The Great Recession (and modest recovery) has also been associated with an increase in young adults living at home. Initially in the wake of the recession, college enrollments expanded, boosting the ranks of young adults living at home. And given the weak job opportunities facing young adults, living at home was part of the private safety net help young adults to weather the\n\n5\n\neconomic storm."
+        },
+        {
+          "label": "K",
+          "text": "Beyond gender, young adult’s living arrangements differ considerable by education—which is tied to financial means. For young adults without a bachelor’s degree, as of 2008 living at home with their parents was more prevalent than living with a romantic partner. By 2014, 36% of 18-to 34-year-olds who had not completed a bachelor’s degree were living with their parent(s) while 27% were living with a spouse or partner. Among college graduates, in 2014 46% were married or living with a partner, and only 19% were living with their parent(s). Young adults with a college degree have fared much better in the labor market than their less-educated counterparts, which has in turn made it easier to establish their own households."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "Unemployed young men are more likely to live with their parents than the employed."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "In 2014, the percentage of men aged 18 to 34 living with their parents was greater than that of their female counterparts."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "The percentage of young people who are married or live with a partner has greatly decreased in the past three decades or so."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "Around the mid-20th century, only 20 percent of 18- to 34-year-old lived in their parents’ home."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Young adults with a college degree found it easier to live independently of their parents."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "Young men are less likely to end up as single parents than young women."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "More young adult women live with their parents than before due to delayed marriage."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "The percentage of young men who live with their parents has grown due to their decreased pay in recent decades."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "The rise in the number of college students made more young adults live with their parents."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "One reason for young adults to live with their parents is that get married late or stay single all their lives."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "According to the majority of Americans, women are every bit as capable of being good political leaders as men. The same can be said of their ability to dominate the corporate boardroom. And according to a new Pew Research Center survey on women and leadership, most Americans find women indistinguishable from men on key leadership traits such as intelligence and capacity for innovation, with many saying they’re stronger than men in terms of being passionate and organized leaders.\n\nSo why, then, are women in short supply at the top of government and business in the United\n\n6\n\nStates? According to the public, at least, it’s not that they lack toughness, management talent or proper skill sets.\n\nIt’s also not all about work-life balance. Although economic research and previous survey findings have shown that career interruptions related to motherhood may make it harder for women to advance in their careers and compete for top executive jobs, relatively few adults in the recent survey point to this as a key barrier for women seeking leadership roles. Only about one-in-five say women’s family responsibilities are a major reason why there aren’t more females in top leadership positions in business and politics.\n\nInstead, topping the list of reasons, about four-in-ten Americans point to a double standard for women seeking to climb to the highest levels of either politics or business, where they have to do more than their male counterparts to prove themselves. Similar shares say the electorate( 选民)and corporate America are just not ready to put more women in top leadership positions.\n\nAs a result, the public is divided about whether the imbalance in corporate America will change in the foreseeable future, even though women have made major advances in the workplace. While 53% believe men will continue to hold more top executive positions in business in the future, 44% say it’s only a matter of time before as many women are in top executive positions as men. Americans are less doubtful when it comes to politics: 73% expect to see a female president in their lifetime.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do most Americans think of women leaders according to a new Pew Research Center survey?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have to do more to distinguish themselves."
+                },
+                {
+                  "label": "B",
+                  "text": "They have to strive harder to win their positions."
+                },
+                {
+                  "label": "C",
+                  "text": "They are stronger than men in terms of willpower."
+                },
+                {
+                  "label": "D",
+                  "text": "They are just as intelligent and innovative as men."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What do we learn from previous survey findings about women seeking leadership roles?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They have unconquerable difficulties on their way to success."
+                },
+                {
+                  "label": "B",
+                  "text": "They are lacking in confidence when competing with men."
+                },
+                {
+                  "label": "C",
+                  "text": "Their failures may have something to do with family duties."
+                },
+                {
+                  "label": "D",
+                  "text": "Relatively few are hindered in their career advancement."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "What is the primary factor keeping women from taking top leadership positions according to the recent survey?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Personality traits."
+                },
+                {
+                  "label": "B",
+                  "text": "Family responsibilities."
+                },
+                {
+                  "label": "C",
+                  "text": "Gender bias."
+                },
+                {
+                  "label": "D",
+                  "text": "Lack of vacancies."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What does the passage say about corporate America in the near future?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "More and more women will sit in the boardroom."
+                },
+                {
+                  "label": "B",
+                  "text": "Gender imbalance in leadership is likely to change."
+                },
+                {
+                  "label": "C",
+                  "text": "The public is undecided about whether women will make good leaders."
+                },
+                {
+                  "label": "D",
+                  "text": "People have opposing opinions as to whether it will have more women leaders."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "What do most Americans expect to see soon on America’s political stage?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "A woman in the highest position of government."
+                },
+                {
+                  "label": "B",
+                  "text": "More and more women actively engaged in politics."
+                },
+                {
+                  "label": "C",
+                  "text": "A majority of women voting for a female president."
+                },
+                {
+                  "label": "D",
+                  "text": "As many women in top government positions as men.\n\n7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "People have grown taller over the last century, with South Korean women shooting up by more than 20cm on average, and Iranian men gaining. 16.5cm. A global study looked at the average height of 18-year-olds in 200 countries 1914 and 2014.\n\nThe results reveal that while Swedes were the tallest people in the world in 1914, Dutch men have risen from 12th place to claim top spot with an average height of 182.5cm. Latvian women. Meanwhile, rose from 28th place in 1914 to become the tallest in the world a century later, with an average height of 169.8cm.\n\nJames Bentham, a co-author of the research from Imperial College, London, says the global trend is likely to be due primarily to improvements in nutrition and healthcare. “An individual’s genetics has a big influence on their height, but once you average over whole populations, genetics plays a less key role,” he added.\n\nA little extra height brings a number of advantages, says Elio Riboli of Imperial College. “Being taller is associated with longer life expectancy,” he said. “This is largely due to a lower risk of dying of cardiovascular（心血管的）disease among taller people.”\n\nBut while height has increased around the world, the trend in many countries of north and sub-Saharan Africa causes concern, says Riboli. While height increased in Uganda and Niger during the early 20th century, the trend has reversed in recent years, with height decreasing among 18-year-olds.\n\n“One reason for these decreases in height is the economic situation in the 1980s,” said Alexander Moradi of the University of Sussex. The nutritional and health crises that followed the policy of structural adjustment, he says, led to many children and teenagers failing to reach their full potential in terms of height.\n\nBentham believe the global trend of increasing height has important implications. “How tall we are now is strongly influenced by the environment we grew up in,” he said. “If we give children the best possible start in life now, they will be healthier and more productive for decades to come.”",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the global study tell us about people’s height in the last hundred years?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "There is a remarkable difference across continents."
+                },
+                {
+                  "label": "B",
+                  "text": "There has been a marked increase in most countries."
+                },
+                {
+                  "label": "C",
+                  "text": "The increase in people’s height has been quickening."
+                },
+                {
+                  "label": "D",
+                  "text": "The increase in women’s height is bigger than in men’s."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does James Bentham say about genetics in the increase of people’s height?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It counts less than generally thought."
+                },
+                {
+                  "label": "B",
+                  "text": "It outweighs nutrition and healthcare."
+                },
+                {
+                  "label": "C",
+                  "text": "It impacts more on an individual than on population."
+                },
+                {
+                  "label": "D",
+                  "text": "It plays a more significant role in females than in males."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "What does Elio Riboli say about taller people?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They tend to live longer."
+                },
+                {
+                  "label": "B",
+                  "text": "They enjoy an easier life."
+                },
+                {
+                  "label": "C",
+                  "text": "They generally risk fewer fatal diseases."
+                },
+                {
+                  "label": "D",
+                  "text": "They have greater expectations in life.\n\n8"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "What do we learn about 18-year-olds in Uganda and Niger?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They grow up slower than their peers in other countries."
+                },
+                {
+                  "label": "B",
+                  "text": "They are actually shorter than their earlier generations."
+                },
+                {
+                  "label": "C",
+                  "text": "They find it hard to bring their potential into full play."
+                },
+                {
+                  "label": "D",
+                  "text": "They have experienced many changes of government"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What does James Bentham suggest we do?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Watch closely the global trend in children’s development."
+                },
+                {
+                  "label": "B",
+                  "text": "Make sure that our children grow up to their full height."
+                },
+                {
+                  "label": "C",
+                  "text": "Try every means possible to improve our environment."
+                },
+                {
+                  "label": "D",
+                  "text": "Ensure our children grow up in an ideal environment."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "舞狮作为中国传统民间表演已有 2 000 多年历史。在狮子舞中，两位表演者同披一件狮子服，一个舞动头部，另一个舞动身体和尾巴。他们熟练配合，模仿狮子的各种动作。狮子也是兽中之王，象征幸福和好运，所以人们通常在春节和其他节日期间表演狮子舞。狮子舞也可能出现在其他重要场合，如商店开业和结婚典礼，往往吸引许多人观赏。\n\n9"
+      }
+    ]
+  },
+  "id": "CET4-2019-06-2",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "B",
+        "explanation": "## 【答案】B"
+      },
+      "2": {
+        "answer": "D",
+        "explanation": "## 【答案】D"
+      },
+      "3": {
+        "answer": "C",
+        "explanation": "## 【答案】C"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "## 【答案】A"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "## 【答案】D"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "【答案】B"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "【答案】C"
+      },
+      "8": {
+        "answer": "D",
+        "explanation": "## 【答案】D"
+      },
+      "9": {
+        "answer": "C",
+        "explanation": "## 【答案】C"
+      },
+      "10": {
+        "answer": "B",
+        "explanation": "## 【答案】B"
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "## 【答案】A"
+      },
+      "12": {
+        "answer": "B",
+        "explanation": "## 【答案】B"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "## 【答案】C"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "## 【答案】D"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "## 【答案】A"
+      },
+      "16": {
+        "answer": "C",
+        "explanation": "## 【答案】C"
+      },
+      "17": {
+        "answer": "D",
+        "explanation": "## 【答案】D"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "## 【答案】B"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "## 【答案】A"
+      },
+      "20": {
+        "answer": "B",
+        "explanation": "## 【答案】B"
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "## 【答案】A"
+      },
+      "22": {
+        "answer": "D",
+        "explanation": "## 【答案】D"
+      },
+      "23": {
+        "answer": "C",
+        "explanation": "## 【答案】C"
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "## 【答案】A"
+      },
+      "25": {
+        "answer": "B",
+        "explanation": "## 【答案】B"
+      },
+      "26": {
+        "answer": "C",
+        "explanation": "## 26、【答案】C） brutal"
+      },
+      "27": {
+        "answer": "I",
+        "explanation": "## 27、【答案】I） image"
+      },
+      "28": {
+        "answer": "K",
+        "explanation": "## 28、【答案】K） refined"
+      },
+      "29": {
+        "answer": "J",
+        "explanation": "## 29、【答案】J） literally"
+      },
+      "30": {
+        "answer": "A",
+        "explanation": "## 30、【答案】A） acquired"
+      },
+      "31": {
+        "answer": "B",
+        "explanation": "## 31、【答案】B） adaptations"
+      },
+      "32": {
+        "answer": "O",
+        "explanation": "## 32、【答案】O) thrive"
+      },
+      "33": {
+        "answer": "G",
+        "explanation": "## 33、【答案】G）habitats"
+      },
+      "34": {
+        "answer": "F",
+        "explanation": "## 34、【答案】F） extends"
+      },
+      "35": {
+        "answer": "M",
+        "explanation": "## 35、【答案】M）speculate"
+      },
+      "36": {
+        "answer": "H",
+        "explanation": "## 【答案】[H]"
+      },
+      "37": {
+        "answer": "E",
+        "explanation": "## 【答案】[E]"
+      },
+      "38": {
+        "answer": "G",
+        "explanation": "## 【答案】[G]"
+      },
+      "39": {
+        "answer": "B",
+        "explanation": "## 【答案】[B]"
+      },
+      "40": {
+        "answer": "K",
+        "explanation": "## 【答案】[K]"
+      },
+      "41": {
+        "answer": "F",
+        "explanation": "## 【答案】[F]"
+      },
+      "42": {
+        "answer": "I",
+        "explanation": "## 【答案】[I]"
+      },
+      "43": {
+        "answer": "H",
+        "explanation": "## 【答案】[H]"
+      },
+      "44": {
+        "answer": "J",
+        "explanation": "## 【答案】[J]"
+      },
+      "45": {
+        "answer": "G",
+        "explanation": "## 【答案】[G]"
+      },
+      "46": {
+        "answer": "D",
+        "explanation": "## 46.【答案】D"
+      },
+      "47": {
+        "answer": "C",
+        "explanation": "## 47.【答案】C"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "## 48.【答案】C"
+      },
+      "49": {
+        "answer": "D",
+        "explanation": "## 49.【答案】D"
+      },
+      "50": {
+        "answer": "A",
+        "explanation": "## 50.【答案】A"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": "## 51.【答案】B"
+      },
+      "52": {
+        "answer": "C",
+        "explanation": "## 52.【答案】C"
+      },
+      "53": {
+        "answer": "A",
+        "explanation": "## 53.【答案】A"
+      },
+      "54": {
+        "answer": "B",
+        "explanation": "## 54.【答案】B"
+      },
+      "55": {
+        "answer": "D",
+        "explanation": "## 55.【答案】D"
+      }
+    },
+    "references": {}
+  }
+}

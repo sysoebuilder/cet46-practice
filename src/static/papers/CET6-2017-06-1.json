@@ -1,0 +1,1466 @@
+{
+  "schema_version": "1.0",
+  "year": 2017,
+  "month": 6,
+  "level": "CET6",
+  "set_number": 1,
+  "Writing": {
+    "availability": "available",
+    "instructions": {
+      "directions": "Suppose you are asked to give advice on whether to major in science or humanities at college, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+      "notices": [
+        "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+      ],
+      "time_limit_minutes": 30,
+      "answer_sheet": null
+    },
+    "tasks": [
+      {
+        "kind": "writing",
+        "genre": "essay",
+        "instructions": {
+          "directions": "Suppose you are asked to give advice on whether to major in science or humanities at college, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+          "notices": [
+            "(请于正式开考后半小时内完成该部分,之后将进行听力考试)"
+          ],
+          "time_limit_minutes": 30,
+          "answer_sheet": null
+        },
+        "prompt": "Suppose you are asked to give advice on whether to major in science or humanities at college, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+        "materials": "(请于正式开考后半小时内完成该部分,之后将进行听力考试)",
+        "word_limit": {
+          "minimum": 150,
+          "maximum": 200
+        }
+      }
+    ]
+  },
+  "Listening": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 1
+    },
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Doing enjoyable work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Having friendly colleagues."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Earning a competitive salary."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Working for supportive bosses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "31%."
+                  },
+                  {
+                    "label": "C",
+                    "text": "25%."
+                  },
+                  {
+                    "label": "B",
+                    "text": "20%."
+                  },
+                  {
+                    "label": "D",
+                    "text": "73%."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Those of a small size."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Those that are well managed."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Those run by women."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Those full of skilled workers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can hop from job to job easily."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can win recognition of their work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can better balance work and life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can take on more than one job."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is a book of European history."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is an introduction to music."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is about the city of Bruges."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is a collection of photos."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When painting the concert hall of Bruges."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When vacationing in an Italian coastal city."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When taking pictures for a concert catalogue."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When writing about Belgium's coastal regions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The entire European coastline will be submerged."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The rich heritage of Europe will be lost completely."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The seawater of Europe will be seriously polluted."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The major European scenic spots will disappear."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its waterways are being increasingly polluted."
+                  },
+                  {
+                    "label": "B",
+                    "text": "People cannot get around without using boats."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It attracts large numbers of tourists from home and abroad."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Tourists use wooden paths to reach their hotels in the morning."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 12 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 12
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They make careful preparations beforehand."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They take too many irrelevant factors into account."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They spend too much time anticipating their defeat."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They try hard to avoid getting off on the wrong foot."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A person's nervous system is more complicated than imagined."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Golfers usually have positive mental images of themselves."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Mental images often interfere with athletes' performance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Thinking has the same effect on the nervous system as doing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Anticipate possible problems."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Picture themselves succeeding."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make a list of do's and don'ts."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Try to appear more professional."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She wore a designer dress."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She did not speak loud enough."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She won her first jury trial."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She presented moving pictures."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 13 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 13,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its long-term effects are yet to be proved."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its health benefits have been overestimated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It helps people to avoid developing breast cancer."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It enables patients with diabetes to recover sooner."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It focused on their ways of life during young adulthood."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It tracked their change in food preferences for 20 years."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It focused on their difference from men in fiber intake."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It tracked their eating habits since their adolescence."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Fiber may help to reduce hormones in the body."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Fiber may bring more benefits to women than men."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Fiber may improve the function of heart muscles."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Fiber may make blood circulation more smooth."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Observing the changes in marketing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Conducting research on consumer behavior."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Studying the hazards of young people drinking."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Investigating the impact of media on government."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is the cause of many street riots."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is getting worse year by year."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a chief concern of parents."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is an act of socialising."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They spent a week studying their own purchasing behavior."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They researched the impact of mobile phones on young people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They analysed their family budgets over the years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They conducted a thorough research on advertising."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 22 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 22
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is helping its banks to improve efficiency."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is trying hard to do away with dirty money."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is the first country to use credit cards in the world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is likely to give up paper money in the near future."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Whether it is possible to travel without carrying any physical currency."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Whether it is possible to predict how much money one is going to spend."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Whether the absence of physical currency causes a person to spend more."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Whether the absence of physical currency is going to affect everyday life."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "There was no food service on the train."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The restaurant car accepted cash only."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The service on the train was not good."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The cash in her handbag was missing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By putting money into envelopes."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By limiting their day-to-day spending."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By drawing money week by week."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By refusing to buy anything on credit."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 23 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 23,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Population explosion."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Extinction of rare species."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Chronic hunger."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Environmental deterioration."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They contribute to overpopulation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They have been brought under control."
+                  },
+                  {
+                    "label": "B",
+                    "text": "About half of them are unintended."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The majority of them tend to end halfway."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is essential to the wellbeing of all species on earth."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is becoming a subject of interdisciplinary research."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is neglected in many of the developing countries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is beginning to attract postgraduates' attention."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
+  },
+  "Reading": {
+    "availability": "available",
+    "instructions": {
+      "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "notices": [],
+      "time_limit_minutes": 40,
+      "answer_sheet": 2
+    },
+    "word_bank_cloze": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "word_bank_cloze",
+      "section": "A",
+      "lead_in": null,
+      "passage": "After becoming president of Purdue University in 2013, Mitch Daniels asked the faculty to prove that their students have actually achieved one of higher education's most important goals: critical thinking skills. Two years before, a nationwide study of college graduates had shown that more than a third had made no _26_ gains in such mental abilities during their school years. Mr. Daniels needed to _27_ the high cost of attending Purdue to its students and their families. After all, the percentage of Americans who say a college degree is \"very important\" has fallen _28_ in the last 5—6 years.\n\nPurdue now has a pilot test to assess students' critical thinking skills. Yet like many college teachers around the U.S., the faculty remain _29_ that their work as educators can be measured by a \"learning _30_ \" such as a graduate's ability to investigate and reason. However, the professors need not worry so much. The results of a recent experiment showed that professors can use _31_ metrics to measure how well students do in three key areas: critical thinking, written communication, and quantitative literacy.\n\nDespite the success of the experiment, the actual results are worrisome, and mostly 32 earlier studies. The organizers of the experiment concluded that far fewer students were achieving at high levels on critical thinking than they were doing for written communication or quantitative literacy. And that conclusion is based only on students nearing graduation.\n\nAmerican universities, despite their global _33_ for excellence in teaching, have only begun to demonstrate what they can produce in real-world learning. Knowledge-based degrees are still\n\nimportant, but employers are _34_ advanced thinking skills from college graduates. If the intellectual worth of a college degree can be _35_ measured, more people will seek higher education — and come out better thinkers.",
+      "word_bank": [
+        {
+          "label": "A",
+          "text": "accurately"
+        },
+        {
+          "label": "I",
+          "text": "predominance"
+        },
+        {
+          "label": "B",
+          "text": "confirm"
+        },
+        {
+          "label": "J",
+          "text": "presuming"
+        },
+        {
+          "label": "C",
+          "text": "demanding"
+        },
+        {
+          "label": "K",
+          "text": "reputation"
+        },
+        {
+          "label": "D",
+          "text": "doubtful"
+        },
+        {
+          "label": "L",
+          "text": "significant"
+        },
+        {
+          "label": "E",
+          "text": "drastically"
+        },
+        {
+          "label": "M",
+          "text": "signify"
+        },
+        {
+          "label": "F",
+          "text": "justify"
+        },
+        {
+          "label": "N",
+          "text": "simultaneously"
+        },
+        {
+          "label": "G",
+          "text": "monopolized"
+        },
+        {
+          "label": "O",
+          "text": "standardized"
+        },
+        {
+          "label": "H",
+          "text": "outcome"
+        }
+      ],
+      "questions": [
+        {
+          "kind": "word_bank_blank",
+          "number": 26,
+          "marker": "_26_",
+          "start": 316,
+          "end": 320
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 27,
+          "marker": "_27_",
+          "start": 401,
+          "end": 405
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 28,
+          "marker": "_28_",
+          "start": 571,
+          "end": 575
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 29,
+          "marker": "_29_",
+          "start": 741,
+          "end": 745
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 30,
+          "marker": "_30_",
+          "start": 806,
+          "end": 810
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 31,
+          "marker": "_31_",
+          "start": 983,
+          "end": 987
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 32,
+          "marker": "32",
+          "start": 1202,
+          "end": 1204
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 33,
+          "marker": "_33_",
+          "start": 1524,
+          "end": 1528
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 34,
+          "marker": "_34_",
+          "start": 1698,
+          "end": 1702
+        },
+        {
+          "kind": "word_bank_blank",
+          "number": 35,
+          "marker": "_35_",
+          "start": 1805,
+          "end": 1809
+        }
+      ]
+    },
+    "paragraph_matching": {
+      "availability": "available",
+      "instructions": {
+        "directions": "In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "paragraph_matching",
+      "section": "B",
+      "title": "The Price of Oil and the Price of Carbon",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Fossil fuel prices are likely to stay “low for long.” Notwithstanding important recent progress in developing renewable fuel sources, low fossil fuel prices could discourage further innovation in, and adoption of, cleaner energy technologies. The result would be higher emissions of carbon dioxide and other greenhouse gases."
+        },
+        {
+          "label": "B",
+          "text": "Policymakers should not allow low energy prices to derail the clean energy transition. Action to restore appropriate price incentives, notably through corrective carbon pricing, is urgently needed to lower the risk of irreversible and potentially devastating effects of climate change. That approach also offers fiscal benefits."
+        },
+        {
+          "label": "C",
+          "text": "Oil prices have dropped by over 60% since June 2014. A commonly held view in the oil industry is that “the best cure for low oil prices is low oil prices.” The reasoning behind this saying is that low oil prices discourage investment in new production capacity, eventually shifting the oil supply curve backward and bringing prices back up as existing oil fields—which can be tapped at relatively low marginal cost—are depleted. In fact, in line with past experience, capital expenditure in the oil sector has dropped sharply in many producing countries, including the United States. The dynamic adjustment to low oil prices may, however, be different this time around."
+        },
+        {
+          "label": "D",
+          "text": "Oil prices are expected to remain lower for longer. The advent of new technologies has added about 4.2 million barrels per day to the crude oil market, contributing to a global over-supply. In addition, other factors are putting downward pressure on oil prices: change in the strategic behavior of the Organization of Petroleum Exporting Countries, the projected increase in Iranian exports, the scaling-down of global demand (especially from emerging markets), the long-term drop in petroleum consumption in the United States, and some displacement of oil by substitutes. These likely persistent forces, like the growth of shale(页岩) oil, point to a “low for long” scenario. Futures markets, which show only a modest recovery of prices to around \\$60 a barrel by 2019, support this view."
+        },
+        {
+          "label": "E",
+          "text": "Natural gas and coal—also fossil fuels—have similarly seen price declines that look to be long-lived. Coal and natural gas are mainly used for electricity generation, whereas oil is used mostly to power transportation, yet the prices of all these energy sources are linked. The North American shale gas boom has resulted in record low prices there. The recent discovery of the giant Zohr gas field off the Egyptian coast will eventually have impact on pricing in the Mediterranean region and Europe, and there is significant development potential in many other places, notably Argentina. Coal prices also are low, owing to over-supply and the scaling-down of demand, especially from China, which burns half of the world's coal."
+        },
+        {
+          "label": "F",
+          "text": "Technological innovations have unleashed the power of renewables such as wind, hydro, solar, and geothermal(地热). Even Africa and the Middle East, home to economies that are heavily dependent on fossil fuel exports, have enormous potential to develop renewables. For example, the United Arab Emirates has endorsed an ambitious target to draw 24% of its primary energy consumption from renewable sources by 2021."
+        },
+        {
+          "label": "G",
+          "text": "Progress in the development of renewables could be fragile, however, if fossil fuel prices remain low for long. Renewables account for only a small share of global primary energy consumption, which is still dominated by fossil fuels—30% each for coal and oil, 25% for natural gas. But renewable energy will have to displace fossil fuels to a much greater extent in the future to avoid unacceptable climate risks."
+        },
+        {
+          "label": "H",
+          "text": "Unfortunately, the current low prices for oil, gas, and coal may provide little incentive for research to find even cheaper substitutes for those fuels. There is strong evidence that both innovation and adoption of cleaner technology are strongly encouraged by higher fossil fuel prices. The same is true for new technologies for alleviating fossil fuel emissions."
+        },
+        {
+          "label": "I",
+          "text": "The current low fossil fuel price environment will thus certainly delay the energy transition from fossil fuel to clean energy sources. Unless renewables become cheap enough that substantial carbon deposits are left underground for a very long time, if not forever, the planet will likely be exposed to potentially catastrophic climate risks."
+        },
+        {
+          "label": "J",
+          "text": "Some climate impacts may already be discernible. For example, the United Nations Children's\n\nFund estimates that some 11 million children in Africa face hunger, disease, and water shortages as a result of the strongest El Niño(厄尔尼诺) weather phenomenon in decades. Many scientists believe that El Niño events, caused by warming in the Pacific, are becoming more intense as a result of climate change."
+        },
+        {
+          "label": "K",
+          "text": "Nations from around the world have gathered in Paris for the United Nations Climate Change Conference, COP 21, with the goal of a universal and potentially legally-binding agreement on reducing greenhouse gas emissions. We need very broad participation to fully address the global tragedy that results when countries fail to take into account the negative impact of their carbon emissions on the rest of the world. Moreover, non-participation by nations, if sufficiently widespread, can undermine the political will of participating countries to act."
+        },
+        {
+          "label": "L",
+          "text": "The nations participating at COP 21 are focusing on quantitative emissions-reduction commitments. Economic reasoning shows that the least expensive way for each country is to put a price on carbon emissions. The reason is that when carbon is priced, those emissions reductions that are least costly to implement will happen first. The International Monetary Fund calculates that countries can generate substantial fiscal revenues by eliminating fossil fuel subsidies and levying carbon charges that capture the domestic damage caused by emissions. A tax on upstream carbon sources is one easy way to put a price on carbon emissions, although some countries may wish to use other methods, such as emissions trading schemes. In order to maximize global welfare, every country's carbon pricing should reflect not only the purely domestic damage from emissions, but also the damage to foreign countries."
+        },
+        {
+          "label": "M",
+          "text": "Setting the right carbon price will therefore efficiently align the costs paid by carbon users with the true social opportunity cost of using carbon. By raising relative demand for clean energy sources, a carbon price would also help align the market return to clean-energy innovation with its social return, spurring the refinement of existing technologies and the development of new ones. And it would raise the demand for technologies such as carbon capture and storage, spurring their further development. If not corrected by the appropriate carbon price, low fossil fuel prices are not accurately signaling to markets the true social profitability of clean energy. While alternative estimates of the damage from carbon emissions differ, and it's especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects."
+        },
+        {
+          "label": "N",
+          "text": "Direct subsidies to research and development have been adopted by some governments but are a poor substitute for a carbon price: they do only part of the job, leaving in place market incentives to over-use fossil fuels and thereby add to the stock of atmospheric greenhouse gases without regard to the collateral(附带的) costs."
+        },
+        {
+          "label": "O",
+          "text": "The hope is that the success of COP 21 opens the door to future international agreement on carbon prices. Agreement on an international carbon-price floor would be a good starting point in that process. Failure to address comprehensively the problem of greenhouse gas emissions,\n\nhowever, exposes all generations, present and future, to incalculable risks."
+        }
+      ],
+      "questions": [
+        {
+          "kind": "paragraph_matching",
+          "number": 36,
+          "statement": "A number of factors are driving down the global oil prices not just for now but in the foreseeable future."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 37,
+          "statement": "Pricing carbon proves the most economical way to reduce greenhouse gas emissions."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 38,
+          "statement": "It is estimated that extreme weather conditions have endangered the lives of millions of African children."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 39,
+          "statement": "The prices of coal are low as a result of over-supply and decreasing demand."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 40,
+          "statement": "Higher fossil fuel prices prove to be conducive to innovation and application of cleaner technology."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 41,
+          "statement": "If fossil fuel prices remain low for a long time, it may lead to higher emissions of greenhouse gases."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 42,
+          "statement": "Fossil fuels remain the major source of primary energy consumption in today's world."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 43,
+          "statement": "Even major fossil fuel exporting countries have great potential to develop renewable energies."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 44,
+          "statement": "Greenhouse gas emissions, if not properly dealt with, will pose endless risks for mankind."
+        },
+        {
+          "kind": "paragraph_matching",
+          "number": 45,
+          "statement": "It is urgent for governments to increase the cost of using fossil fuels to an appropriate level to lessen the catastrophic effects of climate change."
+        }
+      ]
+    },
+    "passage_comprehension": {
+      "availability": "available",
+      "instructions": {
+        "directions": "There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+        "notices": [],
+        "time_limit_minutes": null,
+        "answer_sheet": 2
+      },
+      "kind": "passage_comprehension",
+      "section": "C",
+      "passages": [
+        {
+          "ordinal": 1,
+          "lead_in": "Questions 46 to 50 are based on the following passage.",
+          "question_range": {
+            "start": 46,
+            "end": 50
+          },
+          "passage": "Open data sharers are still in the minority in many fields. Although many researchers broadly agree that public access to raw data would accelerate science, most are reluctant to post the results of their own labours online.\n\nSome communities have agreed to share online — geneticists, for example, post DNA sequences at the GenBank repository(库), and astronomers are accustomed to accessing images of galaxies and stars from, say, the Sloan Digital Sky Survey, a telescope that has observed some 500 million objects — but these remain the exception, not the rule. Historically, scientists have objected to sharing for many reasons: it is a lot of work; until recently, good databases did not exist; grant funders were not pushing for sharing; it has been difficult to agree on standards for formatting data; and there is no agreed way to assign credit for data.\n\nBut the barriers are disappearing, in part because journals and funding agencies worldwide are encouraging scientists to make their data public. Last year, the Royal Society in London said in its report that scientists need to “shift away from a research culture where data is viewed as a private preserve”. Funding agencies note that data paid for with public money should be public information, and the scientific community is recognizing that data can now be shared digitally in ways that were not possible before. To match the growing demand, services are springing up to make it easier to publish research products online and enable other researchers to discover and cite them.\n\nAlthough calls to share data often concentrate on the moral advantages of sharing, the practice is not purely altruistic(利他的). Researchers who share get plenty of personal benefits, including more connections with colleagues, improved visibility and increased citations. The most successful sharers — those whose data are downloaded and cited the most often — get noticed, and their work gets used. For example, one of the most popular data sets on multidisciplinary repository Dryad is about wood density around the world; it has been downloaded 5,700 times. Co-author Amy Zanne thinks that users probably range from climate-change researchers wanting to estimate how much carbon is stored in biomass, to foresters looking for information on different grades of timber. “I’d much prefer to have my data used by the maximum number of people to ask their own questions,” she says. “It’s important to allow readers and reviewers to see exactly how you arrive at your results. Publishing data and code allows your science to be reproducible.”\n\nEven people whose data are less popular can benefit. By making the effort to organize and label files so that others can understand them, scientists become more organized and better disciplined themselves, thus avoiding confusion later on.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 46,
+              "stem": "What do many researchers generally accept?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is imperative to protect scientists' patents."
+                },
+                {
+                  "label": "B",
+                  "text": "Repositories are essential to scientific research."
+                },
+                {
+                  "label": "C",
+                  "text": "Open data sharing is most important to medical science."
+                },
+                {
+                  "label": "D",
+                  "text": "Open data sharing is conducive to scientific advancement."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 47,
+              "stem": "What is the attitude of most researchers towards making their own data public?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Opposed."
+                },
+                {
+                  "label": "B",
+                  "text": "Ambiguous."
+                },
+                {
+                  "label": "C",
+                  "text": "Liberal."
+                },
+                {
+                  "label": "D",
+                  "text": "Neutral."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 48,
+              "stem": "According to the passage, what might hinder open data sharing?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The fear of massive copying."
+                },
+                {
+                  "label": "B",
+                  "text": "The lack of a research culture."
+                },
+                {
+                  "label": "C",
+                  "text": "The belief that research data is private intellectual property."
+                },
+                {
+                  "label": "D",
+                  "text": "The concern that certain agencies may make a profit out of it."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 49,
+              "stem": "What helps lift some of the barriers to open data sharing?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "The ever-growing demand for big data."
+                },
+                {
+                  "label": "B",
+                  "text": "The advancement of digital technology."
+                },
+                {
+                  "label": "C",
+                  "text": "The changing attitude of journals and funders."
+                },
+                {
+                  "label": "D",
+                  "text": "The trend of social and economic development."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 50,
+              "stem": "Dryad serves as an example to show how open data sharing .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "is becoming increasingly popular"
+                },
+                {
+                  "label": "C",
+                  "text": "makes researchers successful"
+                },
+                {
+                  "label": "B",
+                  "text": "benefits sharers and users alike"
+                },
+                {
+                  "label": "D",
+                  "text": "saves both money and labor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ordinal": 2,
+          "lead_in": "Questions 51 to 55 are based on the following passage.",
+          "question_range": {
+            "start": 51,
+            "end": 55
+          },
+          "passage": "Macy's reported its sales plunged $5.2\\%$ in November and December at stores open more than a year, a disappointing holiday season performance that capped a difficult year for a department store chain facing wide-ranging challenges. Its flagship stores in major U.S. cities depend heavily on international tourist spending, which shrank at many retailers due to a strong dollar. Meanwhile, Macy's has simply struggled to lure consumers who are more interested in spending on travel or dining out than on new clothes or accessories.\n\nThe company blamed much of the poor performance in November and December on unseasonably warm weather. “About 80% of our company’s year-over-year declines in comparable sales can be attributed to shortfalls (短缺) in cold-weather goods,” said chief executive Terry Lundgren in a press release. This prompted the company to cut its forecasts for the full fourth quarter.\n\nHowever, it's clear that Macy's believes its troubles run deeper than a temporary aberration (偏离) off the thermometer. The retail giant said the poor financial performance this year has pushed it to begin implementing \\$400 million in cost-cutting measures. The company pledged to cut 600 back-office positions, though some 150 workers in those roles would be reassigned to other jobs. It also plans to offer “voluntary separation” packages to 165 senior executives. It will slash staffing at its fleet of 770 stores, a move affecting some 3,000 employees.\n\nThe retailer also announced the locations of 36 stores it will close in early 2016. The company had previously announced the planned closures, but had not said which locations would be affected. None of the chain's stores in the Washington metropolitan area are to be closed.\n\nMacy's has been moving aggressively to try to remake itself for a new era of shopping. It has plans to open more locations of Macy's Backstage, a newly-developed off-price concept which might help it better compete with ambitious T.J. Maxx. It's also pushing ahead in 2016 with an expansion of Bluemercury, the beauty chain it bought last year. At a time when young beauty shoppers are often turning to Sephora or Ulta instead of department store beauty counters, Macy's hopes Bluemercury will help strengthen its position in the category.\n\nOne relative bright spot for Macy's during the holiday season was the online channel, where it rang up “double-digit” increases in sales and a 25% increase in the number of orders it filled. That relative strength would be consistent with what was seen in the wider retail industry during the early part of the holiday season. While Thanksgiving, Black Friday and Cyber Monday all saw record spending online, in-store sales plunged over the holiday weekend.",
+          "questions": [
+            {
+              "kind": "single_choice",
+              "number": 51,
+              "stem": "What does the author say about the shrinking spending of international tourists in the U.S.?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "It is attributable to the rising value of the U.S. dollar."
+                },
+                {
+                  "label": "B",
+                  "text": "It is a direct result of the global economic recession."
+                },
+                {
+                  "label": "C",
+                  "text": "It reflects a shift of their interest in consumer goods."
+                },
+                {
+                  "label": "D",
+                  "text": "It poses a potential threat to the retail business in the U.S."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 52,
+              "stem": "What does Macy's believe about its problems?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "They can be solved with better management."
+                },
+                {
+                  "label": "B",
+                  "text": "They cannot be attributed to weather only."
+                },
+                {
+                  "label": "C",
+                  "text": "They are not as serious in its online stores."
+                },
+                {
+                  "label": "D",
+                  "text": "They call for increased investments."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 53,
+              "stem": "In order to cut costs, Macy's decided to .",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "cut the salary of senior executives"
+                },
+                {
+                  "label": "C",
+                  "text": "adjust its promotion strategies"
+                },
+                {
+                  "label": "B",
+                  "text": "relocate some of its chain stores"
+                },
+                {
+                  "label": "D",
+                  "text": "reduce the size of its staff"
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 54,
+              "stem": "Why does Macy's plan to expand Bluemercury in 2016?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "To experiment on its new business concept."
+                },
+                {
+                  "label": "B",
+                  "text": "To focus more on beauty products than clothing."
+                },
+                {
+                  "label": "C",
+                  "text": "To promote sales of its products by lowering prices."
+                },
+                {
+                  "label": "D",
+                  "text": "To be more competitive in sales of beauty products."
+                }
+              ]
+            },
+            {
+              "kind": "single_choice",
+              "number": 55,
+              "stem": "What can we learn about Macy's during the holiday season?",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Sales dropped sharply in its physical stores."
+                },
+                {
+                  "label": "B",
+                  "text": "Its retail sales exceeded those of T. J. Maxx."
+                },
+                {
+                  "label": "C",
+                  "text": "It helped Bluemercury establish its position worldwide."
+                },
+                {
+                  "label": "D",
+                  "text": "It filled its stores with abundant supply of merchandise."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Translation": {
+    "availability": "available",
+    "instructions": {
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "notices": [],
+      "time_limit_minutes": 30,
+      "answer_sheet": 2
+    },
+    "tasks": [
+      {
+        "kind": "chinese_to_english",
+        "instructions": {
+          "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 2
+        },
+        "source_language": "zh",
+        "target_language": "en",
+        "source_text": "明朝统治中国276年,被人们描绘成人类历史上治理有序、社会稳定的最伟大的时代之一。这一时期,手工业的发展促进了市场经济和城市化。大量商品,包括酒和丝绸,都在市场销售。同时,还进口许多外国商品,如时钟和烟草。北京、南京、扬州、苏州这样的大商业中心相继形成。也是在明代,由郑和率领的船队曾到印度洋进行了七次大规模探险航行。还值得一提的是,中国文学的四大经典名著中有三部写于明代。"
+      }
+    ]
+  },
+  "id": "CET6-2017-06-1",
+  "solutions": {
+    "origin": "answer_pdf",
+    "items": {
+      "1": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)复现2段having work that is enjoyable,但这是排名第二的重要因素。B)复现2段指出的首要因素(The most important factor...was) having friendly, supportive colleagues。C)虽复现原文earning a competitive salary,但这是最次要的因素之一。D)将supportive colleagues篡改为supportive bosses。"
+      },
+      "2": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A) 31% 在文中未出现,也无从推出。B)与6段20% of employees described themselves as being unhappy契合。C)25%是“感到幸福”的员工比例,D)73%是“认为友好的同事关系是幸福感的首要因素”的员工比例,均与题干不符。"
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)复现原文，“题干+选项”复现8段 People definitely prefer working for smaller organizations or companies。B)、C)、D)分别是从文中“女性(比男性工作幸福感更强)”、“小机构或小公司”、“兼职工(比全职工幸福感更强)”主观臆测的内容。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)、D)利用“兼职工本身性质”干扰。C)复现10段原因分析(workers on part-time contracts...are happier than those who work full time...this is probably due to) a better work-life balance。B)主观推测“职位越高幸福感越强”的可能原因“能获得成就感”，但这是高管感觉，与题干不符。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A)源于6段“这个项目也关乎欧洲……的历史”，但“涉及历史元素”≠“是历史书。”B)、C)利用2段男士提到的“布鲁日音乐厅演出单”干扰，但“做节目单”只是促成作品一个契机，作品本身与音乐或布鲁日市无关。D)对应2段末a large-scale photo project(大型摄影项目)。"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A) 将 2 段 take some pictures for... (为……拍摄照片) 误解为“作画”。B) 用 6 段出现的威尼斯、游客等碎片信息干扰, 但对话中男士未提及自己度假获得作品灵感。C) 是对 2 段中的最初契机 when the concert hall... asked me to take some pictures for a catalogue for a new concert season 的同义改写。D) “比利时沿海地区” 是男士的“工作地点(拍摄地)” 而非“写作的内容”。"
+      },
+      "7": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)是对4段it's a matter of time before the entire European coastline disappears under water的同义改写。B)、D)源自6段提到的历史遗迹(defense constructions、the Normandy D-Day landing site)以及旅游城市(Venice)，但文中并未提到欧洲所有遗产或主要景点都会“消失”。C)关注点在于“海洋污染”，而对话关注点在于“气候灾害/海岸洪水”。"
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "Its waterways... being polluted 和 C) 谓语 attracts 暗示 It 指代某座城市/某个国家, 而 waterways、get around without using boats、use wooden paths 均关乎“交通”, 且前两项都涉及“水路”, 推测题干询问某港口城市/国家的道路情况。"
+      },
+      "9": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)、D)中“做准备(make careful preparations)、极力避免(try hard to avoid)”体现的积极作为与文中“预想失败”的消极悲观相悖。B)强调“分不清重点”，与文中的“紧张、担心”有别。C)同义改写首段 spending too much time anticipating the worst。"
+      },
+      "10": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A) 把Ⅱ段信息“脑海中的想象(mental image)”和“神经系统(the nervous system)”拼接并编造结论。B) 认定“高尔夫球手大都很自信”，与文中例子暗示的“一些球手会预先否认自己”矛盾。C) 把文中“负面预想阻碍发挥”夸大为“所有想象”。D) 是对原文研究发现 a mental image fires the nervous system the same way as actually doing something 的完整复现。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)恰恰是“不要做”综合征的表现,是需要避免的。B)主观臆断“列清单”,文中未提及。C)是对Ⅱ段末建议 focus only on what you want to have happen 的同义改写。D)源于Ⅲ段 look professional and self-assured,但这是新人律师对自己的期望,而非作者给出的一般性建议。"
+      },
+      "12": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)错将结尾处的 positive dress rehearsal(积极预演)误解为“名牌连衣裙”。B)符合文末律师参加判决的结局 did win(确实赢了)。C)、D)均源于Ⅲ段律师的设想,但庭审胜利的结果(did win)暗示其表现与正面想象一致,C)“音量不够”恰恰相反,D)的积极导向正确,但“自信地走动(moving confidently)”≠“展示动态图”。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)、B)总导向为“负”，与开篇研究发现“增加膳食纤维量有助于降低乳腺癌风险”矛盾，其中 A) 曲解Ⅳ段 points to long-standing evidence, B) 把Ⅱ段青少年倾向(不重视膳食纤维)体现的“低估膳食纤维益处”逻辑颠倒。C) 与开篇新发现的内容 help lower the risk of breast cancer 一致。D) 将Ⅳ段高纤维饮食的其他益处“有助于预防糖尿病”歪曲为“有助于糖尿病痊愈”。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "[答案精析] D)。A) 将Ⅲ段中研究的时间跨度“高中及此后二十年”(during high school... for two decades)偷换为“成年早期”。B) 把研究内容“二十年间的饮食习惯”添加“变化”(change)”，从而把研究方向从“一直倾向的饮食习惯”扭曲为“年岁增长如何影响饮食倾向”。C) 将Ⅳ段作者建议“女性应多摄入膳食纤维，男性应更多”(men even more)当成研究内容“男女膳食纤维摄入量的差异”。D) 中的 tracked, eating habits 在Ⅲ段的研究内容中复现，且时间跨度 since their adolescence(青少年时期以来)与 during high school... for two decades(高中及此后的二十年)相符。"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)与IV段发言人对研究发现的解释 reduce...hormone levels、the more fiber you eat, perhaps, a lower level of hormone in your body 表意相同。B)过度推断IV段发言人的建议“女性应多摄入膳食纤维”，这与补充建议“男性应摄入比女性更多的膳食纤维”暗含的“同样对男性有益”矛盾。C)似乎与IV段 a reduced risk of heart disease 契合，但无视题干，事实上选项+题干的潜在逻辑为:因为改善心肌功能，所以研究发现“有助于预防乳腺癌”合理，而这与作者的解释“因为能减少激素，所以有助于预防乳腺癌”不符，且“心肌”只是文中“心脏”的下义词，未直接提及。D)由IV段细节 circulating(针对激素而言)捏造出“膳食纤维有助于血液循环”。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "Observing the changes in marketing."
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "They spent a week studying their own purchasing behavior."
+      },
+      "19": {
+        "answer": "C",
+        "explanation": "表语 the first country 提示 It 指代某个国家, 而其他项复现信息 do away with dirty money、give up paper money 以及谓语内容 helping its banks、trying hard to 暗示题干问及某国金融货币方面的举措 (尤可能为“取消纸币”)。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)源于Ⅳ段“很多旅客未带现金”的事实,而“事实”无需确定可能性。B)源于Ⅲ段开销减少的原因“难以预测要带多少现金”,同样无需确定可能性。C)复现Ⅲ段 if the absence of physical currency... cause a person to spend more。D) affect everyday life 表意宽泛,不能展示文中实验的具体目的。"
+      },
+      "21": {
+        "answer": "C",
+        "explanation": "[答案精析] C)。A)篡改Ⅳ段信息“餐车刷不了信用卡”。B)将“餐车不能刷卡”错误概括为“(列车所有)服务都很差”。C)accepted cash only对应Ⅳ段was not currently accepting credit cards。D)将Ⅲ段“巴雷特在手袋中找到现金”篡改为“丢失现金”。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)同义复现 V 段(budget) by putting money into envelopes。B) 将 V 段“每周花钱(spend)”篡改为“每周取钱(drawing)”。C) day-to-day spending 文中没有提及。D) 干扰点在末段 all on credit cards, 但这里是指“现代人都使用信用卡”, 而选项中 on credit 指“赊账、日后结账”, 文中并未提及上代人是否使用该方式。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)由首段 the baby boomers 膽断出“人口激增”，但此处用以说明如今“婴儿潮”一代步入老年后带来的人口老龄化问题。B)对应Ⅱ段列举的人口问题之一:长期饥饿问题(a billion people are chronically hungry)。C)由Ⅲ段多次复现的 species 一词臆测而来，但文中既未提及“珍稀物种”，更与“灭绝”无关。D)根据主观经验由人口问题联想到环境恶化，而原文未提及环境问题。"
+      },
+      "24": {
+        "answer": "B",
+        "explanation": "[答案精析] B)。A)由Ⅱ段 don't have access to birth control 臆断出后果 overpopulation,但原文并未提及“人口过剩”的问题,更不涉及二者的因果关系。B)精准复现Ⅱ段 About half of all pregnancies globally are unintended。C)由Ⅱ段 control 一词臆测而来,但原文旨在说明女性的愿望是“掌控生育”,而非介绍已发生的现状。D)将Ⅱ段信息“无法实现自主控制生育,避免意外怀孕(control their own fertility)”曲解为“提前终止妊娠(end halfway)”。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "[答案精析] A)。A)与Ⅲ段末句同义, is essential to 对应文中 is the means...to improve...(是实现……的手段), the wellbeing of all species on earth 对应文中 the wellbeing...of yourself...of people ... and of other species ...。B)由Ⅲ段中种群统计学与经济学的密切关系过度引申出该学科为“跨学科研究”。C)利用Ⅱ段 developing countries 进行干扰,但原文介绍的是女性怀孕问题(种群研究解决的众多问题之一),而非种群研究本身。D)由开篇的 taking a course、in college 和末段 the study of、it studies 等信息联想到 postgraduates,但原文未提及该群体。"
+      },
+      "26": {
+        "answer": "L",
+        "explanation": "26. 答案: L) significant"
+      },
+      "27": {
+        "answer": "F",
+        "explanation": "## 27. 答案: F) justify"
+      },
+      "28": {
+        "answer": "E",
+        "explanation": "## 28. 答案: E) drastically"
+      },
+      "29": {
+        "answer": "D",
+        "explanation": "## 29. 答案: D) doubtful"
+      },
+      "30": {
+        "answer": "H",
+        "explanation": "## 30. 答案: H) outcome"
+      },
+      "31": {
+        "answer": "O",
+        "explanation": "## 31. 答案: O) standardized"
+      },
+      "32": {
+        "answer": "B",
+        "explanation": "## 32. 答案: B) confirm"
+      },
+      "33": {
+        "answer": "K",
+        "explanation": "## 33. 答案: K) reputation"
+      },
+      "34": {
+        "answer": "C",
+        "explanation": "## 34. 答案: C) demanding"
+      },
+      "35": {
+        "answer": "A",
+        "explanation": "## 35. 答案: A) accurately"
+      },
+      "46": {
+        "answer": "D",
+        "explanation": "[锁定答案]D)。该从句指出诸多研究者大体接受的观点:对原始数据的公开访问(即开放的数据共享)能增进科学,正确项 D 是对 public access to raw data would accelerate science 的同义改写。"
+      },
+      "47": {
+        "answer": "A",
+        "explanation": "[锁定答案]A)。首段②句即指出“大多数研究者不愿意将其原始数据共享”，第二段虽指出“少数科学团体同意共享”，但随后否定这是一种常规做法，意即大多数群体并不同意共享。正确项 A 是对首段②句 reluctant、第二段②句 objected 的合理概括。"
+      },
+      "48": {
+        "answer": "C",
+        "explanation": "[锁定答案]C)。第二段②句罗列科学家反对数据共享的五项原因/数据共享的五重阻碍:工作量大、数据库质量低、基金资助者不重视、科学家们就“数据如何编码、数据如何归功”难以达成一致,但无一契合选项。第三段先指出数据共享阻碍消失部分源于期刊和资助机构的鼓励敦促,随后以实例力证:伦敦皇家学会称,科学家们需要“改变‘数据被视作私有品’的研究文化”,反向可推知“‘以数据为私有品的研究文化’阻碍了数据共享”,正确项 C 是 a research culture where data is viewed as a private preserve 的同义改写。"
+      },
+      "51": {
+        "answer": "A",
+        "explanation": "[锁定答案] A)。第一段②句指出,梅西百货在美国大城市的旗舰店极度依赖外国游客的消费,而美元强势使得外国游客的旅游消费减少,从而使得各门店销量萎缩。由此可知,美元强势(即美元升"
+      },
+      "54": {
+        "answer": "D",
+        "explanation": "[锁定答案] D)。④句紧承③句“梅西百货计划在2016年扩张Bluemercury”说明原因:现在的年轻顾客更喜欢去美妆连锁店,梅西百货希望以此巩固自己在美妆方面的地位。由此可知,其扩张意在增强自身在美妆产品销售的竞争力。正确项D是对strengthen its position in the category的同义改写。"
+      }
+    },
+    "references": {}
+  }
+}
