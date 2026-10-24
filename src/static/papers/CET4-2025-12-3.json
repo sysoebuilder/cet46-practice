@@ -32,14 +32,709 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
       "notices": [],
       "time_limit_minutes": 25,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has gone up sharply."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has risen because of bird flu."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has been fluctuating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has been consumers’ concern."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They don’t want to abandon their eggs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They don’t know they are forbidden to bring eggs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They don’t know they will be heavily fined."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They don’t declare their eggs during the inspection."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is no longer critical of younger customers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is no longer as noisy and crowded as before."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has banned kids under 10 from dining there."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has implemented a decision to expand business."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is fully aware of frequent customers' feelings."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is entitled to adopt any rules it wants."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It caters to the tastes of different customers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It should announce its decisions online."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A missing pet."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A huge animal skin."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A grown-up snake."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A snake specialist."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "In a government office."
+                  },
+                  {
+                    "label": "C",
+                    "text": "At a local zoo."
+                  },
+                  {
+                    "label": "B",
+                    "text": "In a deserted house."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At a construction site."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Figuring out where it came from."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Protecting its babies against harm."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Curing it of any possible diseases."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Determining how to catch it safely."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The man doesn't agree Hannah is poor."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The man doesn't think she can be a millionaire."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The man doesn't believe what she says."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The man doesn't consider her to be trustworthy."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She no longer has any money left."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She can no longer hold on to her job."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She has been betrayed by her family."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She has been robbed of 5 million Euros."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Fortune."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Harmony."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Family."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Happiness."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Divorce her."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Buy her a more expensive model."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Leave home."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Let the best thing happen to them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He is not outstanding in Science and Math."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is not yet mature enough to live on his own."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He does not have a strong academic record."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He does not like Westwood Elementary School."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is too far away."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It lacks outdoor sports facilities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is newly opened."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has too few first-class teachers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has a beautiful campus."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has a wonderful arts program."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is within walking distance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is helpful to Jake’s breathing problems."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Asking Jake which school he himself prefers to enroll in."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Thinking twice about what is best for Jake’s education next year."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Consulting her mother about which school Jake is to attend."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Sending Jake to the school near the biome of the man's mother."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is time consuming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It relies too much on solid data."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is unfit for crucial issues."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It dulls a leader's sense of urgency."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Depend on digital technology."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Ignore others’ thoughts and ideas."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make assumptions and guesses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Lay emphasis on thinking flexibly."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Maximizing the advantage of available resources."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Discovering new potential markets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Minimizing the possibility of a wrong decision."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Perfecting promotional strategies."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She is one of the world's best-known pianists."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She celebrated her 110th birthday this April."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She moved to the U.S. at a young age."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She is the world’s oldest individual."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Being always active on social media."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Playing the piano from a young age."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Doing regular and vigorous exercise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Following a specific diet every day."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Eating as little as one can possibly manage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Having the ability to forget things selectively."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Figuring out the positive properties of each food item."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Knowing how to remember major events in one's life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The ability to learn."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How teachers perceive them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The first day of school."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Where they sit in the classroom."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They often received close attention from the instructors."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They obtained the highest grade average in their class."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They actually wanted a clear vision of the blackboard."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They scored higher than students sitting behind them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A higher grade average among all students of a class."
+                  },
+                  {
+                    "label": "B",
+                    "text": "A better connection between instructors and students."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A stronger support for a student-centered teaching approach."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A more favorable atmosphere for effective classroom learning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They may experience some unwanted stress."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They may try hard to show their preparedness."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They may receive extra attention from the instructor."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They may feel helpless when called on by the instructor."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -605,8 +1300,129 @@
   },
   "id": "CET4-2025-12-3",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "M",
+        "explanation": null
+      },
+      "27": {
+        "answer": "G",
+        "explanation": null
+      },
+      "28": {
+        "answer": "H",
+        "explanation": null
+      },
+      "29": {
+        "answer": "E",
+        "explanation": null
+      },
+      "30": {
+        "answer": "N",
+        "explanation": null
+      },
+      "31": {
+        "answer": "O",
+        "explanation": null
+      },
+      "32": {
+        "answer": "A",
+        "explanation": null
+      },
+      "33": {
+        "answer": "I",
+        "explanation": null
+      },
+      "34": {
+        "answer": "D",
+        "explanation": null
+      },
+      "35": {
+        "answer": "K",
+        "explanation": null
+      },
+      "36": {
+        "answer": "D",
+        "explanation": null
+      },
+      "37": {
+        "answer": "A",
+        "explanation": null
+      },
+      "38": {
+        "answer": "J",
+        "explanation": null
+      },
+      "39": {
+        "answer": "F",
+        "explanation": null
+      },
+      "40": {
+        "answer": "C",
+        "explanation": null
+      },
+      "41": {
+        "answer": "I",
+        "explanation": null
+      },
+      "42": {
+        "answer": "G",
+        "explanation": null
+      },
+      "43": {
+        "answer": "B",
+        "explanation": null
+      },
+      "44": {
+        "answer": "L",
+        "explanation": null
+      },
+      "45": {
+        "answer": "H",
+        "explanation": null
+      },
+      "46": {
+        "answer": "A",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "C",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "A",
+        "explanation": null
+      },
+      "52": {
+        "answer": "D",
+        "explanation": null
+      },
+      "53": {
+        "answer": "C",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }

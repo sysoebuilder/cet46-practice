@@ -13,6 +13,9 @@ dist
 unpackage
 playwright-report
 test-results
+src/hybrid/html/cet/
+/app/*
+!/app/manifest.json
 *.local
 
 # Python caches and local environments

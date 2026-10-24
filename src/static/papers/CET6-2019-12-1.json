@@ -895,7 +895,7 @@
       "paragraphs": [
         {
           "label": "A",
-          "text": "Have young people never had it so good? Or do they face more challenges than any previous generation? Our current era in the West is one of high wealth. This means minors enjoy material\n\nbenefits and legal protections that would have been the envy of those living in the past. But there is an increasing suspicion that all is not well for our youth. And one of the most popular explanations, among some experts and the popular media, is that excessive “screen time” is to blame. (This refers to all the attention young people devote to their phones, tablets and laptops.) However, this is a contentious theory and such claims have been treated skeptically by some scholars based on their reading of the relevant data."
+          "text": "Have young people never had it so good? Or do they face more challenges than any previous generation? Our current era in the West is one of high wealth. This means minors enjoy material\r\n\r\nbenefits and legal protections that would have been the envy of those living in the past. But there is an increasing suspicion that all is not well for our youth. And one of the most popular explanations, among some experts and the popular media, is that excessive “screen time” is to blame. (This refers to all the attention young people devote to their phones, tablets and laptops.) However, this is a contentious theory and such claims have been treated skeptically by some scholars based on their reading of the relevant data."
         },
         {
           "label": "B",
@@ -911,7 +911,7 @@
         },
         {
           "label": "E",
-          "text": "First, they explain that if a given variable is playing a role in affecting wellbeing, then we should expect any change in that variable to correlate with the observed changes in wellbeing. If not, it is not plausible that the variable is a causal factor. So the researchers looked at time spent in a number of activities that could plausibly be driving the wellbeing decline. Less sport, and fewer\n\nmeetings with peers correlated with lower wellbeing, as did less time reading print media (newspapers) and, surprisingly, less time doing homework. (This last finding would appear to contradict another popular hypothesis that it is our burdening of students with assignments that is causing all the problems.) In addition, more TV watching and more electronic communication both correlated with lower wellbeing. All these effects held true for measures of happiness, life satisfaction and self-esteem, with the effects stronger in the 8th and 10th-graders."
+          "text": "First, they explain that if a given variable is playing a role in affecting wellbeing, then we should expect any change in that variable to correlate with the observed changes in wellbeing. If not, it is not plausible that the variable is a causal factor. So the researchers looked at time spent in a number of activities that could plausibly be driving the wellbeing decline. Less sport, and fewer\r\n\r\nmeetings with peers correlated with lower wellbeing, as did less time reading print media (newspapers) and, surprisingly, less time doing homework. (This last finding would appear to contradict another popular hypothesis that it is our burdening of students with assignments that is causing all the problems.) In addition, more TV watching and more electronic communication both correlated with lower wellbeing. All these effects held true for measures of happiness, life satisfaction and self-esteem, with the effects stronger in the 8th and 10th-graders."
         },
         {
           "label": "F",
@@ -919,11 +919,15 @@
         },
         {
           "label": "G",
-          "text": "So far, so plausible. But the next question is, are the drops in average wellbeing happening at the same time as trends toward increased electronic device usage? It looks like it—after all, 2012 was the tipping point when more than half of Americans began owning smartphones. Twenge and her colleagues also found that across the key years of 2013-16, wellbeing was indeed lowest in years where adolescents spent more time online, on social media, and reading news online, and when more youth in the United States had smartphones. And in a second analysis, they found that where technology went, dips in wellbeing followed. For instance, years with a larger increase in online usage were followed by years with lower wellbeing, rather than the other way around. This does not prove causality, but is consistent with it. Meanwhile, TV use did not show this tracking. TV might make you less happy, but this is not what seems to be driving the recent declines in young people's average happiness.\n\n[ H ] A similar but reversed pattern was found for the activities associated with greater wellbeing. For example, years when people spent more time with friends were better years for wellbeing (and followed by better years). Sadly, the data also showed face-to-face socializing and sports activity had declined over the period covered by the survey."
+          "text": "So far, so plausible. But the next question is, are the drops in average wellbeing happening at the same time as trends toward increased electronic device usage? It looks like it—after all, 2012 was the tipping point when more than half of Americans began owning smartphones. Twenge and her colleagues also found that across the key years of 2013-16, wellbeing was indeed lowest in years where adolescents spent more time online, on social media, and reading news online, and when more youth in the United States had smartphones. And in a second analysis, they found that where technology went, dips in wellbeing followed. For instance, years with a larger increase in online usage were followed by years with lower wellbeing, rather than the other way around. This does not prove causality, but is consistent with it. Meanwhile, TV use did not show this tracking. TV might make you less happy, but this is not what seems to be driving the recent declines in young people's average happiness."
+        },
+        {
+          "label": "H",
+          "text": "A similar but reversed pattern was found for the activities associated with greater wellbeing. For example, years when people spent more time with friends were better years for wellbeing (and followed by better years). Sadly, the data also showed face-to-face socializing and sports activity had declined over the period covered by the survey."
         },
         {
           "label": "I",
-          "text": "There is another explanation that Twenge and her colleagues wanted to address: the impact of the great recession of 2007-2009, which hit a great number of American families and might be\n\naffecting adolescents. The dataset they used did not include economic data, so instead the researchers looked at whether the 2013-16 wellbeing decline was tracking economic indicators. They found some evidence that some crude measures, like income inequality, correlated with changes in wellbeing, but economic measures with a more direct impact, like family income and unemployment rates (which put families into difficulties), had no relationship with wellbeing. The researchers also note that the recession hit some years before we see the beginning of the wellbeing drop, and before the steepest wellbeing decline, which occurred in 2013."
+          "text": "There is another explanation that Twenge and her colleagues wanted to address: the impact of the great recession of 2007-2009, which hit a great number of American families and might be\r\n\r\naffecting adolescents. The dataset they used did not include economic data, so instead the researchers looked at whether the 2013-16 wellbeing decline was tracking economic indicators. They found some evidence that some crude measures, like income inequality, correlated with changes in wellbeing, but economic measures with a more direct impact, like family income and unemployment rates (which put families into difficulties), had no relationship with wellbeing. The researchers also note that the recession hit some years before we see the beginning of the wellbeing drop, and before the steepest wellbeing decline, which occurred in 2013."
         },
         {
           "label": "J",
@@ -1366,35 +1370,123 @@
       },
       "26": {
         "answer": "G",
-        "explanation": "detrimental。[确定词性]空格前为定冠词the,后为名词复数effects,空格词修饰effects,应为名词、形容词、in<sub>g</sub>分词、ed分词。[锁定答案]②句指出不良饮食和缺乏锻炼会增加心脏病、癌症的风险,③句以“也许更糟糕的是(Perhaps worse)”标志递进语义,指出影响不仅限于身体,④句进而解释可能对大脑产生负面(negative)影响。可推知,空格词应与negative同义,表示“负面/不利/有害”之意,G)detrimental正确。"
+        "explanation": null
       },
       "27": {
         "answer": "J",
-        "explanation": "indulging 28.E)deficits。[确定词性]“ 27 in a high-fat and high-sugar diet”在that引导的宾语从句中充当主语,故空27应为in<sub>g</sub>分词、ed分词、名词,且能与in搭配。“learning and memory 28 ”位于动词causin<sub>g</sub>之后,根据cause的用法cause sth可判断,空28应为名词(learning and memory作空格词的修饰成分)。[锁定答案]空格句大意为:新近研究也表明, 高脂高糖的饮食可能对你的大脑产生负面影响,导致/使得学习和记忆功能 。空27应与negative的明显贬义一致,表示“过度摄入/沉迷食用”等意, J)indulging正确。空28所在分句所述对学习和记忆功能的影响体现negative effects on your brain,空28应表示“下降/减退”等意,E)deficits正确。注:cause表“使发生、导致”时通常引出“不好的结果”。"
+        "explanation": null
+      },
+      "28": {
+        "answer": "E",
+        "explanation": null
       },
       "29": {
         "answer": "A",
-        "explanation": "assessed。[确定词性]空格词位于as引导的方式状语从句中,其后为介词 by,空格词应为ed分词。[锁定答案]空格句大意为:多项研究发现,肥胖与认知功能(如……的能力)障碍密切相关,正如由一系列学习和记忆测试 的那样。可见“肥胖与认知功能障碍密切相关”是研究结果,(as by)a range of...tests为具体研究方式,空格词应表示“证明/显示/指向/评估/推测”等意,A)assessed正确。"
+        "explanation": null
       },
       "30": {
         "answer": "L",
-        "explanation": "rapidly。[确定词性]空格词位于由that引导的evidence的同位语从句中,从句基本成分已经完整,空格词应为副词。[锁定答案]空格句大意为:也有越来越多证据表明,饮食引起的认知障碍可能 显露———在几周甚至几天之内。由“几周甚至几天之内”可推知空格词应体现“快速/迅速”之意,L)rapidly正确。"
+        "explanation": null
       },
       "31": {
         "answer": "B",
-        "explanation": "assigned。[确定词性]空格所在的宾语从句谓语为showed impaired attention...,因此判断to a high-fat diet for five days作healthy adults的后置定语,空格词应为形容词、ed分词、in<sub>g</sub>分词,且能与to连用。[锁定答案]空格句大意为:一项研究发现,与低脂饮食的实验对照组相比, 五天高脂饮食组的健康成年人出现了注意力、记忆、情绪受损的情况。可知高脂饮食组是实验人为设置,空格词应表示“被要求/被指派、分派”等意,B)assigned符合要求。注:control此处为科学术语“对照实验,(实验的)对照(物)”,由compared with、low-fat diet可大致推断其意。"
+        "explanation": null
       },
       "32": {
         "answer": "O",
-        "explanation": "similar。[确定词性]空格前主谓宾成分及信息完整:eating...for...days resulted in problems...,故判断 to those...(those后为过去分词observed...所充当的后置定语,故此处为代词,回指前文p<sub>roblems</sub>)为另一信息群,只能为修饰成分,为状语或定语,空格词应为形容词、ed分词、in<sub>g</sub>分词,且能与to连用。[锁定答案]空格句大意为:另一项研究也发现,每天摄入高脂高糖早餐,仅仅四天就导致了学习和记忆问题, 超重和肥胖者身上所发现的那些(问题)。可见全句将“短期高脂高糖饮食的健康者”与“肥胖者”这两类人群相对比,意在说明高脂高糖饮食的危害类似超重。空格词应体现比较意味,O) similar符合要求。"
+        "explanation": null
       },
       "33": {
         "answer": "C",
-        "explanation": "consequences 34.D)conspicuously。[确定词性]空33前为形容词negative,后为介词of,空33应为名词。空34前为动词changed,后以句号结尾,空格词应为名词或副词。[锁定答案]①句指出,健康饮食组和高脂高糖组的体重并无明显差别。②句在承认①句既定事实的基础上展开逻辑推论:那么这表明,就算体重没有变化/超重,不良饮食摄入的负面 也可能出现。空34所在部分“就算体重没有变化”呼应①句“体重并无明显差别”,可知空34应与hu<sub>gely</sub>同义,表示“显著/明显”,D)conspicuously正确。空33则呼应前文所述“负面影响/结果”等,C)consequences符合要求。"
+        "explanation": null
+      },
+      "34": {
+        "answer": "D",
+        "explanation": null
       },
       "35": {
         "answer": "N",
-        "explanation": "regularly。[确定词性]空格前为动词exercise,后以句号结尾,空格词应为名词或副词。[锁定答案]空格词位于“eat well and exercise ”两个动词短语组成的并列结构中,两个短语均应指向健康的生活方式。N)re<sub>gularly</sub>“经常地”与动词exercise共同组成与eat well相近的结构,语法形式和语义方向上均一致,符合要求。"
+        "explanation": null
+      },
+      "36": {
+        "answer": "G",
+        "explanation": null
+      },
+      "37": {
+        "answer": "C",
+        "explanation": null
+      },
+      "38": {
+        "answer": "H",
+        "explanation": null
+      },
+      "39": {
+        "answer": "D",
+        "explanation": null
+      },
+      "40": {
+        "answer": "B",
+        "explanation": null
+      },
+      "41": {
+        "answer": "E",
+        "explanation": null
+      },
+      "42": {
+        "answer": "J",
+        "explanation": null
+      },
+      "43": {
+        "answer": "F",
+        "explanation": null
+      },
+      "44": {
+        "answer": "I",
+        "explanation": null
+      },
+      "45": {
+        "answer": "A",
+        "explanation": null
+      },
+      "46": {
+        "answer": "A",
+        "explanation": null
+      },
+      "47": {
+        "answer": "D",
+        "explanation": null
+      },
+      "48": {
+        "answer": "B",
+        "explanation": null
+      },
+      "49": {
+        "answer": "B",
+        "explanation": null
+      },
+      "50": {
+        "answer": "B",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "A",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

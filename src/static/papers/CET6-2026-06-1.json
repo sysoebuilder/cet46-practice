@@ -895,11 +895,23 @@
       "paragraphs": [
         {
           "label": "A",
-          "text": "For those \"citizens of the world\", the office can be anything from a beach hut in Brisbane to a Starbucks in Seattle, thanks to the growing prevalence of remote-based work. But roaming the globe from café to café is not without its challenges. B) When the average traveller lands in a city like Bangkok, Berlin, or Buenos Aires, their first step might be to drop their bags at their hotel and to log on to TripAdvisor to find out the hours of a popular tourist attraction or the best rooftop bar for happy hour. C) But people like Pieter Levels are not your average traveller. A Dutch website developer, Levels has been living and working nomadically (像游牧民那样) in places like Singapore, Hong Kong, Tokyo and Manila for two years. With just a carry-on backpack, he chooses his location at will, based on a variety of factors —— Wi-Fi speed, average temperature, exotic food and cost of living —— that have little bearing on the work he actually does."
+          "text": "For those \"citizens of the world\", the office can be anything from a beach hut in Brisbane to a Starbucks in Seattle, thanks to the growing prevalence of remote-based work. But roaming the globe from café to café is not without its challenges."
+        },
+        {
+          "label": "B",
+          "text": "When the average traveller lands in a city like Bangkok, Berlin, or Buenos Aires, their first step might be to drop their bags at their hotel and to log on to TripAdvisor to find out the hours of a popular tourist attraction or the best rooftop bar for happy hour."
+        },
+        {
+          "label": "C",
+          "text": "But people like Pieter Levels are not your average traveller. A Dutch website developer, Levels has been living and working nomadically (像游牧民那样) in places like Singapore, Hong Kong, Tokyo and Manila for two years. With just a carry-on backpack, he chooses his location at will, based on a variety of factors —— Wi-Fi speed, average temperature, exotic food and cost of living —— that have little bearing on the work he actually does."
         },
         {
           "label": "D",
-          "text": "Somewhere in his nomadic journey, Levels noticed that there was a growing need to create an online infrastructure for people like himself. That's when he created #nomads, a membership-based chat system which runs on the team communication platform known as Slack. The channel allows users to ask people in their current city the types of practical questions that a tourist would unlikely need to ask. E) Members of the geographically dispersed subculture that Levels is a part of call themselves \"digital nomads\". They are borderless, mostly self-employed remote\n\nworkers who interact with cities in a way that's entirely different from a tourist, but still doesn't quite reach the status of resident. A relatively new phenomenon, there are no hard statistics on the prevalence of digital nomads or location independent workers. But thanks to the growing prevalence of freelance (自由职业的) livelihoods, a global sharing economy and numerous digital tools, the number of people who are able to live this life is growing quickly. And in a rapidly urbanising world, where a major city in Asia increasingly offers the same comforts as one in Europe, many people are reaching the realisation they don't need to stay in one place."
+          "text": "Somewhere in his nomadic journey, Levels noticed that there was a growing need to create an online infrastructure for people like himself. That's when he created #nomads, a membership-based chat system which runs on the team communication platform known as Slack. The channel allows users to ask people in their current city the types of practical questions that a tourist would unlikely need to ask."
+        },
+        {
+          "label": "E",
+          "text": "Members of the geographically dispersed subculture that Levels is a part of call themselves \"digital nomads\". They are borderless, mostly self-employed remote\r\n\r\nworkers who interact with cities in a way that's entirely different from a tourist, but still doesn't quite reach the status of resident. A relatively new phenomenon, there are no hard statistics on the prevalence of digital nomads or location independent workers. But thanks to the growing prevalence of freelance (自由职业的) livelihoods, a global sharing economy and numerous digital tools, the number of people who are able to live this life is growing quickly. And in a rapidly urbanising world, where a major city in Asia increasingly offers the same comforts as one in Europe, many people are reaching the realisation they don't need to stay in one place."
         },
         {
           "label": "F",
@@ -919,7 +931,7 @@
         },
         {
           "label": "J",
-          "text": "But these challenges can often provide an opportunity for nomads to see a side of a city they may not have if they were staying in a luxury hotel for a long weekend.\n\ncan be far more culturally instructive than a trip to the national museum. And because nomads often have to stay where the strongest internet connection is, they tend to spend more time in developing cities compared to the average tourist, who often flees to more touristy destinations soon after landing at the airport."
+          "text": "But these challenges can often provide an opportunity for nomads to see a side of a city they may not have if they were staying in a luxury hotel for a long weekend.\r\n\r\ncan be far more culturally instructive than a trip to the national museum. And because nomads often have to stay where the strongest internet connection is, they tend to spend more time in developing cities compared to the average tourist, who often flees to more touristy destinations soon after landing at the airport."
         },
         {
           "label": "K",
@@ -931,7 +943,7 @@
         },
         {
           "label": "M",
-          "text": "So when you're constantly on the road and don't own any property or have a fixed address, which city do you call home? It's no surprise that many nomads are dual citizens or \"third culture kids,\" who have grown up with a notion of identity that's not tied to nationalism or staying in one place. Levels says that the nomad life has not only changed his notions of citizenship, but the people he chooses to spend time with as well. \"Saying you're a 'citizen of the world' is a super cliché, right? But it's becoming quite true,\" Levels said. \"This global awareness has been the reason I started Nomad List and it's affected who my friends are. It's normal to have dinner now and sit with a Korean girl, a British-Singaporean guy, a Mexican girl and a Nigerian guy. As much as that sounds like a politically correct TV advertisement, it's great that that's the time we're in now.\"\n\nStatements:\n\n1."
+          "text": "So when you're constantly on the road and don't own any property or have a fixed address, which city do you call home? It's no surprise that many nomads are dual citizens or \"third culture kids,\" who have grown up with a notion of identity that's not tied to nationalism or staying in one place. Levels says that the nomad life has not only changed his notions of citizenship, but the people he chooses to spend time with as well. \"Saying you're a 'citizen of the world' is a super cliché, right? But it's becoming quite true,\" Levels said. \"This global awareness has been the reason I started Nomad List and it's affected who my friends are. It's normal to have dinner now and sit with a Korean girl, a British-Singaporean guy, a Mexican girl and a Nigerian guy. As much as that sounds like a politically correct TV advertisement, it's great that that's the time we're in now.\""
         }
       ],
       "questions": [
@@ -1272,8 +1284,129 @@
   },
   "id": "CET6-2026-06-1",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "J",
+        "explanation": null
+      },
+      "27": {
+        "answer": "I",
+        "explanation": null
+      },
+      "28": {
+        "answer": "D",
+        "explanation": null
+      },
+      "29": {
+        "answer": "C",
+        "explanation": null
+      },
+      "30": {
+        "answer": "F",
+        "explanation": null
+      },
+      "31": {
+        "answer": "K",
+        "explanation": null
+      },
+      "32": {
+        "answer": "B",
+        "explanation": null
+      },
+      "33": {
+        "answer": "G",
+        "explanation": null
+      },
+      "34": {
+        "answer": "A",
+        "explanation": null
+      },
+      "35": {
+        "answer": "E",
+        "explanation": null
+      },
+      "36": {
+        "answer": "D",
+        "explanation": null
+      },
+      "37": {
+        "answer": "I",
+        "explanation": null
+      },
+      "38": {
+        "answer": "F",
+        "explanation": null
+      },
+      "39": {
+        "answer": "K",
+        "explanation": null
+      },
+      "40": {
+        "answer": "B",
+        "explanation": null
+      },
+      "41": {
+        "answer": "H",
+        "explanation": null
+      },
+      "42": {
+        "answer": "L",
+        "explanation": null
+      },
+      "43": {
+        "answer": "E",
+        "explanation": null
+      },
+      "44": {
+        "answer": "M",
+        "explanation": null
+      },
+      "45": {
+        "answer": "J",
+        "explanation": null
+      },
+      "46": {
+        "answer": "A",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "C",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "A",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "D",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }

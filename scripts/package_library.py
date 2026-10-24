@@ -19,6 +19,7 @@ WORKSPACE = Path('E:/四六级真题')
 sys.path.insert(0, str(WORKSPACE / "cet_parser"))
 from cet_parser.models import Availability, BatchReport, Diagnostic, ExamPaper
 from cet_parser.answer_models import AnswerDiagnostic, AnswerDocument, ReferenceMaterial
+from question_supplements import read_copies, validate_copies, copy_sections
 
 
 class PackagedAnswer(BaseModel):
@@ -48,6 +49,7 @@ class LibraryEntry(BaseModel):
     excluded_answers: list[int] = Field(default_factory=list)
     answer_text_mismatches: list[int] = Field(default_factory=list)
     answer_diagnostics: list[AnswerDiagnostic] = Field(default_factory=list)
+    listening_reference: str | None = None
 
 
 class LibraryReport(BaseModel):
@@ -191,6 +193,7 @@ def main():
     payloads = {}
     catalog = []
     report_entries = []
+    original = {}
     # Validate the entire batch before writing any app asset.
     for path in sources:
         item = entries[path.resolve()]
@@ -205,9 +208,22 @@ def main():
         entry = LibraryEntry(paper_id=paper_id, source=str(path), parser_status=item.status,
             missing_sections=missing_sections(paper), diagnostics=item.diagnostics)
         data['solutions'] = package_solutions(paper, path.with_name('答案.json'), entry).model_dump(mode='json')
+        original[paper_id] = json.loads(json.dumps(data))
         payloads[paper_id] = data
         catalog.append({key: data[key] for key in ["id", "year", "month", "level", "set_number"]})
         report_entries.append(entry)
+    supplements = read_copies(APP)
+    validate_copies(supplements, original)
+    copy_sections(supplements, payloads)
+    by_id = {entry.paper_id: entry for entry in report_entries}
+    for copy in supplements.listening:
+        entry = by_id[copy.paper_id]
+        entry.listening_reference = copy.reference_paper_id
+        entry.missing_sections = [s for s in entry.missing_sections if s != 'listening']
+        entry.objective_count += 25
+        items = payloads[copy.paper_id]['solutions']['items']
+        entry.answer_count = len(items)
+        entry.explanation_count = sum(bool(item['explanation']) for item in items.values())
     catalog.sort(key=lambda p: (-p["year"], -p["month"], p["level"], p["set_number"]))
     origin_counts = Counter()
     for item in report_entries:

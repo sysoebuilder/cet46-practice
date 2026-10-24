@@ -1380,6 +1380,46 @@
         "answer": "C",
         "explanation": "从指令,这两者之间有着很强的关联。因此答案为 C)。"
       },
+      "26": {
+        "answer": "O",
+        "explanation": null
+      },
+      "27": {
+        "answer": "F",
+        "explanation": null
+      },
+      "28": {
+        "answer": "A",
+        "explanation": null
+      },
+      "29": {
+        "answer": "E",
+        "explanation": null
+      },
+      "30": {
+        "answer": "G",
+        "explanation": null
+      },
+      "31": {
+        "answer": "D",
+        "explanation": null
+      },
+      "32": {
+        "answer": "B",
+        "explanation": null
+      },
+      "33": {
+        "answer": "L",
+        "explanation": null
+      },
+      "34": {
+        "answer": "J",
+        "explanation": null
+      },
+      "35": {
+        "answer": "C",
+        "explanation": null
+      },
       "36": {
         "answer": "I",
         "explanation": "I) 【精析】同义转述题。I) 段定位句提到，在确认大教堂结构安全之前，无法完整清点出火灾造成的损失。题干中的 the total amount of damage 对应原文中的 a complete inventory of the damage，题干中的 when its structure is considered safe 是原文中 until the cathedral structure has been deemed safe 的同义转述，题干中的 can be assessed only when 是对原文中 will not be possible until 的同义转述，故答案为 I)。"
@@ -1415,6 +1455,50 @@
       "44": {
         "answer": "D",
         "explanation": "D) 【精析】同义转述题。D) 段定位句提到,多年来人们一直在争论,到底谁应该出资修复坍塌的楼梯、摇摇欲坠的雕像和破裂的墙壁。题干中的argument 是原文中 dispute 的同义词,题干中 over the years 是原文中 years-long 的同义转述,题干中的 pay for the restoration of 是对原文中 finance restoration work of 的同义转述,故答案为 D)。"
+      },
+      "45": {
+        "answer": "G",
+        "explanation": null
+      },
+      "46": {
+        "answer": "A",
+        "explanation": null
+      },
+      "47": {
+        "answer": "C",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "B",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

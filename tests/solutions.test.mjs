@@ -1,11 +1,25 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { readFileSync, readdirSync } from 'node:fs'
 import { buildSections } from '../src/utils/paper.mjs'
 import { answerReview } from '../src/utils/solutions.mjs'
 
 const paper = JSON.parse(readFileSync(new URL('../src/static/papers/CET6-2017-06-2.json', import.meta.url), 'utf8'))
 const item = buildSections(paper).find(s => s.id === 'reading').items.find(item => paper.solutions.items[item.key])
+
+test('every available reading question has a displayable key in the packaged library', () => {
+  const directory = new URL('../src/static/papers/', import.meta.url)
+  const missing = []
+  for (const file of readdirSync(directory).filter(file => file.endsWith('.json'))) {
+    const data = JSON.parse(readFileSync(new URL(file, directory), 'utf8'))
+    for (const section of buildSections(data).filter(section => ['cloze', 'matching', 'reading'].includes(section.id))) {
+      for (const question of section.items) {
+        if (answerReview(data, section.id, question, '').status === 'missing') missing.push(`${data.id}:${question.number}`)
+      }
+    }
+  }
+  assert.deepEqual(missing, [], `Missing displayable reading keys: ${missing.join(', ')}`)
+})
 
 test('solutions grade by the original question letter and use its exact option text', () => {
   assert.ok(item)

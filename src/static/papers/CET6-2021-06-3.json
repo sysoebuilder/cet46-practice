@@ -32,16 +32,699 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
-      "notices": [
-        "说明:由于2021年6月六级考试全国共考了2套听力,本套真题听力与前2套内容完全一样,只是顺序不一样,因此在本套真题中不再重复出现。"
-      ],
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
       "time_limit_minutes": 30,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Weird."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Efficient."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Tolerant."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Toxic."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are arrogant."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are ambitious."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are ignorant."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are accommodating."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They can think big."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They can break conventions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can air their views."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They can work flexible hours."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can alter people's mindsets."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It enables people to learn and grow."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can lead to new discoveries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is conducive to critical thinking."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He kept looking for the best place to stay."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He had a great time sightseeing and relaxing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He met many tourists from other countries."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He managed to visit a different city each day."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Prioritize what is essential to their best advantage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Stretch out the process in search of the optimal."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Deliberate the consequences that may occur."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Take all relevant factors into consideration."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Time pressure."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tight budget."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Modern technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Fierce competition."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Research as many different options as possible."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Focus on what is practical."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Avoid going over the same options repeatedly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Trust their gut instinct."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is beneficial to poor as well as rich communities."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is conducive to children's future development."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is welcome to parents but not to children."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is not of much help to younger children."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It may put some students in remote areas at a disadvantage."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It gives the majority of students ready access to their teachers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It effectively improves the learning quality of students in rural areas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can bridge the learning gap between kids of different backgrounds."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Diligent students tend to do their homework independently."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The focus of homework should always be on school subjects."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Doing homework exerts a positive effect on kids' personality development."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The benefits of doing homework vary widely from individual to individual."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was something he apologized for later."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was a forty-nine-year plan."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was ridiculed by the New York Times."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was considered visionary."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was of great significance to rocket science."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was somehow delayed about 12 minutes."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was completed in the state of New Mexico."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It failed due to a sudden change of weather."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A laboratory and test range was already set up there."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its climate was ideal for year-round rocket launching."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A weather expert invited him to go there for his mission."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its remote valleys were appealing to him and his family."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He won an award from the US government for his work."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He gained recognition from rocket scientists worldwide."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He was granted over 200 patents in rocket technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He boosted the military strength of the United States."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It requires entrepreneurial experience."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is usually financially rewarding."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can be quite frustrating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can be rather risky."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It contributes to rapid business expansion."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It reduces conflict among team members."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It inspires willingness to make sacrifices."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It encourages creation and innovation."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have unrealistic expectations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They often work without any pay."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Few can find willing investors."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many are idealistic dreamers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have better dietary habits."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They bear fewer social responsibilities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They are born with a stronger ability to socialize."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are better able to survive or handle disease."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have a limited reproductive ability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They keep dividing throughout one's life."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They depend on adequate sleep to thrive."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They strengthen with regular exercise."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The process of ageing can ultimately be brought under control."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Improved health care for the elderly will contribute to longevity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Prevention of heart disease and stroke will increase life expectancy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The resolution of age-related diseases will solve the mystery of ageing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are reluctant to follow instructions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They cannot understand directives."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They fail to answer emails promptly."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They do not show due respect."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They have not been trained to follow the rules."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They want to avoid unnecessary losses."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are not satisfied with the management."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They find their voice go unheeded."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "When they are on good terms with their managers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "When they find their job goals easily attainable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "When they find their supervisors helpful."
+                  },
+                  {
+                    "label": "D",
+                    "text": "When they are financially motivated."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are a useless tool for managers to change employee behavior."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They prove to be a good means for managers to give instructions."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They should be reserved for urgent communication."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are seldom used for sharing confidential data."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -605,6 +1288,46 @@
   "solutions": {
     "origin": "answer_pdf",
     "items": {
+      "26": {
+        "answer": "H",
+        "explanation": null
+      },
+      "27": {
+        "answer": "E",
+        "explanation": null
+      },
+      "28": {
+        "answer": "J",
+        "explanation": null
+      },
+      "29": {
+        "answer": "B",
+        "explanation": null
+      },
+      "30": {
+        "answer": "O",
+        "explanation": null
+      },
+      "31": {
+        "answer": "F",
+        "explanation": null
+      },
+      "32": {
+        "answer": "M",
+        "explanation": null
+      },
+      "33": {
+        "answer": "G",
+        "explanation": null
+      },
+      "34": {
+        "answer": "A",
+        "explanation": null
+      },
+      "35": {
+        "answer": "D",
+        "explanation": null
+      },
       "36": {
         "answer": "G",
         "explanation": "G)【精析】同义转述题。G)段定位句提到,人们正在进行一场社会辩论,主要围绕此话题展开:是否应该允许公众使用或复制名人的肖像?题干中的ongoing debate对应原文中的a societal debate going on,题干中的celebrities是对原文中famous people的同义转述,题干中的recreated是原文中reproduce的同义词,故答案为G)。"
@@ -640,6 +1363,146 @@
       "44": {
         "answer": "E",
         "explanation": "资产,也可以让他们的家人在其去世后凭借此肖像获得收入。题干中的 have their images stored for the benefit of their families 是对原文中这两句话的归纳概括,故答案为 E)。"
+      },
+      "45": {
+        "answer": "I",
+        "explanation": null
+      },
+      "46": {
+        "answer": "D",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "C",
+        "explanation": null
+      },
+      "49": {
+        "answer": "B",
+        "explanation": null
+      },
+      "50": {
+        "answer": "C",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "A",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
+      },
+      "1": {
+        "answer": "D",
+        "explanation": "D)【精析】细节理解题。当男士问女士她的新工作怎么样时，女士先是在句(1-1)中说自己一点儿也不怀念以前所在公司的那种表面上很高效，实际上太过直接和严苛的管理模式，之后又在句(1-2)中说，崇尚直接高于一切的公司文化是有毒的，这种文化下的公司满是聪明的混蛋，逼得员工离职，从内部侵蚀自己。因此答案为D)。"
+      },
+      "2": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(2)中男士说,他所在公司的管理者都很随和,为了不伤感情而忽视错误和问题。因此答案为 D)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)【精析】细节理解题。由句(3)可知,女士所在新公司的员工都有权发表意见、给出反馈、对所讨论的问题表达自己的不同见解。因此答案为 B)。"
+      },
+      "4": {
+        "answer": "C",
+        "explanation": "C)【精析】事实细节题。句(4)中男士说,建设性的反馈是我们学习和成长的方式。因此答案为 C)。"
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "A)【精析】细节理解题。句(5)中男士说,他在假期中总是不断地更换住处,想找一个最完美的地方。因此答案为 A)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(6)中女士说,人们往往会延长做决定的过程,因为人类的本性就是想要寻求最佳选择。因此答案为 B)。"
+      },
+      "7": {
+        "answer": "C",
+        "explanation": "也可以进行定制。句(7-2)中女士说,这就是选择太多的苦恼了,人们总是担心会错过最好的选择。也就是说,现代科技反而使人们更加难以抉择,故答案为C)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)【精析】细节理解题。句(8)中女士说,在更重要的问题上,直觉可能被高估了。当你有30多个选择时,相信自己的直觉是不现实的。做决定最有害的部分就是一遍又一遍地纠结在相同的选择上。因此答案为B)。原文中提到,你需要做的是尽可能多地排除选择,而不是A)项中说的研究尽可能多的不同选择,故排除A)。"
+      },
+      "9": {
+        "answer": "D",
+        "explanation": "D)【精析】细节理解题。由句(9)可知,2006年的研究发现,初中生和高中生的家庭作业量与其未来的学术成就之间存在一定的相关性,但对于年幼的孩子来说,这种关联并不明显。因此答案为D)。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "学生处于不利地位,因为这些地区70%的教师布置的家庭作业需要上网。但三分之一的家庭没有网络连接。专家认为,布置需要互联网才能完成的家庭作业是非常不公平的。因此答案为A)。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "C)【精析】细节理解题。由句(11)可知,德国的一项研究发现,家庭作业可能会对学生的个性产生影响,这表明做家庭作业可能有助于孩子成为更认真、更独立的学习者。也就是说,做作业对孩子的个性发展可以起到积极的作用,故答案为 C)。"
+      },
+      "12": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(12)中提到,1920年1月,《纽约时报》嘲笑了戈达德的火箭可以用于太空探索的理论。因此答案为B)。"
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "sing | 有着重要的意义,故答案为 A)。"
+      },
+      "14": {
+        "answer": "B",
+        "explanation": "B)【精析】事实细节题。句(14)中提到,戈达德咨询了一位气象专家,确定新墨西哥州的气候全年都适合发射火箭。1930年,戈达德和他的家人搬到了该州西南部一个偏远的山谷。因此答案为B)。"
+      },
+      "15": {
+        "answer": "C",
+        "explanation": "C) 【精析】事实细节题。句(15)中提到,戈达德获得了200多项专利,直到1945年去世前,他一直在探索火箭技术。因此答案为C)。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(16)中讲话者说,在一家新企业工作伴随着很多风险,如工作不稳定、责任划分不清以及需要在各领域都能胜任等。因此答案为D)。"
+      },
+      "17": {
+        "answer": "C",
+        "explanation": "这样的企业文化会带来很好的结果，包括流程得到优化、团队凝聚力增强、冲突减少和警觉性变得更加敏锐。因此答案为 C)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B) 【精析】事实细节题。句(18)中提到,很多情况下,在创业初期,创业者自己根本没有什么报酬,钱都用来给员工发工资和支付各种开销了。因此答案为 B)。"
+      },
+      "19": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(19)中提到,关于女性为什么比男性长寿,没有人确切地知道这其中的原因,尽管人们的猜测集中在女性比男性更有能力生存或应对疾病这一观点上。因此答案为D)。"
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "近的研究结果,人类细胞的再生能力有限。因此答案为 A)。"
+      },
+      "21": {
+        "answer": "D",
+        "explanation": "D)【精析】事实细节题。句(21)中提到,很多公共卫生政策制定者认为,找到与年龄相关的疾病的解决方法,就能够得知衰老的本质,从而解开衰老之谜。因此答案为D)。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节理解题。由句(22)可知,让管理者感到懊恼的是,哪怕是最简单的指令,他们也很难让员工听从指挥。因此答案为 A)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "精神，即所需要的努力、花费的时间以及缺乏潜在效率；三、可能有的员工故意或出于固执，就是不想按管理者的要求去做。因此答案为 B)。"
+      },
+      "24": {
+        "answer": "C",
+        "explanation": "从指令,这两者之间有着很强的关联。因此答案为 C)。"
       }
     },
     "references": {}

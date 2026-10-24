@@ -5,10 +5,10 @@ export default defineConfig({
   workers: 1,
   reporter: 'list',
   outputDir: 'E:/四六级真题/work/app-test-results',
-  use: { baseURL: 'http://127.0.0.1:5173', channel: 'chrome', headless: true, locale: 'zh-CN' },
+  use: { baseURL: process.env.CET_BASE_URL || 'http://127.0.0.1:5173', channel: 'chrome', headless: true, locale: 'zh-CN' },
   projects: [
     { name: 'phone', use: { viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true } },
     { name: 'tablet', use: { viewport: { width: 1180, height: 820 }, hasTouch: true } },
   ],
-  webServer: { command: 'npm run dev:h5 -- --port 5173', url: 'http://127.0.0.1:5173', reuseExistingServer: true, timeout: 90000 },
+  webServer: process.env.CET_BASE_URL ? undefined : { command: 'npm run dev:h5 -- --port 5173', url: 'http://127.0.0.1:5173', reuseExistingServer: true, timeout: 90000 },
 })

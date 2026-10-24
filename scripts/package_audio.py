@@ -8,6 +8,7 @@ import shutil
 from pathlib import Path
 
 from pydantic import BaseModel, Field
+from listening_reviews import reviewed_additions
 
 APP = Path(__file__).resolve().parents[1]
 WORKSPACE = Path('E:/四六级真题')
@@ -43,6 +44,7 @@ class AudioMapping(BaseModel):
     asset: AudioAsset | None = None
     reason: str = ''
     verification: VerifiedAudio | None = None
+    review_source: str | None = None
 
 
 class AudioReport(BaseModel):
@@ -103,6 +105,7 @@ def verified_targets(path, record, paper_ids):
 def main():
     catalog = json.loads((APP / 'src/data/catalog.json').read_text(encoding='utf-8'))
     paper_ids = {p['id'] for p in catalog}
+    additions = reviewed_additions(APP)
     proof_path = APP / 'scripts/audio_verified_mappings.json'
     proofs = [VerifiedAudio.model_validate(item) for item in json.loads(proof_path.read_text(encoding='utf-8'))] if proof_path.exists() else []
     proofs_by_source = {str(Path(item.source).resolve()): item for item in proofs}
@@ -153,8 +156,26 @@ def main():
         entry.asset = AudioAsset(src=f'/static/audio/{filename}', sha256=digest, bytes=path.stat().st_size)
         for target in entry.paper_ids:
             mappings[target] = entry.asset.model_dump()
+    # New sources are admitted only after content review and question/file hash checks.
+    for record in additions.recordings:
+        if record.paper_id in mappings:
+            raise ValueError(f'网络录音试图覆盖已接入的原始录音：{record.paper_id}')
+        filename = 'web-' + record.paper_id + record.container
+        target = destination / filename
+        if not target.exists() or hashlib.sha256(target.read_bytes()).hexdigest() != record.sha256:
+            shutil.copyfile(record.source, target)
+        asset = AudioAsset(src=f'/static/audio/{filename}', sha256=record.sha256, bytes=target.stat().st_size)
+        mappings[record.paper_id] = asset.model_dump()
+        entries.append(AudioMapping(source=record.source, paper_id=record.paper_id, paper_ids=[record.paper_id], asset=asset, review_source=record.source_page))
+    # Aliases reuse the same physical asset and never copy or reorder questions.
+    for record in additions.shared_recordings:
+        if record.reference_paper_id not in mappings:
+            raise ValueError(f'录音复用关系冲突或缺少已核对录音：{record.paper_id}')
+        if record.paper_id in mappings and mappings[record.paper_id]['sha256'] != mappings[record.reference_paper_id]['sha256']:
+            raise ValueError(f'录音复用关系试图覆盖另一份录音：{record.paper_id}')
+        mappings[record.paper_id] = dict(mappings[record.reference_paper_id])
     (APP / 'src/data/audio.json').write_text(json.dumps(mappings, ensure_ascii=False, indent=2), encoding='utf-8')
-    report = AudioReport(discovered=len(files), mapped=len(mappings), packaged_recordings=sum(item.asset is not None for item in entries), total_bytes=sum(item.asset.bytes for item in entries if item.asset), files=entries)
+    report = AudioReport(discovered=len(files) + len(additions.recordings), mapped=len(mappings), packaged_recordings=sum(item.asset is not None for item in entries), total_bytes=sum(item.asset.bytes for item in entries if item.asset), files=entries)
     (WORKSPACE / 'work/app-audio-report.json').write_text(report.model_dump_json(indent=2), encoding='utf-8')
     print(f'Audio: {report.packaged_recordings}/{report.discovered} recordings; {report.mapped} papers; {report.total_bytes / 1024 ** 2:.1f} MiB')
 

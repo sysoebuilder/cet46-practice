@@ -36,16 +36,699 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
-      "notices": [
-        "特别说明"
-      ],
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
       "time_limit_minutes": 30,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It focuses exclusively on jazz."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It sponsors major jazz concerts."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has several branches in London."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It displays albums by new music talents."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It originated with cowboys."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its market has now shrunk."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its listeners are mostly young people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It remains as widespread as hip hop music."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its definition is varied and complicated."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is still going through experimentation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is frequently accompanied by singing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its style has remained largely unchanged."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Learn to play them."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Listen to them yourself."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take music lessons."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consult jazz musicians."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She paid her mortgage."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She made a business plan."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She called on the man."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She went to the bank."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Her previous debt hadn't been cleared yet."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She had apparently asked for too much."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Her credit history was considered poor."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She didn't pay her mortgage in time."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Pay a debt long overdue."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Start her own business."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Buy a piece of property."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Check her credit history."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Seek advice from an expert about fundraising."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Ask for smaller loans from different lenders."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Build up her own finances step by step."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Revise her business proposal carefully."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is profitable and environmentally friendly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is well located and completely automated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is small and unconventional."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It is fertile and productive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their urge to make farming more enjoyable."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their desire to improve farming equipment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their hope to revitalize traditional farming."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their wish to set a new farming standard"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It saves a lot of electricity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It causes hardly any pollution."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It needs little maintenance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It loosens soil while weeding."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has turned certain insects into a new food source."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has started to expand business outside the UK."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has imported some exotic foods from overseas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has joined hands with Sainsbury's to sell pet insects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was really unforgettable."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It hurt his throat slightly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was a pleasant surprise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It made him feel strange."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are more tasty than beef, chicken or pork."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are more nutritious than soups and salads."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They contain more protein than conventional meats."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They will soon gain popularity throughout the world."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is environmentally friendly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is a promising industry."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It requires new technology."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It saves huge amounts of labour."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To categorize different types of learners."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To find out what students prefer to learn."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To understand the mechanism of the human brain."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To see if they are inherent traits affecting learning."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was defective."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was misguided."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was original in design."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was thought-provoking."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Auditory aids are as important as visual aids."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Visual aids are helpful to all types of learners."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Reading plain texts is more effective than viewing pictures."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Scientific concepts are hard to understand without visual aids."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Not playing a role in a workplace revolution."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Not benefiting from free-market capitalism."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Not earning enough money to provide for the family."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Not spending enough time on family life and leisure."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People would be working only fifteen hours a week now."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The balance of power in the workplace would change."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Technological advances would create many new jobs."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Most workers could afford to have house of their own."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Loss of workers' personal dignity."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Deprivation of workers' creativity."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Deterioration of workers' mental health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Unequal distribution of working hours."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is the worst managed airport in German history."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is now the biggest and busiest airport in Europe."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has become something of a joke among Germans."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has become a typical symbol of German efficiency."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The city's airports are outdated."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The city wanted to boost its economy."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The city had just been reunified."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The city wanted to attract more tourists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The municipal government kept changing hands."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The construction firm breached the contract."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Shortage of funding delayed its construction."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Problems of different kinds kept popping up."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Tourism industry in Berlin suffers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Huge maintenance costs accumulate."
+                  },
+                  {
+                    "label": "B",
+                    "text": "All kinds of equipment gets rusted."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Complaints by local residents increase."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -617,6 +1300,10 @@
         "answer": "L",
         "explanation": "lonely 28.H)consciousness。[确定词性]空格位于从句because we are 中,空格词可能为名词、形容词、-in<sub>g</sub>分词或-ed分词。空28位于短语attribute sth to sth中,应为名词。[锁定答案]①句指出,我们会因为 27 而将物视为人。②句指出,称自己感到孤独的人比其他人更有可能赋予各种工具 28 。推理知①②句为解释关系,回应上段末句“在某些情形下,我们经常会赋物人性”,即ascribe human traits to everyday objects、see things as human、attribute 28 to various gadgets同义复现,空28应体现人类特性/意识/思想,H)consciousness正确。because we are 27 和feeling isolated 近义,空27应体现孤独/孤单/被排斥,L)lonely正确。"
       },
+      "28": {
+        "answer": "H",
+        "explanation": null
+      },
       "29": {
         "answer": "A",
         "explanation": "alleviate。[确定词性]空格词位于情态动词can之后,名词loneliness之前,应为动词原形。[锁定答案]空格句指出,对物体感到亲近能 孤独。联系②句“人们会因为孤独而赋予物体人类的意识”,可知两句实则是在以In turn(意为as a result of sth in a series of events“作为……的结果”)体现因果顺承:人们因无法忍受孤独而将物体拟人化→对物体产生亲近感、孤独得到缓解。空格处应传递缓解/减轻之意,A)alleviate正确。"
@@ -644,6 +1331,186 @@
       "35": {
         "answer": "K",
         "explanation": "feature。[确定词性]空格词位于see sth as sth结构中,作see的宾语,应为名词。[锁定答案]空格句指出,买方认为这种 提高了汽车的亲切度。this 回指上句信息“汽车护栅像微笑一样向上翘起”,应为“样子/特点”之意,K)feature符合文意。"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": null
+      },
+      "37": {
+        "answer": "C",
+        "explanation": null
+      },
+      "38": {
+        "answer": "J",
+        "explanation": null
+      },
+      "39": {
+        "answer": "D",
+        "explanation": null
+      },
+      "40": {
+        "answer": "G",
+        "explanation": null
+      },
+      "41": {
+        "answer": "A",
+        "explanation": null
+      },
+      "42": {
+        "answer": "I",
+        "explanation": null
+      },
+      "43": {
+        "answer": "E",
+        "explanation": null
+      },
+      "44": {
+        "answer": "B",
+        "explanation": null
+      },
+      "45": {
+        "answer": "K",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "D",
+        "explanation": null
+      },
+      "49": {
+        "answer": "A",
+        "explanation": null
+      },
+      "50": {
+        "answer": "C",
+        "explanation": null
+      },
+      "51": {
+        "answer": "A",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "A",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
+      },
+      "1": {
+        "answer": "A",
+        "explanation": "It focuses exclusively on jazz."
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "It originated with cowboys."
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "Its definition is varied and complicated. A)它的定义复杂多样。B)It is still going through experimentation.B)它仍在实验阶段。C)It is frequently accompanied by singing.C)它常常伴有人声。D)Its style has remained largely unchanged.D)它的风格基本没变。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "Learn to play them."
+      },
+      "5": {
+        "answer": "A",
+        "explanation": "She paid her mortgage."
+      },
+      "6": {
+        "answer": "A",
+        "explanation": "Her previous debt hadn't been cleared yet."
+      },
+      "7": {
+        "answer": "A",
+        "explanation": "Pay a debt long overdue."
+      },
+      "8": {
+        "answer": "A",
+        "explanation": "Seek advice from an expert about fundraising."
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "It is profitable and environmentally friendly."
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "Their urge to make farming more enjoyable."
+      },
+      "11": {
+        "answer": "A",
+        "explanation": "It saves a lot of electricity."
+      },
+      "12": {
+        "answer": "A",
+        "explanation": "It has turned certain insects into a new food source."
+      },
+      "13": {
+        "answer": "A",
+        "explanation": "It was really unforgettable."
+      },
+      "14": {
+        "answer": "A",
+        "explanation": "They are more tasty than beef, chicken or pork."
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "It is environmentally friendly. A) 它是环保的。"
+      },
+      "16": {
+        "answer": "A",
+        "explanation": "To categorize different types of learners."
+      },
+      "17": {
+        "answer": "A",
+        "explanation": "It was defective."
+      },
+      "18": {
+        "answer": "A",
+        "explanation": "Auditory aids are as important as visual aids."
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "Not playing a role in a workplace revolution."
+      },
+      "20": {
+        "answer": "A",
+        "explanation": "People would be working only fifteen hours a week now."
+      },
+      "21": {
+        "answer": "A",
+        "explanation": "Loss of workers' personal dignity. A) 劳动者丧失个人尊严。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "It is the worst managed airport in German history."
+      },
+      "23": {
+        "answer": "A",
+        "explanation": "The city's airports are outdated."
+      },
+      "24": {
+        "answer": "A",
+        "explanation": "The municipal government kept changing hands."
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "Tourism industry in Berlin suffers."
       }
     },
     "references": {}

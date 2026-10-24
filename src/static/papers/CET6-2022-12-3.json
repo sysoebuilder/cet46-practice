@@ -1304,6 +1304,46 @@
   "solutions": {
     "origin": "answer_pdf",
     "items": {
+      "26": {
+        "answer": "K",
+        "explanation": null
+      },
+      "27": {
+        "answer": "A",
+        "explanation": null
+      },
+      "28": {
+        "answer": "L",
+        "explanation": null
+      },
+      "29": {
+        "answer": "B",
+        "explanation": null
+      },
+      "30": {
+        "answer": "N",
+        "explanation": null
+      },
+      "31": {
+        "answer": "M",
+        "explanation": null
+      },
+      "32": {
+        "answer": "I",
+        "explanation": null
+      },
+      "33": {
+        "answer": "F",
+        "explanation": null
+      },
+      "34": {
+        "answer": "J",
+        "explanation": null
+      },
+      "35": {
+        "answer": "C",
+        "explanation": null
+      },
       "36": {
         "answer": "E",
         "explanation": "E)【精析】细节归纳题。E)段第一句提到，古典音乐的听众并不总是那么有礼貌，接着以观众迫切要求乐团重奏第七交响曲的例子来佐证这一观点。该段最后一句又提到，在过去的几十年里，歌剧表演中的许多观众已经放弃了伪装，他们喜欢表演时就会大喊“Bravo(好极了)”。由此可知，题干是对E)段定位句的归纳概括:观众在听古典音乐时经常出现狂热失控的行为。题干中的not a rare occurrence和behaved wildly对应原文中的weren't always so polite，故答案为E)。"
@@ -1339,6 +1379,50 @@
       "44": {
         "answer": "K",
         "explanation": "K)【精析】细节归纳题。K)段定位句指出,乐团向费城学生出售会员资格,他们可以买日程表上每场音乐会的抢购票。乐团的主席瓦尔格莫也提到,每晚大约有300或350个孩子来参加这些音乐会。由此可知,题干是对K)段定位句的归纳概括。题干中的heavily discounted rush tickets对应原文中的\\$25 annual memberships和rush tickets;题干中的young students对应原文中的Philadelphia students和kids;题干中的classical concerts对应原文中的concerts,故答案为K)。"
+      },
+      "45": {
+        "answer": "N",
+        "explanation": null
+      },
+      "46": {
+        "answer": "A",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "C",
+        "explanation": null
+      },
+      "49": {
+        "answer": "B",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "B",
+        "explanation": null
+      },
+      "52": {
+        "answer": "A",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "D",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

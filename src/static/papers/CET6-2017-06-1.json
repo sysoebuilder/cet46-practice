@@ -1440,6 +1440,46 @@
         "answer": "A",
         "explanation": "## 35. 答案: A) accurately"
       },
+      "36": {
+        "answer": "D",
+        "explanation": null
+      },
+      "37": {
+        "answer": "L",
+        "explanation": null
+      },
+      "38": {
+        "answer": "J",
+        "explanation": null
+      },
+      "39": {
+        "answer": "E",
+        "explanation": null
+      },
+      "40": {
+        "answer": "H",
+        "explanation": null
+      },
+      "41": {
+        "answer": "A",
+        "explanation": null
+      },
+      "42": {
+        "answer": "G",
+        "explanation": null
+      },
+      "43": {
+        "answer": "F",
+        "explanation": null
+      },
+      "44": {
+        "answer": "O",
+        "explanation": null
+      },
+      "45": {
+        "answer": "B",
+        "explanation": null
+      },
       "46": {
         "answer": "D",
         "explanation": "[锁定答案]D)。该从句指出诸多研究者大体接受的观点:对原始数据的公开访问(即开放的数据共享)能增进科学,正确项 D 是对 public access to raw data would accelerate science 的同义改写。"
@@ -1452,13 +1492,33 @@
         "answer": "C",
         "explanation": "[锁定答案]C)。第二段②句罗列科学家反对数据共享的五项原因/数据共享的五重阻碍:工作量大、数据库质量低、基金资助者不重视、科学家们就“数据如何编码、数据如何归功”难以达成一致,但无一契合选项。第三段先指出数据共享阻碍消失部分源于期刊和资助机构的鼓励敦促,随后以实例力证:伦敦皇家学会称,科学家们需要“改变‘数据被视作私有品’的研究文化”,反向可推知“‘以数据为私有品的研究文化’阻碍了数据共享”,正确项 C 是 a research culture where data is viewed as a private preserve 的同义改写。"
       },
+      "49": {
+        "answer": "C",
+        "explanation": null
+      },
+      "50": {
+        "answer": "B",
+        "explanation": null
+      },
       "51": {
         "answer": "A",
         "explanation": "[锁定答案] A)。第一段②句指出,梅西百货在美国大城市的旗舰店极度依赖外国游客的消费,而美元强势使得外国游客的旅游消费减少,从而使得各门店销量萎缩。由此可知,美元强势(即美元升"
       },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
       "54": {
         "answer": "D",
         "explanation": "[锁定答案] D)。④句紧承③句“梅西百货计划在2016年扩张Bluemercury”说明原因:现在的年轻顾客更喜欢去美妆连锁店,梅西百货希望以此巩固自己在美妆方面的地位。由此可知,其扩张意在增强自身在美妆产品销售的竞争力。正确项D是对strengthen its position in the category的同义改写。"
+      },
+      "55": {
+        "answer": "A",
+        "explanation": null
       }
     },
     "references": {}

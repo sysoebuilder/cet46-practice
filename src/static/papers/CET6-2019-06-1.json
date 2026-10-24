@@ -1344,6 +1344,10 @@
         "answer": "O",
         "explanation": "## 32. 答案: O) weighing 33. 答案: A) adverse"
       },
+      "33": {
+        "answer": "A",
+        "explanation": null
+      },
       "34": {
         "answer": "D",
         "explanation": "## 34. 答案: D) contrary"
@@ -1351,6 +1355,46 @@
       "35": {
         "answer": "C",
         "explanation": "35. 答案: C) clinical"
+      },
+      "36": {
+        "answer": "M",
+        "explanation": null
+      },
+      "37": {
+        "answer": "G",
+        "explanation": null
+      },
+      "38": {
+        "answer": "D",
+        "explanation": null
+      },
+      "39": {
+        "answer": "I",
+        "explanation": null
+      },
+      "40": {
+        "answer": "C",
+        "explanation": null
+      },
+      "41": {
+        "answer": "H",
+        "explanation": null
+      },
+      "42": {
+        "answer": "F",
+        "explanation": null
+      },
+      "43": {
+        "answer": "O",
+        "explanation": null
+      },
+      "44": {
+        "answer": "A",
+        "explanation": null
+      },
+      "45": {
+        "answer": "K",
+        "explanation": null
       },
       "46": {
         "answer": "B",
@@ -1371,6 +1415,14 @@
       "50": {
         "answer": "C",
         "explanation": "[锁定答案]C)。末段指出:并非只有学术界在告诫人们AI的潜在威胁及益处,科技行业的一些先驱人物(包括知名企业家埃隆·马斯克)也已对超级智能AI的潜在风险表达了担忧。C符合此意。"
+      },
+      "51": {
+        "answer": "B",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
       },
       "53": {
         "answer": "D",

@@ -1396,91 +1396,123 @@
       },
       "26": {
         "answer": "E",
-        "explanation": "详解:动词辨析题。空格前有系动词 was，因此空格处应填入形容词作表语或动词的分词形式与 was 一起作谓语，备选项中的两个形容词均不符合句意，因此应填入动词的分词形式。本句意为，当这座大楼于 1962 年首次\\_\\_\\_\\_时，它的外墙都是薄薄的方形石板。接下来提到了“翻新”（renovation），由此推知，1962 年是首次建造，故答案为E)constructed 建造，构筑。备选项中的其他动词均不符合文意，故排除。"
+        "explanation": null
       },
       "27": {
         "answer": "O",
-        "explanation": "## 27.答案:O)undertaken 开始进行，着手做"
+        "explanation": null
       },
       "28": {
         "answer": "F",
-        "explanation": "详解:动词辨析题。空格前是名词词组 the building’s owners，空格后仍然是名词词组 the solar panel company，句子缺少谓语，因此空格处应填入动词。本句意为，在这次翻新期间，大楼的所有者 CIS 公司 \\_太阳能电池板公司 Solarcentury。下一句提到，他们就用太阳能电池板覆盖整幢大楼达成一致。由此推断，CIS 公司向 Solarcentury公司咨询了相关事情，两家公司商量后达成一致，故答案为 F)consulted 咨询，商量。由时间状语 during this renovation可知，空格处应填入动词的过去式，而且是及物动词，因此排除 D)competed、M)range 和 N)scale；又因为 Solarcentury这家公司一直存在，并不是新发现的，所以排除 H)discovered。"
+        "explanation": null
       },
       "29": {
         "answer": "C",
-        "explanation": "29.答案:C)collection 收集，采集，组群"
+        "explanation": null
+      },
+      "30": {
+        "answer": "N",
+        "explanation": null
+      },
+      "31": {
+        "answer": "I",
+        "explanation": null
       },
       "32": {
         "answer": "K",
-        "explanation": "32.答案:K)necessarily 必然，必定"
+        "explanation": null
       },
       "33": {
         "answer": "L",
-        "explanation": "详解:名词辨析题。空格前是介词 by，后面应该跟名词词组，因此空格处应填入名词。此处意为，但是它产生的污染确实比通过化石燃料来\\_\\_\\_\\_\\_\\_ \\_能源所造成的污染少。由句意可知，这里是对比两种方式产生能源的污染情况，因此答案为 L)production 生产，产生。energy 是从 fossil fuels 中得来的，因此空格处应填入由动词转化来的名词，其余备选名词均不符合，故排除。"
+        "explanation": null
       },
       "34": {
         "answer": "A",
-        "explanation": "详解:形容词辨析题。空格前是动词 get，可以填入名词作宾语，但备选名词均不符合此处句意，而 get 也可以作为系统词，后面跟形容词作表语，因此此处应填入形容词。此处意为，随着太阳能电池板变得 \\_\\_\\_\\_，世界上有可能会看到更多被太阳能电池板覆盖的摩天大楼。本段第一句提到，这种绿色建筑未必划算，而本句又提到以后会有更多太阳能电池板覆盖的摩天大楼，说明太阳能电池板的成本会降低，故答案为 A)cheaper 更便宜。太阳能电池板本身就是清洁能源，不可能“更清洁”，因此排除 B)cleaner。"
+        "explanation": null
       },
       "35": {
         "answer": "J",
-        "explanation": "详解:名词辨析题。空格前是介词 of，后面应该跟名词或动名词，备选项中没有动名词，因此空格处应填入名词。本句意为，想象这样一个世界:建造最高的摩天大楼不再是一个关于 的竞赛，而是一个关于收集最多太阳能的竞赛。由空格前的 tallest 可知，摩天大楼比的是高度，因此本题答案为 J) height 高度。其余备选名词均不符合此处句意，故排除。"
+        "explanation": null
       },
       "36": {
         "answer": "K",
-        "explanation": "详解:K)段第三、四句指出，佐治亚南方大学一名 20 岁的大三学生这一年在书本和程序的访问代码上花费了 900美元。“那可是两个月的房租啊，”她说道。由此可知，学生每年在访问代码上花费可能相当于两个月的房租。题干是对定位句的同义转述，故答案为 K)。"
+        "explanation": null
       },
       "37": {
         "answer": "D",
-        "explanation": "详解:D)段第一句提到，“说起这些访问代码，我们认为这是教科书垄断的新形式，是一种把学生锁在这个系统中的新方式，”美国公共利益研究集团高等教育倡导者伊桑·斯奈克对 BuzzFeed 新闻说道。题干中的 tie the stydents to the digital system 对应原文中的 lock students around this system，故答案为 D)。"
+        "explanation": null
+      },
+      "38": {
+        "answer": "M",
+        "explanation": null
+      },
+      "39": {
+        "answer": "G",
+        "explanation": null
+      },
+      "40": {
+        "answer": "B",
+        "explanation": null
+      },
+      "41": {
+        "answer": "L",
+        "explanation": null
+      },
+      "42": {
+        "answer": "H",
+        "explanation": null
+      },
+      "43": {
+        "answer": "F",
+        "explanation": null
       },
       "44": {
         "answer": "J",
-        "explanation": "详解:定位句提到，亨特老师指出，“线上系统或许能让我的生活轻松很多，但是我觉得好像自己不再有控制权。课上讨论才是我的专业知识最能带给学生益处的地方。”由此推断，线上系统可能会剥夺老师们充分利用专业知识为学生服务的机会。题干中的 deprive…of opportunities to 是对原文中 giving up control 的同义转述，故答案为 J)。"
+        "explanation": null
       },
       "45": {
         "answer": "C",
-        "explanation": "详解:C)段首句提到，但批评家认为这些数字访问代码代表着和教科书生意相同的寻利观念。由此可知，数字访问代码受到批判是因为它们和教科书生意一样都寻求利益。题干中的 criticized 和 profit-driven 分别对应原文中的critics 和 profit-seeking，题干是对定位句的同义转述，故答案为 C)。"
+        "explanation": null
       },
       "46": {
         "answer": "A",
-        "explanation": "详解:事实细节题。文章首段第三、四句指出，如果你有时健忘，你很可能不需要担心。因为痴呆症的症状与年龄相关的记忆缺失的症状有很明显的区别。由此可见，健忘并不一定就是痴呆症的症状，故答案为 A。"
+        "explanation": null
       },
       "47": {
         "answer": "C",
-        "explanation": "详解:事实细节题。文章第三段指出，大脑像身体的其它部位一样衰老。某些部位会萎缩，尤其是大脑中那些对学习、记忆和计划十分重要的区域。脑细胞的变化会影响大脑不同区域之间的交流。由此可见，大脑中不同区域间的交流会逐渐衰退，故答案为 C。"
+        "explanation": null
       },
       "48": {
         "answer": "A",
-        "explanation": "详解:事实细节题。文章第五段指出，当你忘记整个经历，那就是“一面红色的信号旗，意味着可能存在更严重的问题。”忘记如何操作一个熟悉的物品，如微波炉，或是忘记如何开车到一个你以前拜访过很多次的朋友家时，这也是大脑出现问题的征兆。选项 A)中的 do one’s daily routines 是对原文中 operate a familiar object like a microwave oven 和 drive to the house of a friend you’ve visited many times before 的概括，故答案为 A。"
+        "explanation": null
       },
       "49": {
         "answer": "C",
-        "explanation": "详解:事实细节题。第七段前两句提到，你不必自己弄明白这些事情。达夫勒建议人们去看医生，检查药物、健康问题和其它会影响记忆的因素。由此可见，当出现严重的记忆缺失症状时，人们应该寻求专业人士的帮助，故答案为 C。"
+        "explanation": null
       },
       "50": {
         "answer": "D",
-        "explanation": "详解:推理判断题。文章最后一段指出，读书、看电影、培养新的兴趣或活动都可以迫使一个人用新奇的方式思考。换言之，就是让大脑忙碌和运转起来。同样，身体也要动起来，因为锻炼是著名的大脑助推器。由此推断，要应对记忆的缺失，人们需要在精神和身体两个方面保持积极状态，故答案为 D。"
+        "explanation": null
       },
       "51": {
         "answer": "B",
-        "explanation": "详解:推理判断题。第二段首句指出，史密森学会档案馆的负责人艾菲·卡普萨里斯说:“我们在二十世纪七十年代中期发现这封信丢失了。”该段末句指出，“这个实习生很有可能在没人看管时又将这封信拿走了。”由此可见，这封信被盗了不止一次，故答案为 B)。"
+        "explanation": null
       },
       "52": {
         "answer": "A",
-        "explanation": "详解:事实细节题。文章第三段第三、四句指出，艺术品犯罪小组找回了这封信，但是却不能提起诉讼，因为已经过了诉讼的时限。联邦调查局与档案馆密切合作最终确定该信件为真迹，故答案为 A)。"
+        "explanation": null
       },
       "53": {
         "answer": "D",
-        "explanation": "详解:事实细节题。第四段提到，达尔文写这封信是为了感谢美国的一位地质学家费迪纳得·万德韦尔·海登博士，感谢他给自己寄送一个区域地质研究的复印件。由此可见，这封信是一封感谢信。故答案为 D。"
+        "explanation": null
       },
       "54": {
         "answer": "D",
-        "explanation": "详解:实施细节题。文章第五段第四句提到，将它修复后，档案馆会拍摄数码照片并将其上传至网上为大家所用。由此可见，档案馆修复文件后，会将这封信的电子版本上传至网络，为大众所用。故答案为 D。"
+        "explanation": null
       },
       "55": {
         "answer": "B",
-        "explanation": "详解:实施细节题。最后一段第二句提到，自从二十世纪七十年代以来，档案馆流程已经发生了巨大的变化，故答案为 B。"
+        "explanation": null
       }
     },
     "references": {}

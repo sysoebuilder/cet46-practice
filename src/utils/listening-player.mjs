@@ -1,9 +1,16 @@
+import { getAppStorage, setAppStorage, bundledResource } from './native-runtime.js'
+import { createAudioContext } from './audio-context.mjs'
 export function formatAudioTime(value) {
   const seconds = Number.isFinite(value) && value > 0 ? Math.floor(value) : 0
   return `${String(Math.floor(seconds / 60)).padStart(2, '0')}:${String(seconds % 60).padStart(2, '0')}`
 }
 
-export function createListeningPlayer({ source, paperId, api = uni, onChange = () => {} }) {
+const defaultAudioApi = {
+  getStorageSync: getAppStorage,
+  setStorageSync: setAppStorage,
+  createInnerAudioContext: createAudioContext,
+}
+export function createListeningPlayer({ source, paperId, api = defaultAudioApi, onChange = () => {} }) {
   const key = `cet:audio:v1:${paperId}`
   const state = { position: 0, duration: 0, playing: false, loading: false, error: false, saveFailed: false }
   let disposed = false, pendingStart = null, lastSaved = 0, readFailed = false
@@ -50,7 +57,7 @@ export function createListeningPlayer({ source, paperId, api = uni, onChange = (
     save(); emit()
   })
   audio.onError(() => { if (disposed) return; state.error = true; state.playing = false; state.loading = false; emit() })
-  audio.src = source.src
+  audio.src = bundledResource(source.src)
   emit()
   return {
     play() {

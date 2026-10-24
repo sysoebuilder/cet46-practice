@@ -1399,6 +1399,10 @@
         "answer": "D",
         "explanation": "generated 31. I) particles。[确定词性](depend on 的)宾语从句 how...is 30 中缺少谓语,空格词可能为 ing 分词、ed 分词。空 31 前为形容词 tiny、airborne,后为状语从句 as they wear out,空格词应为名词。[锁定答案] 空格句指出,电动汽车 (they 回指 electric cars)产生的污染排放水平取决于驱动它们的电力如何 30 ,刹车、轮胎、道路磨损时也会产生微小的大气 31 。可见,空格句意在解释上句“转向电动汽车≠无污染城市”的原因:电动汽车污染水平受电的影响,刹车、轮胎、道路磨损也会产生大气污染。再结合常识“发电方式不同,大气污染程度不同;刹车、轮胎等磨损时会产生污浊空气、粉尘等”可知,空 30 应表“生产、制造”等语义,空 31 应传递“污染/尘埃/雾霾”等语义,故两空分别选 D)、I)。"
       },
+      "31": {
+        "answer": "I",
+        "explanation": null
+      },
       "32": {
         "answer": "H",
         "explanation": "opting。[确定词性] 空格所在状语从句主干结构为: people(主语)+are+\\_\\_\\_\\_+for other means(介宾短语),空格词可能为形容词(主系表结构)、ing 分词(进行时态)、ed 分词(被动语态),且能与 for 搭配。[锁定答案] 空格句先描述现象“发达国家的汽车使用量正在减少”,随后以两个状语从句 as...while...especially 递进呈现原因:更多的人搬到市中心→尤其是年轻人\\_\\_\\_\\_其他出行方式。前一项原因指向“开车通勤的客观需求减少”,后一项原因应指向“选择开车的主观意愿下降”,空格词应表示“选择/倾向/偏爱(除开车以外的其他出行方式)”,H)正确。"
@@ -1407,9 +1411,93 @@
         "answer": "J",
         "explanation": "peak 34. O) trend。[确定词性] 空 33 前为形容词性物主代词 its, 后为 and + will decline (与 has reached 为并列谓语), 空格词应为名词 (作 reached 的宾语)。空 34 前为“固定短语 catch up with + this”, 后为逗号, 空格词可能为名词 (this 34 作 with 的宾语)、副词 (this 作 with 的宾语)。[锁定答案] 空格句以 but、instead of 传递句内双重转折“研究人员早已开始猜测机动车使用量是否已达到 33 并即将下降, 但是交通规划者尚未跟上这一 34 , 反而还铺设新道路以期解决拥堵”。由“铺设新路与汽车用量减少之间的矛盾对立”可推知交通规划者未认清现实状况/趋势/现象等, O) 符合空 34 语境; 反推可知, 研究人员早已意识到汽车用量达到极限/瓶颈/峰值等, B) crown 通常指“(某物的)顶部, 顶端”, 而 J) peak 则通常指向一个点/数值的“峰值”, 故 J) 符合空 33 语境。"
       },
+      "34": {
+        "answer": "O",
+        "explanation": null
+      },
       "35": {
         "answer": "L",
         "explanation": "simply。[确定词性] 空格所在宾语从句 that doubling... double the traffic 中主谓宾成分已完整,空格词应为副词修饰其后 double。[锁定答案] 末段③④句分别说明英、美两国道路使用情况:伦敦新建 M25 环形高速公路很快挤满更多车辆;美国每拓宽一倍道路会\\_\\_\\_\\_交通量增加一倍。可见,两句意在以发达国家现实经验说明②句隐藏文意“铺设新道路解决交通堵塞这种思路是错误的:不仅无力解决,还增加交通流量”,空格词应表“只会/反而”以强调“新建道路于解决拥堵毫无用处/适得其反”之意,故 L) 正确。"
+      },
+      "36": {
+        "answer": "C",
+        "explanation": null
+      },
+      "37": {
+        "answer": "E",
+        "explanation": null
+      },
+      "38": {
+        "answer": "A",
+        "explanation": null
+      },
+      "39": {
+        "answer": "F",
+        "explanation": null
+      },
+      "40": {
+        "answer": "M",
+        "explanation": null
+      },
+      "41": {
+        "answer": "G",
+        "explanation": null
+      },
+      "42": {
+        "answer": "B",
+        "explanation": null
+      },
+      "43": {
+        "answer": "H",
+        "explanation": null
+      },
+      "44": {
+        "answer": "D",
+        "explanation": null
+      },
+      "45": {
+        "answer": "L",
+        "explanation": null
+      },
+      "46": {
+        "answer": "C",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "B",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "D",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

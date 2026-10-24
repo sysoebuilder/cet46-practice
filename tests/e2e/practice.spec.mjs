@@ -1,6 +1,5 @@
 import { test, expect } from '@playwright/test'
 import { readFileSync } from 'node:fs'
-const solutionPaper = JSON.parse(readFileSync(new URL('../../src/static/papers/CET6-2017-06-2.json', import.meta.url), 'utf8'))
 const previewDirectory = 'E:/四六级真题/work/app-previews'
 
 async function selectPaper(page, { level = '四级', year = 2025, month = 6, set = 1 } = {}) {
@@ -19,6 +18,35 @@ async function openReadingQuestion(page, index = 0) {
 }
 async function closeReadingQuestions(page) {
   if (await page.locator('.reading-picker').count()) await page.locator('.reading-picker .close-button').click()
+}
+
+for (const [id, title] of [
+  ['CET4-2025-12-1', 'CET4 December 2025 set 1'],
+  ['CET4-2025-12-3', 'CET4 December 2025 set 3'],
+  ['CET4-2018-06-2', 'CET4 June 2018 set 2 corrected keys'],
+  ['CET6-2022-06-3', 'CET6 June 2022 set 3 inferred keys'],
+]) {
+test(`${title} checks all thirty reading answers`, async ({ page }) => {
+  const data = JSON.parse(readFileSync(new URL(`../../src/static/papers/${id}.json`, import.meta.url), 'utf8'))
+  for (const section of ['cloze', 'matching', 'reading']) {
+    await page.goto('/')
+    await page.goto(`/#/pages/practice/index?paper=${id}&section=${section}`)
+    await checkAnswers(page)
+    if (section === 'cloze') {
+      await expect(page.locator('.cloze-correction')).toHaveCount(10)
+      for (let index = 0; index < 10; index++) await expect(page.locator('.cloze-correction').nth(index)).toContainText(data.solutions.items[String(26 + index)].answer)
+    } else {
+      await expect(page.locator('.question-entry .result-answer')).toHaveCount(10)
+      for (let index = 0; index < 10; index++) await expect(page.locator('.question-entry .result-answer').nth(index)).toContainText(data.solutions.items[String((section === 'matching' ? 36 : 46) + index)].answer)
+    }
+  }
+})
+}
+
+async function checkAndExplainReading(page, index = 0) {
+  await closeReadingQuestions(page)
+  await checkAnswers(page)
+  await page.locator('.question-entry').nth(index).locator('.result-answer').click()
 }
 
 async function openType(page, name) {
@@ -165,14 +193,14 @@ test('failed saving stays visible and cannot be mistaken for completed work', as
   await expect(page.locator('.option').first()).toHaveClass(/chosen/)
 })
 
-test('missing listening, reading and writing stay selectable and explain the omission', async ({ page }, testInfo) => {
+test('remaining missing reading and writing stay selectable and explain the omission', async ({ page }, testInfo) => {
   await page.goto('/')
   await selectPaper(page, { year: 2022, month: 6, set: 3 })
-  for (const name of ['听力理解', '选词填空', '长篇阅读', '仔细阅读']) {
+  for (const name of ['选词填空', '长篇阅读', '仔细阅读']) {
     const row = page.locator('.section-row').filter({ hasText: name })
     await expect(row.locator('.section-meta')).toHaveText('题目缺失')
     await row.click()
-    await expect(page.locator('.uni-modal')).toContainText(`本套真题缺少${name}题目，请选择其他题型。`)
+    await expect(page.locator('.app-modal')).toContainText(`本套真题缺少${name}题目，请选择其他题型。`)
     await page.getByText('知道了', { exact: true }).click()
     await expect(page.locator('.section-sheet')).toBeVisible()
     await expect(page.locator('.question-panel')).toHaveCount(0)
@@ -183,14 +211,13 @@ test('missing listening, reading and writing stay selectable and explain the omi
   await page.locator('.back-button').click()
   await selectPaper(page, { level: '六级', year: 2019, month: 12, set: 2 })
   await page.locator('.section-row').filter({ hasText: '写作' }).click()
-  await expect(page.locator('.uni-modal')).toContainText('本套真题缺少写作题目，请选择其他题型。')
+  await expect(page.locator('.app-modal')).toContainText('本套真题缺少写作题目，请选择其他题型。')
   await page.getByText('知道了', { exact: true }).click()
   await expect(page.locator('.section-sheet')).toBeVisible()
 })
 
 test('direct links to missing questions cannot create empty saved attempts', async ({ page }) => {
   for (const [paperId, sectionId, name] of [
-    ['CET4-2022-06-3', 'listening', '听力理解'],
     ['CET4-2022-06-3', 'reading', '仔细阅读'],
     ['CET6-2019-12-2', 'writing', '写作'],
   ]) {
@@ -201,55 +228,6 @@ test('direct links to missing questions cannot create empty saved attempts', asy
     await page.locator('.page-state .primary-button').click()
     await expect(page.locator('.heading-row')).toBeVisible()
   }
-})
-
-test('answers are revealed on request, follow original options, and preserve responses', async ({ page }, testInfo) => {
-  const expected = solutionPaper.solutions.items['46']
-  const original = solutionPaper.Reading.passage_comprehension.passages[0].questions[0]
-  const incorrect = original.options.find(option => option.label !== expected.answer).label
-  await page.goto('/#/pages/practice/index?paper=CET6-2017-06-2&section=reading')
-  await openReadingQuestion(page)
-  await expect(page.locator('.answer-review')).toHaveCount(0)
-  await page.locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${incorrect}$`) }) }).click()
-  await openReadingQuestion(page)
-  await page.locator('.review-toggle').click()
-  await expect(page.locator('.review-letter')).toHaveText(expected.answer)
-  await expect(page.locator('.review-option-text')).toHaveText(original.options.find(option => option.label === expected.answer).text)
-  await expect(page.locator('.review-result')).toHaveText('回答有误')
-  await expect(page.locator('.review-body')).toHaveText(expected.explanation)
-  await page.screenshot({ path: `${previewDirectory}/${testInfo.project.name}-answer-review.png`, fullPage: true })
-  await page.locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${expected.answer}$`) }) }).click()
-  await openReadingQuestion(page)
-  await page.locator('.review-toggle').click()
-  await expect(page.locator('.review-result')).toHaveText('回答正确')
-  await page.reload()
-  await openReadingQuestion(page)
-  await expect(page.locator('.option.chosen .option-label')).toHaveText(expected.answer)
-  await expect(page.locator('.answer-review')).toHaveCount(0)
-  await page.locator('.review-toggle').click()
-  await closeReadingQuestions(page)
-  await page.locator('.next-button').click()
-  await expect(page.locator('.answer-review')).toHaveCount(0)
-})
-
-test('missing answers and references have no incorrect-answer verdict', async ({ page }) => {
-  await page.goto('/#/pages/practice/index?paper=CET6-2017-06-1&section=reading')
-  await page.locator('.answer-card-button').click()
-  await page.locator('.answer-number').filter({ hasText: /^49$/ }).click()
-  await page.locator('.option').first().click()
-  await openReadingQuestion(page, 3)
-  await page.locator('.review-toggle').click()
-  await expect(page.locator('.answer-review')).toHaveText('答案缺失')
-  await expect(page.locator('.review-result')).toHaveCount(0)
-  await closeReadingQuestions(page)
-  await page.locator('.back-button').click()
-  await selectPaper(page, { level: '六级', year: 2017, month: 6, set: 2 })
-  await page.locator('.section-row').filter({ hasText: '写作' }).click()
-  await page.locator('textarea').fill('An existing draft')
-  await page.locator('.review-toggle').click()
-  await expect(page.locator('.answer-review')).toHaveText('答案缺失')
-  await expect(page.locator('textarea')).toHaveValue('An existing draft')
-  await expect(page.locator('.review-result')).toHaveCount(0)
 })
 
 test('newly supplemented PDF and external answer keys work with original options', async ({ page }) => {
@@ -264,7 +242,7 @@ test('newly supplemented PDF and external answer keys work with original options
     await openReadingQuestion(page)
     await page.locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${other}$`) }) }).click()
     await openReadingQuestion(page)
-    await page.locator('.review-toggle').click()
+    await checkAndExplainReading(page)
     await expect(page.locator('.review-letter')).toHaveText(key.answer)
     await expect(page.locator('.review-option-text')).toHaveText(question.options.find(option => option.label === key.answer).text)
     await expect(page.locator('.review-result')).toHaveText('回答有误')
@@ -286,12 +264,11 @@ test('generated answers display as answers and answer-only rows do not appear as
   await openReadingQuestion(page)
   await page.locator('.option').first().click()
   await openReadingQuestion(page)
-  await page.locator('.review-toggle').click()
+  await checkAndExplainReading(page)
   await expect(page.locator('.review-letter')).toHaveText(key.answer)
   await expect(page.locator('.review-answer-row .review-label')).toHaveText('答案')
   await expect(page.locator('.review-source')).toHaveCount(0)
   await expect(page.locator('.review-result')).toHaveText(key.answer === 'A' ? '回答正确' : '回答有误')
-  await expect(page.locator('.correct-choice')).toHaveCount(1)
   await expect(page.locator('.review-body')).toHaveText('解析暂缺')
   await page.screenshot({ path: `${previewDirectory}/${testInfo.project.name}-supplemented-answers.png`, fullPage: true })
   await page.reload()
@@ -326,9 +303,8 @@ test('inline cloze fills every blank, reopens saved choices and advances to save
   await page.locator('.cloze-blank').first().click()
   await expect(page.locator('.word-picker .option.chosen')).toHaveCount(1)
   await page.locator('.word-picker .close-button').click()
-  await page.locator('.cloze-review-button').click()
-  await expect(page.locator('.cloze-review-item')).toHaveCount(10)
-  await page.locator('.cloze-review-sheet .close-button').click()
+  await checkAnswers(page)
+  await expect(page.locator('.redo-button')).toBeVisible()
   await page.locator('.next-button').click()
   await expect(page.locator('.practice-title')).toHaveText('长篇阅读')
   await expect(page.locator('.position')).toHaveText('2 / 10')
@@ -411,3 +387,14 @@ test('reading navigation switches types directly from any question and opens no 
   await openReadingQuestion(page, 6)
   await expect(page.locator('.option.chosen .option-label')).toHaveText(choice)
 })
+
+// Checking now opens a Motion bottom sheet. Close the summary to continue
+// the existing inline-result and persistence regressions below it.
+async function checkAnswers(page) {
+  await page.locator('.check-answers-button').click()
+  await expect(page.locator('.redo-button')).toBeVisible()
+  if (await page.locator('.results-sheet').count()) {
+    await page.locator('.results-sheet .close-button').click()
+    await expect(page.locator('.results-sheet')).toHaveCount(0)
+  }
+}

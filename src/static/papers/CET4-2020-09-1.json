@@ -1298,6 +1298,46 @@
   "solutions": {
     "origin": "answer_pdf",
     "items": {
+      "26": {
+        "answer": "I",
+        "explanation": null
+      },
+      "27": {
+        "answer": "E",
+        "explanation": null
+      },
+      "28": {
+        "answer": "D",
+        "explanation": null
+      },
+      "29": {
+        "answer": "J",
+        "explanation": null
+      },
+      "30": {
+        "answer": "B",
+        "explanation": null
+      },
+      "31": {
+        "answer": "K",
+        "explanation": null
+      },
+      "32": {
+        "answer": "N",
+        "explanation": null
+      },
+      "33": {
+        "answer": "C",
+        "explanation": null
+      },
+      "34": {
+        "answer": "F",
+        "explanation": null
+      },
+      "35": {
+        "answer": "G",
+        "explanation": null
+      },
       "36": {
         "answer": "H",
         "explanation": "H)【精析】同义转述题。定位句提到另一个盗走游戏时间的小偷,即孩子花在屏幕和数字设备前的时间越来越多。题干中的 Increased use of digital devices 对应定位句中的 the growing proportion of kids' time spent in front of screens and digital devices,故答案为 H)。"
@@ -1333,6 +1373,50 @@
       "44": {
         "answer": "F",
         "explanation": "F) 【精析】同义转述题。定位句指出,洛杉矶四分之一的教师表示根本没有时间“自由地耍耍”。题干中的 One quarter of teachers in an American city 和 had no time for playing freely 分别是对定位句中 One in four Los Angeles teachers 和 there was no time at all for “free play.” 的同义转述,故答案为 F)。"
+      },
+      "45": {
+        "answer": "B",
+        "explanation": null
+      },
+      "46": {
+        "answer": "D",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "C",
+        "explanation": null
+      },
+      "49": {
+        "answer": "B",
+        "explanation": null
+      },
+      "50": {
+        "answer": "A",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "A",
+        "explanation": null
+      },
+      "53": {
+        "answer": "C",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
       }
     },
     "references": {}

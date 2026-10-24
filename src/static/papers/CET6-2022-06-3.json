@@ -1282,7 +1282,7 @@
   },
   "id": "CET6-2022-06-3",
   "solutions": {
-    "origin": "external_reference",
+    "origin": "question_inference",
     "items": {
       "1": {
         "answer": "A",
@@ -1385,7 +1385,7 @@
         "explanation": null
       },
       "26": {
-        "answer": "A",
+        "answer": "G",
         "explanation": null
       },
       "27": {
@@ -1393,39 +1393,39 @@
         "explanation": null
       },
       "28": {
-        "answer": "K",
-        "explanation": null
-      },
-      "29": {
-        "answer": "H",
-        "explanation": null
-      },
-      "30": {
-        "answer": "J",
-        "explanation": null
-      },
-      "31": {
-        "answer": "G",
-        "explanation": null
-      },
-      "32": {
-        "answer": "L",
-        "explanation": null
-      },
-      "33": {
-        "answer": "I",
-        "explanation": null
-      },
-      "34": {
-        "answer": "E",
-        "explanation": null
-      },
-      "35": {
         "answer": "F",
         "explanation": null
       },
-      "36": {
+      "29": {
+        "answer": "A",
+        "explanation": null
+      },
+      "30": {
+        "answer": "N",
+        "explanation": null
+      },
+      "31": {
+        "answer": "C",
+        "explanation": null
+      },
+      "32": {
+        "answer": "M",
+        "explanation": null
+      },
+      "33": {
+        "answer": "D",
+        "explanation": null
+      },
+      "34": {
+        "answer": "L",
+        "explanation": null
+      },
+      "35": {
         "answer": "E",
+        "explanation": null
+      },
+      "36": {
+        "answer": "F",
         "explanation": null
       },
       "37": {
@@ -1433,7 +1433,7 @@
         "explanation": null
       },
       "38": {
-        "answer": "J",
+        "answer": "H",
         "explanation": null
       },
       "39": {
@@ -1445,23 +1445,23 @@
         "explanation": null
       },
       "41": {
-        "answer": "F",
-        "explanation": null
-      },
-      "42": {
         "answer": "C",
         "explanation": null
       },
-      "43": {
+      "42": {
         "answer": "G",
         "explanation": null
       },
-      "44": {
+      "43": {
         "answer": "A",
         "explanation": null
       },
+      "44": {
+        "answer": "J",
+        "explanation": null
+      },
       "45": {
-        "answer": "H",
+        "answer": "E",
         "explanation": null
       },
       "46": {
@@ -1473,7 +1473,7 @@
         "explanation": null
       },
       "48": {
-        "answer": "C",
+        "answer": "A",
         "explanation": null
       },
       "49": {
@@ -1485,15 +1485,15 @@
         "explanation": null
       },
       "51": {
-        "answer": "A",
+        "answer": "B",
         "explanation": null
       },
       "52": {
-        "answer": "D",
+        "answer": "C",
         "explanation": null
       },
       "53": {
-        "answer": "A",
+        "answer": "D",
         "explanation": null
       },
       "54": {

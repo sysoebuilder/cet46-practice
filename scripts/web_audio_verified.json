@@ -1,0 +1,2725 @@
+{
+  "schema_version": 1,
+  "recordings": [
+    {
+      "paper_id": "CET4-2017-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2017-06-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/15/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "19a2852f0d5f3e1e53e76400c44269e87f57c70d4030fcfe69ec30435db05a31",
+      "questions_sha256": "dafef4acc68da2b80f4b626af6d4cf8b5b36f96b1493a5b2524d40a834f01513",
+      "duration_seconds": 1398.05,
+      "container": ".m4a",
+      "transcript_sha256": "3e61573a43a280557ef1238990616b2a70906af2d2bb06a1a030234ee19fe5ca",
+      "evidence": [
+        {
+          "start": 104.62,
+          "end": 122.26,
+          "quote": "that there would be sufficient space to do that. The company's self-driving cars have done well over a million miles across various states in the U.S. and until now have only reported minor accidents.",
+          "question_number": 2,
+          "option_label": "D",
+          "option_text": "They have done better than conventional cars."
+        },
+        {
+          "start": 545.38,
+          "end": 558.76,
+          "quote": "That's very kind of you. Thank you again for staying at Sheraton Hotel. Questions 8 to 11 are based on the conversation you have just heard.",
+          "question_number": 11,
+          "option_label": "B",
+          "option_text": "Staying in the same hotel next time he comes"
+        },
+        {
+          "start": 938.91,
+          "end": 956.81,
+          "quote": "and could wear their hair long too. It was a wonderful period, it was like living in an age you could never have imagined, and that never has come back. We didn't have much money, but it didn't matter, and there was plenty of opportunity to do whatever",
+          "question_number": 16,
+          "option_label": "D",
+          "option_text": "Things from the Victorian era came back alive."
+        },
+        {
+          "start": 1270.97,
+          "end": 1287.21,
+          "quote": "food before winter and hide it. When winter comes, they return to the hiding places to eat the food. Some animals grow thicker fur or live in tree holes or underground to stay warm.",
+          "question_number": 24,
+          "option_label": "A",
+          "option_text": "By staying in hiding places and eating very little."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2017-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2017-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/14/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "1f84684c8147c2f84ff77305f55d8eb84ac587fde9dc379e590d77eff41520a5",
+      "questions_sha256": "1c2473f7a3225c418b4d5505474d1b7bda3e7bdff73ae7f899851872866013b6",
+      "duration_seconds": 1481.549,
+      "container": ".m4a",
+      "transcript_sha256": "8155e3f208d5aef53f8db0dd517164767b6d74579019c1a1d23e7c23532505e9",
+      "evidence": [
+        {
+          "start": 111.56,
+          "end": 128.44,
+          "quote": "He also believes they will be more likely to trust self-driving cars as they become more familiar with features such as automatic braking or parking. estimated that the comfort level will increase considerably in 5 to 10 years.",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "Most drivers have test driven cars with automatic braking features."
+        },
+        {
+          "start": 573.26,
+          "end": 588.7,
+          "quote": "how's your knowledge of accountancy? The interviewer may ask you about it. No problem. I think I can and survive, I might just have to review a few accountancy terms. Maybe you can give me a practice interview first.",
+          "question_number": 11,
+          "option_label": "D",
+          "option_text": "Review some accountancy terms."
+        },
+        {
+          "start": 960.19,
+          "end": 982.15,
+          "quote": "Around 800 AD, people in Central Asia managed to develop a new kind of carrot, a purple carrot that attracted more interest from international traders. Then, in the late The 1500s, food scientists in the Netherlands cultivated large, straight, sweet, red carrots,",
+          "question_number": 17,
+          "option_label": "A",
+          "option_text": "They turned from white to purple in color."
+        },
+        {
+          "start": 1368.55,
+          "end": 1386.47,
+          "quote": "up each year to watch and participate. If you visit during Mule Day celebrations, you might see Mule driving contests, square answers, horse shows, or even tree-cutting competitions.",
+          "question_number": 24,
+          "option_label": "B",
+          "option_text": "They participated in a mule-driving competition."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2017-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2017-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/18/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "d4f31fdfa20409631d46ad05c4da4b566ca7a00cf509ea4a204d15108facdf95",
+      "questions_sha256": "7d25c81720a5dfc1d3ab972d9660abd90974a73f83658bd469ab386aaf2efae8",
+      "duration_seconds": 1417.625,
+      "container": ".m4a",
+      "transcript_sha256": "c6828c011dca080edcc71e6a5b845929114e55a3b5feace664f721e88141a8aa",
+      "evidence": [
+        {
+          "start": 71.64,
+          "end": 84.44,
+          "quote": "how we are going to get to Houston for my grandson's heart surgery,\" said Allred. She decided to go outside and have a lemonade stand and make some drawings and pictures and sell them.",
+          "question_number": 2,
+          "option_label": "B",
+          "option_text": "By selling lemonade and pictures."
+        },
+        {
+          "start": 534.29,
+          "end": 554.69,
+          "quote": "no idea what he's got in mind, but I'm excited to find out. Has he mentioned anything to you? He might have. Anything you'd like to share? I'm dying to know what kind of trip he has planned or where we're going. You know, nothing at all. Not a clue. Hard to imagine, isn't it?",
+          "question_number": 10,
+          "option_label": "C",
+          "option_text": "The trip her husband has planned."
+        },
+        {
+          "start": 922.39,
+          "end": 935.39,
+          "quote": "and in the space shuttle missions today, scientists developed objects for the astronauts to use on the moon and in space. We now use some of these objects every day.",
+          "question_number": 17,
+          "option_label": "C",
+          "option_text": "They developed objects for astronauts to use in outer space."
+        },
+        {
+          "start": 1284.65,
+          "end": 1298.91,
+          "quote": "and other hazards. Many experts feel that is wisest to walk uphill. At the top of most hills and mountains are trails, leaving back to civilization.",
+          "question_number": 24,
+          "option_label": "A",
+          "option_text": "Walk uphill"
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2017-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2017-12-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/17/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "6817004cffd81f31bc4c5b786295dc05893c8e77ae214aec4a7304b9de130ad1",
+      "questions_sha256": "22b94b914fe9cb86bdb7052244c71ba9d33458d948ec13756025be8059ebea68",
+      "duration_seconds": 1406.433,
+      "container": ".m4a",
+      "transcript_sha256": "b3eae671c159a8a11296ebe0242cee9ece43b93c4c45d50a3c79a89be0c1e893",
+      "evidence": [
+        {
+          "start": 90.56,
+          "end": 107.2,
+          "quote": "gained fame after it was spotted wandering around neighbourhoods and was caught on videos that were posted on social media and shown on national television. Last year, supporters pushed for pedals to be moved to a shelter,",
+          "question_number": 2,
+          "option_label": "C",
+          "option_text": "Its videos were posted on social media."
+        },
+        {
+          "start": 500.69,
+          "end": 507.69,
+          "quote": "It'll be great. And besides, with Jonathan's wild game to contend with, I'd really welcome an ally.",
+          "question_number": 10,
+          "option_label": "C",
+          "option_text": "Meet with Jonathan’s friends on the weekend."
+        },
+        {
+          "start": 955.14,
+          "end": 970.14,
+          "quote": "Unfortunately, also like her mother, she developed blood cancer because of her exposure to radiation. Irene Joliot-Cure died on March 17th, 1956.",
+          "question_number": 18,
+          "option_label": "A",
+          "option_text": "Both died of blood cancer."
+        },
+        {
+          "start": 1262.96,
+          "end": 1276.36,
+          "quote": "Things haven't turned out exactly as I imagined, but I wouldn't change what I have now for that imaginary world. In college, I studied international business and planned to enter law school.",
+          "question_number": 23,
+          "option_label": "B",
+          "option_text": "Change what he has for his past imaginary world."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2018-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2018-06-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/21/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "31ff6584321c8d44af834c318096349c31f887819650ad516bd03752469d5611",
+      "questions_sha256": "b882d0c666efc83befb170324d744edda3d15b9802203fd9c8013d356ff0dd96",
+      "duration_seconds": 1421.061,
+      "container": ".m4a",
+      "transcript_sha256": "f375da8a07b37d93875973120651a61fcc2f6900fa6598263913ce048a8786af",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 65.4,
+          "quote": "by a new Hampshire man more than five decades ago, was found 1,500 miles away, and has been returned to his daughter. The long-lost message was discovered by Clint Buffington of Utah while he was vacationing. Buffington says he found a soda bottle half buried in the sand",
+          "question_number": 1,
+          "option_label": "A",
+          "option_text": "The return of a bottled message to its owner's daughter."
+        },
+        {
+          "start": 557.58,
+          "end": 573.32,
+          "quote": "Perhaps you're right. Okay, let's go see the dance, but tomorrow, not tonight. Great, I'll book the tickets online. Questions 8-11 are based on the conversation you have just heard.",
+          "question_number": 11,
+          "option_label": "C",
+          "option_text": "Book the tickets online."
+        },
+        {
+          "start": 956.36,
+          "end": 969.18,
+          "quote": "Hunger also outweighed the mice's social needs, the researchers found. Mice are usually social animals and prefer to be in the company of other mice, according to the study.",
+          "question_number": 18,
+          "option_label": "C",
+          "option_text": "They prefer to be with other mice."
+        },
+        {
+          "start": 1271.06,
+          "end": 1285.06,
+          "quote": "It's called Smart Wheel, and it's designed to fit over the steering wheel of most standard vehicles to track whether or not the driver has two hands on the wheel at all times.",
+          "question_number": 23,
+          "option_label": "A",
+          "option_text": "A gadget to hold a phone on the steering wheel."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2018-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2018-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/20/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "be5338e01b5646b77d1e96eabe72f125cd351536b6f31318a6f28171c8d9449b",
+      "questions_sha256": "83000330dd23ef31343710cc25bf67e4e3c306fee991f484fb4f2a9fcbcdd7bc",
+      "duration_seconds": 1429.885,
+      "container": ".m4a",
+      "transcript_sha256": "eabb89810fbcf781c0bb647ab816b449a98207cadd2f416aced20852c34d59f5",
+      "evidence": [
+        {
+          "start": 74.76,
+          "end": 84.84,
+          "quote": "the airport when it happened. I don't know whether I had my hands on the steering wheel or not. I am not the most flexible person in the world.",
+          "question_number": 2,
+          "option_label": "B",
+          "option_text": "It wound up on the steering wheel."
+        },
+        {
+          "start": 559.88,
+          "end": 578.88,
+          "quote": "Well, you can tell me all about it when you get back. My phone battery is almost dead now. Remember to get me something from the souvenir shops. I like to collect bits and pieces from different parts of the world. By now, enjoy yourself, Sofia. Bye!\"",
+          "question_number": 11,
+          "option_label": "B",
+          "option_text": "He is going to open a souvenir shop."
+        },
+        {
+          "start": 972.01,
+          "end": 994.45,
+          "quote": "to simplify your job search will pay off. Nevertheless, you should always focus on quality, not quantity. Only apply for positions you are qualified for and make each application count, personalizing each cover letter and updating and editing your resume.",
+          "question_number": 16,
+          "option_label": "B",
+          "option_text": "They often apply for a number of positions."
+        },
+        {
+          "start": 1279.88,
+          "end": 1291.88,
+          "quote": "My older students say it makes them feel young. It's marvelous to watch them. For many of them, it's a way of meeting people and having a social life.",
+          "question_number": 23,
+          "option_label": "B",
+          "option_text": "It is really marvelous to look at."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2018-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2018-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/24/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "962b561f96d054096b403f1c029e3fa93aa23c41f73c04dc21ed5dc1a11bd8cb",
+      "questions_sha256": "6e235a6bc96bcd6d227c9a591734d874d7e23d6e274e4e96b61e9f9ee0812bf7",
+      "duration_seconds": 1414.49,
+      "container": ".m4a",
+      "transcript_sha256": "f626183511ab11f8fbcada4996cf341a3be5be14b1e9abbdfc2cb4185eb5d169",
+      "evidence": [
+        {
+          "start": 42.69,
+          "end": 70.69,
+          "quote": "A device that weighs less than 1 kg is part of a mission that will allow scientists to deliver fourth generation, or 4G, mobile coverage to the moon in 2019. If successful, the tiny device will provide the moon with its first ever mobile phone network. The lunar network will support high definition streaming of video and data between the moon and Earth.",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "Set up a mobile phone network on the moon."
+        },
+        {
+          "start": 539.51,
+          "end": 560.55,
+          "quote": "I just draw little lines and nonsense, really. It was also in that article I read. It can keep the mind active, prevent getting bored, and help to concentrate. Again, the point is to listen hard while keeping the pen moving. If I'm at home and I need to study, what I",
+          "question_number": 10,
+          "option_label": "A",
+          "option_text": "It keeps her mind active."
+        },
+        {
+          "start": 912.59,
+          "end": 930.27,
+          "quote": "this would have a major impact on them personally or on their family. A majority of Americans feel libraries are doing a good job of providing a safe place for people to hang out, or spend time, as well as opening up educational opportunities",
+          "question_number": 18,
+          "option_label": "C",
+          "option_text": "They tended to visit libraries regularly.\n\n2"
+        },
+        {
+          "start": 1275.36,
+          "end": 1294.4,
+          "quote": "Your child will naturally copy you, so it is important that you are seen reading and enjoying books, newspapers and magazines, rather than just absorbed in screens. Ultimately, an excellent education should be a close partnership between parents and",
+          "question_number": 24,
+          "option_label": "B",
+          "option_text": "Read books and magazines to them."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2018-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2018-12-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/23/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "ff27dd8c05ca686b481e1333666ef5db10a620543e371b0866960fe030b5a3f2",
+      "questions_sha256": "4df755934e51f3a6543b4e018222eae8b6e5ac9ba335412ae5ba9044dfc8dffa",
+      "duration_seconds": 1426.797,
+      "container": ".m4a",
+      "transcript_sha256": "bfca441b3b2d142f11a468c3f19fe146c7e74b8d2a625aca4b4ec5777202e254",
+      "evidence": [
+        {
+          "start": 63.08,
+          "end": 75.28,
+          "quote": "collapsed. A man described as a non-worker civilian was buried up to his waist in the basement. The man was collecting building materials when the first floor collapsed underneath",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "A rescue worker got trapped in the basement."
+        },
+        {
+          "start": 522.91,
+          "end": 544.43,
+          "quote": "challenges and opportunities that you have faced? Well, back in the 50s and 60s, Romania was a lot poorer than it is today. My grandfather and father did not have much capital and our customers didn't have much money either. So that limited growth. The big change was",
+          "question_number": 8,
+          "option_label": "B",
+          "option_text": "It didn’t need much capital to start with."
+        },
+        {
+          "start": 959.75,
+          "end": 973.59,
+          "quote": "Children were split into three groups. With one group asked to try the bowl of carrots repeatedly, with no further encouragement. The other two groups were given rewards of a toy or verbal praise.",
+          "question_number": 16,
+          "option_label": "B",
+          "option_text": "Exposing them to vegetables repeatedly.\n\n2"
+        },
+        {
+          "start": 1304.32,
+          "end": 1325.76,
+          "quote": "within 24 hours of receiving it. It's also important to use proper English. Just because emails are a quick form of communication doesn't mean emails, especially business emails, should be written using informal, shortened forms of words. Think of an email as a letter.",
+          "question_number": 22,
+          "option_label": "A",
+          "option_text": "It is likely to remain a means of business communication."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2019-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2019-06-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2019_06_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2019_06_1",
+      "sha256": "512b56a8d2d311c6282a8ad459097205c73bfe857c5c5a904c8716081223ffbe",
+      "questions_sha256": "307f0105f3c715931adfe449a87d5047ea2d60a8fbecfd6ab193c37d8c23a08c",
+      "duration_seconds": 1407.361,
+      "container": ".m4a",
+      "transcript_sha256": "bcd9cf617d9035c4f8ebdea9fbab305bc29fa8e35f48393be688dd04510340d3",
+      "evidence": [
+        {
+          "start": 42.72,
+          "end": 63.62,
+          "quote": "News Report 1 A nine-year-old Central California boy braved strong currents and cold water to swim from San Francisco to Alcatraz Island and back. A California television station in Fresno reported Tuesday that James Savage set a record",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "He swam around an island near San Francisco."
+        },
+        {
+          "start": 508.18,
+          "end": 528.82,
+          "quote": "underprepared. But good job in passing the second time I'm so proud of you. Now all you have to do next is your road test. Have you had any lessons yet? Yes, thanks. I'm so happy to be actually on the road now. I've only had two driving lessons",
+          "question_number": 11,
+          "option_label": "A",
+          "option_text": "Pass his road test the first time."
+        },
+        {
+          "start": 924.81,
+          "end": 940.97,
+          "quote": "Some, like carpenter ants, can undermine a home structure, while others interfere with electrical units. Unfortunately, our homes are very attractive to ants, because they provide everything the",
+          "question_number": 17,
+          "option_label": "D",
+          "option_text": "The y like t o form colomes m electrical units."
+        },
+        {
+          "start": 1257.36,
+          "end": 1271.92,
+          "quote": "to compete with about 5,000 other young people at the Super Nationals of Chess. The competition only happens every four years, and the last time the team went, they won",
+          "question_number": 23,
+          "option_label": "C",
+          "option_text": "Participate in a national chess competition."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2019-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2019-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/26/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "6ffdfa38b4d735e822e15db11159ea6e992b9078eab1711f552637407bf8b37c",
+      "questions_sha256": "a216a748d6a8bfeb7e57958ff37aaa18f324fe050623929dea29e4b3adf4c4b7",
+      "duration_seconds": 1413.84,
+      "container": ".m4a",
+      "transcript_sha256": "19ee28a5f86ad55e196431a03858c10a5c340f67dd98733349b835e4148b330d",
+      "evidence": [
+        {
+          "start": 53.48,
+          "end": 68.09,
+          "quote": "in tourism. Safety concerns have been one of the biggest reasons why the country has lost over half a billion in revenue already in the first six months of 2016.",
+          "question_number": 2,
+          "option_label": "C",
+          "option_text": "It is the biggest concern of the French government."
+        },
+        {
+          "start": 489.71,
+          "end": 496.71,
+          "quote": "Hi, Emma. I'm Paul from Hermes Delivery Service. Here's a package for you. Are you at home to collect it?",
+          "question_number": 8,
+          "option_label": "D",
+          "option_text": "To arrange the delivery of a package."
+        },
+        {
+          "start": 965.98,
+          "end": 988.86,
+          "quote": "two hundred caves in the soft rock and used them for everything from sacred burial places to food storage. Large mammals once wandered the volcano's slopes, but today foxes, wild cats, rabbits, and mice are more common. Some of those small mammals help to sustain such",
+          "question_number": 18,
+          "option_label": "A",
+          "option_text": "They nest on the volcano’s slopes."
+        },
+        {
+          "start": 1301.68,
+          "end": 1318.2,
+          "quote": "It wasn't until I rediscovered salsa in a lovely studio while working in Asia that I renewed my passion for dancing. Since then, I have been trying to attend dancing classes twice a week after work.",
+          "question_number": 25,
+          "option_label": "A",
+          "option_text": "It has renewed her passion for life."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2019-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2019-12-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2019_12_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2019_12_1",
+      "sha256": "f0f3a8c4b60bbd8c5978557d771ff29fbb1775d616c8b9d68fd900f6305e50ff",
+      "questions_sha256": "d8ead55402f62373b94634ee340529f4a1f64b3302332496b9bee35f0110de40",
+      "duration_seconds": 1422.594,
+      "container": ".m4a",
+      "transcript_sha256": "f4eaae3842500ac158cac7bffa8b74e75ddb359843299018f84c5f375676df73",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 52.8,
+          "quote": "called for more men to consider a career in nursing. Figures show the number of male nurses has fallen in the last three years.",
+          "question_number": 1,
+          "option_label": "A",
+          "option_text": "The number of nurses has dropped to a record low."
+        },
+        {
+          "start": 534.44,
+          "end": 549.8,
+          "quote": "But some people from the office are members of a gym I want to join, and my university classmates are arranging a trip to visit our old campus and I'd love to go with them. But I can't afford both.",
+          "question_number": 11,
+          "option_label": "D",
+          "option_text": "Visit her former university campus."
+        },
+        {
+          "start": 910.46,
+          "end": 932.98,
+          "quote": "it can be expensive. An entertaining way of enhancing your analytical skills is to engage them by playing brain games. These are games that challenge you to think deeply and to develop your analytical skills. These games will get you used to thinking in a certain",
+          "question_number": 17,
+          "option_label": "C",
+          "option_text": "Playing games that challenge one's mind."
+        },
+        {
+          "start": 1272.59,
+          "end": 1286.91,
+          "quote": "with the fossil. So Jude reached out to Peter Hoad, a professor at New Mexico State University, who had experience with the same type of fossil in the past. The next day, Hoad came out to",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": "Ask the university to reward Jude."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2019-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2019-12-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2019_12_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2019_12_2",
+      "sha256": "63b8bdb7ef5d6458861b6ddd87626587cbbdc39ef5a97b3e0bd3644f211a514f",
+      "questions_sha256": "438f494f5dfd5890906920f311af4c9b1d645e94a768b587646c65e8e2048d9d",
+      "duration_seconds": 1451.154,
+      "container": ".m4a",
+      "transcript_sha256": "5408cdeb3d93ed77bab47748b1d6859a462f144aee8f0b87923da159ac3015ab",
+      "evidence": [
+        {
+          "start": 85.14,
+          "end": 107.16,
+          "quote": "the cow between two vehicles parked on either side of a baseball field's bench area. An officer then shot an arrow to put it to sleep. Then officers waited for the drug to take effect. After it fell asleep, they loaded the cow into a horse trailer. It was not clear",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "It was shot to death by a police officer."
+        },
+        {
+          "start": 493.39,
+          "end": 505.83,
+          "quote": "what we know, how we know it, and what we still don't know. The show will have one host only, and this will be Professor Susan Powell from Harvard University.",
+          "question_number": 8,
+          "option_label": "A",
+          "option_text": "It will be produced at Harvard University."
+        },
+        {
+          "start": 973.88,
+          "end": 994.0,
+          "quote": "boys to work through problems on their own, while they tend to step in and help girls who struggle with a problem. In an all-girls setting, girls are more likely to speak up frequently and make significant contributions to class than in a co-educational setting. Girls studying",
+          "question_number": 17,
+          "option_label": "A",
+          "option_text": "Praise girls who like to speak up frequently."
+        },
+        {
+          "start": 1307.47,
+          "end": 1322.07,
+          "quote": "First, the body must realize the muscles are damaged. When the body realizes the muscles are hurt, the response is to increase blood flow to the area and increase body heat.",
+          "question_number": 23,
+          "option_label": "A",
+          "option_text": "Blood flow and body heat increase in the affected area."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2020-07-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2020-07-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2020_07_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2020_07_1",
+      "sha256": "9786aaad4ade492959caffec66281656ac58941d2b308665af4c005152503fcc",
+      "questions_sha256": "829c1a76f75d3d8299364b1ab74c1b0830559008422930caa8f525cbbec202be",
+      "duration_seconds": 1440.938,
+      "container": ".m4a",
+      "transcript_sha256": "5b32aa039796cb172eb2eeb7261c8f44bceb54fcbf45bc44c795aeb8e41100ae",
+      "evidence": [
+        {
+          "start": 53.28,
+          "end": 66.38,
+          "quote": "Orange warnings are in force for many areas for Wednesday and Thursday. The Transport Minister advised people in parts of Scotland covered by the orange alert to avoid travel on Wednesday.",
+          "question_number": 1,
+          "option_label": "B",
+          "option_text": "Evacuate the area with the orange alert."
+        },
+        {
+          "start": 576.5,
+          "end": 594.5,
+          "quote": "It's a double-edged sword, no doubt about that, for a cafe owner. While remote workers help to keep the cafe full in quiet times, they can take up valuable table space in busy periods. Questions 8 to 11 are based on the conversation you have just heard.",
+          "question_number": 11,
+          "option_label": "C",
+          "option_text": "People occupy valuable table space in quiet times."
+        },
+        {
+          "start": 962.0,
+          "end": 977.0,
+          "quote": "You don't have to take anyone else into consideration and can do whatever you please. Spending time alone also allows you to more efficiently take care of problems. And then, when it's time to be social and meet up with your friends,",
+          "question_number": 18,
+          "option_label": "D",
+          "option_text": "It helps us take care of problems more efficiently."
+        },
+        {
+          "start": 1298.99,
+          "end": 1316.99,
+          "quote": "such as reading or interactive screen-based pursuits, such as using the internet or playing video games. The researchers say that television viewing may be a risk factor for Alzheimer's disease, but more research is needed to establish a link.",
+          "question_number": 24,
+          "option_label": "A",
+          "option_text": "Television viewing may be a potential factor for Alzheimer's disease."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2020-09-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2020-09-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2020_09_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2020_09_1",
+      "sha256": "1ae847fa2225867c0ead259aba817cbc2739002e1a682f2f79b61d792268924c",
+      "questions_sha256": "7580acdaa8f3cd484daf999f55e5784ba72f555bf61fd271913904d2d71aa4fa",
+      "duration_seconds": 1427.145,
+      "container": ".m4a",
+      "transcript_sha256": "11bbe7f3357451810cef1c87deedd59186c0ed92efcf7433b0af00e841899900",
+      "evidence": [
+        {
+          "start": 53.08,
+          "end": 70.2,
+          "quote": "cut by white lines of thicker clouds that look like scars. NASA officials explained those thicker clouds are signs of ship traffic below. When ships power their way through the ocean, they pump exhaust into the atmosphere,",
+          "question_number": 1,
+          "option_label": "A",
+          "option_text": "Ship traffic in the Atlantic."
+        },
+        {
+          "start": 485.23,
+          "end": 491.79,
+          "quote": "money for a new phone, and I find that using cash rather than payment apps helps me to save.",
+          "question_number": 8,
+          "option_label": "D",
+          "option_text": "She had been cheated using phone apps."
+        },
+        {
+          "start": 940.33,
+          "end": 953.49,
+          "quote": "So is the TV show inspiring people to tidy up? First-hand accounts seem to indicate a small wave of people bringing piles of donation bags to used good stores.",
+          "question_number": 21,
+          "option_label": "D",
+          "option_text": "Sending him hand-made bags."
+        },
+        {
+          "start": 1307.03,
+          "end": 1329.18,
+          "quote": "and weight gain. Technology is a great tool. However, it's important to recognize its downsides. Lack of sleep, reduction of productivity and weight gain are only a few. If we are not careful about all these minor problems right now, the effect on the future generation is",
+          "question_number": 24,
+          "option_label": "C",
+          "option_text": "A reduction in the amount of sleep."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2020-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2020-12-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2020_12_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2020_12_1",
+      "sha256": "1453297d2f9291238657d84b60a3c198a2e9007d5f9e86c1a54e0556bc55a443",
+      "questions_sha256": "8904a0e8d4f435741c04e0c52cb33207b903ef33f19b20e17004c17b9bd7a52e",
+      "duration_seconds": 1392.176,
+      "container": ".m4a",
+      "transcript_sha256": "cbde44499bfd0d64caa0f6e93027933703164ec9beb71c49aced7379ba313f3a",
+      "evidence": [
+        {
+          "start": 48.52,
+          "end": 66.68,
+          "quote": "The International Union for the Conservation of Nature has raised concerns after the poisonous fish was spotted in the waters around Turkey, Cyprus and the Eastern Mediterranean. Native to the South Pacific and Indian Ocean, the potentially deadly fish has poisonous hooks",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "A deadly fish has been spotted in the Mediterranean waters."
+        },
+        {
+          "start": 485.14,
+          "end": 502.86,
+          "quote": "help you. Okay, sure. This is a family business started by my grandfather in 1950. We employed just over 100 people. We manufacture and export stone for buildings and other constructions. Our clients usually want a special kind of",
+          "question_number": 11,
+          "option_label": "B",
+          "option_text": "Seeking new ways to increase its exports."
+        },
+        {
+          "start": 919.25,
+          "end": 936.25,
+          "quote": "This results in the accidental entry of foreign objects. Any ear, nose, and throat surgeon has many weird stories about wonderful objects found in the noses and ears of children and adults. Batteries can pose a particular danger.",
+          "question_number": 16,
+          "option_label": "C",
+          "option_text": "Removing objects from patients' noses and ears."
+        },
+        {
+          "start": 1255.14,
+          "end": 1273.04,
+          "quote": "before the mice begin to catch on. They adapt remarkably well to their new environment, and even use the lack of gravity to their advantage as they push themselves around the cage. That's when things really get wild. The 11th day of the experiment shows the mice",
+          "question_number": 22,
+          "option_label": "A",
+          "option_text": "How animals deal with lack of gravity."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2020-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2020-12-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/36/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "7a957155f1610230086c98746e5237b4ca9f907c5d609009c593d9e0e3ae204b",
+      "questions_sha256": "7662ae2b8aefc68e929768f352e232401ec12ea7d36148a17a25858b8e69e71d",
+      "duration_seconds": 1378.22,
+      "container": ".m4a",
+      "transcript_sha256": "c36d5f6598af56fd9bc2a456646b1c3684a6dcdaea7e6c86623019c4aed12919",
+      "evidence": [
+        {
+          "start": 139.88,
+          "end": 151.44,
+          "quote": "News report 2. The village of Merriff in Alaska voted on Tuesday to move to the state's mainland. The move is due to global warming and rising sea levels.",
+          "question_number": 3,
+          "option_label": "A",
+          "option_text": "Whether or not to move to the state's mainland."
+        },
+        {
+          "start": 516.71,
+          "end": 534.99,
+          "quote": "Okay, I might do that, but just quickly if you don't mind, could you tell me approximately how much a typical installation costs, like, say, four panels? Prices do vary depending on different factors, but as a rough estimate, it's around $2,000.",
+          "question_number": 10,
+          "option_label": "B",
+          "option_text": "The cost of a solar panel installation."
+        },
+        {
+          "start": 898.5,
+          "end": 915.62,
+          "quote": "A few months ago, Koster announced a plan that would not only ban single-use plastic bags from supermarkets and convenience stores, but plastic bags and straws across the island. the regulation will come into full effect next month.",
+          "question_number": 18,
+          "option_label": "B",
+          "option_text": "To ban single-use plastic bags and straws on Bali Island."
+        },
+        {
+          "start": 1253.42,
+          "end": 1269.42,
+          "quote": "After we have finished breast or formula feeding, most of us don't continue producing the complex proteins in our body, which are necessary to break down the lactose. Despite the problems in digesting milk, it does provide many benefits.",
+          "question_number": 24,
+          "option_label": "C",
+          "option_text": "They lack the necessary proteins to digest it."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2021-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2021-06-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2021_06_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2021_06_1",
+      "sha256": "04168266c74ea1a2dac797a58f929b0482e41b4b34e0f6fa64fa023384992174",
+      "questions_sha256": "ceeb24cb3bc87059bf6e0be48876ac7013ab3e3dadda3df9d76514f4e74f4e59",
+      "duration_seconds": 1381.866,
+      "container": ".m4a",
+      "transcript_sha256": "020f894184e4a8404e792e9fc69653cea79ce3eab3dd48a75f167ab2939fa441",
+      "evidence": [
+        {
+          "start": 71.59,
+          "end": 93.09,
+          "quote": "which led to something pretty wonderful. A restaurant named Number 4 in Newcastle contacted Joe's teacher to ask if the nine-year-old could come and decorate its dining room with his drawings. Every day after school, Joe's dad drives him to the restaurant so he can put his ideas straight on the wall.",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "Contacted Joe to decorate its dining-room."
+        },
+        {
+          "start": 495.21,
+          "end": 509.19,
+          "quote": "big new supermarket on the other side of town and see what they have. I've not been there before. I think we should get some beer and wine and some fruit juice and other soft drinks. What do you think?",
+          "question_number": 10,
+          "option_label": "D",
+          "option_text": "It sells local wines and soft drinks."
+        },
+        {
+          "start": 944.87,
+          "end": 991.42,
+          "quote": "Question 16-18 are based on the passage you have just heard. Question 16. What do we learn about early pigs in North America? Question 17. Why are wild pigs a threat to humans?",
+          "question_number": 16,
+          "option_label": "B",
+          "option_text": "They were actually native to North America."
+        },
+        {
+          "start": 1268.99,
+          "end": 1283.15,
+          "quote": "Jan moved from Idaho with her husband in 1972 and opened a restaurant. Her rich and filling fruit pies quickly got the race's attention and the village gained some fame as a result.",
+          "question_number": 23,
+          "option_label": "C",
+          "option_text": "Its tasty fruit pies."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2021-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2021-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/39/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "2afcfdf92028d1091005c2190358013532d25dbbcdb7b92b8376b996be11903b",
+      "questions_sha256": "3eac1350fc158399fc61e861831d3910eb86c2c38b59d71168e6ad00f5884fd1",
+      "duration_seconds": 1424.149,
+      "container": ".m4a",
+      "transcript_sha256": "568bcb1f2d6cf0fb60c5e6b13338969dfadcbc16a95e56f1c5afaafbd2856f1b",
+      "evidence": [
+        {
+          "start": 91.18,
+          "end": 108.54,
+          "quote": "Police said that the car had come to a halt after hitting the sign, but did not appear to be seriously damaged, although an ambulance was called to check on the pensioner. The man who lives in the UK and is originally Italian might have been",
+          "question_number": 2,
+          "option_label": "B",
+          "option_text": "His car hit a sign and was badly damaged."
+        },
+        {
+          "start": 549.97,
+          "end": 564.01,
+          "quote": "rather come to us and keep things quiet. Anyway, Jimmy's a good guy, so we didn't make a fuss about it. Questions 8 to 11 are based on the conversation you have just heard.",
+          "question_number": 9,
+          "option_label": "C",
+          "option_text": "He wanted to make a sincere apology to Jimmy."
+        },
+        {
+          "start": 947.22,
+          "end": 970.22,
+          "quote": "they feel anxious. Math anxiety can severely disrupt students' performance in the subject in both primary and secondary school. But importantly, and surprisingly, this new study suggests that the majority of students experiencing math anxiety have normal to high math ability.",
+          "question_number": 18,
+          "option_label": "D",
+          "option_text": "They are mostly secondary school students."
+        },
+        {
+          "start": 1305.57,
+          "end": 1318.31,
+          "quote": "more official, and they can also hide dirt and wear. While there's little innovation when it comes to passport cover colour, the same cannot be said for the pages.",
+          "question_number": 22,
+          "option_label": "B",
+          "option_text": "They appear more formal than other passports."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2021-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2021-12-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2021_12_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2021_12_1",
+      "sha256": "56fffe7a60fd96d3b43fff9e2c0c6156dc48090ce77a96cc2d79a249ee1ab197",
+      "questions_sha256": "ebe0390a5995b0e0d81b84e52555e1929be432b4ef2618fd2c69ad8d679352cf",
+      "duration_seconds": 1416.464,
+      "container": ".m4a",
+      "transcript_sha256": "db98eee5b3f3b90cd710c0b545f1a4469203aea4e335a2cdd0306530d71b9a22",
+      "evidence": [
+        {
+          "start": 77.16,
+          "end": 96.48,
+          "quote": "southern U.S. state, they found a stranger's dog waiting in Buddy's place. Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead. Buddy was given a physical checkup when he arrived",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "It sent two dogs to the wrong destinations."
+        },
+        {
+          "start": 528.6,
+          "end": 542.16,
+          "quote": "Yet, there's no commercial farming of these birds nowadays. Your meat is hardly eaten in western countries. No, duck hunting seemingly exists as the continuation of a tradition.",
+          "question_number": 8,
+          "option_label": "C",
+          "option_text": "Duck meat is not eaten in Australia, Canada and the U.S."
+        },
+        {
+          "start": 911.9,
+          "end": 928.46,
+          "quote": "so the content of homework becomes more important. So how can you help your child do their best? Creating an ideal working environment will make it easier for them to get down to their assignments quickly. Make sure it's free of distractions,",
+          "question_number": 17,
+          "option_label": "B",
+          "option_text": "Create an ideal study environment for them."
+        },
+        {
+          "start": 1276.3,
+          "end": 1294.86,
+          "quote": "happen to be left-handed. They don't understand why successive governments have failed to act on this. They want the Department of Education to record which children are left-handed and what their educational attainments are, since they make up some 10% of the population.",
+          "question_number": 24,
+          "option_label": "D",
+          "option_text": "Keep track of left-handed children's school performance."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2021-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2021-12-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2021_12_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2021_12_2",
+      "sha256": "d5dc664b7f166914661a31505fd57f80764e3d081665a1c6ad8af753468f3386",
+      "questions_sha256": "29092a93dfd984aeaee969a893ba41fdf8ea7e0fa88ff0be76a9edb47e6b7858",
+      "duration_seconds": 1417.207,
+      "container": ".m4a",
+      "transcript_sha256": "6e44b563b105c113481d556a137e013afd90567f28696e4b193377d3f219601f",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 58.92,
+          "quote": "A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had a piece of chicken bone lodged in her lung. The unnamed woman from the province of Chandon started to have coughing problems when she was",
+          "question_number": 1,
+          "option_label": "A",
+          "option_text": "She was pierced by a chicken bone."
+        },
+        {
+          "start": 515.83,
+          "end": 531.77,
+          "quote": "on Tuesday. Maybe the bank canceled my old one before you made the payment. Well, you'll need to update your card details directly on our website. Just make sure you're logged in and then under the description of your personal information, you should see",
+          "question_number": 11,
+          "option_label": "C",
+          "option_text": "Update her bank card details on the company's website."
+        },
+        {
+          "start": 949.97,
+          "end": 968.93,
+          "quote": "Further research is needed to investigate the causal nature of this relationship, and to look at how owners' personalities are directly influencing their pet's behaviour and well-being. It is possible that the well-being of pets is driven by the underlying nature of the",
+          "question_number": 16,
+          "option_label": "A",
+          "option_text": "Owners' personalities affect their cats' behaviour and wellbeing."
+        },
+        {
+          "start": 1300.03,
+          "end": 1311.67,
+          "quote": "Most of the furniture you will see is original and in good condition. However, those pieces in the children's bedrooms are copies built to the designs of the architect.",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": "They are copies built to the architect's designs."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2022-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2022-06-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2022_06_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2022_06_1",
+      "sha256": "c1481f0a77c37f601e57ea1c46c5149d7111ad7b54c339322d3557de9a6ef303",
+      "questions_sha256": "c3628997cf706caf1706c9164ec3efe3976e642df21e47ce798ec79e790f9f16",
+      "duration_seconds": 1540.087,
+      "container": ".m4a",
+      "transcript_sha256": "0b331124db955f9fa665930e23dd2d7fbaf697356bc857aea15c75d977844825",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 55.0,
+          "quote": "finds that beverages containing added sugar might be harmful. In the study, researchers analyzed information from over 80,000 women and 37,000 men.",
+          "question_number": 2,
+          "option_label": "B",
+          "option_text": "Drinking water instead of beverages with added sugar."
+        },
+        {
+          "start": 585.05,
+          "end": 601.25,
+          "quote": "That sounds like a very strange sport, indeed. Is it only South Africa that plays it? No. It's also popular in Britain, and in other former British colonies, like Australia and New Zealand.",
+          "question_number": 10,
+          "option_label": "A",
+          "option_text": "She has British ancestors."
+        },
+        {
+          "start": 985.66,
+          "end": 1007.3,
+          "quote": "to behave. A notable criticism of the Golden Rule is that its application can lead to undesirable outcomes, when it conflicts with laws and ethical principles. For example, if someone breaks the law, the Golden Rule would suggest that we should let them go,",
+          "question_number": 18,
+          "option_label": "A",
+          "option_text": "The golden rule is often in conflict with certain laws and ethical principles."
+        },
+        {
+          "start": 1390.09,
+          "end": 1412.13,
+          "quote": "France, and Germany, written contracts tend to be seen as something that must be strictly carried out. By contrast, other cultures may not see written contracts as quite so binding. It can prove a challenge to Western businesses if your business partner wants to renegotiate",
+          "question_number": 25,
+          "option_label": "D",
+          "option_text": "Its terms may not be strictly binding."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2022-09-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2022-09-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/49/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "acffebf2d1cc361df2788774793b427281411956ed4925084da51bac3a8d3605",
+      "questions_sha256": "30e840aa059f95be1b19c2c8013a8d6ac71e60ef902abbc57c7e556cad39fff5",
+      "duration_seconds": 1497.385,
+      "container": ".m4a",
+      "transcript_sha256": "e3042fcdd06bd6c4acf020422fef973b2ac4719e89e49505f6808fa535040cff",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 53.42,
+          "quote": "meat, such as chicken, may raise blood cholesterol levels as much as red meat does. This finding surprised researchers who admitted they didn't expect that eating white meat",
+          "question_number": 1,
+          "option_label": "B",
+          "option_text": "Its participants all had high blood cholesterol levels."
+        },
+        {
+          "start": 538.11,
+          "end": 555.91,
+          "quote": "Well, it depends, but generally speaking, soft cheeses are creamy and go well with sweet things like honey and jam. I would suggest something like this Spanish goat cheese, it's only $15, a very good price.",
+          "question_number": 10,
+          "option_label": "C",
+          "option_text": "It is more delicious than honey."
+        },
+        {
+          "start": 1020.49,
+          "end": 1039.89,
+          "quote": "man. You sit next to the elderly woman, who unfortunately turns out to be quite skilled at picking pockets. Because of social categorization, you immediately judge the woman as harmless and the man as threatening, leading to the loss of your wallet.",
+          "question_number": 16,
+          "option_label": "C",
+          "option_text": "Judge people based on our first impressions."
+        },
+        {
+          "start": 1347.38,
+          "end": 1358.98,
+          "quote": "Active inspiration is what results in long-term passion and enthusiasm. Watching someone else's success might leave you feeling excited for a few minutes.",
+          "question_number": 23,
+          "option_label": "C",
+          "option_text": "It breeds long-term passion and enthusiasm."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2022-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2022-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/52/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "668050e17dd429a44f527d4060dc95ef374c4a0976a5c9899adf3b13378cd47f",
+      "questions_sha256": "d7f4d3e55be8900297acdbd4d2351eeee5a0e050646a0734fb17d4b470d99f07",
+      "duration_seconds": 1411.471,
+      "container": ".m4a",
+      "transcript_sha256": "af410744464091ad8811bfb4b83cee12303eae4bd48e984d07f9f1249f5b8223",
+      "evidence": [
+        {
+          "start": 99.9,
+          "end": 117.06,
+          "quote": "A company spokesperson said that operations at the site had been halted while the investigation is ongoing and that the break had posed no safety threat to workers. Questions 1 and 2 are based on the news report you have just heard.",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "It posed a safety threat to the miners."
+        },
+        {
+          "start": 491.9,
+          "end": 504.9,
+          "quote": "Carol Friedman. That's right, and you signed up two months ago. Currently, we are offering existing members discounts off two of our brand-new classes. Hot yoga and advanced spinning.",
+          "question_number": 9,
+          "option_label": "D",
+          "option_text": "Offering existing members a discount off two new classes."
+        },
+        {
+          "start": 903.34,
+          "end": 923.34,
+          "quote": "three categories. They were high, moderate, and poor. Analysis of the data showed that countries with strong women's rights had better health than those where women's rights were not as respected. The health indicators studied included disease prevention, reproductive",
+          "question_number": 17,
+          "option_label": "A",
+          "option_text": "Their people still have better health if women's rights are respected."
+        },
+        {
+          "start": 1287.17,
+          "end": 1305.01,
+          "quote": "the ones on the right. Both groups disliked stuff on their opposite side. Left-handers are also over-represented in professional, interactive sports. Researchers have looked at the influence of being left-handed on performance and interactive sports. Those",
+          "question_number": 25,
+          "option_label": "C",
+          "option_text": "Encourage them to play fast-paced interactive sports."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2022-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2022-12-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2022_12_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2022_12_2",
+      "sha256": "d97e1e85d9a9cdc19b4da9795c1535d9d17cf34d079ec106db4cda5db496f7f0",
+      "questions_sha256": "7526bf942387bcec4f41f2cce9cb113149c4f7dc6946653acabae692cfea6334",
+      "duration_seconds": 1364.683,
+      "container": ".m4a",
+      "transcript_sha256": "1efe2ff6952a78b77b8b9b64ee6368467212cc89f48845bbadbcf5ef456fd07a",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 52.76,
+          "quote": "Pipe Band Championships will take place in Glasgow on Saturday. Over 120 of the world's best pipe bands will compete at the championships.",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "A pipe band contest."
+        },
+        {
+          "start": 492.39,
+          "end": 505.79,
+          "quote": "I have wonderful friends, and I love celebrating their birthdays, but I don't like being the center of attention, receiving gifts and having a fuss made. It seems to trigger a type of social anxiety.",
+          "question_number": 10,
+          "option_label": "B",
+          "option_text": "He loves them but does not want to make a fuss."
+        },
+        {
+          "start": 875.0,
+          "end": 884.4,
+          "quote": "Communicating in meetings was very difficult. He needed a sign language interpreter for every meeting, but it was a huge effort to coordinate.",
+          "question_number": 16,
+          "option_label": "A",
+          "option_text": "He is a sign language interpreter."
+        },
+        {
+          "start": 1214.68,
+          "end": 1223.04,
+          "quote": "quality and quantity of shared book reading and infancy predicted later childhood vocabulary and reading skills.",
+          "question_number": 23,
+          "option_label": "C",
+          "option_text": "The number and quality of books parents read to them in infancy."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2023-03-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2023-03-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2023_03_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2023_03_1",
+      "sha256": "1d6a0e841aa7d37954b64d93e0a07518e476817dae3ddee15095a30ba5840585",
+      "questions_sha256": "a679479abdbfdf81e1b78c365b964c24e0d726d0974c5f9e22283565bd2b40d1",
+      "duration_seconds": 1389.203,
+      "container": ".m4a",
+      "transcript_sha256": "929bab0d0653a5a33709b65352dd9ae618e2edaaa234f397d3f6893b279b9932",
+      "evidence": [
+        {
+          "start": 74.8,
+          "end": 96.48,
+          "quote": "without a visa. Some countries offer visas on arrival. In contrast, Americans are able to travel to 20 of the continent's countries without a visa, or secure a visa on arrival. The African Union, which represents 54 states, wants to abolish the requirement of a visa",
+          "question_number": 1,
+          "option_label": "A",
+          "option_text": "A proposed policy allowing Africans to travel in Africa without a visa."
+        },
+        {
+          "start": 542.93,
+          "end": 552.57,
+          "quote": "Then you can walk down through the train to your carriage and take your seats. When you arrive in London, hand the ticket to the guard and he will return the bicycles to you.",
+          "question_number": 11,
+          "option_label": "D",
+          "option_text": "Give the ticket to the train guard."
+        },
+        {
+          "start": 927.81,
+          "end": 937.45,
+          "quote": "Students should do things differently in the two environments. Children are getting more than enough screen time in their lives without the need to bring their phone into the classroom.",
+          "question_number": 15,
+          "option_label": "D",
+          "option_text": "They have an English translation on the screen."
+        },
+        {
+          "start": 1281.54,
+          "end": 1299.54,
+          "quote": "While risk-taking can be considered a negative attribute, it's also a characteristic of successful people, including athletes, political leaders, and entrepreneurs. Questions 22-25 are based on the passage you have just heard.",
+          "question_number": 24,
+          "option_label": "A",
+          "option_text": "Political leaders."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2025-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2025-06-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2025_06_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2025_06_2",
+      "sha256": "b6ef913d459432822082ef979e49ff8e047172a9f44f775ad5238a551f9c8b9c",
+      "questions_sha256": "c7c75554c8054f038a7479f40e8f2266bd18b66ecd9f7144f4ac842f9d05db81",
+      "duration_seconds": 1425.845,
+      "container": ".m4a",
+      "transcript_sha256": "0d65dde7c1e9be10045a5d2123349c6e98996fe5eae47b64594bcfa6dcabf70d",
+      "evidence": [
+        {
+          "start": 96.96,
+          "end": 115.12,
+          "quote": "including Canada, the UK, and Switzerland. The run closed the span between the middle and lower keys to traffic for three hours Saturday. The April contest is one of the most popular running events in the southeastern United States.",
+          "question_number": 2,
+          "option_label": "C",
+          "option_text": "It closed the city of Big Pine Key to traffic for three hours."
+        },
+        {
+          "start": 552.39,
+          "end": 563.11,
+          "quote": "We'd just have more space and privacy. I'm not convinced that the benefits are greater than the disadvantages, but I'll discuss this with your mother.",
+          "question_number": 11,
+          "option_label": "A",
+          "option_text": "Discuss the matter with the woman's mother."
+        },
+        {
+          "start": 925.26,
+          "end": 946.66,
+          "quote": "smaller display. Customer satisfaction takes a hit as well. In the study, the bigger display of jams leads to lower customer satisfaction than the smaller display. In an extensive study published in 2015, researchers analyzed a total of 99 choice studies and specifically looked at",
+          "question_number": 16,
+          "option_label": "C",
+          "option_text": "Fewer choices lead to lower customer satisfaction."
+        },
+        {
+          "start": 1276.25,
+          "end": 1292.88,
+          "quote": "So, I started delivering products by bicycle, talking with local producers, I learned that a small part of the production is sometimes wasted due to problems with size or shape. But the quality of the products remains unchanged.",
+          "question_number": 24,
+          "option_label": "A",
+          "option_text": "It pays special attention to the size and shape of its products."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2025-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2025-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/222/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "8d579f956b0505ca721d4e4c1c681660e4274da79db7e7c0fced02f3f4d399de",
+      "questions_sha256": "1635a5c42a6ecbff6d3425b860a5ce4097afe75b28cb42ea4115d07bbd669caf",
+      "duration_seconds": 1369.025,
+      "container": ".m4a",
+      "transcript_sha256": "3a549cb81b856cebfdd36584b1ac84458aa3ea569a454b9f940fb3b54856d092",
+      "evidence": [
+        {
+          "start": 144.81,
+          "end": 153.89,
+          "quote": "News Report 2. In less than a month, the Special Olympics Spring Games will make a return to Fayette .",
+          "question_number": 3,
+          "option_label": "B",
+          "option_text": "The opening of the Special Olympics Spring Games."
+        },
+        {
+          "start": 474.11,
+          "end": 488.95,
+          "quote": "He's an animal activist. He's always been very sensitive and sympathizes with animals. He's even written to his state senator about the torture of dolphins in sea parks. He says that keeping animals in zoos and parks causes them great distress.",
+          "question_number": 11,
+          "option_label": "A",
+          "option_text": "The torture and distress dolphins suffer in parks."
+        },
+        {
+          "start": 882.98,
+          "end": 903.46,
+          "quote": "design and slowly, over many different roles and experiences, that led me to become a user experience designer. It took time and commitment to continue to pursue roles within teams that I knew could teach and challenge me. That's not to say that I think my path is the only one,",
+          "question_number": 18,
+          "option_label": "C",
+          "option_text": "Pursue roles in teams."
+        },
+        {
+          "start": 1219.03,
+          "end": 1232.91,
+          "quote": "required to wear smart black shoes appropriate for the workplace. Harris held that strengthened rules around school uniforms, improved student outcomes and behaviour. But for some parents,",
+          "question_number": 22,
+          "option_label": "D",
+          "option_text": "They didn't wear the shoes required by the school’s new policy."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2025-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2025-12-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet4/2025_12_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet4/2025_12_2",
+      "sha256": "93c82d3cb2da5ac5c0b0db0fce6b9a4efc63fac3deb8641187244dd27ec4e9b6",
+      "questions_sha256": "4ebd392e785adf1a3a98587c3e8d81187072684852337933b562fc564f80d4e5",
+      "duration_seconds": 1406.2,
+      "container": ".m4a",
+      "transcript_sha256": "f6f1ec5647e0b502341f33e6d52886f0c6f7a678e0d842c2eee21d57cf88e57c",
+      "evidence": [
+        {
+          "start": 102.23,
+          "end": 120.83,
+          "quote": "about their purchases. They simply don't know bringing eggs is not allowed. Generally, the items are declared during the first inspection. Then the person can abandon the eggs without consequence. A customs and border protection spokesperson said.",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "They don’t want to abandon their eggs."
+        },
+        {
+          "start": 563.75,
+          "end": 574.87,
+          "quote": "She wants to, but her husband refuses to get rid of it. He says the car is the best thing that has ever happened to him. And if she sells it, he will divorce her.",
+          "question_number": 8,
+          "option_label": "B",
+          "option_text": "The man doesn't believe what she says."
+        },
+        {
+          "start": 906.19,
+          "end": 926.27,
+          "quote": "the decision is important, it is problematic when time is crucial. Analytical decision-makers struggle with deadlines and a sense of urgency with decisions. In situations where you need more timely action, decisions based on some information and instinct may work better.",
+          "question_number": 16,
+          "option_label": "D",
+          "option_text": "It dulls a leader's sense of urgency."
+        },
+        {
+          "start": 1271.06,
+          "end": 1289.08,
+          "quote": "were able to focus more attention on the instructor. By sitting front and centre, students were able to hear better too. The instructors said that they also formed a better connection with the students who sat in front. Perhaps the connection is made because of eye contact",
+          "question_number": 24,
+          "option_label": "B",
+          "option_text": "A better connection between instructors and students."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2026-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2026-06-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/231/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "cbc7190313adfbdcb57452c45385f229da19b407962944d0356424b00f6386bd",
+      "questions_sha256": "29f3adebbc064e1959731cc51016001718d357729a8e6aad176909f7aa377c08",
+      "duration_seconds": 1430.14,
+      "container": ".m4a",
+      "transcript_sha256": "2902f866d995ac4d68504d1a47d811c8c425ce14dbcebf2685bd7acd50747c0a",
+      "evidence": [
+        {
+          "start": 57.4,
+          "end": 75.84,
+          "quote": "and maybe a starring role in an advertisement campaign. Keith Stonehouse said the food piled up quickly at his home Saturday night after he let his son use his cell phone to play a game before bed. He said the youngster instead used his father's online food ordering",
+          "question_number": 1,
+          "option_label": "B",
+          "option_text": "His son had used his cell phone to pay for playing a game."
+        },
+        {
+          "start": 492.41,
+          "end": 509.17,
+          "quote": "wandered through the old city center. The streets are narrow but beautiful, with plenty of charm. We saw the Trevi Fountain, which is in all the guidebooks. How do you like it? It's very pretty, but it was overcrowded with tourists. Yeah, well, it's",
+          "question_number": 9,
+          "option_label": "C",
+          "option_text": "It has flowers displayed around the Trevi Fountain."
+        },
+        {
+          "start": 947.29,
+          "end": 965.29,
+          "quote": "But we must also sell the lifestyle and the feeling. The key is to highlight the emotional response a consumer will have by using the product. To achieve the highest emotional response, we should target our consumer through many different senses.",
+          "question_number": 18,
+          "option_label": "C",
+          "option_text": "Highlight the emotional response it will trigger in the consumer."
+        },
+        {
+          "start": 1314.14,
+          "end": 1335.14,
+          "quote": "given how common loneliness and social isolation are within this age group. Human social support comes with a host of health benefits, less stress, lower rates of long-term disease, and more, and research shows that interacting with pets can bring many of the same benefits.",
+          "question_number": 25,
+          "option_label": "D",
+          "option_text": "Bring many of the same benefits as human social support."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET4-2026-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET4-2026-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet4/232/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet4/sections/listening/",
+      "sha256": "aa9a9a859a5fe06ce2647c03b665c7b8bcc402d4add7cf05a37379209153eae1",
+      "questions_sha256": "0deb65a909b9b4cb56623866319822320712db088114ec5d2c356cbb23fe65ff",
+      "duration_seconds": 1403.577,
+      "container": ".m4a",
+      "transcript_sha256": "c8e636038af08dcce30ca39d3e6606e33b81735fba75cf3eac1989dd2b5b252e",
+      "evidence": [
+        {
+          "start": 48.14,
+          "end": 66.98,
+          "quote": "two years old. Nancy Gifford was born months after the end of the First World War and spent 102 years living in her three-bedroom house in the Somerset Village of Street. She is now putting it on the market, having lived in it through the Second World War and",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "She is a 102-year-old woman living in Somerset Village."
+        },
+        {
+          "start": 494.44,
+          "end": 510.66,
+          "quote": "They do indeed, Madam. Firstly, can you confirm that it's the performance of Cats on May the 28th at the Lion Theatre in London, at 7.30pm? Yes, that's the one, and I will need two tickets please, not too close to the front.",
+          "question_number": 9,
+          "option_label": "A",
+          "option_text": "He frequents the Lion Theatre."
+        },
+        {
+          "start": 899.43,
+          "end": 908.63,
+          "quote": "That now, wage growth is slowing down for everyone, and job switchers are getting smaller wage bumps in their new jobs.",
+          "question_number": 17,
+          "option_label": "B",
+          "option_text": "It is slowing down for everyone."
+        },
+        {
+          "start": 1253.58,
+          "end": 1272.04,
+          "quote": "care task that men liked more than women. Keep in mind, however, that, as with any research on group differences, there were large within group differences. The study's authors concluded that differences in men's and women's time spent on childcare",
+          "question_number": 24,
+          "option_label": "A",
+          "option_text": "The large within-group differences."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2017-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2017-06-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/81/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "24470798ab94176271bf081a4a4ddfc9a6880811e3abab450da0dee79eb68543",
+      "questions_sha256": "b40a05c84204e293c5afc436eec51f066b0e84058dc42a2343fc2073351fd3b4",
+      "duration_seconds": 1607.819,
+      "container": ".m4a",
+      "transcript_sha256": "e0f601ee1cd7a5ba5f988d59ec4c0df016016c0dac7af795ed4a14d536b7f7c9",
+      "evidence": [
+        {
+          "start": 95.66,
+          "end": 110.26,
+          "quote": "The two least important factors were having one's achievements recognized and, rather surprisingly, earning a competitive salary. So, we're not mainly motivated by money, apparently not.",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "Earning a competitive salary."
+        },
+        {
+          "start": 546.66,
+          "end": 565.94,
+          "quote": "setting. The don'ts can be self-fulfilling because your mind responds to pictures. Research conducted at Stanford University shows a mental image fires the nervous system the same way as actually doing something. That means when a golfer tells himself, don't hit the ball",
+          "question_number": 10,
+          "option_label": "B",
+          "option_text": "Golfers usually have positive mental images of themselves."
+        },
+        {
+          "start": 1034.72,
+          "end": 1049.96,
+          "quote": "involved sometimes doing primary research. For example, last year my students spent a week looking at their own purchasing and analyzed it in detail from shopping to the relationship that they have with their retail",
+          "question_number": 18,
+          "option_label": "A",
+          "option_text": "They spent a week studying their own purchasing behavior."
+        },
+        {
+          "start": 1465.98,
+          "end": 1482.66,
+          "quote": "This is not only a problem in developing countries, about half of all pregnancies globally are unintended, so those are examples of population problems. Demography gives you the tools to understand and to address these problems, it's not only",
+          "question_number": 24,
+          "option_label": "B",
+          "option_text": "About half of them are unintended."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2017-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2017-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/80/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "fc3d3992f7408efd1d520f0a3274296039f5a4a2af8a7a21634a0d77dc986914",
+      "questions_sha256": "355f58e356e3799ba38f0cf94b7b827d7a7fd2f372a99971795b2c7d1659c76f",
+      "duration_seconds": 1677.711,
+      "container": ".m4a",
+      "transcript_sha256": "79b31ffde39fa606cdc0b51fb84cb40a9103af3dad603e2945d60125045e3182",
+      "evidence": [
+        {
+          "start": 71.0,
+          "end": 87.28,
+          "quote": "Does being a writer require a thick skin? Yes, for example, my wife can be very harsh. I began working on my latest book, The Buried Giant, in 2004, but I stopped after I showed",
+          "question_number": 3,
+          "option_label": "D",
+          "option_text": "He often turns to his wife for help."
+        },
+        {
+          "start": 570.42,
+          "end": 584.94,
+          "quote": "online shopping has had a big impact on traditional shopping malls. Since 2010, more than 24 shopping malls have closed and an additional 60 are struggling. However, Fortune",
+          "question_number": 9,
+          "option_label": "C",
+          "option_text": "Shopping malls."
+        },
+        {
+          "start": 1152.74,
+          "end": 1167.98,
+          "quote": "Recording 2. Psychological research shows we consistently underestimate our mental powers. If you think this does not apply to you, then here is a simple test to show you are wrong.",
+          "question_number": 19,
+          "option_label": "D",
+          "option_text": "People tend to underestimate their mental powers."
+        },
+        {
+          "start": 1556.55,
+          "end": 1578.35,
+          "quote": "of the average family income. For example, in the United States, a family can be considered poor if their income is less than 50% of the national average family income. They can meet their basic needs, but they lack access to cultural goods, entertainment and recreation.",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": "Their income is less than 50% of the national average family income."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2017-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2017-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/84/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "4c2a004d11db5cb575dd254330b65f851c7b3365275be9e648489284b27d7377",
+      "questions_sha256": "5318166a2ae54dc0ac64fc95fd4a7e4797b6578f7cb600057d32f1eff8daf583",
+      "duration_seconds": 1601.736,
+      "container": ".m4a",
+      "transcript_sha256": "2a9332bc45787f8c8dcacb1a8db82a0a101b9540a1fc0e7f32c478e658b5bd8d",
+      "evidence": [
+        {
+          "start": 93.56,
+          "end": 109.36,
+          "quote": "In France, the government has banned supermarkets from throwing away edible foods and imposed harsh penalties on businesses that fail to comply with the regulations. While there is still much progress to be made, other countries could learn a thing or two",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "It imposed penalties on businesses that waste food."
+        },
+        {
+          "start": 624.77,
+          "end": 644.71,
+          "quote": "in use in Korea at the beginning of the 15th century, but it was in Germany around the year 1450 that a printing press using movable metal-type was invented. turned printing from an invention into an industry. Right from the start, book printing",
+          "question_number": 12,
+          "option_label": "A",
+          "option_text": "Moveable metal type began to be used in printing."
+        },
+        {
+          "start": 1074.64,
+          "end": 1090.32,
+          "quote": "Recording 2. Kowansa is a cultural festival during which African Americans celebrate and reflect upon their rich heritage as the products of two worlds. It begins December 26th and last for",
+          "question_number": 19,
+          "option_label": "B",
+          "option_text": "It is a cultural festival founded for African-Americans."
+        },
+        {
+          "start": 1508.92,
+          "end": 1529.52,
+          "quote": "smaller amounts of saturated fat and higher amounts of unsaturated fat, mostly in the form of olive oil. Saturated fats are fats that are found principally in meat and dairy products, although some nuts and vegetable oils also contain them. Saturated fats are used by the",
+          "question_number": 23,
+          "option_label": "B",
+          "option_text": "It contains large amounts of dairy products."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2017-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2017-12-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/83/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "b21df8c4d036959392178e84868cdd08ae5871e3e98428c6bfbcbf910a5abc49",
+      "questions_sha256": "c8c7b14b710acd42336f40290c5fe6ef191d367a60ea7072219cc6c37b42ede8",
+      "duration_seconds": 1625.792,
+      "container": ".m4a",
+      "transcript_sha256": "c722f925473e25dcf7a72c5d2d880d33d24ff8082492ecbc27cb9ebf84c5300f",
+      "evidence": [
+        {
+          "start": 66.43,
+          "end": 73.23,
+          "quote": "Yes. Anyway, I went along to a lecture by a Miss Bly. Oh, do go on.",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "Give a lecture on the history of the town."
+        },
+        {
+          "start": 646.85,
+          "end": 661.77,
+          "quote": "an inclusion crisis. With less than a week before an Oscar ceremony that has already been criticised for an all-white list of acting nominees, a study shows the film industry does worse than television.",
+          "question_number": 12,
+          "option_label": "A",
+          "option_text": "All of the acting nominees are white."
+        },
+        {
+          "start": 1111.15,
+          "end": 1132.59,
+          "quote": "For one thing, stereotypes are often accurate. When you ask people about their concept of stereotypes, they get it pretty much right. Also, stereotypes are often positive, particularly of groups that we ourselves belong to. Some of the statistical generalisations may be",
+          "question_number": 22,
+          "option_label": "D",
+          "option_text": "A negative stereotype sticks while a positive one does not."
+        },
+        {
+          "start": 1544.15,
+          "end": 1555.27,
+          "quote": "that your children will become part of the drug culture by treating all medicines with respect. Always let your children know that medicines and drugs",
+          "question_number": 25,
+          "option_label": "A",
+          "option_text": "Tell their children to treat medicines with respect."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2018-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2018-06-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/87/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "a269d3465ad67029a94e5aa73af6947bf68034a42a2f0993400e48582143be97",
+      "questions_sha256": "4a9025a9523bf2f3e9049db1122ca286bae0eff75e01e96c8eb2349eff4c4ec3",
+      "duration_seconds": 1650.753,
+      "container": ".m4a",
+      "transcript_sha256": "b3a99554352bae8754c781a78de6c2628ba9380ea29ab8e4ff639e65e22f5509",
+      "evidence": [
+        {
+          "start": 85.96,
+          "end": 98.38,
+          "quote": "Stale bread? Surely you mean bread for dipping into the soup? No, bread is crushed and blended in, like everything else. It adds texture and thickness to the soup.",
+          "question_number": 4,
+          "option_label": "D",
+          "option_text": "It is a delicacy blended with bread."
+        },
+        {
+          "start": 580.66,
+          "end": 594.6,
+          "quote": "he would relay the information to his commander. The Code Talkers played an important part in several battles. They helped troops coordinate their movements and attacks.",
+          "question_number": 11,
+          "option_label": "A",
+          "option_text": "Important battles fought in the Pacific War."
+        },
+        {
+          "start": 1117.22,
+          "end": 1133.62,
+          "quote": "Dr. Gong pierced them into my left arm, around the elbow that had been bothering me. Other needles were slipped into my left wrist and strangely into my right arm, and then into both my closed eyelids.",
+          "question_number": 19,
+          "option_label": "D",
+          "option_text": "Dr. Gong slipped in needles where he felt no pain."
+        },
+        {
+          "start": 1524.35,
+          "end": 1546.11,
+          "quote": "to crave affection. The only child is often most comfortable when alone, but since an only tends to be a well adjusted individual, she'll eventually learn to relate to any chosen spouse. The male only child expects his wife to make life easier without getting",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": "They tend to be well adjusted."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2018-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2018-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/86/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "27c2b31760c5834f37205caf8ce34214bd8da2d68026e88b991f1da1ccea08fc",
+      "questions_sha256": "a2fa32cc64df23f27e280e6af966859ad2d22cad6f6b4e49ec775a30074be78f",
+      "duration_seconds": 1651.566,
+      "container": ".m4a",
+      "transcript_sha256": "a052faeba43c1731a05a709e3307c6f904e132f4fbd660b467c9a174323a00a7",
+      "evidence": [
+        {
+          "start": 98.64,
+          "end": 118.8,
+          "quote": "amazing. How did you come up with the idea? We saw other cafes with cats in them, so we thought, why not rabbits? People love rabbits, they are very cute animals. But is it safe? Do the rabbits ever bite people? Or do any customers ever hurt the rabbits? It's perfectly",
+          "question_number": 4,
+          "option_label": "C",
+          "option_text": ". They love the animals in her cafe."
+        },
+        {
+          "start": 561.53,
+          "end": 569.13,
+          "quote": "more than the Mississippi, Nile, and Yangtze combined. Other statistics are equally astonishing.",
+          "question_number": 11,
+          "option_label": "D",
+          "option_text": ". It is as long as the Nile and the Yangtze combined."
+        },
+        {
+          "start": 1062.82,
+          "end": 1078.58,
+          "quote": "their harmful effects. What is more, non-native species can appear harmless for decades, then turn invasive. Question 16-18 are based on the recording you have just heard.",
+          "question_number": 16,
+          "option_label": "A",
+          "option_text": ". They will root out native species altogether."
+        },
+        {
+          "start": 1534.69,
+          "end": 1555.89,
+          "quote": "and Fridays off in May. This cozy workplace no longer exists here. The Wallaces both died in their 90s, in the early 1980s. George Grune, a former ad salesman who joined Readers Digest in 1960, has his eye focused on the bottom line. In a few short",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": ". George Grune joined it as an ad salesman."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2018-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2018-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/90/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "a3efb324310352072888532cbfd2de7e8dbb8baf84712f6a93abb7f13f6a8646",
+      "questions_sha256": "846ea3ff086a17e5bc5a9874a30214644ffe951a399860a9c5d89b78e10ded93",
+      "duration_seconds": 1616.202,
+      "container": ".m4a",
+      "transcript_sha256": "98ca6e1900bc5eec29dc435a0f41fbeae28192d4d4f9a1f065a4a5f05a871b8a",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 51.76,
+          "quote": "Hey, I just read a great book about physics. I think you'd like it. It's called The Physics of the World. It's written by a scientist named Sylvia Mendez.",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "It is one of the most fascinating physics books ever written."
+        },
+        {
+          "start": 596.34,
+          "end": 616.88,
+          "quote": "Question 10. What does the passage say about the temperature surge in the Arctic? Question 11.",
+          "question_number": 9,
+          "option_label": "D",
+          "option_text": "The rapid change of Arctic temperature within a day."
+        },
+        {
+          "start": 1051.01,
+          "end": 1095.97,
+          "quote": "Question 18. What is the fundamental limitation of machine learning? Recording 2. We've talked recently about the importance of sustainable energy. We've also talked about the different theories on how that can be done.",
+          "question_number": 19,
+          "option_label": "D",
+          "option_text": "The theoretical aspects of sustainable energy."
+        },
+        {
+          "start": 1466.2,
+          "end": 1488.0,
+          "quote": "of financial crisis, funding diminished and little changed. In the 1980s the government cut spending. Meanwhile, preference for private over public services made management even more difficult. Simultaneously the number of sick older people grew. Governments emphasised",
+          "question_number": 24,
+          "option_label": "C",
+          "option_text": "Their preference for private services."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2018-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2018-12-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/89/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "edbe449d83ffae7e9571ecb988617a3c2242aa3916129bfe9b1ac331a6e23b93",
+      "questions_sha256": "0a627feccb5d78005b5b8c15b8e74277d232733a840f5ed2a67e2f808dadbd10",
+      "duration_seconds": 1580.466,
+      "container": ".m4a",
+      "transcript_sha256": "e620e23a079522f5f243814044807e7a19c009fb3331ef6bfab5222db0e3d404",
+      "evidence": [
+        {
+          "start": 83.52,
+          "end": 98.24,
+          "quote": "Surprisingly, a lot more than I did as a hobby. Recently, I've been spending a lot more time editing photos, posting online, and clearing storage on my phone. It's always full now. That doesn't sound like too much work.",
+          "question_number": 3,
+          "option_label": "B",
+          "option_text": "Editing his pictures and posting them online."
+        },
+        {
+          "start": 538.18,
+          "end": 556.18,
+          "quote": "Thorne accent syndrome is rare, with only about 60 cases reported within the past century. However, a different American woman reportedly spoke with the Russian accent in 2010 after she fell down the stairs and hit her head.",
+          "question_number": 9,
+          "option_label": "B",
+          "option_text": "She woke up speaking with a different accent."
+        },
+        {
+          "start": 1101.73,
+          "end": 1116.77,
+          "quote": "you could stand at the edge of one village and see the outskirts of the next community, Yet the residents of each village speak a completely different language. According to recent work by my colleagues at the Max Planck Institute for the Science",
+          "question_number": 19,
+          "option_label": "C",
+          "option_text": "Each village there speaks a totally different language."
+        },
+        {
+          "start": 1441.25,
+          "end": 1457.57,
+          "quote": "and part-time jobs that don't provide benefits. Businesses, in order to bolster profits, hire employees as part-time workers only. This means they are paid the lowest legal wage and receive no health care or other benefits",
+          "question_number": 25,
+          "option_label": "C",
+          "option_text": "Hire part-time employees only."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2019-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2019-06-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet6/2019_06_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet6/2019_06_1",
+      "sha256": "051c53fd6b7f16a2264c086fa4965d71ab09a51b479bbff809148f527be48a13",
+      "questions_sha256": "d70c78bc09e6695f9dbbec2d96454d08404f4742de98eac2ac170ab7b6e4718c",
+      "duration_seconds": 1653.539,
+      "container": ".m4a",
+      "transcript_sha256": "5bf323747281fdcf861778c7590562527029133c54291f74c88da0b7ad8700bc",
+      "evidence": [
+        {
+          "start": 102.52,
+          "end": 115.24,
+          "quote": "Recently, though, I turned my photography hobby into a small business. I'll actually be taking photos during the big event as a wedding gift. That sounds wonderful and very thoughtful of you.",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "Take wedding photos."
+        },
+        {
+          "start": 571.52,
+          "end": 594.64,
+          "quote": "The explosive new style helped cut Kelly's racing time dramatically. In 1966 and 1967, he captured virtually every major skiing trophy. The next year, he won three gold medals in the Winter Olympics, a record in ski racing that has never been topped.",
+          "question_number": 11,
+          "option_label": "C",
+          "option_text": "He won three gold medals in one Winter Olympics."
+        },
+        {
+          "start": 1148.81,
+          "end": 1167.81,
+          "quote": "I'm overwhelmed with a wide range of different slimming products each year. And more shockingly, these products are often advocated by very slim models. Having lived in Asia for almost ten years now, I've seen various dieting tips come and go.",
+          "question_number": 19,
+          "option_label": "A",
+          "option_text": "People's envy of slim models."
+        },
+        {
+          "start": 1529.06,
+          "end": 1541.66,
+          "quote": "sunshine and much lower levels of sun radiation. It's in these populations that we begin to see real changes in the genetic makeup of natural coloring.",
+          "question_number": 25,
+          "option_label": "A",
+          "option_text": "Their genetic makeup began to change."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2019-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2019-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/92/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "0d7ebcc5e5e0c710be2d358aee19b73a42df9148cf7283c56a738dcb23fab08d",
+      "questions_sha256": "b963397c655b85dfe30eb04e5a2cc41fb637968a792d72eec28ff6a6c0f0d328",
+      "duration_seconds": 1671.117,
+      "container": ".m4a",
+      "transcript_sha256": "bb73fd3cc5645bd45231471c93a96eb79ce04d9772bed1623879bf5cdb786007",
+      "evidence": [
+        {
+          "start": 47.08,
+          "end": 62.44,
+          "quote": "I never really understood why so many girls were such big fans of her. I mean, I've seen the famous films, Roman Holiday, Breakfast at Tiffany's and a few others. But I still don't fully get it.",
+          "question_number": 1,
+          "option_label": "A",
+          "option_text": "Why Roman Holiday was more famous than Breakfast at Tiffany's."
+        },
+        {
+          "start": 651.87,
+          "end": 664.91,
+          "quote": "Hello viewers! Today, I'm standing at a 2,000-year-old Roman-era site. Here the brightly colored scenes that once decorated a mansion are being dug up.",
+          "question_number": 12,
+          "option_label": "C",
+          "option_text": "At the site of an ancient Roman mansion."
+        },
+        {
+          "start": 1166.05,
+          "end": 1179.73,
+          "quote": "In 1959, on the day that I was born, a headline and Life magazine proclaimed, Target Venus, there may be life there. They told of how scientists wrote a",
+          "question_number": 19,
+          "option_label": "A",
+          "option_text": "Scientists tried to send a balloon to Venus."
+        },
+        {
+          "start": 1521.42,
+          "end": 1529.42,
+          "quote": "Instead, we lend people motion detecting watches, and they wear them for a week at a time.",
+          "question_number": 24,
+          "option_label": "C",
+          "option_text": "By having people wear motion-detecting watches."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2019-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2019-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/96/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "1cd07fe5f6659fdc3d894f335d6fa9805ebbd8dc9907e48e0bc3ab59d378de41",
+      "questions_sha256": "28032332be71fb0a480215438d083fd0d4e52d275f2bf59770e4b86da2d18567",
+      "duration_seconds": 1682.959,
+      "container": ".m4a",
+      "transcript_sha256": "eabf56f7e3f086b91a3764483d57704d5f316bba236674baa5d0defeeb38f8bb",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 47.88,
+          "quote": "Melander, who works as a features editor for a fashion magazine. Hi Rosie.",
+          "question_number": 1,
+          "option_label": "D",
+          "option_text": "Features editor."
+        },
+        {
+          "start": 673.37,
+          "end": 687.13,
+          "quote": "One of the main causes of these accidents, a wandering mind. By one estimate, people daydream through nearly half of their waking- .",
+          "question_number": 12,
+          "option_label": "B",
+          "option_text": "It wanders for almost half of their waking time."
+        },
+        {
+          "start": 1145.71,
+          "end": 1161.31,
+          "quote": "Recording too. In last week's lecture we discussed the characteristics of the newly born offspring of several mammals. You probably remember that human infants are less developed physically than other mammals",
+          "question_number": 19,
+          "option_label": "B",
+          "option_text": "Cognitive features of different newly born mammals."
+        },
+        {
+          "start": 1565.02,
+          "end": 1584.18,
+          "quote": "on every new group project opportunity. When we are too collaborative, we want everyone to agree with a decision before we proceed. This can create unnecessary delays as you hold meetings trying to achieve a consensus. It's fine to be collaborative when seeking",
+          "question_number": 25,
+          "option_label": "C",
+          "option_text": "It may give rise to a lot of unnecessary expenses."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2019-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2019-12-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/95/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "39900129d4b06cb253c04926736110bc6e20ce1d41ab2948c0c5cd767c78ca61",
+      "questions_sha256": "732ce487b7f07a0582dd4999ae4a989273a8759847932357778eaa4b57bf7591",
+      "duration_seconds": 1682.889,
+      "container": ".m4a",
+      "transcript_sha256": "cc96f93f31c2470d61f44e92d4c8fb12f9e82ddc7cd5306426d7d38649b3fc67",
+      "evidence": [
+        {
+          "start": 64.84,
+          "end": 84.98,
+          "quote": "We have a cafe and library upstairs, and a ticket office down the hall where you can by tickets to all the major jazz concerts in the city. Also, we have our own studio next door, where we produce albums for up and coming artists. We're committed to fostering new music talent.",
+          "question_number": 1,
+          "option_label": "B",
+          "option_text": "It sponsors major jazz concerts."
+        },
+        {
+          "start": 675.49,
+          "end": 682.18,
+          "quote": "edible insects as a new source of food. The Sainsbury's is the first UK Sainsbury UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK Sainsbury is the first UK",
+          "question_number": 12,
+          "option_label": "D",
+          "option_text": "It has joined hands with Sainsbury's to sell pet insects."
+        },
+        {
+          "start": 1114.47,
+          "end": 1165.33,
+          "quote": "Question 18. What message does the speaker want to convey about learning at the end of the talk? Recording 2. Free market capitalism hasn't freed us. It has trapped us. It's imperative for us to embrace a workplace revolution. We are unlikely to spend our last moments regretting that we didn't spend enough of our lives slaving away at work.",
+          "question_number": 19,
+          "option_label": "B",
+          "option_text": "Not benefiting from free-market capitalism."
+        },
+        {
+          "start": 1575.02,
+          "end": 1593.78,
+          "quote": "Assuming all goes well, the airport should open in October 2020. But the still empty airport stands as the biggest embarrassment to Germany's reputation for efficiency and a continuing drain on city and state resources.",
+          "question_number": 22,
+          "option_label": "B",
+          "option_text": "It is now the biggest and busiest airport in Europe."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2020-07-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2020-07-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/97/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "a3b098d10aef4e42a0a4f16a826e90855eb57085d07f61c90063cb4e23908877",
+      "questions_sha256": "6de3fadaca5cb6a5aa80e3273f33cd69ad739600bf138d37fdcc851ca12d0907",
+      "duration_seconds": 1612.231,
+      "container": ".m4a",
+      "transcript_sha256": "8305d021e492506994bde6ae3f8ec2725d5d3490aac6b9466730077e96bce642",
+      "evidence": [
+        {
+          "start": 123.2,
+          "end": 137.44,
+          "quote": "or 200-meter swimming race. Is there any concern that technology is giving some athletes an unfair advantage over others? That is an interesting question, and one that has to be considered very carefully.",
+          "question_number": 4,
+          "option_label": "C",
+          "option_text": "It may give an unfair advantage to some athletes."
+        },
+        {
+          "start": 556.72,
+          "end": 579.72,
+          "quote": "many stress-reducing gadgets. The main attraction is a boss doll with detachable arms and legs. Employees can take the doll apart as long as they put its arms and legs back in place. Sandy Cohen, owner of a graphic print production business, created the quote board to document",
+          "question_number": 11,
+          "option_label": "B",
+          "option_text": "Take the boss doll apart as long as they reassemble it."
+        },
+        {
+          "start": 1126.65,
+          "end": 1141.81,
+          "quote": "The partial skeletons of more than 20 dinosaurs and the scattered bones of about 300 more have been discovered in Utah and Colorado at what is now the Dinosaur National Monument. Many of the",
+          "question_number": 19,
+          "option_label": "B",
+          "option_text": "At the Dinosaur National Monument."
+        },
+        {
+          "start": 1490.55,
+          "end": 1508.71,
+          "quote": "a burden. We are beginning to see what a tremendous price we've paid for our emphasis on independence and autonomy. We've isolated old people and we've cut off the children from their grandparents. One of the reasons we have as bad a generation gap today as we",
+          "question_number": 23,
+          "option_label": "D",
+          "option_text": "They have a sense of independence and autonomy."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2020-09-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2020-09-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/100/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "a67a267c21d1401cc0f16d79bee41e269532e1b9035615410998c5d82145c399",
+      "questions_sha256": "efb34589b15d47b01310d46b3aab911da31612de8357399f2b0fb48dbdb471c2",
+      "duration_seconds": 1576.124,
+      "container": ".m4a",
+      "transcript_sha256": "7a239cb518a649c27fcf793b71ff094e3485bee8f8416c8f70e1baa01c79f9a3",
+      "evidence": [
+        {
+          "start": 69.84,
+          "end": 85.28,
+          "quote": "Well, as you said, I do have different things going on, but these, I think, can be divided into two groups, the education of science, and the further understanding of science. Don't these two things get in the way of each other?",
+          "question_number": 2,
+          "option_label": "D",
+          "option_text": "Science education and scientific research."
+        },
+        {
+          "start": 547.2,
+          "end": 564.12,
+          "quote": "and look for signs of life. The scientists hope their discoveries will shed light and light in outer space, which might exist in similar dark and airless conditions. Recently, close-up pictures of Jupiter's moon Europa showed signs of",
+          "question_number": 11,
+          "option_label": "D",
+          "option_text": "Shed light on possible life in outer space."
+        },
+        {
+          "start": 1106.15,
+          "end": 1119.87,
+          "quote": "We become part of our immediate environment. None of us are immune to the influences of our own world, and let us not kid ourselves that we are untouched by the things and the people in our life.",
+          "question_number": 19,
+          "option_label": "B",
+          "option_text": "It is impossible for us to be immune from outside influence."
+        },
+        {
+          "start": 1457.96,
+          "end": 1477.96,
+          "quote": "Controversy continues to surround the true value of the dollar bill. American history has seen generations of politicians argue in favor of a gold standard for American currency. However, for the present, the American dollar bill holds the value that is printed on it and little more.",
+          "question_number": 25,
+          "option_label": "C",
+          "option_text": "A gold standard for American currency."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2020-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2020-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/103/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "95c5d0fab68d2b363f2c8b05505f81981cdaaf71352c273ee49e70e845ecbc80",
+      "questions_sha256": "ed967f6d02f54bc37f8d5bb47896acd8e874aaee9fa4ef2cd5fe633807ae4acd",
+      "duration_seconds": 1540.551,
+      "container": ".m4a",
+      "transcript_sha256": "9818ab1d9c7a44a005ec13e88ecc609a76b74ad9dcdae41dc5efcf235fb6073f",
+      "evidence": [
+        {
+          "start": 79.08,
+          "end": 90.44,
+          "quote": "was extensively flooded two months ago. The entire ground floor of our cottage was submerged in water, and five of us have been living in a caravan ever since.",
+          "question_number": 2,
+          "option_label": "A",
+          "option_text": "The ground floor of their cottage was flooded."
+        },
+        {
+          "start": 625.76,
+          "end": 633.84,
+          "quote": "Passage 2. I work in advertising, and I like to keep up with current trends, mainly because I'm I'm aware that we live.",
+          "question_number": 13,
+          "option_label": "C",
+          "option_text": "To keep up with the current trends."
+        },
+        {
+          "start": 1082.16,
+          "end": 1093.76,
+          "quote": "Picture this scenario. You often drive for work and can be compensated for up to 400 miles per month. Most people at your company drive about 300 miles each month.",
+          "question_number": 19,
+          "option_label": "D",
+          "option_text": "Most of the respondents got compensated for driving 384 miles.\n\n6 · 3"
+        },
+        {
+          "start": 1429.91,
+          "end": 1448.15,
+          "quote": "emotions are associated with stronger memories and preferences. Both of these might explain why the songs we listen to during this period become so memorable and beloved. So, there's nothing wrong with your parents because they don't like your music, rather",
+          "question_number": 23,
+          "option_label": "D",
+          "option_text": "They seldom listen to songs released in their teens."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2020-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2020-12-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet6/2020_12_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet6/2020_12_2",
+      "sha256": "cf2f30ada0c1009f1143522c1f1846a7d240512f47c2f11cdcc59a3289bf2c96",
+      "questions_sha256": "ae2ed9dc73b67a22084f1127fa7d3b44793e61e7654a29a2511c2c814db0b7d5",
+      "duration_seconds": 1597.44,
+      "container": ".m4a",
+      "transcript_sha256": "e445d8d51b623e0c14562e0d0a0f46ee5e96b22b2dee4c32e04130b5e11e1d6d",
+      "evidence": [
+        {
+          "start": 110.12,
+          "end": 126.32,
+          "quote": "Honestly, playing has inspired me to look into the industry more. I've read articles about how self-driving trucks may soon be available and could greatly impact cargo logistics. Considering all that goes into driving these larger vehicles, it's amazing that we could",
+          "question_number": 4,
+          "option_label": "D",
+          "option_text": "More self-driving trucks on the road."
+        },
+        {
+          "start": 566.81,
+          "end": 582.05,
+          "quote": "study provides. Online sellers often use complex mathematical formulas to determine what products to feature and how to price those products. Incorporating more data about weather would allow them to make better decisions. This could",
+          "question_number": 11,
+          "option_label": "B",
+          "option_text": "Helping them determine what to sell and at what price."
+        },
+        {
+          "start": 1043.28,
+          "end": 1057.08,
+          "quote": "How can people benefit from being alone? The findings here suggest that people can use solitude to regulate their emotions. You can help us become quiet after excitement, calm after an angry episode, or simply feel",
+          "question_number": 17,
+          "option_label": "D",
+          "option_text": "Solitude had a reductive effect on high-arousal emotions."
+        },
+        {
+          "start": 1453.66,
+          "end": 1466.38,
+          "quote": "than the ones they remember. Secondly, candidates should know what's at stake for the company with this job opening. What they really are asking you is, tell me why you are going to help me.",
+          "question_number": 22,
+          "option_label": "A",
+          "option_text": "Job candidates rarely take it seriously."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2021-06-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2021-06-1.m4a",
+      "source_url": "https://www.cettong.cn/library/cet6/2021_06_1/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet6/2021_06_1",
+      "sha256": "bc5a89f888d2e79397492a4d000733011d97a0f3373e859666c764bb3d459025",
+      "questions_sha256": "3264866a4a30a10ab8423deb77340e130db45c07134da6abed0d243e6c16e9ff",
+      "duration_seconds": 1687.441,
+      "container": ".m4a",
+      "transcript_sha256": "15761bf07379635ffc8f73c7914ed25b6dc68e896ea1edf354a6c10e08e055c1",
+      "evidence": [
+        {
+          "start": 137.25,
+          "end": 147.41,
+          "quote": "Anything you initially gain from the instant satisfaction of telling it like it is, you might lose down the track by injuring your future career prospects. Right.",
+          "question_number": 3,
+          "option_label": "C",
+          "option_text": "It may adversely affect his future career prospects."
+        },
+        {
+          "start": 670.94,
+          "end": 683.62,
+          "quote": "Passage 2 At the beginning of the 20th century, on the Gulf Coast in the U.S. state of Texas, there was a hill where gas leakage was so noticeable that school boys would",
+          "question_number": 12,
+          "option_label": "C",
+          "option_text": "There was oil leakage along the Gulf Coast."
+        },
+        {
+          "start": 1095.8,
+          "end": 1119.34,
+          "quote": "Question 16. What is a primary cause of employee dissatisfaction according to recent research? Question 17.",
+          "question_number": 20,
+          "option_label": "C",
+          "option_text": "It causes conflicts between employers and employees."
+        },
+        {
+          "start": 1543.8,
+          "end": 1563.6,
+          "quote": "poor, slow roads. In the second phase, as they grow wealthier, they pave the roads, allowing traffic to move faster and pushing up the death rate. Lastly, in the third phase, countries act to make their roads safer. The trick then is to reach the",
+          "question_number": 24,
+          "option_label": "B",
+          "option_text": "Many of them have seen a decline in road-death rates."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2021-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2021-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/105/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "630470dce57ef43069e77c0907e3420429a33f8d69fd25fedee4f825540385a1",
+      "questions_sha256": "f9afff7e6cbf6e8d080b724bf06cc30755d55b18445f43cdaac1dc9d1bd0742d",
+      "duration_seconds": 1702.185,
+      "container": ".m4a",
+      "transcript_sha256": "2c64361c1bccd6ce163cbdaac19684cab26ece1b9206be9a63811a1b4ff26ab5",
+      "evidence": [
+        {
+          "start": 73.94,
+          "end": 89.9,
+          "quote": "a toxic culture of brilliant jerks that drives people out and erodes itself from within. My company's managers tend to be accommodating and kind, overlooking mistakes or issues so it's not to hurt feelings.",
+          "question_number": 2,
+          "option_label": "D",
+          "option_text": "They are accommodating."
+        },
+        {
+          "start": 612.99,
+          "end": 631.79,
+          "quote": "A study in Germany found that homework could have an effect on students' personalities, suggesting that doing homework might help kids to become more conscientious and independent learners. Questions 9 to 11 are based on the passage you have just heard.",
+          "question_number": 11,
+          "option_label": "C",
+          "option_text": "Doing homework exerts a positive effect on kids' personality development."
+        },
+        {
+          "start": 1146.98,
+          "end": 1168.03,
+          "quote": "Question 17. What has science demonstrated regarding the positive culture of a new venture? Question 18.",
+          "question_number": 13,
+          "option_label": "A",
+          "option_text": "It was of great significance to rocket science."
+        },
+        {
+          "start": 1605.66,
+          "end": 1625.11,
+          "quote": "They're an effective tool for the sharing of data and reports, but they're a hopeless tool if what a manager is desiring is a change in behavior. Question 22.",
+          "question_number": 25,
+          "option_label": "A",
+          "option_text": "They are a useless tool for managers to change employee behavior."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2023-12-1",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2023-12-1.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/127/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "70c058164e6df458b5f087b9cf24c9f41b4e4caffd6264b26cb5f331f98e9003",
+      "questions_sha256": "0baa7b7bcde75a19d2a260bbb9f4c2767530e875eeba3a5a8dca8a4582b96db9",
+      "duration_seconds": 1564.839,
+      "container": ".m4a",
+      "transcript_sha256": "9b4ff22c90ff82a796426f2f73b5df5ab45329cc68b128415da67667898e8b9c",
+      "evidence": [
+        {
+          "start": 48.0,
+          "end": 56.84,
+          "quote": "The blood test came back clear. There is no indication of any digestive issues. So then, why do I feel so poorly all the time?",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "There is some indication of an issue with his blood circulation."
+        },
+        {
+          "start": 545.05,
+          "end": 563.73,
+          "quote": "that is to say, comedies that represent the complex and sophisticated code of behavior, current infashionable circles of society, where appearances count more than true moral A comedy of manners tends to reward its clever and deceitful characters rather than punish",
+          "question_number": 10,
+          "option_label": "D",
+          "option_text": "The manners of fashionable circles."
+        },
+        {
+          "start": 1101.64,
+          "end": 1111.48,
+          "quote": "and according to researchers who study dog cognition, those pet owners are right. Dogs do know when their human companions are having a rough time.",
+          "question_number": 19,
+          "option_label": "D",
+          "option_text": "Dogs know when their human companions can no longer stand them."
+        },
+        {
+          "start": 1466.02,
+          "end": 1473.4,
+          "quote": "received it. We need to look at the value of education, not in the context of a bank balance, but of a life.",
+          "question_number": 25,
+          "option_label": "A",
+          "option_text": "The context of a bank balance."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2023-12-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2023-12-2.m4a",
+      "source_url": "https://www.cettong.cn/library/cet6/2023_12_2/listening.mp3",
+      "source_page": "https://www.cettong.cn/library/cet6/2023_12_2",
+      "sha256": "39b8be4ef5e62c70ec3f56bc3143f93ab5de26cba35b7606f234701f87cfaa7d",
+      "questions_sha256": "8950e7fb43fecad26accb2a15aae8e752e4390a3cb30d59f7c10fffe53e51a8f",
+      "duration_seconds": 1564.143,
+      "container": ".m4a",
+      "transcript_sha256": "5af4743206eeb02c697377ccaa697a921390146c50d220ae78f3e5bcca5717dc",
+      "evidence": [
+        {
+          "start": 42.0,
+          "end": 49.24,
+          "quote": "Summer, instead of our usual holiday rental, I'd like to try renting a camper van and exploring a bit more.",
+          "question_number": 1,
+          "option_label": "C",
+          "option_text": "Exploring more summer holiday resorts."
+        },
+        {
+          "start": 625.41,
+          "end": 648.77,
+          "quote": "floods. This is a serious risk to human lives and property, so understanding and accurately forecasting flood risks is a key challenge for vulnerable cities around the globe. In 2017, Derek Rilofdis of the Virginia Institute of Marine Science",
+          "question_number": 12,
+          "option_label": "B",
+          "option_text": "Forecasting flood risks accurately."
+        },
+        {
+          "start": 1068.22,
+          "end": 1085.76,
+          "quote": "to. While an increasing number of people are trying to eat less meat, a market research team has found in its latest fashion and sustainability report that the trend is now spreading from kitchen to closet. It found animal welfare came top of a list of issues",
+          "question_number": 19,
+          "option_label": "D",
+          "option_text": "An increasing number of people follow the latest trend of becoming vegetarians."
+        },
+        {
+          "start": 1450.7,
+          "end": 1469.66,
+          "quote": "In today's hyper-connected times, our addiction to bad news just leads us to vacuum up depressing or enraging stories from across the globe. Whether these news stories threaten us or not, we conclude that things are much worse than they actually are. Really good news,",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": "Vacuuming up depressing or enraging stories."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2025-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2025-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/220/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "89bebdd1e375696adb77a4c3b64453cb69ccf597bc5427f790a14d339bdd3b01",
+      "questions_sha256": "d13be2bb8fb0b801568b2c0b4a3aede022175b36a40b0ba4b1661aa06ce045dd",
+      "duration_seconds": 1567.718,
+      "container": ".m4a",
+      "transcript_sha256": "18d9c21bf792ba2407767e0ed764d1377beb663614f819f6d764e1c7c3fb45d5",
+      "evidence": [
+        {
+          "start": 68.76,
+          "end": 81.7,
+          "quote": "I would agree, yes. The only difference worth noting, perhaps, is that it looks like Rachel scored moderately stronger grades throughout high school and university. But as I said, only a tiny bit higher than Peter.",
+          "question_number": 2,
+          "option_label": "B",
+          "option_text": "Rachel scored moderately higher grades than Peter at school."
+        },
+        {
+          "start": 563.5,
+          "end": 581.58,
+          "quote": "Understanding how humans shape stray dogs' behavior may help alleviate this problem. According to the researchers of the new study, stray dogs are intelligent creatures. They closely observe humans and use their understanding of us to make a decision.",
+          "question_number": 10,
+          "option_label": "A",
+          "option_text": "Cultivating them to be intelligent creatures."
+        },
+        {
+          "start": 1070.56,
+          "end": 1100.76,
+          "quote": "How does the speaker approach her research project? to. Americans are obsessed with celebrity chefs. We talk about them and try to eat like them, but could we learn something more from them than recipes and techniques? According to",
+          "question_number": 20,
+          "option_label": "A",
+          "option_text": "It's unique to celebrity chefs."
+        },
+        {
+          "start": 1435.8,
+          "end": 1456.04,
+          "quote": "and reasons for failure, dissatisfaction and unhappiness. We measure against the goal, rather than where we've come from. Dan Sullivan calls this the gap and the gain. We measure always against the goal, which we never feel we're reaching, rather than the gain, that is,",
+          "question_number": 25,
+          "option_label": "B",
+          "option_text": "Measuring always against the gap rather than the gain."
+        }
+      ]
+    },
+    {
+      "paper_id": "CET6-2026-06-2",
+      "source": "E:\\四六级真题\\解析结果\\听力补充\\音频\\CET6-2026-06-2.m4a",
+      "source_url": "https://listening.lazynote.cn/cet6/235/index.m3u8",
+      "source_page": "https://english-exam.lazynote.cn/cet6/sections/listening/",
+      "sha256": "f02eaa3e3c86e6c69e348770dd66ec2f68966a4b189253061bf756baf7ed32d1",
+      "questions_sha256": "76fc6b4d6e61678318030f8b23ee2fbaa0a731016a61ceb38de97e78e92de483",
+      "duration_seconds": 1587.409,
+      "container": ".m4a",
+      "transcript_sha256": "075177f9c9621a5df75e5f1c7b625695785405c6adfbe65e8feda43761932be5",
+      "evidence": [
+        {
+          "start": 88.18,
+          "end": 98.68,
+          "quote": "well if you are going for a whole week why don't you do a couple of nights in somewhere really glamorous and then do the rest of the week a bit further up the coast where the accommodation is",
+          "question_number": 3,
+          "option_label": "B",
+          "option_text": "Spend a couple of nights in a glamorous hotel and the rest of the week in inexpensive places."
+        },
+        {
+          "start": 547.55,
+          "end": 560.67,
+          "quote": "link between passion and achievement. The effective passion on performance was more subtle for those in more collectivistic societies, such as Columbia or Thailand.",
+          "question_number": 11,
+          "option_label": "D",
+          "option_text": "It was more subtle."
+        },
+        {
+          "start": 1091.1,
+          "end": 1107.54,
+          "quote": "Recording 2 It was a lazy, hazy, crazy day on the dwarf planet Pluto when New Horizons, a spacecraft from Earth, flew by at a speed of 31,000 miles per hour two years ago.",
+          "question_number": 21,
+          "option_label": "B",
+          "option_text": "If Pluto's hazy atmosphere can be more easily observed."
+        },
+        {
+          "start": 1443.23,
+          "end": 1455.35,
+          "quote": "cried or even fell asleep. Dr. Eggerman claims introducing children to a variety of musical styles is the key to fostering good taste in later life.",
+          "question_number": 24,
+          "option_label": "D",
+          "option_text": "Introducing children to a variety of musical styles."
+        }
+      ]
+    }
+  ],
+  "shared_recordings": [
+    {
+      "paper_id": "CET4-2017-06-3",
+      "reference_paper_id": "CET4-2017-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "1c2473f7a3225c418b4d5505474d1b7bda3e7bdff73ae7f899851872866013b6",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2019-06-3",
+      "reference_paper_id": "CET4-2019-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "a216a748d6a8bfeb7e57958ff37aaa18f324fe050623929dea29e4b3adf4c4b7",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2020-09-2",
+      "reference_paper_id": "CET4-2020-09-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "7580acdaa8f3cd484daf999f55e5784ba72f555bf61fd271913904d2d71aa4fa",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2020-09-3",
+      "reference_paper_id": "CET4-2020-09-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "7580acdaa8f3cd484daf999f55e5784ba72f555bf61fd271913904d2d71aa4fa",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2022-09-2",
+      "reference_paper_id": "CET4-2022-09-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "30e840aa059f95be1b19c2c8013a8d6ac71e60ef902abbc57c7e556cad39fff5",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2022-09-3",
+      "reference_paper_id": "CET4-2022-09-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "30e840aa059f95be1b19c2c8013a8d6ac71e60ef902abbc57c7e556cad39fff5",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2020-09-2",
+      "reference_paper_id": "CET6-2020-09-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "efb34589b15d47b01310d46b3aab911da31612de8357399f2b0fb48dbdb471c2",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2020-09-3",
+      "reference_paper_id": "CET6-2020-09-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "efb34589b15d47b01310d46b3aab911da31612de8357399f2b0fb48dbdb471c2",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2022-12-3",
+      "reference_paper_id": "CET6-2022-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "d557ad39635c9433cd4cec044016efbe28056db77acd8d78db2979c3008689cd",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2017-12-3",
+      "reference_paper_id": "CET4-2017-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "22b94b914fe9cb86bdb7052244c71ba9d33458d948ec13756025be8059ebea68",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2018-06-3",
+      "reference_paper_id": "CET4-2018-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "83000330dd23ef31343710cc25bf67e4e3c306fee991f484fb4f2a9fcbcdd7bc",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2018-12-3",
+      "reference_paper_id": "CET4-2018-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "4df755934e51f3a6543b4e018222eae8b6e5ac9ba335412ae5ba9044dfc8dffa",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2019-12-3",
+      "reference_paper_id": "CET4-2019-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "d8ead55402f62373b94634ee340529f4a1f64b3302332496b9bee35f0110de40",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2020-12-3",
+      "reference_paper_id": "CET4-2020-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "7662ae2b8aefc68e929768f352e232401ec12ea7d36148a17a25858b8e69e71d",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2021-06-3",
+      "reference_paper_id": "CET4-2021-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "3eac1350fc158399fc61e861831d3910eb86c2c38b59d71168e6ad00f5884fd1",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2021-12-3",
+      "reference_paper_id": "CET4-2021-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "29092a93dfd984aeaee969a893ba41fdf8ea7e0fa88ff0be76a9edb47e6b7858",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2022-06-2",
+      "reference_paper_id": "CET4-2022-06-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "c3628997cf706caf1706c9164ec3efe3976e642df21e47ce798ec79e790f9f16",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2022-06-3",
+      "reference_paper_id": "CET4-2022-06-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "c3628997cf706caf1706c9164ec3efe3976e642df21e47ce798ec79e790f9f16",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2022-12-3",
+      "reference_paper_id": "CET4-2022-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "7526bf942387bcec4f41f2cce9cb113149c4f7dc6946653acabae692cfea6334",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2023-03-2",
+      "reference_paper_id": "CET4-2023-03-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "a679479abdbfdf81e1b78c365b964c24e0d726d0974c5f9e22283565bd2b40d1",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2023-03-3",
+      "reference_paper_id": "CET4-2023-03-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "a679479abdbfdf81e1b78c365b964c24e0d726d0974c5f9e22283565bd2b40d1",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2023-06-3",
+      "reference_paper_id": "CET4-2023-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "9a04e8ef94f2d81c5c54f1c51378f1e224152de0b9fe5aebec563868c68a28a8",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2023-12-3",
+      "reference_paper_id": "CET4-2023-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "5cb7433d79924af1f631ed83b32cf5dcb329314f587e6504e8438e104531df87",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2024-06-3",
+      "reference_paper_id": "CET4-2024-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "837f122a82c7a22da22f0919cd2738d004e5b6e5c43a2940cc717554f062bd45",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2024-12-3",
+      "reference_paper_id": "CET4-2024-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "19babc32e75465d975f46d26d19a7e4a1929fb999498626350bd8fd19f171e7f",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2025-06-3",
+      "reference_paper_id": "CET4-2025-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "c7c75554c8054f038a7479f40e8f2266bd18b66ecd9f7144f4ac842f9d05db81",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2025-12-3",
+      "reference_paper_id": "CET4-2025-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "4ebd392e785adf1a3a98587c3e8d81187072684852337933b562fc564f80d4e5",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET4-2026-06-3",
+      "reference_paper_id": "CET4-2026-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "0deb65a909b9b4cb56623866319822320712db088114ec5d2c356cbb23fe65ff",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2017-06-3",
+      "reference_paper_id": "CET6-2017-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "355f58e356e3799ba38f0cf94b7b827d7a7fd2f372a99971795b2c7d1659c76f",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2017-12-3",
+      "reference_paper_id": "CET6-2017-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "c8c7b14b710acd42336f40290c5fe6ef191d367a60ea7072219cc6c37b42ede8",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2018-06-3",
+      "reference_paper_id": "CET6-2018-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "a2fa32cc64df23f27e280e6af966859ad2d22cad6f6b4e49ec775a30074be78f",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2018-12-3",
+      "reference_paper_id": "CET6-2018-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "0a627feccb5d78005b5b8c15b8e74277d232733a840f5ed2a67e2f808dadbd10",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2019-06-3",
+      "reference_paper_id": "CET6-2019-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "b963397c655b85dfe30eb04e5a2cc41fb637968a792d72eec28ff6a6c0f0d328",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2019-12-3",
+      "reference_paper_id": "CET6-2019-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "732ce487b7f07a0582dd4999ae4a989273a8759847932357778eaa4b57bf7591",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2020-12-3",
+      "reference_paper_id": "CET6-2020-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "ae2ed9dc73b67a22084f1127fa7d3b44793e61e7654a29a2511c2c814db0b7d5",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2021-06-3",
+      "reference_paper_id": "CET6-2021-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "f9afff7e6cbf6e8d080b724bf06cc30755d55b18445f43cdaac1dc9d1bd0742d",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2023-06-3",
+      "reference_paper_id": "CET6-2023-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "3f910dd74582b540d9db40f83d77e8200e0e3d88edc8f1e0c378fc7f1e76a17d",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2023-12-3",
+      "reference_paper_id": "CET6-2023-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "8950e7fb43fecad26accb2a15aae8e752e4390a3cb30d59f7c10fffe53e51a8f",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2024-12-3",
+      "reference_paper_id": "CET6-2024-12-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "98e1888089166a8963b91c5fa3766382aff40cb6b8be864cc80f3969a9f4ec14",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2025-06-3",
+      "reference_paper_id": "CET6-2025-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "d13be2bb8fb0b801568b2c0b4a3aede022175b36a40b0ba4b1661aa06ce045dd",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2025-12-3",
+      "reference_paper_id": "CET6-2025-12-1",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "0d36b7e1e4aa1e9eb015b9169dac0353666e36c00e18ec91870e74d4f9f945cd",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    },
+    {
+      "paper_id": "CET6-2026-06-3",
+      "reference_paper_id": "CET6-2026-06-2",
+      "basis": "identical_printed_questions",
+      "questions_sha256": "76fc6b4d6e61678318030f8b23ee2fbaa0a731016a61ceb38de97e78e92de483",
+      "source": null,
+      "notice": null,
+      "omission_sha256": null
+    }
+  ]
+}

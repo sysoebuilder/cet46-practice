@@ -1395,108 +1395,124 @@
         "explanation": "A)。详解 短文结尾处提到,有些鸟考虑到安全因素会成群结队地迁徙。因此答案为 A)。"
       },
       "26": {
-        "answer": "I",
-        "explanation": "relatively。详解 副词辨析题。空格前面是不定冠词 a, 后面为形容词 recent, 因此空格处需要填入副词, 以修饰其后的形容词。前一句中提到啤酒花给现代啤酒增添了一丝苦味, 后面说这一点在九世纪关于酿造的参考材料中被首次提到, 由此推出啤酒花的出现年代并不久远, 而是相当近的, 因此 I) relatively“相对地, 相当地”符合句意。在备选副词中, exclusively“专门地, 排外地”与此处要表达的“相当地”意思不符合, 可以排除。"
+        "answer": "O",
+        "explanation": null
       },
       "27": {
-        "answer": "N",
-        "explanation": "surprising。详解形容词辨析题。空格前面有不定冠词 a, 后面是名词 ingredient“成分”, 因此空格处需填入形容词来修饰后面的名词。句中提到, 研究人员在 5 000 年前的啤酒酿造设备的残留物中发现了这一成分, 说明该成分还是很令人吃惊的, 因此 N) surprising 符合句意。在备选形容词中, direct 和 raw 不能与 ingredient 搭配使用, 而 staple 与句意不符, 故均排除。"
+        "answer": "I",
+        "explanation": null
       },
       "28": {
-        "answer": "M",
-        "explanation": "suggest。详解 动词辨析题。空格前面是名词短语 different shapes of the containers “容器的不同形状”，空格后面是一个完整的从句 they were used to…，由此推出空格处应填入动词作整个句子的谓语。空格前面提到“容器的不同形状”，后面提到“它们是被用来酿造、过滤和储存啤酒的”，由此推出 M) suggest “表明，暗示”符合句意，即“不同的形状表明它们有各自的用途”。在备选动词中，consuming 和 including 为动名词形式，均不能作谓语，可以排除；其他动词 arrived、inform、reached、test 均与句意不符，可以排除。"
+        "answer": "E",
+        "explanation": null
       },
       "29": {
-        "answer": "C",
-        "explanation": "direct。详解形容词辨析题。空格前为形容词最高级,空格后为名词,由此推断仍需填入形容词,与前面的 the earliest 一起修饰 evidence。空格所在句意为“这些容器可能就是古代的酿酒工具,这也成为中国古代酿酒最早的证据”。根据句意可知,容器也是非常直接的证据,故 C) direct“直接的”为答案。备选项中其他的形容词 raw, surprising 和 staple 无法与 evidence 搭配,均排除。"
+        "answer": "G",
+        "explanation": null
       },
       "30": {
-        "answer": "O",
-        "explanation": "test。详解 动词辨析题。空格前面有不定式符号 to, 后面是名词短语 that theory, 由此可知空格处应填入动词原形。上文中提到了考古研究人员的一些发现, 下文中提到团队又对某些物质进行了检验, 由此推出研究人员应该是想通过检验来证实这些理论, 故 O) test“证实, 测试”符合句意。在备选动词中, inform 也是动词原形, 但用在此处与句意不符, 故排除。"
+        "answer": "M",
+        "explanation": null
       },
       "31": {
-        "answer": "J",
-        "explanation": "remains。详解名词辨析题。空格前有形容词 yellowish 和 dried, 其后是介词短语 inside the vessels, 由此推出空格处应填入名词作宾语。该句提到这是容器中一种黄色、干燥的物质, 再结合备选项可知, J) remains“残留物, 遗址”符合句意。而 K) resources“资源”与句意不符, 可以排除。"
+        "answer": "D",
+        "explanation": null
       },
       "32": {
-        "answer": "E",
-        "explanation": "including。详解 动词辨析题。空格所在句位于由 and 连接的并列句中,且其前为名词 roots,其后为名词 lily,故此处只能填入动词的现在分词或过去分词形式表示从属关系。句子表达的意思是“约 80% 为谷物,约 10% 为植物的根茎”。而“百合”恰好属于根茎类植物,由此推出 E) including“包含”符合句意。备选项中的 arrived、consuming 和 reached 均与句意不符,可以排除。"
+        "answer": "C",
+        "explanation": null
       },
       "33": {
-        "answer": "L",
-        "explanation": "staple。详解形容词辨析题。空格前面有不定冠词 a, 后面为名词 food, 因此空格处应填入形容词, 用于修饰其后的名词 food。空格前提到这种农作物是在西欧亚大陆被培育出来的, 由此推出并非是当时中国中原地区的主要食物来源, 故 L) staple“主要的, 基本的”符合句意。备选项中的形容词 raw 虽可与 food 搭配, 但与句意不符, 可以排除。"
+        "answer": "J",
+        "explanation": null
       },
       "34": {
-        "answer": "A",
-        "explanation": "arrived。详解 动词辨析题。空格处于 indicate 后的宾语从句中,其前面为助动词 have,其后为介词短语 in the region,由此推出应填入动词的过去分词作从句的谓语。备选项中动词的过去分词只有 arrived 和 reached,而 reached 不能与后面的介词 in 搭配,因此 A) arrived 为答案。"
+        "answer": "N",
+        "explanation": null
       },
       "35": {
-        "answer": "G",
-        "explanation": "raw。详解形容词辨析题。空格前面有介词 as, 后面有不可数名词 material, 由此推出应填入形容词修饰后面的名词 material。句中提到大麦最初传入这一地区并不是作为食物, 而是作为酿酒的材料, raw material 为固定搭配, 意为“原材料”, 故 G) raw“生的, 未经加工的”为答案。"
+        "answer": "F",
+        "explanation": null
       },
       "36": {
         "answer": "H",
-        "explanation": "详解) 定位句说明了拥有 HSAM 者的记忆特征是高度自我中心化的: 尽管他们能够非常详细地记住“自传式”生活事件, 但是在记忆非个人信息方面, 比如随机排列的单词, 他们似乎不比普通人强。题干中的 have the same memory as ordinary people 是对定位句中 seem to be no better than average 的同义转述, 故答案为 H)。"
+        "explanation": null
+      },
+      "37": {
+        "answer": "D",
+        "explanation": null
       },
       "38": {
-        "answer": "C",
-        "explanation": "详解 定位段主要介绍了维瑟的超强记忆启动的经历: 在最好朋友的生日晚会上遇到自己的初恋后, 维瑟开始能记住生活中的每个细节。题干是对定位段的总结, 故答案为 C)。"
+        "answer": "B",
+        "explanation": null
       },
       "39": {
+        "answer": "J",
+        "explanation": null
+      },
+      "40": {
         "answer": "G",
-        "explanation": "详解) 由定位段可知,得益于这些媒体后续的兴趣,几十个其他的受试者(包括维瑟)自告奋勇与加利福尼亚大学欧文分校的研究团队取得了联系。题干中的 due to the mass media 是对定位句中 thanks to the subsequent media interest 的同义转述; researchers 对应定位句中的 the team,故答案为 G)。"
+        "explanation": null
       },
       "41": {
         "answer": "A",
-        "explanation": "详解 定位段指出,对于大多数人而言,记忆就像一本逐渐模糊、褪色的人生画册。无论我们多想要抓住过去,即使最痛苦的时刻也会随着时间消逝。也就是说,大部分人对过去发生的事件没有清晰的记忆。题干是对定位段的概括,故答案为 A)。"
+        "explanation": null
+      },
+      "42": {
+        "answer": "F",
+        "explanation": null
       },
       "43": {
         "answer": "E",
-        "explanation": "详解 定位段提到,一位名叫吉尔·普莱斯的年轻女士给神经科学专家兼记忆研究员吉姆·麦克高夫发邮件,声称她可以回忆起12岁以来每一天的生活。麦克高夫能否帮助解释她的经历呢?题干中的her unusual memory是对定位段中she could recall every day of her life since the age of 12的概括。整个题干是对定位段的概括归纳,故答案为E)。"
+        "explanation": null
+      },
+      "44": {
+        "answer": "I",
+        "explanation": null
       },
       "45": {
-        "answer": "I",
-        "explanation": "详解 定位句指出,南密西西比大学的劳伦斯·帕特西斯近来研究了约20位拥有HSAM者,发现他们在幻想倾向和专注力两方面得分特别高。幻想倾向可以理解为想象和做白日梦的倾向,而专注力则是使自己的思维全神贯注于某种活动(对感受和经历投入全部的关注)的倾向。题干是对定位句的同义转述,故答案为I)。"
+        "answer": "C",
+        "explanation": null
       },
       "46": {
-        "answer": "D",
-        "explanation": "。定位 由题干中的 the phrase “midlife crisis” 定位到首段: The phrase almost completes itself: midlife crisis. It’s the stage in the middle of the journey when people feel youth vanishing, their prospects narrowing and death approaching. 和第二段: There’s only one problem with the cliché (套话). It isn’t true."
+        "answer": "A",
+        "explanation": null
       },
       "47": {
         "answer": "B",
-        "explanation": "。定位 由题干中的 view midlife 定位到第四段第一句: Barbara Hagerty looks at some of the features of people who turn midlife into a rebirth."
+        "explanation": null
       },
       "48": {
         "answer": "C",
-        "explanation": "。定位 由题干中的 midlife pictured 和 life Reimagined 定位到第五段:Life Reimagined paints a picture of middle age that is far from gloomy...is already secure."
+        "explanation": null
       },
       "49": {
-        "answer": "B",
-        "explanation": "。定位 由题干中的 Karl Barth 和 midlife is the time 定位到文章第七段。"
+        "answer": "A",
+        "explanation": null
       },
       "50": {
         "answer": "D",
-        "explanation": "。定位 由题干中的 midlife today 定位到第八段第一句: What Barth wrote decades ago is even truer today. 和最后一句: What could have been considered the beginning of a descent is now a potential turning point..."
+        "explanation": null
       },
       "51": {
-        "answer": "A",
-        "explanation": "。定位 由题干中的 prize the egg 定位到第一段: In spring, chickens start laying again, bringing a welcome source of protein at winter's end. So it's no surprise that cultures around the world celebrate spring by honoring the egg."
+        "answer": "B",
+        "explanation": null
       },
       "52": {
         "answer": "D",
-        "explanation": "。定位 由题干中的 the decorated “eggs” in Russia 定位到第二段第二句: Others elevate the egg into a fancy art, like the heavily jewel-covered “eggs” that were favored by the Russians starting in the 19th century."
+        "explanation": null
       },
       "53": {
         "answer": "C",
-        "explanation": "。定位由题干中的contemporary artists和continued the egg art tradition定位到第三段第三句。"
+        "explanation": null
       },
       "54": {
-        "answer": "A",
-        "explanation": "。定位 由题干中的 Chast 和 process of decorating eggs 定位到第五段前两句: But there's an appeal in that vulnerability. “There's part of this sickening horror...that I kind of like,...”"
+        "answer": "B",
+        "explanation": null
       },
       "55": {
-        "answer": "B",
-        "explanation": "。定位由题干及各选项可定位至最后一段第一句。"
+        "answer": "A",
+        "explanation": null
       }
     },
     "references": {}

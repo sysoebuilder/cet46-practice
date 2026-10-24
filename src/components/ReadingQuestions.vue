@@ -1,27 +1,28 @@
 <template>
-  <scroll-view class="question-picker-scroll" scroll-y :scroll-into-view="scrollTarget" :show-scrollbar="false">
-    <view v-for="(item, index) in items" :id="`reading-question-${item.key}`" :key="item.key" :class="['question-entry', { answered: selected(item), expanded: expandedIndex === index }]">
-      <button class="question-summary" :aria-label="`第${item.number}题`" :aria-expanded="expandedIndex === index" @click="$emit('toggle', index)">
-        <view class="question-summary-heading"><text class="question-number">{{ item.number }}</text><text v-if="item.title" class="question-passage-label">{{ item.title }}</text><text class="dropdown-chevron">{{ expandedIndex === index ? '⌃' : '⌄' }}</text></view>
-        <text class="question-stem">{{ item.stem }}</text>
-        <text v-if="selected(item)" class="chosen-answer">已选 {{ selected(item).label }}<text v-if="selected(item).text"> · {{ selected(item).text }}</text></text>
-        <text v-else class="question-unanswered">未作答</text>
-      </button>
-      <view v-if="expandedIndex === index" class="question-dropdown">
-        <QuestionOptions :item="item" :response="answers[item.key]" :section-id="sectionId" :revealed="revealed" :review="reviewFor(item)" @choose="$emit('choose', { item, label: $event })" />
-        <button class="review-toggle" @click="$emit('reveal')">{{ revealed ? '收起' : '查看答案与解析' }}</button>
-        <AnswerReview v-if="revealed" :review="reviewFor(item)" />
-      </view>
-    </view>
-  </scroll-view>
+  <ScrollArea class="question-picker-scroll" scroll-y :scroll-into-view="scrollTarget" :show-scrollbar="false">
+    <div v-for="(item, index) in items" :id="`reading-question-${item.key}`" :key="item.key" :class="['question-entry', { answered: selected(item), expanded: expandedIndex === index }, checked ? `checked-${reviewFor(item).status}` : '']">
+      <MotionButton class="question-summary" :aria-label="`第${item.number}题`" :aria-expanded="expandedIndex === index" @click="$emit('toggle', index)">
+        <div class="question-summary-heading"><span class="question-number">{{ item.number }}</span><span v-if="item.title" class="question-passage-label">{{ item.title }}</span><span class="dropdown-chevron"><motion.span :animate="{ rotate: expandedIndex === index ? 180 : 0 }" :transition="fadeSlide" class="chevron-motion"><AppIcon name="ChevronDown" :size="18" /></motion.span></span></div>
+        <span class="question-stem">{{ item.stem }}</span>
+        <span v-if="selected(item)" class="chosen-answer">已选 {{ selected(item).label }}<span v-if="selected(item).text"> · {{ selected(item).text }}</span></span>
+        <span v-else class="question-unanswered">未作答</span>
+      </MotionButton>
+      <AnswerResult v-if="checked" :review="reviewFor(item)" :number="item.number" @explain="$emit('explain', item)" />
+      <AnimatePresence><motion.div v-if="expandedIndex === index" :key="item.key" class="question-dropdown" :initial="{ opacity: 0, y: -7 }" :animate="{ opacity: 1, y: 0 }" :exit="{ opacity: 0, y: -5 }" :transition="fadeSlide">
+        <QuestionOptions :item="item" :response="answers[item.key]" :section-id="sectionId" :revealed="checked" :review="reviewFor(item)" @choose="$emit('choose', { item, label: $event })" />
+      </motion.div></AnimatePresence>
+    </div>
+  </ScrollArea>
 </template>
 <script setup>
 import { ref, watch, nextTick } from 'vue'
+import { motion, AnimatePresence } from 'motion-v'
+import { fadeSlide } from '../motion/presets'
 import QuestionOptions from './QuestionOptions.vue'
-import AnswerReview from './AnswerReview.vue'
+import AnswerResult from './AnswerResult.vue'
 import { answerReview } from '../utils/solutions.mjs'
-const props = defineProps({ items: { type: Array, required: true }, answers: { type: Object, required: true }, paper: { type: Object, required: true }, sectionId: String, expandedIndex: { type: Number, default: null }, revealed: Boolean })
-defineEmits(['toggle', 'choose', 'reveal'])
+const props = defineProps({ items: { type: Array, required: true }, answers: { type: Object, required: true }, paper: { type: Object, required: true }, sectionId: String, expandedIndex: { type: Number, default: null }, checked: Boolean })
+defineEmits(['toggle', 'choose', 'explain'])
 const scrollTarget = ref('')
 function selected(item) { return item.options.find(option => option.label === props.answers[item.key]) }
 function reviewFor(item) { return answerReview(props.paper, props.sectionId, item, props.answers[item.key]) }

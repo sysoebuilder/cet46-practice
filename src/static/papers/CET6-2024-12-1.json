@@ -895,11 +895,15 @@
       "paragraphs": [
         {
           "label": "A",
-          "text": "On a small fruit farm near the Straits of Malacca, Lim Kok Ann is down to just one tree growing kedondong, a crunchy, sour berry that Malaysians mostly use in pickles (腌菜) and salads. \"It's not very well-known,\" says the 45-year-old, who is instead focusing on longan (龙眼) berries and pineapples, which have bigger markets. \"We have to grow what is profitable,\" he says.\n\nВ) But less than an hour away in the Malaysian countryside, inside three giant, silver domes, scientists are trying to change the future of food. They're pushing the boundaries of what humans eat by growing and processing so-called \"alternative\" crops-such as kedondong. At the headquarters of global research centre Crops For the Future (CFF) this particular under-used fruit has been turned into a sugar-free juice, high in vitamin C and getting top marks in sensory evaluations. \"Anything you see here is a forgotten crop,\" says Sayed Azam-Ali of the abundant plants weaving through the gardens of CFF outside Malaysia's capital Kuala Lumpur."
+          "text": "On a small fruit farm near the Straits of Malacca, Lim Kok Ann is down to just one tree growing kedondong, a crunchy, sour berry that Malaysians mostly use in pickles (腌菜) and salads. \"It's not very well-known,\" says the 45-year-old, who is instead focusing on longan (龙眼) berries and pineapples, which have bigger markets. \"We have to grow what is profitable,\" he says."
+        },
+        {
+          "label": "B",
+          "text": "But less than an hour away in the Malaysian countryside, inside three giant, silver domes, scientists are trying to change the future of food. They're pushing the boundaries of what humans eat by growing and processing so-called \"alternative\" crops-such as kedondong. At the headquarters of global research centre Crops For the Future (CFF) this particular under-used fruit has been turned into a sugar-free juice, high in vitamin C and getting top marks in sensory evaluations. \"Anything you see here is a forgotten crop,\" says Sayed Azam-Ali of the abundant plants weaving through the gardens of CFF outside Malaysia's capital Kuala Lumpur."
         },
         {
           "label": "C",
-          "text": "Prof Azam-Ali explains that just four crops-wheat, maize, rice and soybean-provide two-thirds of the world's food supply. \"We're dependent on these four.\" he says. \"But actually there're 7,000 crops we've been farming for thousands of years. We ignore all of those.\" Researchers are trying to unlock the potential of these ignored crops—plants they describe as forgotten, under-used or \"alternative\" as they are displaced by increasingly uniform diets fuelled by processed ingredients from the major crops.\n\n2024 年 12 月英语六级真题第 1 套\n\n第 4 页，共 9 页"
+          "text": "Prof Azam-Ali explains that just four crops-wheat, maize, rice and soybean-provide two-thirds of the world's food supply. \"We're dependent on these four.\" he says. \"But actually there're 7,000 crops we've been farming for thousands of years. We ignore all of those.\" Researchers are trying to unlock the potential of these ignored crops—plants they describe as forgotten, under-used or \"alternative\" as they are displaced by increasingly uniform diets fuelled by processed ingredients from the major crops.\r\n\r\n2024 年 12 月英语六级真题第 1 套\r\n\r\n第 4 页，共 9 页"
         },
         {
           "label": "D",
@@ -927,7 +931,7 @@
         },
         {
           "label": "J",
-          "text": "Measuring crops by nutrition instead of yield is at the heart of the forgotten foods enterprise. Ever since the green revolution\" of the 1960s, high-yielding crops have dominated modern agriculture. That was in part a crucial response to devastating famines at a time when the world needed to increase its food supply. Today \"nutrition is becoming a time bomb\", says Azam-Ali, as growing carbon dioxide levels strip crops of their minerals. Instead of bio-fortifying major crops we should be investing in those forgotten crops that are already more nutritious, he asserts.\n\n2024 年 12 月英语六级真题\n\n第 5 页，共 9 页"
+          "text": "Measuring crops by nutrition instead of yield is at the heart of the forgotten foods enterprise. Ever since the green revolution\" of the 1960s, high-yielding crops have dominated modern agriculture. That was in part a crucial response to devastating famines at a time when the world needed to increase its food supply. Today \"nutrition is becoming a time bomb\", says Azam-Ali, as growing carbon dioxide levels strip crops of their minerals. Instead of bio-fortifying major crops we should be investing in those forgotten crops that are already more nutritious, he asserts.\r\n\r\n2024 年 12 月英语六级真题\r\n\r\n第 5 页，共 9 页"
         },
         {
           "label": "K",
@@ -1294,8 +1298,129 @@
   },
   "id": "CET6-2024-12-1",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "O",
+        "explanation": null
+      },
+      "27": {
+        "answer": "B",
+        "explanation": null
+      },
+      "28": {
+        "answer": "A",
+        "explanation": null
+      },
+      "29": {
+        "answer": "J",
+        "explanation": null
+      },
+      "30": {
+        "answer": "L",
+        "explanation": null
+      },
+      "31": {
+        "answer": "D",
+        "explanation": null
+      },
+      "32": {
+        "answer": "E",
+        "explanation": null
+      },
+      "33": {
+        "answer": "K",
+        "explanation": null
+      },
+      "34": {
+        "answer": "N",
+        "explanation": null
+      },
+      "35": {
+        "answer": "M",
+        "explanation": null
+      },
+      "36": {
+        "answer": "F",
+        "explanation": null
+      },
+      "37": {
+        "answer": "C",
+        "explanation": null
+      },
+      "38": {
+        "answer": "G",
+        "explanation": null
+      },
+      "39": {
+        "answer": "J",
+        "explanation": null
+      },
+      "40": {
+        "answer": "H",
+        "explanation": null
+      },
+      "41": {
+        "answer": "O",
+        "explanation": null
+      },
+      "42": {
+        "answer": "D",
+        "explanation": null
+      },
+      "43": {
+        "answer": "I",
+        "explanation": null
+      },
+      "44": {
+        "answer": "E",
+        "explanation": null
+      },
+      "45": {
+        "answer": "K",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "C",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "B",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }

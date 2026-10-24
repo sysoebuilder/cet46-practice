@@ -1396,6 +1396,46 @@
         "answer": "A",
         "explanation": "A)【精析】细节理解题。句(24)中提到,其他研究发现,在学生写文章时,最好是尽可能地减少所有的背景噪音。也就是说,写文章时,周围最好是尽可能安静的,没有任何噪音的。因此答案为 A)。"
       },
+      "26": {
+        "answer": "L",
+        "explanation": null
+      },
+      "27": {
+        "answer": "A",
+        "explanation": null
+      },
+      "28": {
+        "answer": "I",
+        "explanation": null
+      },
+      "29": {
+        "answer": "M",
+        "explanation": null
+      },
+      "30": {
+        "answer": "O",
+        "explanation": null
+      },
+      "31": {
+        "answer": "B",
+        "explanation": null
+      },
+      "32": {
+        "answer": "C",
+        "explanation": null
+      },
+      "33": {
+        "answer": "H",
+        "explanation": null
+      },
+      "34": {
+        "answer": "N",
+        "explanation": null
+      },
+      "35": {
+        "answer": "D",
+        "explanation": null
+      },
       "36": {
         "answer": "L",
         "explanation": "L)【精析】同义转述题。L)段第一句指出,尽管语言带来了益处和一系列技能,但招聘人员和雇主更看重计算机技能。由此可知,相比语言能力,雇主更重视计算机技能,题干是对定位句的同义转述。题干中的 attach more importance to applicants' computer skills 对应原文中的 value computer skills more,故答案为 L)。"
@@ -1431,6 +1471,50 @@
       "44": {
         "answer": "C",
         "explanation": "的发展速度远不是学校所能跟上的。题干中的short of funding and qualified teachers 是对原文中 budget constraints and a lack of skills training for teachers 的同义转述，题干中的 schools lag behind 则对应原文中的 is growing faster than schools can keep up, 故答案为 C)。"
+      },
+      "45": {
+        "answer": "N",
+        "explanation": null
+      },
+      "46": {
+        "answer": "D",
+        "explanation": null
+      },
+      "47": {
+        "answer": "C",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "B",
+        "explanation": null
+      },
+      "50": {
+        "answer": "C",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "A",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

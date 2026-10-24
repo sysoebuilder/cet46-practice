@@ -1296,8 +1296,129 @@
   },
   "id": "CET4-2024-06-2",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "O",
+        "explanation": null
+      },
+      "27": {
+        "answer": "B",
+        "explanation": null
+      },
+      "28": {
+        "answer": "C",
+        "explanation": null
+      },
+      "29": {
+        "answer": "A",
+        "explanation": null
+      },
+      "30": {
+        "answer": "D",
+        "explanation": null
+      },
+      "31": {
+        "answer": "M",
+        "explanation": null
+      },
+      "32": {
+        "answer": "N",
+        "explanation": null
+      },
+      "33": {
+        "answer": "I",
+        "explanation": null
+      },
+      "34": {
+        "answer": "F",
+        "explanation": null
+      },
+      "35": {
+        "answer": "E",
+        "explanation": null
+      },
+      "36": {
+        "answer": "I",
+        "explanation": null
+      },
+      "37": {
+        "answer": "C",
+        "explanation": null
+      },
+      "38": {
+        "answer": "M",
+        "explanation": null
+      },
+      "39": {
+        "answer": "F",
+        "explanation": null
+      },
+      "40": {
+        "answer": "A",
+        "explanation": null
+      },
+      "41": {
+        "answer": "K",
+        "explanation": null
+      },
+      "42": {
+        "answer": "E",
+        "explanation": null
+      },
+      "43": {
+        "answer": "L",
+        "explanation": null
+      },
+      "44": {
+        "answer": "B",
+        "explanation": null
+      },
+      "45": {
+        "answer": "G",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "D",
+        "explanation": null
+      },
+      "49": {
+        "answer": "C",
+        "explanation": null
+      },
+      "50": {
+        "answer": "B",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }

@@ -32,16 +32,699 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
-      "notices": [
-        "特别说明:此次考试全国共考了 2 套听力，本套真题听力部分与前两套内容相同，只是选项顺序不同，因此，本套试卷听力部分不再重复列出"
-      ],
+      "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
       "time_limit_minutes": 30,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Changing his major."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Revising his graduation thesis."
+                  },
+                  {
+                    "label": "B",
+                    "text": "His family situation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "His passion for Art History."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He doesn't think it legitimate to depend on his father."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He thinks his financial situation has now changed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He doesn't think it will provide him with a living."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He thinks it nourishes the financially secure only."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Try his best to socialize and build a network in the art industry."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Seek financially viable employment opportunities after graduation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Investigate all possible ways to become a celebrity in the art world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Strike a balance between intellectual pursuits and financial security."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Money."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Determination."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Optimism."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their decision on investigating beef consumption."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their original ideas about the domestic market."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their different approaches to a case study."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their end-of-semester business projects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Expanding farmland out west."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Raising cattle domestically."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Importing most of the beef."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Continuing to boost economic growth."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Technical equipment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Beef."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Business consultancy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Carwashing."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Car owners of all walks of life."
+                  },
+                  {
+                    "label": "B",
+                    "text": "High-end customers in big cities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Consumers craving for professional service."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Well-off dealers seeking a profitable markup."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard,",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Parents' talking with them during TV time raises their curiosity levels."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Their daily television exposure cuts parent-child conversation time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The more TV they watch the poorer their progress in development."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Their socioeconomic levels impact their academic achievement."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Kids' enhanced learning."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Kids' reading and math."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Kids' curiosity levels."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Kids' behavioral development."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It can hinder kids from getting on with their peers."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It can cut into kids' time on exploratory activities."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It can arouse kids' interest in how people interact in real life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It can widen the gap between kids from different economic statuses."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Exerting ourselves too hard in order to attain our life's goals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Being possessed with a single thought of professional success."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Trying every means to beat others in terms of personal aspirations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Being mindlessly driven to possess more and more material things."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "We might isolate ourselves from our fellow beings."
+                  },
+                  {
+                    "label": "B",
+                    "text": "We might acquire an incorrect sense of well-being."
+                  },
+                  {
+                    "label": "C",
+                    "text": "We might end up pursuing all the wrong things."
+                  },
+                  {
+                    "label": "D",
+                    "text": "We might make a mess of our personal lives."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They should be based on solid theoretical concepts."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They should take personal interests into account."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They should include goals to help other people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They should increase our sense of worthiness."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Drifting through life aimlessly."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Abandoning all that life has to offer."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Giving up the chance to fulfill yourself."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Spoiling your character and integrity."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Grade-raising ways and means."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Revision-conducting approaches."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Pressure-alleviating exercise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Brain-boosting food and drink."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Buying it from coffee shops."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Drinking it after 2 pm."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Building up a tolerance of it."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Consuming it with sugar."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By taking varied vitamin supplements."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By eating both oranges and frozen berries."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By consuming a rich variety of foods."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By getting components packaged in tablets."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Many people across advanced economies think the world is going from bad to worse."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The news focuses on reporting catastrophes that occur across the world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A significant part of the world is experiencing another great recession.\n\n2024 年 12 月英语六级真题第 2 套\n\n第 2 页，共 9 页"
+                  },
+                  {
+                    "label": "D",
+                    "text": "Many people have no idea of those living under miserable conditions."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has experienced ups and downs like any other historical trend."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is hailed as a miracle by both economists and ordinary people."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is the only way for all countries to share economic prosperity."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has given more and more countries a rare chance to thrive."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Their fortunes may take a downturn."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They can be classified as middle class."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their living standards have been deteriorating."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They are experiencing a radical transformation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Why smells can activate emotional memories."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How powerful the sense of smell can become."
+                  },
+                  {
+                    "label": "C",
+                    "text": "How scent particles revive memories forgotten."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Why the scent of bread has a strong mental impact."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The brain cells' processing of memories experienced as strongly emotional."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The activation of the brain's emotion processing area by chemical particles."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The interaction between chemical particles and the brain cells responsible for smell."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The sensations of scents going directly to the brain's emotional and memory centers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Imagination."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Association."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Experience."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Context."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Inaccuracy and alterability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Being personal and individualistic."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Susceptibility to polar interpretations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Being dependent on relevant scenarios."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -609,6 +1292,46 @@
   "solutions": {
     "origin": "answer_pdf",
     "items": {
+      "26": {
+        "answer": "J",
+        "explanation": null
+      },
+      "27": {
+        "answer": "H",
+        "explanation": null
+      },
+      "28": {
+        "answer": "O",
+        "explanation": null
+      },
+      "29": {
+        "answer": "A",
+        "explanation": null
+      },
+      "30": {
+        "answer": "I",
+        "explanation": null
+      },
+      "31": {
+        "answer": "L",
+        "explanation": null
+      },
+      "32": {
+        "answer": "G",
+        "explanation": null
+      },
+      "33": {
+        "answer": "C",
+        "explanation": null
+      },
+      "34": {
+        "answer": "E",
+        "explanation": null
+      },
+      "35": {
+        "answer": "D",
+        "explanation": null
+      },
       "36": {
         "answer": "G",
         "explanation": "G)【精析】同义转述题。G)段第一至三句提到，进入现代社会后，劳动分工在整个社会中越来越广泛。每个人的基本需求都越来越依赖别人。然而，由于被剥夺了我们的祖先因环境所迫而与邻居和当地社区形成的联系，因此我们感觉到自己越来越独立于他人。题干中的 more and more reliant on 对应原文中的 more and more dependent on，题干中的 as they entered the modern world 是对原文中 at the advent of the modern world 的同义转述，题干中的 might feel less so 是对原文中 feel ourselves to be more and more independent of one another 的同义转述，故答案为 G)。"
@@ -644,6 +1367,150 @@
       "44": {
         "answer": "A",
         "explanation": "A) 【精析】细节归纳题。A) 段第一句指出民粹主义者和传统自由主义者之间关于贸易政策存在敌意, 第二句指出自由贸易者的观点, 第三句接着提到, 保护主义者指出, 国内生产者为全球化经济付出了代价, 失去了生计, 社区被掏空。综合可知, 保护主义者用国内生产者和社区遭受的损失来据理反对自由贸易。题干中的 referring to 和原文中的 point to 是同义词组, 题干中的 the losses suffered by domestic producers and communities 对应原文中的 the domestic producers who've paid the price for this globalized economy in the form of lost livelihoods and hollowed-out communities, 故答案为 A)。"
+      },
+      "45": {
+        "answer": "L",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "C",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "A",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "B",
+        "explanation": null
+      },
+      "53": {
+        "answer": "C",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
+      },
+      "1": {
+        "answer": "A",
+        "explanation": "A)【精析】细节推断题。当女士问男士他想讨论什么事情时,男士在句(1)中说,关于自己的专业,他改变了主意。也就是说,他有转换专业的想法,想与女士就此进行讨论。因此答案为A)。"
+      },
+      "2": {
+        "answer": "C",
+        "explanation": "C)【精析】细节推断题。女士问男士为什么要放弃艺术史的学习,男士在句(2)中回答说他父亲目前的经济状况让他意识到,更能解决经济问题的就业机会也许不是一件坏事,并说,艺术史滋养了他的灵魂,却并不能为他提供餐盘上的食物。由此可知,男士放弃艺术史的学习是因为他觉得这个专业不能为他提供生存的保障。因此答案为C)。"
+      },
+      "3": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(3)中,女士对男士说,如果他一心想在艺术行业工作,就需要更加坚定自信,并且要开始与人交谈。如果想成为博物馆和画廊界的名人,建立人脉非常关键。也就是说,女士建议男士尽力去社交,并建立艺术行业的人脉。因此答案为A)。"
+      },
+      "4": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(4)中,男士说,现在时间非常宝贵,他没有社交生活,并提到他快跟不上学习进度了,而且今年年底就要交论文。男士问女士:“我有这么多事情要做,哪还能找到时间来收集工作信息呢?”由此可知,男士现阶段最缺的是时间。因此答案为B)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。对话开头,男士就询问女士期末的商业项目是否已经确定了。接下来,他们分别描述了自己的期末商业项目,并对对方的项目发表了看法。因此答案为 D)。"
+      },
+      "6": {
+        "answer": "C",
+        "explanation": "C)【精析】细节归纳题。根据句(6-1)可知,女士认为与其进口牛肉,还不如在国内养牛。男士在句(6-2)中回应说,这非常有道理。因此答案为 C)。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "D)【精析】细节归纳题。句(7-1)中,男士告诉女士,他考虑的期末商业项目是洗车场。句(7-2)中,女士说,周围有那么多车,而且这些车又不会很快消失。虽然有很多人不在乎他们的车看起来怎么样,但也有很多人在乎。并说,男士给自己找了一个广阔且持续的市场。因此答案为D)。"
+      },
+      "8": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(8)中,男士明确表示想让自己的商业项目迎合大城市中的高端消费者。因此答案为 B)。"
+      },
+      "9": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。句(9)中提到,一项新的研究表明,在看电视时,父母与学龄前儿童对话越多,这些孩子在上幼儿园时好奇心水平就越高。也就是说,父母在儿童看电视时与他们进行对话可以增进他们的好奇心水平。因此答案为A)。"
+      },
+      "10": {
+        "answer": "B",
+        "explanation": "琪·沙阿的研究所关注的是儿童的好奇心水平。因此答案为 B)。"
+      },
+      "11": {
+        "answer": "B",
+        "explanation": "B)【精析】细节辨认题。句(11)中明确提到,过多接触电视等媒体可能会取代游戏和亲子互动等探索性活动,而这些活动被认为是培养孩子好奇心的关键。也就是说,看电视时间过长会减少孩子们花在探索性活动中的时间。因此答案为 B)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。句(12)中提到,据研究,我们每个人生来就有获取的欲望。这种获取的欲望的“黑暗面”是人类被无意识地驱使着想要拥有越来越多的“东西”。因此答案为D)。"
+      },
+      "13": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。根据句(13)可知,如果不去有意识地、深思熟虑地且有目的地控制这种与生俱来的获取欲望,我们可能就会在无意识状态下追求那些错误的东西。因此答案为 C)。"
+      },
+      "14": {
+        "answer": "C",
+        "explanation": "C) 【精析】细节辨认题。句(14)中提到, 尽管在有意识的情况下所追求的目标包括获得那些能增加自己幸福感的东西, 但这些目标也应该包括在自己的各种生命角色中去帮助他人。因此答案为 C)。"
+      },
+      "15": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节辨认题。句(15)中提到,如果没有想要追求的目标,你也就没有了奋斗的目标。如果没有了奋斗的目标,你就把自己置于随波逐流的危险境地,而且无法去体验并享受生活所提供的一切。因此答案为 A)。"
+      },
+      "16": {
+        "answer": "D",
+        "explanation": "D)【精析】细节辨认题。讲座开头提到,到了复习准备考试和(提交)论文的时间了。压力很大,所以你想要利用一切可以得到的辅助来帮助自己提高记忆力和成绩。接着,句(16)中提到,作为一名营养学家,讲话者想说的是,吃得好可以对你的复习计划产生真实的影响,并自然引出接下来要讲述的内容:健脑食物和饮品。因此答案为D)。"
+      },
+      "17": {
+        "answer": "C",
+        "explanation": "下午 2 点以后就不要再饮用咖啡了。因此答案为 C)。"
+      },
+      "18": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(18)中,讲话者说,食物应该始终排在补充剂之前,获得尽可能多的营养的关键是吃各种不同颜色的食物,如冷冻浆果和深绿色蔬菜等。最好是从食物和饮品中获得你需要的一切。由此可知,讲话者认为,我们可以通过丰富多样的饮食来获取充分营养。因此答案为 B)。"
+      },
+      "19": {
+        "answer": "A",
+        "explanation": "A)【精析】细节推断题。根据句(19)可知,已故瑞典学者汉斯·罗斯林发现了一个令人担忧的趋势:发达经济体内许多人不仅不知道世界正在变得更好,他们还认为情况恰恰相反,即发达经济体内很多人都认为世界正变得越来越糟。因此答案为A)。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "C)【精析】细节辨认题。句(20)中,讲话者说,全球化是确保所有国家共享经济繁荣的唯一出路,而不是只确保少数发达经济体的经济繁荣。因此答案为C)。"
+      },
+      "21": {
+        "answer": "B",
+        "explanation": "B) 【精析】细节辨认题。句(21)中提到,事实上,全球半数人口都可以被视为中产阶级,这是自工业革命以来的第一次。因此答案为 B)。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "A)【精析】细节辨认题。讲座以面包的香味可以引发人们的久远记忆切入,引发了讲话者的问题——为什么气味有时会引发强烈的记忆,特别是情感记忆?之后,讲话者一直在试图回答这一问题。因此答案为 A)。"
+      },
+      "23": {
+        "answer": "D",
+        "explanation": "因。因此答案为D)。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "D) 【精析】细节辨认题。句(24)中提到,大脑是利用情境来赋予信息意义并找到记忆的。因此答案为 D)。"
+      },
+      "25": {
+        "answer": "A",
+        "explanation": "A) 【精析】细节归纳题。句(25)中提到, 尽管气味带来的记忆具有特殊性, 但它们与其他记忆有着相同的缺点。它们并不总是准确的, 而且会随着时间的推移而变化。因此答案为 A)。"
       }
     },
     "references": {}

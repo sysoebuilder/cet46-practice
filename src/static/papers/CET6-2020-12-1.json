@@ -1400,6 +1400,10 @@
         "answer": "N",
         "explanation": "pump 30.G)incentives。[确定词性]空29所在从句that 29 carbon dioxide into the sk<sub>y</sub>显然缺少谓语动词(that指代companies,在从句中作主语),句子整体时态为一般现在时,空格词应为及物动词原形。空30所在主句carbon taxes would restore the proper 30 to the market缺少宾语中心词,空格词应为名词或动名词。[锁定答案]空格句前一分句指出,碳税能提高经济效率。后一分句指出,由于将二氧化碳 29 空中的公司一直未为自己造成的气候变化买单,所以碳税将恢复对市场的正当 30 。借助分号作用和语义逻辑可知:分号前后两分句为“概说—解释”关系;分号之后语义重点在主句,即“恢复对市场的正当 30 ”应与“提高经济效率”同向,空30应表“促进/激励/改善”等,G 正确。空29所在从句(because...)聚焦这类公司(companies):将二氧化碳 空中 ( carbon dioxide into the sky),造成气候变化(the climate change they cause)。显然空格词应表示“排放/输出(二氧化碳)”。再看整句逻辑:一直以来排碳者不为自己的行为买单(因此市场缺乏激励),现在碳税(让排碳者为自己的行为买单,所以)将恢复对市场的恰当刺激(从而提高经济效率)。因果关系完全成立,确认 N 正确。"
       },
+      "30": {
+        "answer": "G",
+        "explanation": null
+      },
       "31": {
         "answer": "M",
         "explanation": "p<sub>robably</sub>。[确定词性]空格词在 which从句中位于情态动词 would和系动词 be之间,只能为副词。[锁定答案]which从句指出,碳税带来的财政收入每年 达数千亿美元,强调“税收潜力巨大/现有量庞大”,故空格词应表示“可能/实际/通常”等,M 正确。I)initially作为备选项中另一副词有一定干扰,但此处若强调“起初,最初”,下文必会提及后来的变化,而实际上并未提及,故排除。"
@@ -1415,6 +1419,10 @@
       "34": {
         "answer": "H",
         "explanation": "inherently 35.O)swelling。[确定词性]空34位于系动词is和形容词bad之间,应为副词。空35位于 while引导的状语中,空格后为名词短语 government coffers,空格词应为及物动词的-in<sub>g</sub>分词(while doing sth为 while sb be doing sth的省略形式,当主从句间主语一致时,从句中的主语和be动词可省略)。[锁定答案]末段①句“同样,财产税的提出也是为了在减少不平等的同时增加财政收入”表明,财产税被视为前文所述酒税、烟税、碳税的同类。②句具体说明财产税如何增加财政税收,减少不平等。空格句(③句)指出,如果认为财富不平等 34 有害,那么财产税在改善社会的同时也 35 政府的金库。可见,空格句"
+      },
+      "35": {
+        "answer": "O",
+        "explanation": null
       },
       "36": {
         "answer": "D",
@@ -1436,6 +1444,10 @@
         "answer": "F",
         "explanation": "[答案]F[精解]由定位词定位至 F段②句。该句指出专业软件所得结果不正确:农学家与种植户都立刻发现数量不对。试题是对该句信息的整合概括,Even对应原文even with their limited understanding of how to read remote sensing maps,强调“计算结果错误过于明显,连身为非专业人士的种植户都能看出来”。"
       },
+      "41": {
+        "answer": "Q",
+        "explanation": null
+      },
       "42": {
         "answer": "H",
         "explanation": "[答案]H [精解]由定位词定位至 H 段。该段介绍遥感器在农业领域的潜能,其中④句指出使用遥感器的目的/作用:让种植户在田间做出更好的决策,增加收成。试题是对该句信息的概括。"
@@ -1451,6 +1463,46 @@
       "45": {
         "answer": "M",
         "explanation": "[答案]M [精解]由定位词定位至 M 段。该段①句指出一项播种和施肥计划在美国中西部的效果与其在澳大利亚、南非的效果互不相干,即同样的计划在不同地区可能产生完全不同的效果。试题是对该句大意的概括。"
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "C",
+        "explanation": null
+      },
+      "49": {
+        "answer": "B",
+        "explanation": null
+      },
+      "50": {
+        "answer": "C",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "A",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "B",
+        "explanation": null
       }
     },
     "references": {}

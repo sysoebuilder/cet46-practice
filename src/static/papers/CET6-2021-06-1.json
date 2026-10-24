@@ -1376,6 +1376,46 @@
         "answer": "B",
         "explanation": "亡人数在四年前达到顶峰。因此答案为B)。"
       },
+      "26": {
+        "answer": "F",
+        "explanation": null
+      },
+      "27": {
+        "answer": "E",
+        "explanation": null
+      },
+      "28": {
+        "answer": "I",
+        "explanation": null
+      },
+      "29": {
+        "answer": "H",
+        "explanation": null
+      },
+      "30": {
+        "answer": "K",
+        "explanation": null
+      },
+      "31": {
+        "answer": "C",
+        "explanation": null
+      },
+      "32": {
+        "answer": "B",
+        "explanation": null
+      },
+      "33": {
+        "answer": "G",
+        "explanation": null
+      },
+      "34": {
+        "answer": "A",
+        "explanation": null
+      },
+      "35": {
+        "answer": "L",
+        "explanation": null
+      },
       "36": {
         "answer": "F",
         "explanation": "F) 【精析】同义转述题。F) 段最后一句说到，马可尼显然是现代通信概念出现过程中的核心人物。题干是对该句的同义转述。题干中的 central to 对应原文中的 the central figure in, 题干中的 our present-day understanding of communication 对应原文中的 a modern understanding of communication, 故答案为 F)。"
@@ -1411,6 +1451,50 @@
       "44": {
         "answer": "B",
         "explanation": "B) 【精析】细节归纳题。B) 段第一句前半部分提到，今天的全球网络媒体和通信系统起源于 19 世纪，随后第二句举出了一些实例，而第三句则指出，是无线通信的发展成就了从那时到现在的联系。题干中的 what connected the 19th century and our present time 是对原文中 has its origins in the 19th century 和 what made the link from then to now 两处信息的概括性转述，故答案为 B)。"
+      },
+      "45": {
+        "answer": "H",
+        "explanation": null
+      },
+      "46": {
+        "answer": "D",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "B",
+        "explanation": null
+      },
+      "49": {
+        "answer": "A",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "B",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "A",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

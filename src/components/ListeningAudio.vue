@@ -1,9 +1,9 @@
 <template>
-  <view class="listening-player">
-    <view class="audio-top-row"><text class="audio-title">听力音频</text><text v-if="state.saveFailed" class="audio-note">播放位置未保存</text></view>
-    <view class="audio-controls"><button class="audio-play-button" :aria-label="state.error ? '重试播放' : state.playing ? '暂停听力' : '播放听力'" @click="toggle">{{ state.error ? '重试' : state.playing ? '暂停' : state.loading ? '加载中' : '播放' }}</button><view class="audio-timeline"><slider class="audio-slider" :value="sliderValue" :max="1000" :disabled="!state.duration" :block-size="18" activeColor="#4d7657" backgroundColor="#dce4d1" @changing="drag" @change="seek" /><view class="audio-times"><text>{{ formatAudioTime(displayPosition) }}</text><text>{{ formatAudioTime(state.duration) }}</text></view></view></view>
-    <text v-if="state.error" class="audio-error">音频播放失败，请点击重试</text>
-  </view>
+  <div class="listening-player">
+    <div class="audio-top-row"><span class="audio-title">听力音频</span><span v-if="state.saveFailed" class="audio-note">播放位置未保存</span></div>
+    <div class="audio-controls"><MotionButton class="audio-play-button" :aria-label="state.error ? '重试播放' : state.playing ? '暂停听力' : '播放听力'" @click="toggle"><AppIcon :name="state.playing ? 'Pause' : 'Play'" :size="16" />{{ state.error ? '重试' : state.playing ? '暂停' : state.loading ? '加载中' : '播放' }}</MotionButton><div class="audio-timeline"><input type="range" aria-label="听力播放进度" class="audio-slider" :value="sliderValue" :max="1000" :disabled="!state.duration" min="0" step="1" @input="drag" @change="seek" /><div class="audio-times"><span>{{ formatAudioTime(displayPosition) }}</span><span>{{ formatAudioTime(state.duration) }}</span></div></div></div>
+    <span v-if="state.error" class="audio-error">音频播放失败，请点击重试</span>
+  </div>
 </template>
 
 <script setup>
@@ -29,8 +29,8 @@ function toggle() {
   if (state.value.playing) player?.pause()
   else player?.play()
 }
-function drag(event) { draggedPosition.value = event.detail.value / 1000 * state.value.duration }
-function seek(event) { player?.seek(event.detail.value / 1000 * state.value.duration); draggedPosition.value = null }
+function drag(event) { draggedPosition.value = Number(event.target.value) / 1000 * state.value.duration }
+function seek(event) { player?.seek(Number(event.target.value) / 1000 * state.value.duration); draggedPosition.value = null }
 watch(() => [props.source.src, props.source.sha256, props.paperId], initialize, { immediate: true })
 watch(() => props.active, active => { if (!active) player?.pause() })
 onBeforeUnmount(() => { player?.destroy(); player = null })

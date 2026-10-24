@@ -1284,6 +1284,46 @@
   "solutions": {
     "origin": "answer_pdf",
     "items": {
+      "26": {
+        "answer": "G",
+        "explanation": null
+      },
+      "27": {
+        "answer": "B",
+        "explanation": null
+      },
+      "28": {
+        "answer": "F",
+        "explanation": null
+      },
+      "29": {
+        "answer": "A",
+        "explanation": null
+      },
+      "30": {
+        "answer": "N",
+        "explanation": null
+      },
+      "31": {
+        "answer": "C",
+        "explanation": null
+      },
+      "32": {
+        "answer": "M",
+        "explanation": null
+      },
+      "33": {
+        "answer": "D",
+        "explanation": null
+      },
+      "34": {
+        "answer": "L",
+        "explanation": null
+      },
+      "35": {
+        "answer": "E",
+        "explanation": null
+      },
       "36": {
         "answer": "F",
         "explanation": "F) 【精析】同义转述题。F) 段定位句提到, 气候变化已经摧毁了数以万计的人的生计, 而且在不久的将来, 这种状况将恶化, 数百万人(其中大部分是穷人) 将加入那些已经因气候变化和极端天气事件而流离失所的人的行列。题干中的 wrought havoc 对应原文中的 destroyed, 题干中的 the lives of tens of thousands of people 是对原文中 tens of thousands of livelihoods 的同义转述, 故答案为 F)。"
@@ -1319,6 +1359,50 @@
       "44": {
         "answer": "J",
         "explanation": "J) 【精析】同义转述题。J) 段定位句指出, 如果我们相信一切都无法改变, 那么我们就是在放弃行动的机会。题干中的“doubt our ability to...”对应原文中的 believe that nothing can be changed, 题干中的 throwing away the chance to take action 是对原文中 giving up our opportunity to act 的同义转述, 故答案为 J)。"
+      },
+      "45": {
+        "answer": "E",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "B",
+        "explanation": null
+      },
+      "51": {
+        "answer": "B",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
       }
     },
     "references": {}

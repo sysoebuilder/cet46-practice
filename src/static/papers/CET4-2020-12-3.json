@@ -32,16 +32,709 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
-      "notices": [
-        "说明:由于2020年12月四级考试全国共考了两套听力,本套真题听力与前两套内容相同,只是选项顺序不同,因此在本套真题中不再重复出现。"
-      ],
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
       "time_limit_minutes": 25,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He wanted to buy a home."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He lost a huge sum of money."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He suffered from a shock."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He did an unusual good deed."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Invite the waiter to a fancy dinner."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Give some money to the waiter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Tell her story to the Daily News."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Pay the waiter's school tuition."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Whether or not to move to the state's mainland."
+                  },
+                  {
+                    "label": "B",
+                    "text": "How to keep the village from sinking into the sea."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Where to get the funds for rebuilding their village."
+                  },
+                  {
+                    "label": "D",
+                    "text": "What to do about the rising level of the seawater."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It takes too long a time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has to wait for the state's final approval."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It costs too much money."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It faces strong opposition from many villagers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To investigate whether people are grateful for help."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To see whether people hold doors open for strangers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To explore ways of inducing gratitude in people."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To find out how people express gratitude."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They induced strangers to talk with them."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They helped 15 to 20 people in a bad mood."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They held doors open for people at various places."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They interviewed people who didn't say thank you."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "People can be educated to be grateful."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Most people express gratitude for help."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Most people have bad days now and then."
+                  },
+                  {
+                    "label": "D",
+                    "text": "People are ungrateful when in a bad mood.\n\n四级2020年12月24"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To order a solar panel installation."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To enquire about solar panel installations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To report a serious leak in his roof."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To complain about the faulty solar panels."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He plans to install solar panels."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He saves \\$300 a year."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He owns a four-bedroom house."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has a large family."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The service of the solar panel company."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The maintenance of the solar panels."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The cost of a solar panel installation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The quality of the solar panels."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "One year and a half."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Roughly six years."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Less than four years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "About five years."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "At a travel agency."
+                  },
+                  {
+                    "label": "C",
+                    "text": "At an airline transfer service."
+                  },
+                  {
+                    "label": "B",
+                    "text": "At an Australian airport."
+                  },
+                  {
+                    "label": "D",
+                    "text": "At a local transportation authority."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She would be able to visit more scenic spots."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She wanted to save as much money as possible."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She would like to have everything taken care of."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She wanted to spend more time with her family."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Four days."
+                  },
+                  {
+                    "label": "C",
+                    "text": "One week."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Five days."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Two weeks."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Choosing some activities herself."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Driving along the Great Ocean Road."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Spending Christmas with Australians."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Learning more about wine making."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Bring their own bags when shopping."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Dispose of their trash properly."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Use public transport when traveling."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Pay a green tax upon arrival."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It has not been doing a good job in recycling."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has witnessed a rise in accidental drowning."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It has not attracted many tourists in recent years."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has experienced an overall decline in air quality."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To charge a small fee on plastic products in supermarkets."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To ban single-use plastic bags and straws on Bali Island."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To promote the use of paper bags for shopping."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To impose a penalty on anyone caught littering.\n\n四级2020年12月25"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It gives birth to several babies at a time."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its breeding grounds are now better preserved."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is the least protected mammal species."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its population is now showing signs of increase."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Global warming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Commercial hunting."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Polluted seawaters."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Decreasing birthrates."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "To mate."
+                  },
+                  {
+                    "label": "C",
+                    "text": "To escape hunters."
+                  },
+                  {
+                    "label": "B",
+                    "text": "To look for food."
+                  },
+                  {
+                    "label": "D",
+                    "text": "To seek breeding grounds."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They prefer to drink low-fat milk."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They consume less milk these days."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They think milk is good for health."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They buy more milk than the British."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is not as healthy as once thought."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It benefits the elderly more."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It is not easy to stay fresh for long."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It tends to make people fat."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They drink too many pints every day."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They lack the necessary proteins to digest it."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are sensitive to certain minerals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They have eaten food incompatible with milk."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is easier for sick people to digest."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It is healthier than other animal products."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It provides some necessary nutrients."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It supplies the body with enough calories."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -208,8 +901,48 @@
       },
       "kind": "paragraph_matching",
       "section": "B",
-      "title": "四级2020年12月48\n\nthe Addams Family, the Six Million Dollar Man, the Bionic Woman—everything that was on television ended up on a lunch box,\" says Allen Woodall. He's the founder of the Lunch Box Museum in Columbus, Georgia. \"It was a great marketing tool because kids were taking that TV show to school with them, and then when they got home they had them captured back on TV,\" he says.",
+      "title": "The History of the Lunch Box",
       "paragraphs": [
+        {
+          "label": "A",
+          "text": "It was made of shiny, bright pink plastic with a Little Mermaid sticker on the front, and I carried it with me nearly every single day. My lunch box was one of my first prized possessions, a proud statement to everyone in my kindergarten: \"I love Mermaid-Ariel on my lunch box.\""
+        },
+        {
+          "label": "B",
+          "text": "That bulky container served me well through my first and second grades, until the live-action version of 101 Dalmatians hit theaters, and I needed the newest red plastic box with characters like Pongo and Perdita on the front. I know I'm not alone here—I bet you loved your first lunch box, too."
+        },
+        {
+          "label": "C",
+          "text": "Lunch boxes have been connecting kids to cartoons and TV shows and super-heroes for decades. But it wasn't always that way. Once upon a time, they weren't even boxes. As schools have changed in the past century, the midday meal container has evolved right along with them."
+        },
+        {
+          "label": "D",
+          "text": "Let's start back at the beginning of the 20th century—the beginning of the lunch box story, really. While there were neighborhood schools in cities and suburbs, one-room schoolhouses were common in rural areas. As grandparents have been saying for generations, kids would travel miles to school in the countryside (often on foot)."
+        },
+        {
+          "label": "E",
+          "text": "\"You had kids in rural areas who couldn't go home from school for lunch, so bringing your lunch wrapped in a cloth, in oiled paper, in a little wooden box or something like that was a very long-standing rural tradition,\" says Paula Johnson, head of food history section at the Smithsonian National Museum of American History in Washington, D.C."
+        },
+        {
+          "label": "F",
+          "text": "City kids, on the other hand, went home for lunch and came back. Since they rarely carried a meal, the few metal lunch buckets on the market were mainly for tradesmen and factory workers."
+        },
+        {
+          "label": "G",
+          "text": "After World War II, a bunch of changes reshaped schools—and lunches. More women joined the workforce. Small schools consolidated into larger ones, meaning more students were farther away from home. And the National School Lunch Act in 1946 made cafeterias much more common. Still, there wasn't much of a market for lunch containers—yet. Students who carried their lunch often did so in a re-purposed bucket or tin of some kind."
+        },
+        {
+          "label": "H",
+          "text": "And then everything changed in the year of 1950. You might as well call it the Year of the Lunch Box, thanks in large part to a genius move by a Nashville-based manufacturer, Aladdin Industries. The company already made square metal meal containers, the kind workers carried, and some had started to show up in the hands of school kids."
+        },
+        {
+          "label": "I",
+          "text": "But these containers were really durable, lasting years on end. That was great for the consumer, not so much for the manufacturer. So executives at Aladdin hit on an idea that would harness the newfound popularity of television. They covered lunch boxes with striking red paint and added a picture of TV and radio cowboy Hopalong Cassidy on the front."
+        },
+        {
+          "label": "J",
+          "text": "The company sold 600,000 units the first year. It was a major \"Ah-ha!\" moment, and a wave of other manufacturers jumped on board to capitalize on new TV shows and movies. \"The Partridge Family,\r\n\r\n四级2020年12月48\r\n\r\nthe Addams Family, the Six Million Dollar Man, the Bionic Woman—everything that was on television ended up on a lunch box,\" says Allen Woodall. He's the founder of the Lunch Box Museum in Columbus, Georgia. \"It was a great marketing tool because kids were taking that TV show to school with them, and then when they got home they had them captured back on TV,\" he says."
+        },
         {
           "label": "K",
           "text": "And yes, you read that right: There is a lunch box museum, right near the Chattahoochee River. Woodall has more than 2,000 items on display. His favorite? The Green Hornet lunch box, because he used to listen to the radio show back in the 1940s."
@@ -579,8 +1312,129 @@
   },
   "id": "CET4-2020-12-3",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "K",
+        "explanation": null
+      },
+      "27": {
+        "answer": "G",
+        "explanation": null
+      },
+      "28": {
+        "answer": "M",
+        "explanation": null
+      },
+      "29": {
+        "answer": "L",
+        "explanation": null
+      },
+      "30": {
+        "answer": "O",
+        "explanation": null
+      },
+      "31": {
+        "answer": "F",
+        "explanation": null
+      },
+      "32": {
+        "answer": "H",
+        "explanation": null
+      },
+      "33": {
+        "answer": "A",
+        "explanation": null
+      },
+      "34": {
+        "answer": "D",
+        "explanation": null
+      },
+      "35": {
+        "answer": "N",
+        "explanation": null
+      },
+      "36": {
+        "answer": "F",
+        "explanation": null
+      },
+      "37": {
+        "answer": "J",
+        "explanation": null
+      },
+      "38": {
+        "answer": "O",
+        "explanation": null
+      },
+      "39": {
+        "answer": "C",
+        "explanation": null
+      },
+      "40": {
+        "answer": "H",
+        "explanation": null
+      },
+      "41": {
+        "answer": "L",
+        "explanation": null
+      },
+      "42": {
+        "answer": "D",
+        "explanation": null
+      },
+      "43": {
+        "answer": "A",
+        "explanation": null
+      },
+      "44": {
+        "answer": "M",
+        "explanation": null
+      },
+      "45": {
+        "answer": "I",
+        "explanation": null
+      },
+      "46": {
+        "answer": "C",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "D",
+        "explanation": null
+      },
+      "49": {
+        "answer": "A",
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
+      },
+      "51": {
+        "answer": "A",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "D",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }

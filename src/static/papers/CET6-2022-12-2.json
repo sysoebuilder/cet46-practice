@@ -1396,6 +1396,46 @@
         "answer": "A",
         "explanation": "A)【精析】细节推断题。根据句(24-1)，讲话者先是说他感觉在越南的那14个月，他好像活了有10辈子。句(24-2)提到，在他看来，他以前的那些朋友都特别幼稚，关心的也都是在他看来十分幼稚的事情，换句话说，讲话者在越南的经历让他变得比朋友们都要成熟。因此答案为A）。"
       },
+      "26": {
+        "answer": "B",
+        "explanation": null
+      },
+      "27": {
+        "answer": "D",
+        "explanation": null
+      },
+      "28": {
+        "answer": "A",
+        "explanation": null
+      },
+      "29": {
+        "answer": "L",
+        "explanation": null
+      },
+      "30": {
+        "answer": "I",
+        "explanation": null
+      },
+      "31": {
+        "answer": "J",
+        "explanation": null
+      },
+      "32": {
+        "answer": "O",
+        "explanation": null
+      },
+      "33": {
+        "answer": "G",
+        "explanation": null
+      },
+      "34": {
+        "answer": "M",
+        "explanation": null
+      },
+      "35": {
+        "answer": "E",
+        "explanation": null
+      },
       "36": {
         "answer": "F",
         "explanation": "F)【精析】细节推断题。F)段第一句提到，这项新研究确实含有一个意想不到的发现:许多接受调查的孩子透露，他们的父母也对同样的动物表现出恐惧或厌恶。由该句中 also 和 the same animals 可知，这些孩子和他们的父母一样恐惧或厌恶这些动物。该段最后一句强调该研究结果表明上一代对自然持负面态度的人数增加会导致下一代持类似态度的人数进一步增加。由此可以推知，家长对某些动物的厌恶会导致其孩子同样厌恶这些动物，题干中的 parents' aversion to certain animals 对应原文中的 their parents also expressed fear or disgust of the same animals，题干中的 pass on to their children 是根据原文中 lead to a further increase in people with similar attitudes in the next generation 推断而出的结论，故答案为 F)。"
@@ -1416,6 +1456,10 @@
         "answer": "G",
         "explanation": "creatures 是对原文中 increased biophobia 的同义转述, 题干中的 conserving biodiversity 对应原文中的 conserve biodiversity 和 conservation, 故答案为 G)。"
       },
+      "41": {
+        "answer": "P",
+        "explanation": null
+      },
       "42": {
         "answer": "E",
         "explanation": "E)【精析】同义转述题。E)段第三句指出，人类生来就会避开像蜜蜂这样的危险生物，但如今的儿童甚至还会躲避诸如蝴蝶和蜻蜓之类的无害昆虫。题干中的 naturally tend to avoid dangerous animals 和 stay away from even harmless ones 分别对应原文中的 inherently avoid dangerous organisms 和 avoid even harmless insects, 故答案为 E)。"
@@ -1427,6 +1471,50 @@
       "44": {
         "answer": "D",
         "explanation": "D)【精析】同义转述题。D)段第四句提到一项对栃木县5300多名学龄儿童的调查,研究了他们对14种当地昆虫和1种蜘蛛的看法。由5300多名学龄儿童可知,这是一项大型调查。然后该段最后一句指出调查结果发现学生对自然的体验越少,他们的感受就越负面。题干中的a large survey of school children对应原文中的a survey of more than 5,300 school children,题干中的their negative feelings grew as their experience with nature diminished是对原文中the less experience the students had with nature, the more negative their feelings的同义转述,故答案为D)。"
+      },
+      "45": {
+        "answer": "N",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "B",
+        "explanation": null
+      },
+      "48": {
+        "answer": "A",
+        "explanation": null
+      },
+      "49": {
+        "answer": "C",
+        "explanation": null
+      },
+      "50": {
+        "answer": "C",
+        "explanation": null
+      },
+      "51": {
+        "answer": "D",
+        "explanation": null
+      },
+      "52": {
+        "answer": "A",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "D",
+        "explanation": null
       }
     },
     "references": {}

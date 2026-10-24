@@ -1,0 +1,47 @@
+{
+  "id": "H59A7E9D7",
+  "name": "给我过",
+  "version": {
+    "name": "0.1.0",
+    "code": "10"
+  },
+  "launch_path": "app/index.html",
+  "description": "四六级真题离线练习",
+  "screenOrientation": [
+    "portrait-primary",
+    "landscape-primary",
+    "landscape-secondary"
+  ],
+  "permissions": {},
+  "plus": {
+    "statusbar": {
+      "immersed": "none",
+      "style": "dark",
+      "background": "#f8faf9"
+    },
+    "splashscreen": {
+      "autoclose": false,
+      "waiting": true,
+      "delay": 0
+    },
+    "softinput": {
+      "mode": "adjustResize"
+    },
+    "launchwebview": {
+      "background": "#f8faf9",
+      "scalable": false
+    },
+    "distribute": {
+      "google": {
+        "packagename": "com.cetpractice.app",
+        "minSdkVersion": 23,
+        "permissions": []
+      },
+      "apple": {},
+      "icons": {},
+      "ios": {
+        "dSYMs": false
+      }
+    }
+  }
+}

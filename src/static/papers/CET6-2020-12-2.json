@@ -1388,9 +1388,17 @@
         "answer": "D",
         "explanation": "disruptions 32.B)credited。[确定词性]Small 31 在句子中作主语,动词原形create充当谓语,故空31应为名词复数。空32位于is和 with promoting sth之间,有以下可能:1.is为系动词,空32为形容词或名词,构成系表结构;2.is为助动词,空32为-ed分词,构成被动语态;3.is为助动词,空32为-ing分词,构成现在进行时。[锁定答案]第四段②句指出,小的 31 带来小的社会转变;大的 31 (ones回指空31)则导致永久性改变。③句指出,纽约交通系统大罢工 32 促进长远变革。④句则具体介绍了1918年西班牙大流感对欧洲各国医疗保健系统发展的巨大促进作用。可见,③④句意在举例说明②句后半句“大的 31 则导致永久性改变”这一观点,空31应传递“社会重大危机/问题/破坏”等含义,D正确。而is 32 with应体现“交通大罢工”与“促进长远变革”之间的关系,结合上文观点“破坏导致社会变革”可知,is with应体现因果逻辑,B符合文意,A be credited with B表示“把 B归功于 A”。"
       },
+      "32": {
+        "answer": "B",
+        "explanation": null
+      },
       "33": {
         "answer": "H",
         "explanation": "preference 34.M)survive。[确定词性]空33作介词of的宾语,与其共同修饰限定q<sub>uestion</sub>,应为名词或动名词。空34位于主语从句中 will之后,应为动词原形。[锁定答案]第五段首句指出,“疫情过后会发生什么,疫情过后还能不能恢复到过去那样(this所指代内容)”甚至可能不是一个 33 <sup>问题</sup>。②③句则并列指出,不确定邮轮业会(不会) 34 ,也不确定公共交通(会)不会破产。并列连词 Or提示②③句应传递相似语义,故空34应传递“衰败/消失/存活”等意,M 正确。②③句对“邮轮业是否幸存,公共交通是否破产”的探讨实际意在说明①句“疫情后的变化(还能不能回到过去)”不是由人们的主观意愿决定,而是客观实际所向,这不是一道选择题,空33应传递“取舍/偏好/意愿”等意,H 正确。"
+      },
+      "34": {
+        "answer": "M",
+        "explanation": null
       },
       "35": {
         "answer": "E",
@@ -1435,6 +1443,46 @@
       "45": {
         "answer": "B",
         "explanation": "[答案]B [精解]由定位词定位至B段②③句,②句指出技术的正面作用“让人类得以改造和控制自然界”, ③句转而暗示其负面效果“使人类为此付出代价”。试题是对两句内容的归纳概括,其中the change契合③句中these advances的真实所指“技术带来的对自然界的改造和控制”。"
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "C",
+        "explanation": null
+      },
+      "48": {
+        "answer": "B",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "A",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "A",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "B",
+        "explanation": null
+      },
+      "55": {
+        "answer": "C",
+        "explanation": null
       }
     },
     "references": {}

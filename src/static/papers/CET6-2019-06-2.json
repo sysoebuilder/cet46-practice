@@ -923,7 +923,7 @@
         },
         {
           "label": "G",
-          "text": "In Brazil, the multinational corporation Adidas has been running a shoe-recycling program called “Sustainable Footprint” since 2012. Customers can bring shoes of any brand into an\n\nAdidas store to be shredded and turned into alternative fuels for energy creation instead of being burned as trash. They are used to fuel cement ovens. To motivate visitors to bring in more old shoes, Adidas Brazil promotes the program in stores by showing videos to educate customers, and it even offers a discount each time a customer brings in an old pair of shoes. This boosts the reputation and image of Adidas by making people more aware of the company's values."
+          "text": "In Brazil, the multinational corporation Adidas has been running a shoe-recycling program called “Sustainable Footprint” since 2012. Customers can bring shoes of any brand into an\r\n\r\nAdidas store to be shredded and turned into alternative fuels for energy creation instead of being burned as trash. They are used to fuel cement ovens. To motivate visitors to bring in more old shoes, Adidas Brazil promotes the program in stores by showing videos to educate customers, and it even offers a discount each time a customer brings in an old pair of shoes. This boosts the reputation and image of Adidas by making people more aware of the company's values."
         },
         {
           "label": "H",
@@ -943,7 +943,7 @@
         },
         {
           "label": "L",
-          "text": "Start with a trial program, and expect to change the details as you go. Any take-back program will likely change over time, depending on what works for your customers and company goals. Maybe you see low customer participation at first, or conversely, so much success that the cost of recycling becomes too high. Best Buy, for instance, has been bearing the lion's share of e-waste volume since two of its largest competitors, Amazon and Wal-mart, do not have their own\n\nrecycling programs. Since the launch of its program, Best Buy changed its policy to add a \\$ 25 fee for recycling old televisions in order to keep the program going."
+          "text": "Start with a trial program, and expect to change the details as you go. Any take-back program will likely change over time, depending on what works for your customers and company goals. Maybe you see low customer participation at first, or conversely, so much success that the cost of recycling becomes too high. Best Buy, for instance, has been bearing the lion's share of e-waste volume since two of its largest competitors, Amazon and Wal-mart, do not have their own\r\n\r\nrecycling programs. Since the launch of its program, Best Buy changed its policy to add a \\$ 25 fee for recycling old televisions in order to keep the program going."
         },
         {
           "label": "M",
@@ -951,7 +951,11 @@
         },
         {
           "label": "N",
-          "text": "These examples are just the tip of the iceberg, but they demonstrate how helping customers get more use of their materials can transform value chains and operations. Reducing waste by incorporating used materials into production can cut costs and decrease the price of procurement (采购): less to be procured from the outside and more to be re-utilized from the inside.\n\n[ O ] Companies play a big role in creating a circular economy, in which value is generating less from extracting new resources and more from getting better use out of the resources we already have—but they must also get customers engaged in the process."
+          "text": "These examples are just the tip of the iceberg, but they demonstrate how helping customers get more use of their materials can transform value chains and operations. Reducing waste by incorporating used materials into production can cut costs and decrease the price of procurement (采购): less to be procured from the outside and more to be re-utilized from the inside."
+        },
+        {
+          "label": "O",
+          "text": "Companies play a big role in creating a circular economy, in which value is generating less from extracting new resources and more from getting better use out of the resources we already have—but they must also get customers engaged in the process."
         }
       ],
       "questions": [
@@ -1343,6 +1347,46 @@
       "35": {
         "answer": "F",
         "explanation": "## 35. 答案: F) odds"
+      },
+      "36": {
+        "answer": "F",
+        "explanation": null
+      },
+      "37": {
+        "answer": "C",
+        "explanation": null
+      },
+      "38": {
+        "answer": "M",
+        "explanation": null
+      },
+      "39": {
+        "answer": "E",
+        "explanation": null
+      },
+      "40": {
+        "answer": "G",
+        "explanation": null
+      },
+      "41": {
+        "answer": "N",
+        "explanation": null
+      },
+      "42": {
+        "answer": "H",
+        "explanation": null
+      },
+      "43": {
+        "answer": "B",
+        "explanation": null
+      },
+      "44": {
+        "answer": "J",
+        "explanation": null
+      },
+      "45": {
+        "answer": "D",
+        "explanation": null
       },
       "46": {
         "answer": "D",

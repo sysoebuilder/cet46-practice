@@ -40,20 +40,19 @@ test('real local audio plays, pauses, seeks, survives changing questions and res
   expect(await page.evaluate(() => window.testAudioElements.length > 0 && window.testAudioElements.every(audio => audio.paused))).toBeTruthy()
 })
 
-test('missing question sets may play audio alone without creating fake questions or progress', async ({ page }) => {
+test('restored third-set listening opens its own questions and saves progress independently', async ({ page }) => {
   await page.goto('/')
   await page.locator('.year-chip').filter({ hasText: /^2023$/ }).click()
   const session = page.locator('.session-card').filter({ has: page.locator('.session-heading', { hasText: /2023\s*\/\s*06/ }) })
   await session.locator('.paper-row').filter({ hasText: '第3套' }).click()
   await page.locator('.section-row').filter({ hasText: '听力理解' }).click()
-  await expect(page.locator('.uni-modal')).toContainText('题目缺失')
-  await page.getByText('播放音频', { exact: true }).click()
-  await expect(page.locator('.page-state')).toContainText('本套真题缺少听力理解题目')
+  await expect(page.locator('.listening-group-panel')).toBeVisible()
   await expect(page.locator('.listening-player')).toBeVisible()
   await page.locator('.audio-play-button').click()
   await expect(page.locator('.audio-play-button')).toHaveText('暂停')
-  await expect(page.locator('.question-panel')).toHaveCount(0)
-  expect(await page.evaluate(() => localStorage.getItem('cet:progress:v1:CET4-2023-06-3:listening'))).toBeNull()
+  await page.locator('.listening-question .option').first().click()
+  expect(await page.evaluate(() => localStorage.getItem('cet:progress:v1:CET4-2023-06-3:listening'))).not.toBeNull()
+  expect(await page.evaluate(() => localStorage.getItem('cet:progress:v1:CET4-2023-06-2:listening'))).toBeNull()
 })
 
 test('every bundled recording has a decodable real audio track', async ({ page }) => {
@@ -61,7 +60,8 @@ test('every bundled recording has a decodable real audio track', async ({ page }
   await page.goto('/')
   const results = await page.evaluate(async recordings => {
     const results = []
-    for (const [id, asset] of Object.entries(recordings)) {
+    const unique = [...new Map(Object.entries(recordings).map(([id, asset]) => [asset.src, [id, asset]])).values()]
+    for (const [id, asset] of unique) {
       results.push(await new Promise(resolve => {
         const audio = new Audio()
         const timer = setTimeout(() => finish(0), 8000)
@@ -75,4 +75,30 @@ test('every bundled recording has a decodable real audio track', async ({ page }
     return results
   }, recordings)
   for (const result of results) expect(result.duration, result.id).toBeGreaterThan(60)
+})
+
+test('newly downloaded and remuxed tracks play offline beside their own printed options', async ({ page }) => {
+  for (const id of ['CET4-2017-06-1', 'CET4-2019-12-1', 'CET6-2019-12-1', 'CET6-2020-09-1']) {
+    await page.goto('/')
+    await page.goto(`/#/pages/practice/index?paper=${id}&section=listening`)
+    await expect(page.locator('.listening-player')).toBeVisible()
+    await page.locator('.audio-play-button').click()
+    await expect(page.locator('.audio-play-button')).toHaveText('暂停')
+    await expect.poll(() => page.locator('.audio-times').innerText()).not.toBe('00:00\n00:00')
+    await expect(page.locator('.audio-error')).toHaveCount(0)
+    if (id === 'CET4-2019-12-1') await expect(page.locator('.listening-group-panel')).toContainText('wandering cow')
+    await page.locator('.audio-play-button').click()
+  }
+})
+
+test('an authorized listening copy is playable and uses the copied printed options', async ({ page }) => {
+  await page.goto('/#/pages/practice/index?paper=CET4-2025-06-3&section=listening')
+  await expect(page.locator('.listening-group-panel')).toBeVisible()
+  await expect(page.locator('.listening-player')).toBeVisible()
+  await page.locator('.audio-play-button').click()
+  await expect(page.locator('.audio-play-button')).toHaveText('暂停')
+  await expect(page.locator('.listening-group-panel')).toContainText('7 Mile Bridge Run')
+  await page.locator('.listening-question .option').first().click()
+  await page.reload()
+  await expect(page.locator('.listening-question .option').first()).toHaveClass(/chosen/)
 })

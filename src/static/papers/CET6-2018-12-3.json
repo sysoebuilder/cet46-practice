@@ -32,16 +32,699 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
-      "notices": [
-        "说明:由于 2018 年 12 月六级考试全国共考了 2 套听力，本套真题听力与前 2 套内容完全一样，只是顺序不一样，因此在本套真题中不再重复出现。"
-      ],
+      "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
       "time_limit_minutes": 30,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": 30,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions1 to 4 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Stop worrying about him."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Keep away from the statue."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Take a picture of him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Put on a smile for the photo."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Gaining great fame on the Internet."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Publishing a collection of his photos."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Collecting the best photos in the world."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Becoming a professional photographer."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Surfing various websites and collecting photos."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Editing his pictures and posting them online."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Following similar accounts to compare notes."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Studying the pictures in popular social media."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are far from satisfactory."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are mostly taken by her mom."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They make an impressive album."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They record her fond memories."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 8
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "A journal reporting the latest progress in physics."
+                  },
+                  {
+                    "label": "B",
+                    "text": "An introductory course of modern physics."
+                  },
+                  {
+                    "label": "C",
+                    "text": "An occasion for physicists to exchange ideas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "A series of interviews with outstanding physicists."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The future of the physical world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The origin of the universe."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Sources of radiation."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Particle theory."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "How matter collides with anti-matter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Whether the universe will turn barren."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Why there exists anti-matter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Why there is a universe at all."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Matter and anti-matter are opposites of each other."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Anti-matter allowed humans to come into existence."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The universe formed due to a sufficient amount of matter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Anti-matter exists in very high-temperature environments."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 9 to 11 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 9,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She found herself speaking a foreign language."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She woke up speaking with a different accent."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She found some symptoms of her illness gone."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She woke up finding herself in another country."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is usually caused by a stroke or brain injury."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It has not yet found any effective treatment."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It leaves the patient with a distorted memory."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It often happens to people with speech defects."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "British."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Irish."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Russian."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Australian."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Water sports."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Racing in rivers."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Stories about women swimmers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Books about swimming."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She succeeded in swimming across the English Channel."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She published a guide to London’s best swimming spots."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She told her story of adventures to some young swimmers."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She wrote a book about the history of swimwear in the UK."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They loved vacationing on the seashore."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They had a unique notion of modesty."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They were prohibited from swimming."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They were fully dressed when swimming."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She designed lots of appropriate swimwear for women."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She once successfully competed against men in swimming."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She was the first woman to swim across the English Channel."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She was an advocate of women’s right to swim in public pools."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C)and D).Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Build a machine that can detect lies."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Develop a magnetic brain scanner."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Test the credibility of court evidence."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Win people’s complete trust in them."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are optimistic about its potential."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They are sceptical of its reliability."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They think it is but business promotion."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They celebrate it with great enthusiasm."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It is not to be trusted at all."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It does not sound economical."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It may intrude into people’s privacy."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It may lead to overuse in court trials."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Most of its residents speak several languages."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some of its indigenous languages are dying out."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Each village there speaks a totally different language."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its languages have interested researchers the world over.\n\n2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They are spread randomly across the world."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Some are more difficult to learn than others."
+                  },
+                  {
+                    "label": "C",
+                    "text": "More are found in tropical regions than in the mild zones."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They enrich and impact each other in more ways than one."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They used different methods to collect and analyze data."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They identified distinct patterns of language distribution."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Their conclusions do not correspond to their original hypotheses."
+                  },
+                  {
+                    "label": "D",
+                    "text": "There is no conclusive account for the cause of language diversity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the recording you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Its middle-class is disappearing."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Its wealth is rationally distributed."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its population is rapidly growing."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its cherished dream is coming true."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Success was but a dream without conscientious effort."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They could realize their dreams through hard work."
+                  },
+                  {
+                    "label": "C",
+                    "text": "A few dollars could go a long way."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Wealth was shared by all citizens."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Better working conditions."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Better-paying jobs."
+                  },
+                  {
+                    "label": "C",
+                    "text": "High social status."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Full employment."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Reduce the administrative costs."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Adopt effective business models."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Hire part-time employees only."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Make use of the latest technology."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "lectures"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -610,80 +1293,200 @@
     "origin": "answer_pdf",
     "items": {
       "26": {
-        "answer": "F",
-        "explanation": "grasp。详解 struggle to do sth. 意为“挣扎着做某事”, 这里的 to 为不定式符号, 因此空格处应填入动词原形。空格前的 already 暗示这些学生本来就对课堂内容理解困难, 故填入 F) grasp“理解, 领悟”。干扰项 I) obscure 意为“使模糊, 使费解”, 学生不会挣扎着使课堂内容更费解, 不符合逻辑, 故排除。"
+        "answer": "A",
+        "explanation": null
       },
       "27": {
-        "answer": "C",
-        "explanation": "evaluated。详解 空格位于两个名词之间,应填入动词作谓语。本段的时态为一般过去时,故应填入动词的过去式。空格前出现了 measure“衡量”,可推测研究人员对这 500 名学生进行了评估,故填入 C) evaluated“评估,评价”。干扰项 D) evaporated“蒸发,消逝”为不及物动词,其后不能直接跟宾语且放在此处不符合句意,故排除。"
+        "answer": "I",
+        "explanation": null
       },
       "28": {
-        "answer": "A",
-        "explanation": "aptitude。详解 空格位于形容词之后,应填入名词。“used...as...”意为“把……用作……”,这里是指研究人员把这些学生的大学入学考试成绩用作评估手段,用来评估他们的智力水平,故填入A) aptitude“天资,资质”。干扰项G) legacy“遗产,遗赠”,intellectual legacy表示“知识遗产”,放在此处不符合句意,故排除。"
+        "answer": "F",
+        "explanation": null
       },
       "29": {
-        "answer": "E",
-        "explanation": "filtering。详解 空格位于介词之后,应填入名词或动名词,空格后出现了 out,因此空格填入动名词的可能性较大。be better at doing sth. 意为“更善于做某事”,故填入 E) filtering“过滤,滤掉”,此处意为“智力水平高的人更善于过滤使他们分心的事物”。干扰项 K) raising“提出,提及”不符合句意,也不和 out 搭配使用,故排除。"
+        "answer": "J",
+        "explanation": null
       },
       "30": {
-        "answer": "M",
-        "explanation": "significant。详解 空格位于冠词和名词之间,应填入形容词。空格下一句用 but 表示转折,指出“那些课上上网的学生确实在考试中表现更差,无论他们之前入学考试的成绩如何”,因此推测空格所在句意为“研究人员本以为入学考试分数高的学生不会因使用数码产品而表现出明显的成绩下滑”,故填入 M) significant“显著的,明显的”。"
+        "answer": "B",
+        "explanation": null
       },
       "31": {
-        "answer": "K",
-        "explanation": "raising。详解 空格位于系动词和名词之间,前面还出现了副词,应填入动词分词表示现在进行时。根据下一段内容可知,高校教师们针对学生课上使用数码产品的情况采取了一系列措施,空格后的 alarm bells 意为“警钟,警告”,因此推测这里想要表达“高校教师们警示人们数码产品带来的负面作用”之意,故填入 K) raising“提起,提出”。raise alarm bells 意为“发出警告”。"
+        "answer": "G",
+        "explanation": null
       },
       "32": {
-        "answer": "O",
-        "explanation": "typical。详解 空格位于冠词和名词之间,应填入形容词。这里是在陈述研究结果:平均每个学生在一堂课上查看数码产品的次数高达11次,这是一个普遍现象,故填入O) typical“平常的,一贯如此的”。干扰项I) obscure“费解的,难懂的”虽然也能修饰class,但它是元音音素开头,不能使用a来修饰,故排除。"
+        "answer": "K",
+        "explanation": null
       },
       "33": {
-        "answer": "N",
-        "explanation": "suffer。详解 空格位于短语 cause sb. / sth. to 之后, 这里的 to 是不定式符号, 因此空格处应填入动词原形。文章一直在陈述课上使用数码产品对学生成绩造成的负面影响, 因此这里应填入 N) suffer “变差, 遭受”。本题考查熟词僻义, suffer 最常见的意思是“遭受”, 但也可表示“变差, 恶化”。H) minimize“使减少, 降低”虽然符合句意, 但它是及物动词, 后面需要跟宾语, 不符合此处语法, 故排除。"
+        "answer": "M",
+        "explanation": null
       },
       "34": {
-        "answer": "H",
-        "explanation": "minimize。详解 本句中的 designed“制定,设计”是过去分词作后置定语,修饰前面的 policies,空格前的 to 为不定式符号,表示目的。老师们实行这些政策是为了减少或消除学生课上使用数码产品的行为,故填入 H) minimize“使减少,降低”。干扰项 L) resist 表示“抵挡,忍住”时,后面跟的宾语一般是表示“变革”“攻击”之类的词,这与空格后面的宾语不搭,故排除。"
+        "answer": "D",
+        "explanation": null
       },
       "35": {
+        "answer": "E",
+        "explanation": null
+      },
+      "36": {
+        "answer": "D",
+        "explanation": null
+      },
+      "37": {
+        "answer": "J",
+        "explanation": null
+      },
+      "38": {
         "answer": "L",
-        "explanation": "resist。详解 空格位于短语 be able to 之后,应填入动词原形。空格后的宾语 pull 用作名词时,表示“吸引力,诱惑”。until 引导的从句表示条件,意为“除非学生能够抵挡住吸引力,否则他们将继续在课上苦苦挣扎。”故填入 L) resist“抵挡,忍住”。干扰项 J) obsess“使着迷,使迷恋”和句意相反,并且一般用于被动语态,当用在主动句中时,句子的主语一般为让某人着迷的事物,故排除。"
+        "explanation": null
+      },
+      "39": {
+        "answer": "A",
+        "explanation": null
+      },
+      "40": {
+        "answer": "E",
+        "explanation": null
+      },
+      "41": {
+        "answer": "K",
+        "explanation": null
+      },
+      "42": {
+        "answer": "I",
+        "explanation": null
+      },
+      "43": {
+        "answer": "B",
+        "explanation": null
+      },
+      "44": {
+        "answer": "G",
+        "explanation": null
+      },
+      "45": {
+        "answer": "C",
+        "explanation": null
       },
       "46": {
-        "answer": "C",
-        "explanation": "。定位 由题干中的 the author 和 ordinary Americans 定位到文章首段: While human achievements in mathematics continue to reach new levels of complexity, many of us who aren't mathematicians at heart (or engineers by trade) may struggle to remember the last time we used calculus (微积分)."
+        "answer": "B",
+        "explanation": null
       },
       "47": {
-        "answer": "A",
-        "explanation": "。定位 由题干中的 general complaint、America's math education 和 Hacker 定位到文章第四段第一句:“We hear on all sides that we're not teaching enough mathematics, and the Chinese are running rings around us,” Hacker says."
+        "answer": "C",
+        "explanation": null
       },
       "48": {
-        "answer": "B",
-        "explanation": "。定位 根据题干中的 Numeracy 101 定位到文章第五段第一句: Instead, Hacker is pushing for more courses like the one he teaches at Queens College: Numeracy 101. 和第三句: Such courses, Hacker argues, are a remedy for the numerical illiteracy of adults who have completed high-level"
+        "answer": "D",
+        "explanation": null
       },
       "49": {
         "answer": "A",
-        "explanation": "。定位 由题干中的 Maria Droujkova 和 in class 定位到文章第七段第二句: For Droujkova, high-level math is important, and what it could use in American classrooms is an injection of childlike wonder. 2018.12/21 (第2套)"
+        "explanation": null
+      },
+      "50": {
+        "answer": "D",
+        "explanation": null
       },
       "51": {
-        "answer": "B",
-        "explanation": "。定位 由题干中的 Japan 定位到文章第三段第一句: Japan is ahead of the curve when it comes to this trend."
+        "answer": "C",
+        "explanation": null
       },
       "52": {
-        "answer": "C",
-        "explanation": "。定位 由题干中的 Terapio 定位到文章第三段最后一句: This type of robot will likely be one of the first to be implemented in hospitals because it has fairly minimal patient contact."
+        "answer": "D",
+        "explanation": null
       },
       "53": {
-        "answer": "D",
-        "explanation": "。定位 由题干中的 telepresence robots 和 designed 定位到文章第四段第二句: Telepresence robots such as MantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or doctors to remotely monitor patients or Skype them, often via a screen where the robot's 'face' would be."
+        "answer": "B",
+        "explanation": null
       },
       "54": {
         "answer": "A",
-        "explanation": "。定位 由题干中的 Actroid F 定位到文章第六段第一句和第二句: On the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the difference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use"
+        "explanation": null
       },
       "55": {
+        "answer": "B",
+        "explanation": null
+      },
+      "1": {
         "answer": "C",
-        "explanation": "。定位 由题干中的 the last paragraph 定位到文章最后一段: It's important to note that robotic nurses don't decide courses of treatment or make diagnoses (though robot doctors and surgeons may not be far off). Instead, they perform routine and laborious tasks, freeing nurses up to attend to patients with immediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement."
+        "explanation": "C)。详解对话开头,男士请女士为他以雕塑为背景拍一张照片,他认为这样拍出来的照片效果应该很不错。因此答案为 C)。"
+      },
+      "2": {
+        "answer": "A",
+        "explanation": "A)。详解对话中男士说,他的梦想就是成为网络名人(也就是我们常说的“网红”)。因此答案为A)。"
+      },
+      "3": {
+        "answer": "B",
+        "explanation": "B)。详解 对话中男士说,他最近花了更多时间在编辑照片、将照片贴到网上以及清理手机的存储空间上。因此答案为 B)。"
+      },
+      "4": {
+        "answer": "A",
+        "explanation": "A)。详解对话最后女士提到,现在回想一下,自己的照片总是有各种各样的问题:似笑非笑、闭眼睛、头发乱糟糟。也就是说,她的照片都远不如人意。因此答案为A)。"
+      },
+      "5": {
+        "answer": "D",
+        "explanation": "D)。详解 对话开头男士提到,Physics Today 采访的是一些物理学界最伟大的专家,他们可以帮助我们理解一些最为深奥的物理学理论。因此,Physics Today 是对杰出的物理学家进行的一系列采访节目,答案为 D)。"
+      },
+      "6": {
+        "answer": "B",
+        "explanation": "B)。详解对话中女士说,她大部分时间都在研究宇宙大爆炸理论以及宇宙从何而来,也就是宇宙的起源。因此答案为B)。"
+      },
+      "7": {
+        "answer": "D",
+        "explanation": "D)。详解对话中女士说,她感兴趣的是宇宙究竟为什么会存在。因此答案为 D)。"
+      },
+      "10": {
+        "answer": "A",
+        "explanation": "A)。详解 短文中明确提到, Foreign Accent Syndrome(外国口音综合征)通常是由中风或脑外伤引起的。因此答案为 A)。"
+      },
+      "11": {
+        "answer": "C",
+        "explanation": "C)。详解 短文最后提到,据报道,2010年有一名美国女性从楼梯上摔下来撞到了头部,之后她说话就带有俄罗斯口音。因此答案为 C)。"
+      },
+      "12": {
+        "answer": "D",
+        "explanation": "D)。详解 短文开头提到,水的一些特质使它成为生活的喻体。这也许就是为什么当生活的海洋变得波涛汹涌时,许多人在游泳中感受到轻松的一个原因。它也在某种程度上解释了为什么有关游泳的书籍最近变得越来越受欢迎。因此答案为 D)。"
+      },
+      "13": {
+        "answer": "B",
+        "explanation": "B)。详解 短文中提到,詹妮·兰德雷思最近出版了一本向人们介绍了伦敦最好的游泳地点的指南。因此答案为 B)。"
+      },
+      "14": {
+        "answer": "D",
+        "explanation": "D)。详解 1892 年, The Gentlewoman's Book of Sport 一书中描述了一名女性游泳时的形象: 穿着厚重的裙子、靴子, 戴着帽子、手套, 甚至还撑着一把伞。也就是说, 维多利亚时代的女性在游泳时全身都裹得严严实实。因此答案为 D)。"
+      },
+      "17": {
+        "answer": "B",
+        "explanation": "B)。详解 讲座中提到,马萨诸塞州有一家公司声称他们通过大脑磁共振扫描判断一个人是否说谎的准确率可以高达97%。但是,没有多少大脑科学家会庆祝这一突破。这家公司可能非常乐观,但是机器测谎的能力还缺乏可靠的证据。因此答案为B)。"
+      },
+      "20": {
+        "answer": "C",
+        "explanation": "C)。详解 讲话者提到,全球的语言并不是随意分布的,热带地区的语言远比温带地区的语言要多。因此答案为 C)。"
+      },
+      "21": {
+        "answer": "D",
+        "explanation": "D)。详解 讲座末尾提到,此前的研究结果各种各样,没能呈现任何清晰的模式。也就是说,关于语言多样性原因的研究,至今还没有结论性的解释。因此答案为 D)。"
+      },
+      "22": {
+        "answer": "A",
+        "explanation": "A)。详解 讲座中提到,人口统计数据显示,美国的中产阶级正在消失,1% 的富人掌握着超过 90% 的财富。因此答案为 A)。"
+      },
+      "23": {
+        "answer": "B",
+        "explanation": "B)。详解 讲座中提到,从前,美国人认为,即使身处逆境,但只要努力工作,总能获得成功。因此答案为 B)。"
+      },
+      "24": {
+        "answer": "D",
+        "explanation": "D)。详解 讲座中提到,如果去问低收入人群什么能够改变他们的生活,他们会说“一份全职工作”,这就是他们所渴求的。因此答案为 D)。"
+      },
+      "25": {
+        "answer": "C",
+        "explanation": "C)。详解 讲座中提到,为了增加利润,企业只雇用兼职员工,这样他们可以按照法定最低工资支付薪酬,还不用为他们提供全职员工所享有的医疗保健等一系列福利。因此答案为 C)。"
       }
     },
     "references": {}

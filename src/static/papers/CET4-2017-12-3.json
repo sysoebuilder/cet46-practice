@@ -32,16 +32,709 @@
     ]
   },
   "Listening": {
-    "availability": "source_omitted",
+    "availability": "available",
     "instructions": {
-      "directions": "",
-      "notices": [
-        "说明:由于 2017 年 12 月四级考试全国共考了 2 套听力，本套真题听力与前 2 套内容完全一样，只是顺序不一样，因此在本套真题中不再重复出现。"
-      ],
+      "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "notices": [],
       "time_limit_minutes": 25,
-      "answer_sheet": null
+      "answer_sheet": 1
     },
-    "sections": []
+    "sections": [
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "A",
+        "groups": [
+          {
+            "lead_in": "Questions 1 and 2 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 1,
+              "end": 2
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 1,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It tries to entertain its audience."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It wants to catch people’s attention."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It tries to look into the distance."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It has got one of its limbs injured."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 2,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was spotted by animal protection officials."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Its videos were posted on social media."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was filmed by a local television reporter."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Its picture won a photography prize."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 3 and 4 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 3,
+              "end": 4
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 3,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The distance travelled."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The incidence of road accidents."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The spending on gas."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The number of people travelling."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 4,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Fewer people are commuting."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Gas consumption is soaring."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Job growth is slowing down."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Rush-hour traffic is worsening."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 5 to 7 are based on the news report you have just heard.",
+            "question_range": {
+              "start": 5,
+              "end": 7
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 5,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He told a stranger the sad story about himself."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He helped a stranger to carry groceries to his car."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He went up to a stranger and pulled at his sleeves."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He washed a stranger’s car in return for some food."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 6,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He ordered a lot of food for his family."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He gave him a job at his own company."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He raised a large sum of money for him."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He offered him a scholarship for college."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 7,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He works hard to support his family."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is very good at making up stories."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He is an excellent student at school."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He has been disabled since boyhood."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "news_reports"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "B",
+        "groups": [
+          {
+            "lead_in": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 8,
+              "end": 11
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 8,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Attended an economics lecture."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Had a drink at Queen Victoria."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Taken a walk on Charles Street."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Had dinner at a new restaurant."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 9,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Treat a college friend to dinner."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Attend his brother’s birthday party."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make preparations for a seminar."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Visit some of his high school friends."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 10,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Gather statistics for his lecture."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Throw a surprise birthday party.\n\n1"
+                  },
+                  {
+                    "label": "C",
+                    "text": "Meet with Jonathan’s friends on the weekend."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Join him in his brother’s birthday celebration."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 11,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "By car."
+                  },
+                  {
+                    "label": "B",
+                    "text": "By train."
+                  },
+                  {
+                    "label": "C",
+                    "text": "By taxi."
+                  },
+                  {
+                    "label": "D",
+                    "text": "By bus."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "question_range": {
+              "start": 12,
+              "end": 15
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 12,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Taking a vacation abroad."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Reviewing for his last exam."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Saving enough money for a rainy day."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Finding a better way to earn money."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 13,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Preparing for his final exams."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Working part time as a waiter."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Negotiating with his boss for a raise."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Helping the woman with her courses."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 14,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Finish her term paper."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Learn a little bit of Spanish."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Save enough money."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Ask her parent’s permission."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 15,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "He has rich sailing experience."
+                  },
+                  {
+                    "label": "C",
+                    "text": "He is also eager to go to Spain."
+                  },
+                  {
+                    "label": "B",
+                    "text": "He speaks Spanish fluently."
+                  },
+                  {
+                    "label": "D",
+                    "text": "He is easy to get along with."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "conversations"
+      },
+      {
+        "availability": "available",
+        "instructions": {
+          "directions": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+          "notices": [],
+          "time_limit_minutes": null,
+          "answer_sheet": 1
+        },
+        "section": "C",
+        "groups": [
+          {
+            "lead_in": "Questions 16 to 18 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 16,
+              "end": 18
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 16,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She went to the same university as her mother."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She worked as a nurse in the First World War."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She won the Nobel Prize two times."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She was also a Nobel Prize winner."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 17,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "She fought bravely in a series of military operations."
+                  },
+                  {
+                    "label": "B",
+                    "text": "She developed X-ray facilities for military hospitals."
+                  },
+                  {
+                    "label": "C",
+                    "text": "She helped to set up several military hospitals."
+                  },
+                  {
+                    "label": "D",
+                    "text": "She made donations to save wounded soldiers."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 18,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Both died of blood cancer."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Both won military medals."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Both fought in World War I."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Both married their assistants."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 19 to 21 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 19,
+              "end": 21
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 19,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "They were the first settlers in Europe."
+                  },
+                  {
+                    "label": "B",
+                    "text": "They were the conquerors of Norway."
+                  },
+                  {
+                    "label": "C",
+                    "text": "They discovered Iceland in the ninth century."
+                  },
+                  {
+                    "label": "D",
+                    "text": "They settled on a small island north of England."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 20,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "It was some five hundred miles west of Norway."
+                  },
+                  {
+                    "label": "B",
+                    "text": "It was covered with green most time of the year."
+                  },
+                  {
+                    "label": "C",
+                    "text": "It was the Vikings’ most important discovery."
+                  },
+                  {
+                    "label": "D",
+                    "text": "It was a rocky mass of land covered with ice."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 21,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "The Vikings’ ocean explorations."
+                  },
+                  {
+                    "label": "C",
+                    "text": "The Vikings’ everyday life."
+                  },
+                  {
+                    "label": "B",
+                    "text": "The making of European nations."
+                  },
+                  {
+                    "label": "D",
+                    "text": "The Europeans’ Arctic discoveries."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lead_in": "Questions 22 to 25 are based on the passage you have just heard.",
+            "question_range": {
+              "start": 22,
+              "end": 25
+            },
+            "transcript": null,
+            "questions": [
+              {
+                "kind": "single_choice",
+                "number": 22,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Work hard for a better life."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Dream about the future."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Make mistakes now and then."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Save against a rainy day."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 23,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Teach foreign languages for the rest of his life."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Change what he has for his past imaginary world."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Exchange his two-story house for a beach cottage."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Dwell on the dreams he had dreamed when young."
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 24,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Criminal law."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Oriental architecture."
+                  },
+                  {
+                    "label": "B",
+                    "text": "City planning."
+                  },
+                  {
+                    "label": "D",
+                    "text": "International business.\n\n2"
+                  }
+                ]
+              },
+              {
+                "kind": "single_choice",
+                "number": 25,
+                "stem": null,
+                "options": [
+                  {
+                    "label": "A",
+                    "text": "Dream and make plans."
+                  },
+                  {
+                    "label": "C",
+                    "text": "Be content with what you have."
+                  },
+                  {
+                    "label": "B",
+                    "text": "Take things easy in life."
+                  },
+                  {
+                    "label": "D",
+                    "text": "Enjoy whatever you are doing."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "kind": "listening_passages"
+      }
+    ]
   },
   "Reading": {
     "availability": "available",
@@ -615,8 +1308,129 @@
   },
   "id": "CET4-2017-12-3",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "G",
+        "explanation": null
+      },
+      "27": {
+        "answer": "L",
+        "explanation": null
+      },
+      "28": {
+        "answer": "F",
+        "explanation": null
+      },
+      "29": {
+        "answer": "O",
+        "explanation": null
+      },
+      "30": {
+        "answer": "C",
+        "explanation": null
+      },
+      "31": {
+        "answer": "E",
+        "explanation": null
+      },
+      "32": {
+        "answer": "M",
+        "explanation": null
+      },
+      "33": {
+        "answer": "N",
+        "explanation": null
+      },
+      "34": {
+        "answer": "J",
+        "explanation": null
+      },
+      "35": {
+        "answer": "B",
+        "explanation": null
+      },
+      "36": {
+        "answer": "H",
+        "explanation": null
+      },
+      "37": {
+        "answer": "D",
+        "explanation": null
+      },
+      "38": {
+        "answer": "O",
+        "explanation": null
+      },
+      "39": {
+        "answer": "M",
+        "explanation": null
+      },
+      "40": {
+        "answer": "B",
+        "explanation": null
+      },
+      "41": {
+        "answer": "L",
+        "explanation": null
+      },
+      "42": {
+        "answer": "K",
+        "explanation": null
+      },
+      "43": {
+        "answer": "J",
+        "explanation": null
+      },
+      "44": {
+        "answer": "G",
+        "explanation": null
+      },
+      "45": {
+        "answer": "F",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "D",
+        "explanation": null
+      },
+      "49": {
+        "answer": "C",
+        "explanation": null
+      },
+      "50": {
+        "answer": "A",
+        "explanation": null
+      },
+      "51": {
+        "answer": "C",
+        "explanation": null
+      },
+      "52": {
+        "answer": "C",
+        "explanation": null
+      },
+      "53": {
+        "answer": "B",
+        "explanation": null
+      },
+      "54": {
+        "answer": "D",
+        "explanation": null
+      },
+      "55": {
+        "answer": "A",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }

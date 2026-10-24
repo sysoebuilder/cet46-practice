@@ -28,17 +28,28 @@ test('all 119 built-in papers are loadable and have stable, unique identities', 
       if (section.id === 'listening') assert.deepEqual(listeningGroups(section).flatMap(group => group.items.map(item => item.key)), section.items.map(item => item.key))
     }
   }
-  assert.deepEqual(missing, { listening: 33, cloze: 3, matching: 3, reading: 3, writing: 1 })
+  assert.deepEqual(missing, { cloze: 3, matching: 3, reading: 3, writing: 1 })
 })
 
 test('real omissions keep other question types usable and provide the correct message', () => {
   const omitted = buildSections(load('CET4-2022-06-3'))
-  for (const id of ['listening', 'cloze', 'matching', 'reading']) assert.equal(omitted.find(s => s.id === id).items.length, 0)
+  for (const id of ['cloze', 'matching', 'reading']) assert.equal(omitted.find(s => s.id === id).items.length, 0)
+  assert.equal(omitted.find(s => s.id === 'listening').items.length, 25)
   assert.equal(omitted.find(s => s.id === 'writing').items.length, 1)
   assert.equal(omitted.find(s => s.id === 'translation').items.length, 1)
   const writing = buildSections(load('CET6-2019-12-2')).find(s => s.id === 'writing')
   assert.equal(writing.items.length, 0)
   assert.equal(missingSectionMessage(writing), '本套真题缺少写作题目，请选择其他题型。')
-  const noListening = buildSections(load('CET4-2022-12-3')).find(s => s.id === 'listening')
-  assert.equal(noListening.items.length, 0)
+  const restoredListening = buildSections(load('CET4-2022-12-3')).find(s => s.id === 'listening')
+  assert.equal(restoredListening.items.length, 25)
+})
+
+test('authorized same-session copies preserve reference options and matching answer keys', () => {
+  const supplements = JSON.parse(readFileSync(new URL('../scripts/question_supplements.json', import.meta.url), 'utf8'))
+  assert.equal(supplements.listening.length, 33)
+  for (const record of supplements.listening) {
+    const target = load(record.paper_id), reference = load(record.reference_paper_id)
+    assert.deepEqual(target.Listening, reference.Listening, record.paper_id)
+    for (let number = 1; number <= 25; number++) assert.deepEqual(target.solutions.items[number], reference.solutions.items[number], `${record.paper_id}/${number}`)
+  }
 })

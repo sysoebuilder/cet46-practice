@@ -901,8 +901,12 @@
       },
       "kind": "paragraph_matching",
       "section": "B",
-      "title": "If we care about plastic waste, why won’t we stop drinking bottled water?\n\nWe have all seen the damage plastic waste is doing around the world, but sales of bottled water have continued to grow. A) For all the innovation and choice that define the food and drink industries, if you want to make money, you could do a lot\n\nworse than fill a bottle with water and sell it. A litre of tap water, the stuff we have cleverly piped into our homes, costs less than half a penny. A litre of bottled water can cost well over a pound, especially for something fancy that has been sucked through a mountain.",
+      "title": "If we care about plastic waste, why won’t we stop drinking bottled water?",
       "paragraphs": [
+        {
+          "label": "A",
+          "text": "For all the innovation and choice that define the food and drink industries, if you want to make money, you could do a lot\r\n\r\nworse than fill a bottle with water and sell it. A litre of tap water, the stuff we have cleverly piped into our homes, costs less than half a penny. A litre of bottled water can cost well over a pound, especially for something fancy that has been sucked through a mountain."
+        },
         {
           "label": "B",
           "text": "Yet the bottled water market is livelier than ever. It defies our increasing awareness of the harm plastics do to the environment and a broader, growing sense that something has to change. Sales in the UK were worth a record £558.4 million this past year, an increase of 7%, according to the latest figures from the market analyst Kantar. Separate data from other analysts show that last year the British consumed more than 2.2 billion litres of bottled water, including “take-home” and “onthe-go” products. That’s an annual rise in volume of 8.5%."
@@ -941,7 +945,7 @@
         },
         {
           "label": "K",
-          "text": "As the owner of multiple sugary drink brands and bottled water, PepsiCo is facing challenges on health and environmental fronts. Last year, the company bought SodaStream (a drinks company that sells machines for making tap water bubbly and then consumers add flavours) for \\$3.2 billion. It also launched a range of fancy bottles that work with tap water and flavour packets. The bottle is reusable. The packets? Not so much, and, yes, they are made of plastic, although the company invites\n\nusers to post them back for recycling."
+          "text": "As the owner of multiple sugary drink brands and bottled water, PepsiCo is facing challenges on health and environmental fronts. Last year, the company bought SodaStream (a drinks company that sells machines for making tap water bubbly and then consumers add flavours) for \\$3.2 billion. It also launched a range of fancy bottles that work with tap water and flavour packets. The bottle is reusable. The packets? Not so much, and, yes, they are made of plastic, although the company invites\r\n\r\nusers to post them back for recycling."
         },
         {
           "label": "L",
@@ -1292,8 +1296,129 @@
   },
   "id": "CET4-2024-12-2",
   "solutions": {
-    "origin": null,
-    "items": {},
+    "origin": "answer_pdf",
+    "items": {
+      "26": {
+        "answer": "L",
+        "explanation": null
+      },
+      "27": {
+        "answer": "D",
+        "explanation": null
+      },
+      "28": {
+        "answer": "K",
+        "explanation": null
+      },
+      "29": {
+        "answer": "M",
+        "explanation": null
+      },
+      "30": {
+        "answer": "B",
+        "explanation": null
+      },
+      "31": {
+        "answer": "A",
+        "explanation": null
+      },
+      "32": {
+        "answer": "I",
+        "explanation": null
+      },
+      "33": {
+        "answer": "N",
+        "explanation": null
+      },
+      "34": {
+        "answer": "C",
+        "explanation": null
+      },
+      "35": {
+        "answer": "O",
+        "explanation": null
+      },
+      "36": {
+        "answer": "E",
+        "explanation": null
+      },
+      "37": {
+        "answer": "H",
+        "explanation": null
+      },
+      "38": {
+        "answer": "B",
+        "explanation": null
+      },
+      "39": {
+        "answer": "L",
+        "explanation": null
+      },
+      "40": {
+        "answer": "G",
+        "explanation": null
+      },
+      "41": {
+        "answer": "C",
+        "explanation": null
+      },
+      "42": {
+        "answer": "K",
+        "explanation": null
+      },
+      "43": {
+        "answer": "A",
+        "explanation": null
+      },
+      "44": {
+        "answer": "I",
+        "explanation": null
+      },
+      "45": {
+        "answer": "F",
+        "explanation": null
+      },
+      "46": {
+        "answer": "B",
+        "explanation": null
+      },
+      "47": {
+        "answer": "A",
+        "explanation": null
+      },
+      "48": {
+        "answer": "B",
+        "explanation": null
+      },
+      "49": {
+        "answer": "D",
+        "explanation": null
+      },
+      "50": {
+        "answer": "C",
+        "explanation": null
+      },
+      "51": {
+        "answer": "A",
+        "explanation": null
+      },
+      "52": {
+        "answer": "D",
+        "explanation": null
+      },
+      "53": {
+        "answer": "A",
+        "explanation": null
+      },
+      "54": {
+        "answer": "C",
+        "explanation": null
+      },
+      "55": {
+        "answer": "B",
+        "explanation": null
+      }
+    },
     "references": {}
   }
 }
