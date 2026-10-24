@@ -7,7 +7,7 @@
         <div class="practice-heading"><span class="practice-title">{{ section?.name || '做题' }}</span><span v-if="paper" class="practice-subtitle">{{ paperTitle(paper) }}</span></div>
         <div class="practice-header-actions"><MotionButton class="font-button" aria-label="调整字号" @click="modal = 'font'">Aa</MotionButton><template v-if="!loading && !error && current"><MotionButton v-if="!checked" class="check-answers-button" @click="checkAnswers">核对答案</MotionButton><MotionButton v-else class="redo-button" @click="redoSection">重做</MotionButton></template></div>
       </div>
-      <div v-if="loading" class="page-state"><span>正在读取试卷…</span></div>
+      <div v-if="loading" class="page-state"><LoadingState /></div>
       <div v-else-if="error" class="page-state"><span>{{ error }}</span><ListeningAudio v-if="unavailable && isListening && recording" ref="audioPlayer" :source="recording" :paper-id="paperId" :active="audioActive" /><MotionButton v-if="unavailable" class="primary-button" @click="goBack">返回真题</MotionButton><MotionButton v-else class="primary-button" @click="initialize">重新读取</MotionButton></div>
       <template v-else-if="current">
         <div class="progress-row"><span class="position">{{ isListening ? groupIndex + 1 : isCloze ? answered : currentIndex + 1 }}<span class="subtle"> / {{ isListening ? `${groups.length}组` : section.items.length }}</span></span><div class="progress-track"><motion.div class="progress-fill" :initial="false" :animate="{ scaleX: answered / section.items.length }" :transition="reduced ? { duration: 0 } : springSmooth" /></div><span class="answered-count">已答 {{ answered }}</span></div>
@@ -91,6 +91,7 @@
 import { computed, ref, nextTick, watch, onMounted, onBeforeUnmount } from 'vue'
 import { motion, MotionConfig, AnimatePresence, useReducedMotion } from 'motion-v'
 import MotionSheet from '../../components/MotionSheet.vue'
+import LoadingState from '../../components/LoadingState.vue'
 import { springSnappy, springSmooth, fadeSlide, contentVariants } from '../../motion/presets'
 import { navigatePaper, questionDirection } from '../../motion/navigation'
 import { useRouter, useRoute, onBeforeRouteLeave, onBeforeRouteUpdate } from 'vue-router'

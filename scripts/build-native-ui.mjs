@@ -2,6 +2,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { build } from 'vite'
 import { projectRoot } from './project-paths.mjs'
+import { packagePapers } from './package-papers.mjs'
 export { projectRoot } from './project-paths.mjs'
 
 const output = path.join(projectRoot, 'app')
@@ -17,13 +18,14 @@ if (!fs.existsSync(manifestPath)) {
 }
 
 function packageApp() {
+  packagePapers(path.join(projectRoot, 'src/static/papers'), path.join(output, 'static/papers'))
   const htmlPath = path.join(output, 'index.html')
   let html = fs.readFileSync(htmlPath, 'utf8')
   if (!html.includes('data-entry=')) {
     const main = html.match(/<script\b[^>]*\bsrc="([^"]+)"[^>]*><\/script>/)
     if (!main) throw new Error('Missing Vue build entry')
     html = html.replace(main[0], '').replace(/\s+crossorigin(?:="[^"]*")?/g, '')
-      .replace('</body>', `<p id="cet-boot-status" style="padding:70px 24px;color:#65736d;font:16px sans-serif">正在打开真题…</p><script src="./native-bootstrap.js" data-entry="${main[1]}"></script></body>`)
+      .replace('</body>', `<script src="./native-bootstrap.js" data-entry="${main[1]}"></script></body>`)
     fs.writeFileSync(htmlPath, html)
   }
   fs.copyFileSync(path.join(projectRoot, 'scripts/native-bootstrap.js'), path.join(output, 'native-bootstrap.js'))
@@ -32,7 +34,9 @@ function packageApp() {
   const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'))
   if (manifest.launch_path !== 'index.html' || !manifest.plus) throw new Error('app/manifest.json must be a 5+ manifest launching index.html')
   const rootPath = path.join(projectRoot, 'manifest.json')
-  const rootConfig = `${JSON.stringify({ ...manifest, launch_path: 'app/index.html' }, null, 2)}\n`
+  // Native asset paths are relative to each manifest's own project root.
+  const rootManifest = JSON.parse(JSON.stringify(manifest).replace(/"static\/brand\//g, '"app/static/brand/'))
+  const rootConfig = `${JSON.stringify({ ...rootManifest, launch_path: 'app/index.html' }, null, 2)}\n`
   if (fs.readFileSync(rootPath, 'utf8') !== rootConfig) fs.writeFileSync(rootPath, rootConfig)
   console.log('[CET] 5+ App ready: E:/CET46_practice/app (import this folder into HBuilderX)')
 }

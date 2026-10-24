@@ -2,7 +2,13 @@
 
 Vue 3 + Vite + Vue Router + Motion for Vue，使用 HBuilderX **5+ App** 运行和打包，面向 Android 手机、平板。薄荷绿、编辑式排版、物理弹簧交互。已移除 uni-app 编译器、JS service 和原生页面壳。
 
-Android 安装包见 [GitHub Releases](https://github.com/sysoebuilder/cet46-practice/releases)。`v0.1.0` 完整离线包约 834 MiB，包含 119 套试卷及 74 份音频；安装后练习不依赖电脑或网页服务。
+Android 安装包见 [最新 Release](https://github.com/sysoebuilder/cet46-practice/releases/latest)：当前为 **v0.1.0-r3（第三版修复）**，APK 内部版本 `0.1.0（10）`，文件名 `cet46-practice-v0.1.0-android.apk`，约 840 MiB。内置 119 套试卷及离线听力，安装后练习不依赖电脑或网页服务。前两版 APK 已撤下，请使用最新 Release 附件。
+
+本版修复安装后“试卷读取失败”，加入品牌图标与 Motion 启动加载、骨架屏和失败重试，并兼容旧 Android WebView 的弹层定位。发布说明与校验值见 [第三版发布记录](docs/releases/v0.1.0-r3.md)。
+
+当前源码的品牌图标与加载流程见 [图标与启动加载](docs/branding-startup.md)。桌面图标变更需重新打包 APK；开发、构建命令会自动从 `参考/` 的原图导出所需资源。
+
+APK 试卷读取故障已在实际 Android 安装环境复现并修复；本地离线验证与无需云构建的回归方法见 [Android APK 安装验证](docs/android-apk-validation.md)。
 
 ## 当前功能
 

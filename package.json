@@ -4,12 +4,18 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "assets:brand": "node scripts/generate-brand-assets.mjs",
+    "predev:h5": "npm run assets:brand",
+    "prebuild:h5": "npm run assets:brand",
+    "prebuild:app": "npm run assets:brand",
+    "predev:app": "npm run assets:brand",
     "dev:h5": "vite --host 0.0.0.0",
     "build:h5": "vite build",
     "preview:h5": "vite preview --config vite.preview.config.mjs",
     "build:app": "node scripts/build-native-ui.mjs",
     "dev:app": "node scripts/build-native-ui.mjs --watch",
     "check:app": "node scripts/check-native-package.mjs && node scripts/check-native-webview.mjs",
+    "check:android": "node scripts/check-installed-android.mjs",
     "test": "node --test tests/*.test.mjs",
     "test:e2e": "playwright test"
   },
@@ -24,6 +30,7 @@
     "@playwright/test": "^1.64.1",
     "@vitejs/plugin-vue": "5.2.4",
     "rollup": "4.14.3",
+    "sharp": "^0.35.5",
     "vite": "5.2.8"
   }
 }

@@ -1,4 +1,5 @@
-import { nativeRuntime, getAppStorage, setAppStorage, getAppStorageInfo, readBundledJson } from './native-runtime.js'
+import { nativeRuntime, getAppStorage, setAppStorage, getAppStorageInfo } from './native-runtime.js'
+import { readBundledPaper } from './bundled-paper.js'
 const PREFIX = 'cet:progress:v1:'
 const defaultStorage = {
   getStorageSync: getAppStorage,
@@ -23,7 +24,7 @@ export function allProgress(storage = defaultStorage) {
 export function loadPaper(id) {
   if (!/^CET[46]-\d{4}-\d{2}-[123]$/.test(id)) return Promise.reject(new Error('无效的试卷'))
   const url = `/static/papers/${id}.json`
-  if (nativeRuntime()) return readBundledJson(url)
+  if (nativeRuntime()) return readBundledPaper(id)
   return fetch(url).then(response => {
     if (!response.ok) throw new Error('试卷读取失败')
     return response.json()

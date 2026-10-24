@@ -39,19 +39,6 @@ export function bundledResource(path) {
   if (!/^\/static\/[\w/.-]+$/.test(path) || path.includes('..')) throw new Error('无效的本地资源路径')
   return globalThis.__CET_RESOURCE_ROOT__ ? new URL(path.slice(1), globalThis.__CET_RESOURCE_ROOT__).href : runtime.io.convertLocalFileSystemURL(`_www${path}`)
 }
-export function readBundledJson(path) {
-  const runtime = nativeRuntime()
-  return new Promise((resolve, reject) => {
-    runtime.io.resolveLocalFileSystemURL(bundledResource(path), entry => entry.file(file => {
-      const reader = new runtime.io.FileReader()
-      reader.onloadend = event => {
-        try { resolve(JSON.parse(event.target.result)) } catch (error) { reject(error) }
-      }
-      reader.onerror = reject
-      reader.readAsText(file, 'utf-8')
-    }, reject), reject)
-  })
-}
 export function bindNativeEvents({ back, hide, show }) {
   if (!nativeRuntime()) return () => {}
   const onBack = event => { event.detail.handled = true; back?.() }

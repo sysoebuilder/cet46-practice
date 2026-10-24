@@ -44,13 +44,19 @@ npm run preview:h5
 
 升级已安装应用时沿用原 DCloud AppID、包名和签名，才能继续访问原应用沙箱；换 AppID、卸载或清空数据无法自动保留旧沙箱中的进度。
 
-App 启动等待 plusready 再读取原生进度，避免先用浏览器存储启动造成分叉。题库用 plus.io.FileReader 读取，音频使用入口目录下的本地文件 URL；根项目和独立 app 项目都可定位。打包脚本为 IIFE 普通脚本，避免 file:// 下 ES Module CORS 错误。所有资源离线随包，没有 CDN 或服务器依赖。
+App 启动等待 plusready 再读取原生进度，避免先用浏览器存储启动造成分叉。构建时将每套 JSON 原样序列化为独立的普通脚本，App 按需加载入口目录下的 `static/papers/<id>.js`，不依赖 `fetch(file://)` 或 `plus.io.FileReader` 对 APK 内 assets 的路径解析。脚本加载后验证试卷身份、移除节点；并发读取合并，失败和超时后可重试。浏览器仍使用原 JSON/fetch，题目结构不变。音频继续使用入口目录下的本地文件 URL；根项目和独立 app 项目都可定位。所有资源离线随包，没有 CDN 或服务器依赖。
 
 返回键先关闭当前弹层，再返回列表；列表页第一次返回显示退出提示，1.8 秒内第二次返回退出。进入后台暂停音频并保存，不自动恢复播放。原有按钮弹性、共享布局转场、菜单、Bottom Sheet、切题动画及减少动态效果继续使用 Motion。
 
 ## 验证边界
 
-`npm test` 验证题库、答案、进度、音频状态机和存储兼容。Playwright 检查手机/平板的交互、排版、Motion 中间帧与播放。`check:app` 从真实 file:// 加载生成包，延迟模拟 plusready，检查关闭启动屏、原生文件/存储、重载、音频、pause/resume、返回和双击退出；这些检查不代表 Android 设备验收。
+`npm test` 验证题库、答案、进度、音频状态机、存储兼容及试卷脚本并发/失败/身份校验。Playwright 检查手机/平板的交互、排版、Motion 中间帧与播放。`check:app` 逐套执行并对比 119 个生成脚本与源 JSON；从真实 file:// 加载生成包，禁用原生 FileReader 和 fetch，测试首次试卷加载失败后重试、延迟 plusready、关闭启动屏、原生存储、重载、音频、pause/resume、返回和双击退出；这些检查不代表 Android 设备验收。
+
+## APK 安装后试卷读取失败
+
+2026-10-24 已在 Android 11 模拟器直接安装 `H59A7E9D7__20261024202711.apk`，复现并取得原生错误 `code: 14, path does not exist`：旧文件接口无法解析 `file:///android_asset/...`。119 套 JSON 均存在且逐套与源数据一致，排除漏打包或内容损坏。修复后本地复用原生壳更新页面资源、签名安装，离线验证 119 套试卷、六类题型、原生保存、音频、面板和结束进程后恢复均通过。另已通过用户 vivo V2243A（Android 16）标准基座真机验收，并恢复基座原有记录；手机正式包未修改。本次未调用收费云构建。详细证据、免费重复验证方法和测试范围见 [Android APK 安装验证](android-apk-validation.md)。
+
+更新后执行 `npm run build:app`、`npm run check:app`，在 HBuilderX 选择 `E:\CET46_practice\app` 重新云打包，再安装新 APK。已有 APK 不会随着源码构建自动更新；沿用 AppID、包名和签名覆盖安装以保留答题进度。
 
 2026-10-24 迁移验收：H5/5+ 构建通过；21 项逻辑测试、72 项生产页面手机/平板回归通过；Vite 开发服务与自动构建验证通过；5+ 包检查及 file:// 启动交互检查通过。HBuilderX CLI 已导入并识别 `app(App)`。ADB 未发现 Android 设备，未执行实机安装或签名打包。
 

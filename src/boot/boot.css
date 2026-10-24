@@ -1,0 +1,23 @@
+:root { background: #f8faf9; }
+.startup-screen { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 300; background: #f8faf9; color: #171b1a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; -webkit-font-smoothing: antialiased; }
+.startup-mark { position: absolute; left: 50%; top: 50%; width: 136px; height: 136px; margin: -68px 0 0 -68px; }
+.startup-icon { display: block; width: 136px; height: 136px; object-fit: contain; }
+.startup-copy { position: absolute; top: calc(50% + 88px); left: 24px; right: 24px; text-align: center; }
+.startup-title { margin: 0; font-size: 32px; font-weight: 650; letter-spacing: -1.5px; line-height: 1.25; }
+.startup-caption { margin: 12px 0 0; color: #65736d; font-size: 13px; line-height: 1.6; letter-spacing: .05em; }
+.startup-status { position: absolute; bottom: max(54px, calc(env(safe-area-inset-bottom) + 28px)); left: 24px; right: 24px; color: #65736d; text-align: center; font-size: 12px; line-height: 1.7; }
+.startup-track { display: block; width: 80px; height: 3px; margin: 0 auto 13px; overflow: hidden; border-radius: 3px; background: #e0ece5; }
+.startup-travel { display: block; width: 32px; height: 3px; border-radius: 3px; background: #168b65; }
+.startup-fallback[hidden] { display: none; }
+.startup-fallback[data-error] { z-index: 350; }
+.startup-fallback[data-error] .startup-status { bottom: max(28px, env(safe-area-inset-bottom)); color: #a13d31; }
+#cet-boot-retry { appearance: none; display: block; margin: 14px auto 0; padding: 11px 24px; min-height: 44px; border: 0; border-radius: 24px; background: #107452; color: #fff; font: 600 14px/1.5 sans-serif; cursor: pointer; }
+#cet-boot-retry[hidden] { display: none; }
+#cet-boot-retry:focus-visible { outline: 3px solid #55d6a0; outline-offset: 3px; }
+@media (max-height: 540px) {
+  .startup-mark { top: 38%; }
+  .startup-copy { top: calc(38% + 78px); }
+  .startup-title { font-size: 27px; }
+  .startup-caption { margin-top: 6px; }
+  .startup-status { bottom: 18px; }
+}

@@ -21,7 +21,7 @@
     },
     "splashscreen": {
       "autoclose": false,
-      "waiting": true,
+      "waiting": false,
       "delay": 0
     },
     "softinput": {
@@ -33,14 +33,54 @@
     },
     "distribute": {
       "google": {
-        "packagename": "com.cetpractice.app",
+        "packagename": "com.hexun.cet46practice",
         "minSdkVersion": 23,
         "permissions": []
       },
       "apple": {},
-      "icons": {},
+      "icons": {
+        "android": {
+          "mdpi": "app/static/brand/icon-48.png",
+          "hdpi": "app/static/brand/icon-72.png",
+          "xhdpi": "app/static/brand/icon-96.png",
+          "xxhdpi": "app/static/brand/icon-144.png",
+          "xxxhdpi": "app/static/brand/icon-192.png"
+        },
+        "ios": {
+          "appstore": "app/static/brand/icon-1024.png",
+          "iphone": {
+            "app@2x": "app/static/brand/icon-120.png",
+            "app@3x": "app/static/brand/icon-180.png",
+            "spotlight@2x": "app/static/brand/icon-80.png",
+            "spotlight@3x": "app/static/brand/icon-120.png",
+            "settings@2x": "app/static/brand/icon-58.png",
+            "settings@3x": "app/static/brand/icon-87.png",
+            "notification@2x": "app/static/brand/icon-40.png",
+            "notification@3x": "app/static/brand/icon-60.png"
+          },
+          "ipad": {
+            "app": "app/static/brand/icon-76.png",
+            "app@2x": "app/static/brand/icon-152.png",
+            "proapp@2x": "app/static/brand/icon-167.png",
+            "spotlight": "app/static/brand/icon-40.png",
+            "spotlight@2x": "app/static/brand/icon-80.png",
+            "settings": "app/static/brand/icon-29.png",
+            "settings@2x": "app/static/brand/icon-58.png",
+            "notification": "app/static/brand/icon-20.png",
+            "notification@2x": "app/static/brand/icon-40.png"
+          }
+        }
+      },
       "ios": {
         "dSYMs": false
+      },
+      "splashscreen": {
+        "androidStyle": "default",
+        "android": {
+          "hdpi": "app/static/brand/launch-hdpi.png",
+          "xhdpi": "app/static/brand/launch-xhdpi.png",
+          "xxhdpi": "app/static/brand/launch-xxhdpi.png"
+        }
       }
     }
   }

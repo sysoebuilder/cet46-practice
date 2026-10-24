@@ -15,6 +15,7 @@ async function saved(page, name) {
 async function open(page, name) {
   await page.goto('/')
   await page.goto(`/#/pages/practice/index?paper=${id}&section=${name}`)
+  await expect(page.locator('.startup-motion')).toHaveCount(0)
   await expect(page.locator('.check-answers-button')).toBeVisible()
 }
 async function answerReading(page, index, label) {

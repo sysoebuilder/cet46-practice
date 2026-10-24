@@ -18,6 +18,7 @@ test.afterEach(async ({ page }) => { expect(page.__motionErrors).toEqual([]) })
 
 test('Motion press feedback and rapidly interrupted shared segment layouts', async ({ page }) => {
   await page.goto('/')
+  await expect(page.locator('.startup-motion')).toHaveCount(0)
   const card = page.locator('.paper-row').first(), box = await card.boundingBox()
   await page.mouse.move(box.x + box.width / 2, box.y + box.height / 2)
   await page.mouse.down()
@@ -187,6 +188,7 @@ test('result summary excludes missing keys and never grades subjective drafts', 
   await page.locator('.close-button').click(); await settle(page)
   await page.goto('/')
   await page.goto(practice('writing'))
+  await expect(page.locator('.startup-motion')).toHaveCount(0)
   await page.locator('textarea').fill('A draft for reference comparison only.')
   await page.locator('.check-answers-button').click()
   await expect(page.locator('.result-reference-heading')).toHaveText('自行对照')

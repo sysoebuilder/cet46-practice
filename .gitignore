@@ -42,6 +42,7 @@ local.properties
 *.aab
 
 # Editor directories and files
+.hbuilderx/
 .idea
 *.suo
 *.ntvs*

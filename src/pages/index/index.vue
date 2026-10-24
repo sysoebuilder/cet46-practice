@@ -2,7 +2,7 @@
   <MotionConfig reduced-motion="user" :transition="springSnappy">
   <div class="home page">
     <div class="home-inner" role="main">
-      <div class="brand-row"><div class="brand-mark">四六</div><span class="brand-name">轻松刷真题</span><span class="offline"><AppIcon name="WifiOff" :size="13" />离线可用</span></div>
+      <div class="brand-row"><img class="brand-mark brand-artwork" :src="brand.icon" width="38" height="38" alt="" /><span class="brand-name">{{ brand.name }}</span><span class="offline"><AppIcon name="WifiOff" :size="13" />离线可用</span></div>
       <div class="home-intro"><div class="heading-row"><span class="page-title">真题<span class="title-period">.</span></span><span class="subtle">{{ levelPapers.length }} 套</span></div><span class="editorial-caption">A little practice, every day.</span></div>
       <LayoutGroup id="home-controls">
         <div class="level-switch" role="group" aria-label="选择考试级别"><MotionButton v-for="entry in levels" :key="entry.id" :class="['level-button', { active: level === entry.id }]" :aria-pressed="level === entry.id" @click="setLevel(entry.id)"><motion.span v-if="level === entry.id" layout-id="level-active" class="segment-indicator" :transition="springSnappy" /><span class="segment-copy">{{ entry.name }}<span class="level-english">{{ entry.label }}</span></span></MotionButton></div>
@@ -23,7 +23,7 @@
     </div>
     <MotionSheet :open="Boolean(selectedPaper)" :title="displayedPaper ? paperTitle(displayedPaper) : ''" panel-class="section-sheet" close-label="关闭题型选择" @close="closeSheet">
       <span class="sheet-eyebrow">{{ level === 'CET4' ? '四级' : '六级' }}真题 · 选择练习题型</span>
-      <span v-if="loading" class="empty-note">正在读取试卷…</span>
+      <LoadingState v-if="loading" variant="sections" />
       <div v-else-if="loadError" class="load-error"><span>试卷读取失败</span><MotionButton class="secondary-button" @click="selectPaper(selectedPaper)">重试</MotionButton></div>
       <motion.div v-else class="section-list" initial="hidden" animate="visible" :variants="{ hidden: {}, visible: { transition: { staggerChildren } } }"><motion.button type="button" v-for="section in sections" :key="section.id" :variants="{ hidden: { opacity: 0, y: 8 }, visible: { opacity: 1, y: 0 } }" :while-press="{ scale: 0.975 }" :transition="springSnappy" :class="['section-row', { 'section-missing': !section.items.length }]" @click="selectSection(section)"><div :class="['type-mark', section.id]"><AppIcon :name="sectionIcons[section.id]" /></div><div class="section-row-copy"><span class="section-name">{{ section.name }}</span><span class="section-meta">{{ section.items.length ? sectionProgress(section) : '题目缺失' }}</span></div><AppIcon name="ChevronRight" class="section-arrow" :size="18" /></motion.button></motion.div>
     </MotionSheet>
@@ -34,6 +34,8 @@
 import { computed, ref, onActivated, onDeactivated, onBeforeUnmount } from 'vue'
 import { motion, MotionConfig, LayoutGroup, AnimatePresence } from 'motion-v'
 import MotionSheet from '../../components/MotionSheet.vue'
+import LoadingState from '../../components/LoadingState.vue'
+import brand from '../../data/brand.json'
 import { springSnappy, springSmooth, fadeSlide, staggerChildren } from '../../motion/presets'
 import { rememberPaper, navigatePaper } from '../../motion/navigation'
 import { useRouter } from 'vue-router'
