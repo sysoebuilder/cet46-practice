@@ -1,0 +1,14 @@
+English -> Simplified Chinese, Mozilla student model version 2.2.
+Four unmodified files and publisher SHA-256/URLs are recorded in ../foxlet.lock.json.
+The fixed catalog is embedded in the SHA-verified official Foxlet v0.5.0 AAR.
+
+Publisher model project and license:
+https://github.com/mozilla/firefox-translations-models
+https://github.com/mozilla/firefox-translations-models/blob/main/LICENSE
+
+Model distribution context:
+https://github.com/mozilla/translations/issues/1434
+
+Downloaded model weights are unmodified, separately licensed MPL-2.0.
+MODEL-MPL-2.0.txt preserves the license. Preserve this source and license notice
+when distributing the app. The model URLs in the lock are Mozilla's official CDN.

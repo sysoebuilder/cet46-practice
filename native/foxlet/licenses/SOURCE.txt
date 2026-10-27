@@ -1,0 +1,5 @@
+Source repository: https://github.com/yinvoke/foxlet-translate
+Build commit: 0eff2a15032362115848a496ce1df8ed9fc68650
+Source: https://github.com/yinvoke/foxlet-translate/tree/v0.5.0
+Source archive: https://github.com/yinvoke/foxlet-translate/archive/refs/tags/v0.5.0.zip
+MPL-covered source, including modifications, remains under MPL-2.0. Preserve this source offer when redistributing.

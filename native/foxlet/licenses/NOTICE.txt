@@ -1,0 +1,57 @@
+Foxlet Translate
+
+本项目原创代码及其修改按 MIT 许可发布（见 LICENSE）。对引入代码的修改
+沿用相应文件的上游许可证；维护和修改这些文件不改变原作者的权利。
+第三方组件与许可文件索引见 licenses/components.json。各 vendor 目录保留
+上游原始版权、许可及适用声明；licenses/ 补充其余许可材料。
+构建脚本按该索引读取原文并生成随包声明，无需重复复制 vendor 中的许可证。
+
+SDK 发行包
+-----------
+AAR 内 io/github/yinvoker/foxlet/licenses/ 保存完整第三方许可材料、
+本声明及 SOURCE.txt。下游再分发 SDK 或包含它的应用时，应保留适用的版权、
+许可与 NOTICE，并向用户提供 MPL 覆盖代码的对应源码取得方式。
+
+引擎来源：mozilla/translations 的 inference/，
+commit df4ab487a117903b53e62cf3ac4305966fbbd2d6。
+来源记录见 engine/UPSTREAM.md；相应版本源码（包括本项目修改）在
+https://github.com/yinvoke/foxlet-translate 的对应 Release tag 中提供。
+
+主要组件（完整许可文本随 AAR 提供）：
+- Bergamot translator — MPL-2.0，engine/src/translator/LICENSE。
+- Marian — MIT，engine/marian-fork/LICENSE.md。
+- SentencePiece、ruy — Apache-2.0。
+- cpuinfo、simd_utils、CLI11、protobuf-lite、half_float 等 — 各自 BSD 条款。
+- spdlog、yaml-cpp、cnpy、mio、pathie-cpp、faiss、phf、zstr 等 — 各自目录许可。
+- libc++ — Android NDK r29 随附的 Apache-2.0 with LLVM exceptions / 相应历史许可，
+  见 licenses/libcxx-NDK-r29.txt。
+- Kotlin 标准库和 kotlinx.coroutines — Apache-2.0，由宿主 Gradle 解析；
+  AAR 不内嵌其类，demo APK 包含。当前版本声明见 licenses/kotlin-runtime.txt。
+
+当前 SDK 使用 native/sentence/ 下的自有 UTF-8 分句代码和常用缩写规则，按 MIT 发布。
+不再编译或打包 ssplit-cpp、PCRE2 和 Moses nonbreaking_prefixes 数据。
+Unicode 17.0.0 的句界、字符类别数据及其派生索引按 Unicode-3.0 发布，
+原始数据位于 tools/sentence-tests/data/，生成的索引位于 native/sentence/unicode_data.h，
+许可全文见 licenses/Unicode-3.0.txt。该许可应随 SDK 保留。
+宿主自供规则的许可由其来源决定。历史版本、Git 历史和历史补丁中的第三方材料
+仍保留原有许可，不因本次替换改变；历史 v0.4.0 发行附件保持原有内容和许可。
+
+模型
+----
+SDK 不捆绑模型权重。registry.json 为 Mozilla 官方 Remote Settings 模型索引，
+包含版本、URL、大小和 SHA-256。模型权重按 MPL-2.0 发布：
+https://github.com/mozilla/firefox-translations-models/blob/main/LICENSE
+https://github.com/mozilla/translations/issues/1434
+自行分发模型的宿主需保留其许可和来源说明。
+
+评测数据（不属于 SDK 或演示 app 的发行内容）
+----------------------------------------
+FLORES-200 仅用于评测，不打包进 AAR，也不打包进 demo APK。
+仓库 benchmark/app/src/main/assets/bench/ 保存 devtest 英文、日文前 200 句，
+benchmark/data/ 中部分评测记录包含源文、参考文本或译文；数据保持 CC-BY-SA 4.0，
+不适用项目代码的 MIT。sample 是内部评测 app，构建它会包含评测数据，
+不是对外发布的 demo。源码仓库和源码归档仍包含这些评测材料。
+原始出处、许可、截取说明与 NLLB 2022 BibTeX 见 benchmark/data/CITATION.md。
+
+Foxlet Translate 是独立项目，未获 Mozilla/Firefox 官方认证或背书。
+感谢 Mozilla、Bergamot 项目（EU Horizon 2020，grant 825303）及各组件作者。

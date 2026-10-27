@@ -1,0 +1,8 @@
+<!-- Deliberately no INTERNET permission: verifies first-launch offline packaging. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:label="CET Foxlet 验证" android:theme="@android:style/Theme.Material.Light.NoActionBar" android:allowBackup="false" android:extractNativeLibs="true">
+        <activity android:name=".SmokeActivity" android:exported="true">
+            <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+        </activity>
+    </application>
+</manifest>

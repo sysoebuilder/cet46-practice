@@ -4,6 +4,7 @@ import { router } from './router'
 import MotionButton from './components/MotionButton.vue'
 import AppIcon from './components/AppIcon.vue'
 import ScrollArea from './components/ScrollArea.vue'
+import './translation/bootstrap.js'
 
 const app = createApp(App)
 app.component('MotionButton', MotionButton)

@@ -16,6 +16,8 @@
     "dev:app": "node scripts/build-native-ui.mjs --watch",
     "check:app": "node scripts/check-native-package.mjs && node scripts/check-native-webview.mjs",
     "check:android": "node scripts/check-installed-android.mjs",
+    "prepare:foxlet": "python scripts/prepare-foxlet.py",
+    "check:foxlet": "python scripts/prepare-foxlet.py --check",
     "test": "node --test tests/*.test.mjs",
     "test:e2e": "playwright test"
   },

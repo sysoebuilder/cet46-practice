@@ -1,0 +1,36 @@
+.material-panel .reading-text:not(.chinese-text) { -webkit-user-select: text; user-select: text; -webkit-touch-callout: default; }
+.material-panel .reading-text::selection { background: #dff5e9; color: #171b1a; }
+.translation-word-feedback { position: fixed; z-index: 12; pointer-events: none; border-radius: 4px; background: #a9dec4; opacity: .4; }
+.translation-card {
+  position: fixed; z-index: 130; left: 16px; top: 80px; width: calc(100% - 32px);
+  padding: 18px 20px 16px; overflow: auto; overscroll-behavior: contain;
+  border-radius: 24px; background: var(--surface, #fff); color: var(--ink, #171b1a);
+  box-shadow: 0 14px 50px rgba(26, 57, 43, .14), 0 2px 8px rgba(26, 57, 43, .06);
+  font: 15px/1.6 -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  opacity: 0; transform: translateY(9px) scale(.975); transform-origin: 50% 0;
+  transition: opacity 160ms ease, transform 180ms ease; pointer-events: none;
+  -webkit-user-select: text; user-select: text;
+}
+.translation-card[hidden], .translation-card [hidden] { display: none !important; }
+.translation-card.is-open { opacity: 1; transform: translateY(0) scale(1); pointer-events: auto; transition: opacity 180ms ease-out, transform 360ms cubic-bezier(.16, 1, .3, 1); }
+.translation-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
+.translation-caption { color: var(--muted, #65736d); font-size: 11px; letter-spacing: .06em; }
+.translation-card .translation-close { width: 36px; height: 36px; margin: -8px -8px -8px 0; border-radius: 50%; font-size: 24px; font-weight: 300; color: #65736d; }
+.translation-card button { min-height: 40px; padding: 6px 10px; color: var(--green-dark, #107452); font: inherit; font-size: 13px; border-radius: 12px; transition: transform 160ms ease, background 160ms ease; touch-action: manipulation; }
+.translation-card button:active { transform: scale(.96); background: #e5f8ef; }
+.translation-card button:focus-visible { outline: 2px solid #12815d; outline-offset: 2px; }
+.translation-source { margin: 0 0 10px; font: 500 20px/1.5 Georgia, 'Times New Roman', serif; overflow-wrap: anywhere; white-space: pre-wrap; }
+.translation-result { min-height: 28px; font-size: 16px; line-height: 1.7; white-space: pre-wrap; overflow-wrap: anywhere; }
+.translation-result.is-loading { display: flex; align-items: center; gap: 9px; color: #65736d; font-size: 13px; }
+.translation-result.is-loading::before { content: ''; flex: 0 0 auto; width: 12px; height: 12px; border: 1.5px solid #d7e4dd; border-top-color: #65736d; border-radius: 50%; animation: translation-spin .8s linear infinite; }
+.translation-result.is-error { font-size: 13px; color: #865e45; }
+.translation-actions { display: flex; flex-wrap: wrap; gap: 0 4px; margin: 10px -10px -6px; }
+.translation-card.is-selection .translation-source { max-height: 120px; overflow: auto; font-size: 16px; }
+.translation-card.is-compact { padding: 10px 14px; }
+.translation-card.is-compact .translation-source { display: none; }
+.translation-card.is-compact .translation-header { margin-bottom: 4px; }
+@keyframes translation-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .translation-card, .translation-card.is-open, .translation-card button { transition: none; transform: none; }
+  .translation-result.is-loading::before { animation: none; border-color: #d7e4dd; }
+}

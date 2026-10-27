@@ -2,6 +2,8 @@
 
 Vue 3 + Vite + Vue Router + Motion for Vue，使用 HBuilderX **5+ App** 运行和打包，面向 Android 手机、平板。薄荷绿、编辑式排版、物理弹簧交互。已移除 uni-app 编译器、JS service 和原生页面壳。
 
+新增 [Foxlet 离线翻译测试版 v0.1.0-foxlet-test.1](https://github.com/sysoebuilder/cet46-practice/releases/tag/v0.1.0-foxlet-test.1)：本机使用 DCloud 5.26 离线 SDK 构建，内含 Foxlet v0.5.0、约 52 MB 英译简中模型及全部试卷音频，APK 约 1.12 GB。测试包名 `com.hexun.cet46practice.foxlettest`，开发签名，Android 9+ / ARM64，不覆盖正式应用；普通云打包不会包含此原生依赖。完整业务包的 ARM64 真机断网翻译仍待验收，独立原生验证包已由用户确认可离线翻译。更新、校验值与验证范围见 [测试版发布记录](docs/releases/v0.1.0-foxlet-test.1.md)，重建步骤和文件清单见 [Foxlet 集成说明](docs/foxlet-offline.md)。
+
 Android 安装包见 [最新 Release](https://github.com/sysoebuilder/cet46-practice/releases/latest)：当前为 **v0.1.0-r3（第三版修复）**，APK 内部版本 `0.1.0（10）`，文件名 `cet46-practice-v0.1.0-android.apk`，约 840 MiB。内置 119 套试卷及离线听力，安装后练习不依赖电脑或网页服务。前两版 APK 已撤下，请使用最新 Release 附件。
 
 本版修复安装后“试卷读取失败”，加入品牌图标与 Motion 启动加载、骨架屏和失败重试，并兼容旧 Android WebView 的弹层定位。发布说明与校验值见 [第三版发布记录](docs/releases/v0.1.0-r3.md)。
@@ -71,7 +73,7 @@ npm run build:app
 npm run check:app
 ```
 
-端到端测试使用本机已安装的 Chrome，分别验证 390×844 手机和 1180×820 平板布局。截图与试跑报告写入工作区 `work/`。`build:app` 生成独立 `app/` 项目，APK 仍需 HBuilderX 打包；`check:app` 检查产物，并以 `file://` 和模拟 5+ API 验证启动、原生文件、旧存储兼容、离线音频、前后台和返回键。浏览器验证不能替代 Android 真机验证。旧 `dist/build/app`、`dist/dev/app` 和 `src/hybrid/` 是历史生成物，不再作为运行入口。
+端到端测试使用本机已安装的 Chrome，分别验证 390×844 手机和 1180×820 平板布局。截图与试跑报告写入工作区 `work/`。`build:app` 生成独立 `app/` 项目；普通包可使用 HBuilderX 打包，包含 Foxlet 的 APK 使用新增 Android 宿主与离线 SDK 本机构建，见上面的集成说明。`check:app` 检查产物，并以 `file://` 和模拟 5+ API 验证启动、原生文件、旧存储兼容、离线音频、前后台和返回键。浏览器验证不能替代 Android 真机验证。旧 `dist/build/app`、`dist/dev/app` 和 `src/hybrid/` 是历史生成物，不再作为运行入口。
 
 ## 数据和进度
 

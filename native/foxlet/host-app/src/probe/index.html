@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CET 5+ Native.js 验证</title>
+<style>body{margin:0;padding:28px 22px;background:#f8faf9;color:#171b1a;font:16px/1.65 sans-serif}h1{font-size:24px}button,textarea{box-sizing:border-box;width:100%;margin:8px 0;padding:14px;border:0;border-radius:16px;font:inherit}button{background:#e5f8ef;color:#107452}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:white;border-radius:20px;padding:18px;font:13px/1.65 monospace}small{color:#65736d}</style></head>
+<body><h1>5+ Native.js 验证</h1><small>普通 HTML 页面 · 本地模型 · 独立测试包</small><pre id="report">等待 plusready…</pre>
+<textarea id="source">Hello world. Learning English opens new doors.</textarea><button id="translate">执行 Foxlet 离线翻译</button><pre id="result">等待操作</pre><script src="translator.js"></script>
+<script>
+(function(){
+  var report = { htmlLoaded:true, plusReady:false, echo:false, asyncCallback:false, foxletClass:false };
+  function render(){ document.getElementById('report').textContent=JSON.stringify(report,null,2); window.__CET_PROBE__=report; }
+  function ready(){
+    if(report.plusReady)return;
+    report.plusReady=true;report.appid=plus.runtime.appid;report.platform=plus.os.name;
+    try{
+      var type='com.hexun.cet.host.NativeProbe';
+      report.echo=plus.android.invoke(type,'echo','cet')==='native:cet';
+      window.__CET_PROBE_CALLBACK__=plus.android.implements('com.hexun.cet.host.NativeProbe$Callback',{
+        onComplete:function(id,value){report.asyncCallback=String(id)==='probe';report.thread=JSON.parse(String(value));render();}
+      });
+      plus.android.invoke(type,'echoAsync','probe',window.__CET_PROBE_CALLBACK__);
+      var bridgeType='com.hexun.cet.foxlet.FoxletBridge';
+      var bridge=plus.android.invoke(bridgeType,'getInstance',plus.android.runtimeMainActivity());
+      report.foxletClass=!!bridge;report.nativeStatus=JSON.parse(String(plus.android.invoke(bridge,'getStatus')));
+    }catch(error){report.error=String(error);}
+    render();plus.navigator.closeSplashscreen();
+  }
+  document.addEventListener('plusready',ready);if(window.plus)ready();render();
+  document.getElementById('translate').onclick=function(){
+    var result=document.getElementById('result');result.textContent='正在准备本地模型…';
+    window.CetTranslator.translator.translate(document.getElementById('source').value).then(function(value){
+      result.textContent=value;report.translationPassed=true;report.translatorStatus=window.CetTranslator.translator.getStatus();render();
+    }).catch(function(error){result.textContent=error.code+'\n'+error.message;report.translationError=error.code;render();});
+  };
+})();
+</script></body></html>

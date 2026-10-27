@@ -1,0 +1,40 @@
+// Apply to a verified, working *5+ App* Android application module.
+// Does not register a deprecated 5+ feature or a uni-app plugin.
+def foxletRoot = new File(project.property('cetFoxletDir').toString())
+def webRoot = new File(project.property('cetWebDir').toString())
+def webManifest = new groovy.json.JsonSlurper().parse(new File(webRoot, 'manifest.json'))
+if (!webManifest.plus || webManifest.launch_path != 'index.html') throw new GradleException('Expected built HTML5+ app/ resources')
+def hostAssetRoots = android.sourceSets.main.assets.srcDirs.toList()
+android {
+    compileSdkVersion 36
+    defaultConfig {
+        minSdkVersion 28
+        ndk { abiFilters.clear(); abiFilters.add('arm64-v8a') }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    packagingOptions { jniLibs { useLegacyPackaging true } }
+    sourceSets.main.assets.setSrcDirs([layout.buildDirectory.dir('cet-host-assets')])
+    buildTypes.all { buildType -> buildType.proguardFiles(new File(foxletRoot, 'bridge/consumer-rules.pro')) }
+}
+dependencies {
+    implementation files(new File(foxletRoot, 'bridge/build/outputs/aar/bridge-release.aar'))
+    implementation files(new File(foxletRoot, 'libs/foxlet-v0.5.0.aar'))
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib:2.4.10'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2'
+}
+def syncCetWeb = tasks.register('syncCetWeb', Sync) {
+    // Stage existing runtime assets and replace only the built CET web resources.
+    // The host's original source assets and control/AppKey files are never deleted.
+    from(hostAssetRoots) { exclude "apps/${webManifest.id}/www/**" }
+    from(webRoot) { into "apps/${webManifest.id}/www"; exclude '.hbuilderx/**', '.generated-cet-5plus' }
+    into(layout.buildDirectory.dir('cet-host-assets'))
+    doFirst {
+        if (!new File(foxletRoot, 'bridge/build/outputs/aar/bridge-release.aar').isFile()) throw new GradleException('Build Foxlet bridge first')
+    }
+}
+tasks.named('preBuild').configure { dependsOn(syncCetWeb) }
+// Do not use pickFirst on libc++_shared.so: compare the host/runtime binaries and
+// validate a compatible single C++ runtime before resolving a duplicate conflict.

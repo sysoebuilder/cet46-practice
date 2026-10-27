@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.INTERNET" tools:node="remove" />
+    <!-- Local resources only. INTERNET is removed even when declared by vendor AARs. -->
+    <application android:name=".CetApplication" android:label="给我过 · 翻译验证" android:icon="@drawable/icon"
+        android:allowBackup="false" android:extractNativeLibs="true" android:hardwareAccelerated="true"
+        tools:replace="android:name,android:allowBackup,android:label">
+        <meta-data android:name="dcloud_appkey" android:value="${dcloudAppKey}" />
+        <activity android:name="io.dcloud.PandoraEntry" android:exported="true"
+            android:configChanges="orientation|keyboardHidden|keyboard|navigation" android:launchMode="singleTask"
+            android:theme="@style/TranslucentTheme" android:screenOrientation="user" android:windowSoftInputMode="adjustResize">
+            <intent-filter><action android:name="android.intent.action.MAIN" /><category android:name="android.intent.category.LAUNCHER" /></intent-filter>
+        </activity>
+        <activity android:name="io.dcloud.PandoraEntryActivity" android:exported="false" android:launchMode="singleTask"
+            android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="true" android:screenOrientation="user" android:theme="@style/DCloudTheme" android:windowSoftInputMode="adjustResize" />
+    </application>
+</manifest>
