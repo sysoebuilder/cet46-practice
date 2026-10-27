@@ -6,8 +6,19 @@ import { projectRoot } from './project-paths.mjs'
 
 const source = path.join(projectRoot, '参考/玻璃质感翡翠字母A图标.png')
 const directory = path.join(projectRoot, 'src/static/brand')
+const sizes = [20, 29, 40, 48, 58, 60, 64, 72, 76, 80, 87, 96, 120, 144, 152, 167, 180, 192, 256, 512, 1024]
 await fs.mkdir(directory, { recursive: true })
-const input = await fs.readFile(source)
+const input = await fs.readFile(source).catch(error => {
+  if (error.code !== 'ENOENT') throw error
+  return null
+})
+if (!input) {
+  // Reference artwork is local-only. Fresh clones reuse the exported assets.
+  const exports = [...sizes.map(size => `icon-${size}.png`), 'mark.png', 'mark.webp', 'launch-hdpi.png', 'launch-xhdpi.png', 'launch-xxhdpi.png']
+  await Promise.all([...exports.map(name => fs.access(path.join(directory, name))), fs.access(path.join(projectRoot, 'src/data/brand.json'))])
+  console.log('Brand ready: reusing committed icons and launch images; local reference artwork is absent.')
+  process.exit(0)
+}
 // Ignore isolated transparent-edge speckles when finding the supplied icon's
 // main canvas. Crop only the unused margin, keeping a 4px safety perimeter.
 const { data, info } = await sharp(input).ensureAlpha().raw().toBuffer({ resolveWithObject: true })
@@ -27,7 +38,6 @@ async function writeChanged(file, content) {
   try { if ((await fs.readFile(file)).equals(buffer)) return } catch (error) { if (error.code !== 'ENOENT') throw error }
   await fs.writeFile(file, buffer)
 }
-const sizes = [20, 29, 40, 48, 58, 60, 64, 72, 76, 80, 87, 96, 120, 144, 152, 167, 180, 192, 256, 512, 1024]
 // Deterministic exports of the supplied artwork; the reference is untouched.
 for (const size of sizes) {
   await writeChanged(path.join(directory, `icon-${size}.png`), await sharp(artwork).resize(size, size).flatten({ background }).png({ compressionLevel: 9 }).toBuffer())

@@ -8,7 +8,7 @@ Vue 3 + Vite + Vue Router + Motion for Vue，使用 HBuilderX **5+ App** 运行�
 
 v0.1.0-r3 修复安装后“试卷读取失败”，加入品牌图标与 Motion 启动加载、骨架屏和失败重试，并兼容旧 Android WebView 的弹层定位。发布说明与校验值见 [第三版发布记录](docs/releases/v0.1.0-r3.md)。
 
-当前源码的品牌图标与加载流程见 [图标与启动加载](docs/branding-startup.md)。桌面图标变更需重新打包 APK；开发、构建命令会自动从 `参考/` 的原图导出所需资源。
+当前源码的品牌图标与加载流程见 [图标与启动加载](docs/branding-startup.md)。桌面图标变更需重新打包 APK；本机存在 `参考/` 原图时，开发、构建命令自动导出所需资源，缺少原图时复用仓库中已有的图标和启动图。`参考/`、`宣传素材/` 仅在本地保存，不提交仓库。
 
 APK 试卷读取故障已在实际 Android 安装环境复现并修复；本地离线验证与无需云构建的回归方法见 [Android APK 安装验证](docs/android-apk-validation.md)。
 

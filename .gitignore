@@ -18,6 +18,10 @@ src/hybrid/html/cet/
 !/app/manifest.json
 *.local
 
+# Local reference and promotional materials
+/参考/
+/宣传素材/
+
 # Python caches and local environments
 __pycache__/
 *.py[cod]

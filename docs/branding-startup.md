@@ -1,6 +1,6 @@
 # 图标与启动加载
 
-使用 `参考/玻璃质感翡翠字母A图标.png` 原图，原文件保持不变。`scripts/generate-brand-assets.mjs` 确定主图形的方形边界，只去掉外围透明留白并保留安全边距；导出 21 种 PNG 尺寸、透明页面标识及 Android 启动图。桌面图标使用不透明浅色底，包含 iOS App Store 所需的 1024×1024 图。
+本机使用 `参考/玻璃质感翡翠字母A图标.png` 原图，原文件保持不变；`参考/` 和 `宣传素材/` 仅本地保存，不提交仓库。缺少原图时，构建复用已提交的 `src/static/brand/` 和 `src/data/brand.json`。存在原图时，`scripts/generate-brand-assets.mjs` 确定主图形的方形边界，只去掉外围透明留白并保留安全边距；导出 21 种 PNG 尺寸、透明页面标识及 Android 启动图。桌面图标使用不透明浅色底，包含 iOS App Store 所需的 1024×1024 图。
 
 页面标识采用约 27 KB 的透明 WebP，预加载并在首页与加载页共享缓存；原生图标继续使用 PNG。图标缩放与淡出由 Motion 渲染，CSS 负责静态排版。
 
