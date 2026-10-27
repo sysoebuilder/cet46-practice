@@ -70,6 +70,27 @@ async function touch(selector) {
   await until(`Boolean(document.querySelector(${JSON.stringify(selector)}))`)
   await touchPoint(await evaluate(`(()=>{const r=document.querySelector(${JSON.stringify(selector)}).getBoundingClientRect();return {x:r.left+r.width/2,y:r.top+r.height/2}})()`))
 }
+async function englishPoint(selector) {
+  await until(`Boolean(document.querySelector(${JSON.stringify(selector)}))`)
+  await evaluate(`document.querySelector(${JSON.stringify(selector)}).scrollIntoView({block:'center',inline:'nearest'})`)
+  await delay(350)
+  return evaluate(`(()=>{const element=document.querySelector(${JSON.stringify(selector)});const walker=document.createTreeWalker(element,NodeFilter.SHOW_TEXT);let node,word;while(node=walker.nextNode()){word=/[A-Za-z]{3,}/.exec(node.textContent);if(word)break}if(!word)throw Error('Expected English copy');const range=document.createRange();range.setStart(node,word.index);range.setEnd(node,word.index+word[0].length);const r=range.getBoundingClientRect();return {x:r.x+r.width/2,y:r.y+r.height/2}})()`)
+}
+async function wordAndSelection(selector) {
+  const point = await englishPoint(selector)
+  await touchPoint(point)
+  await until(`Boolean(document.querySelector('.translation-card.is-open:not(.is-selection)'))`)
+  if (report.inferencePassed) await until(`/[\\u4e00-\\u9fff]/.test(document.querySelector('.translation-result').textContent) && !document.querySelector('.translation-result.is-loading,.translation-result.is-error')`)
+  await command('shell', 'input', 'keyevent', '4')
+  await until(`!document.querySelector('.translation-card.is-open')`)
+  await touchPoint(point, true)
+  await until(`getSelection().toString().trim().length > 0 && Boolean(document.querySelector('.translation-card.is-selection.is-open'))`)
+  await delay(300)
+  await touch('.translation-card [data-action="translate"]')
+  if (report.inferencePassed) await until(`/[\\u4e00-\\u9fff]/.test(document.querySelector('.translation-result').textContent) && !document.querySelector('.translation-result.is-loading,.translation-result.is-error')`)
+  await touch('.translation-card [data-action="reselect"]')
+  await until(`!document.querySelector('.translation-card.is-open')`)
+}
 const report = { package: androidPackage, serial, kind: full ? 'full-reading-ui' : 'nativejs-probe', source: 'actual Android WebView and Native.js' }
 try {
   await send('Runtime.enable')
@@ -132,6 +153,59 @@ try {
     await touch('.translation-card [data-action="translate"]')
     if (!report.inferencePassed) await until(`Boolean(document.querySelector('.translation-result.is-error'))`)
     report.selectedTextBridgePassed = true
+    await touch('.translation-card [data-action="reselect"]')
+    // Long real article text, not a fabricated translation. The Android
+    // swipe proves nested card scrolling; long result layout is browser-tested.
+    await evaluate(`(()=>{const node=document.createTreeWalker(document.querySelector('.material-scroll .reading-text'),NodeFilter.SHOW_TEXT).nextNode();const range=document.createRange();range.setStart(node,0);range.setEnd(node,Math.min(420,node.length));getSelection().removeAllRanges();getSelection().addRange(range)})()`)
+    await until(`Boolean(document.querySelector('.translation-card.is-selection.is-open')) && document.querySelector('.translation-source').scrollHeight > document.querySelector('.translation-source').clientHeight`)
+    await delay(400)
+    const cardScrollPoint = await evaluate(`(()=>{const source=document.querySelector('.translation-source').getBoundingClientRect(),body=document.querySelector('.translation-content').getBoundingClientRect();const top=Math.max(source.top,body.top),bottom=Math.min(source.bottom,body.bottom);return {x:source.x+source.width/2,y1:top+(bottom-top)*.85,y2:top+(bottom-top)*.2}})()`)
+    const cardTarget = (await (await fetch('http://127.0.0.1:9337/json')).json()).find(item => item.id === target.id)
+    const cardView = JSON.parse(cardTarget.description), cardScale = cardView.width / await evaluate('visualViewport.width')
+    const scrollX = String(Math.round(cardView.screenX + cardScrollPoint.x * cardScale))
+    await command('shell', 'input', 'swipe', scrollX, String(Math.round(cardView.screenY + cardScrollPoint.y1 * cardScale)), scrollX, String(Math.round(cardView.screenY + cardScrollPoint.y2 * cardScale)), '550')
+    await until(`document.querySelector('.translation-source').scrollTop > 0 && Boolean(document.querySelector('.translation-card.is-open'))`)
+    report.longSourceNativeScrollPassed = true
+    const scrollImage = await send('Page.captureScreenshot', { format: 'png' })
+    await fs.writeFile(path.join(output, 'long-source-native.png'), Buffer.from(scrollImage.data, 'base64'))
+    await touch('.translation-card [data-action="reselect"]')
+    await touch('.floating-answer-button')
+    await until(`Boolean(document.querySelector('.reading-picker .question-stem'))`)
+    const answeredBefore = await evaluate(`document.querySelector('.answered-count').textContent`)
+    await wordAndSelection('.question-entry .question-stem')
+    assert.equal(await evaluate(`Boolean(document.querySelector('.question-entry.expanded'))`), false)
+    report.questionTextNativeSelectionPassed = true
+    await touch('.question-number')
+    await until(`Boolean(document.querySelector('.question-entry .option-text'))`)
+    await wordAndSelection('.question-entry .option-text')
+    assert.equal(await evaluate(`document.querySelector('.answered-count').textContent`), answeredBefore)
+    report.optionTranslationDoesNotChoose = true
+    await touch('.question-entry .option-label')
+    await until(`Boolean(document.querySelector('.question-entry .chosen-answer'))`)
+    report.letterChoosesAnswer = true
+    await touch('.reading-picker .close-button')
+    for (const section of ['listening', 'cloze', 'writing', 'translation']) {
+      await evaluate(`location.hash=${JSON.stringify('/pages/practice/index?paper=CET4-2025-12-1&section=')}+${JSON.stringify(section)}`)
+      await until(`Boolean(document.querySelector('.check-answers-button,.redo-button')) && !document.querySelector('.loading-state,.motion-overlay')`)
+      await delay(800)
+      if (section === 'listening') {
+        await wordAndSelection('.listening-question .option-text')
+        report.listeningOptionNativeSelectionPassed = true
+      } else if (section === 'cloze') {
+        await touch('.cloze-blank .blank-label')
+        await until(`Boolean(document.querySelector('.word-picker .option-text'))`)
+        await wordAndSelection('.word-picker .option-text')
+        await touch('.word-picker .option-label')
+        await until(`!document.querySelector('.word-picker') && Boolean(document.querySelector('.blank-translation'))`)
+        await wordAndSelection('.blank-translation')
+        report.wordBankAndFilledBlankNativeSelectionPassed = true
+      } else {
+        await touch('.directions-toggle')
+        await until(`Boolean(document.querySelector('.directions'))`)
+        await wordAndSelection('.directions')
+        report[section + 'DirectionsNativeSelectionPassed'] = true
+      }
+    }
   }
   assert.deepEqual(errors, [])
   const screenshot = await send('Page.captureScreenshot', { format: 'png' })

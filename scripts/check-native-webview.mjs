@@ -70,7 +70,7 @@ try {
   await expect(page.locator('.word-picker')).toHaveCount(0)
   await page.locator('.cloze-blank').first().click()
   const answer = await page.locator('.word-picker .option-label').first().innerText()
-  await page.locator('.word-picker .option').first().click()
+  await page.locator('.word-picker .option-label').first().click()
   await expect(page.locator('.cloze-blank.filled')).toHaveCount(1)
   const record = await page.evaluate(() => JSON.parse(plus.storage.getItem('cet:progress:v1:CET4-2025-12-1:cloze')))
   expect(record.data.answers['26']).toBe(answer)

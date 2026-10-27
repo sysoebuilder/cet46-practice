@@ -15,14 +15,14 @@ android {
     defaultConfig {
         applicationId = "com.hexun.cet46practice.foxlettest"
         minSdk = 28; targetSdk = 35
-        versionCode = 12; versionName = "0.1.0-foxlet-test"
+        versionCode = 13; versionName = "0.1.0-foxlet-test.2"
         manifestPlaceholders["dcloudAppKey"] = appKey
         ndk { abiFilters += "arm64-v8a" }
     }
     flavorDimensions += "content"
     productFlavors {
         create("probe") { dimension = "content"; versionCode = 11 }
-        create("full") { dimension = "content"; versionCode = 12 }
+        create("full") { dimension = "content"; versionCode = 13 }
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17

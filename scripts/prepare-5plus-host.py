@@ -69,7 +69,7 @@ def main():
         shutil.rmtree(stale_cache)
     copy_tree(app, full)
     full_manifest = dict(manifest)
-    full_manifest['version'] = {'name': '0.1.0-foxlet-test', 'code': '12'}
+    full_manifest['version'] = {'name': '0.1.0-foxlet-test.2', 'code': '13'}
     (full / 'manifest.json').write_text(json.dumps(full_manifest, ensure_ascii=False), encoding='utf-8')
     probe = output / 'probe/apps' / app_id / 'www'
     probe.mkdir(parents=True, exist_ok=True)

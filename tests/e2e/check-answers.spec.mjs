@@ -21,8 +21,8 @@ async function open(page, name) {
 async function answerReading(page, index, label) {
   if (!await page.locator('.reading-picker').count()) await page.locator('.floating-answer-button').click()
   const entry = page.locator('.question-entry').nth(index)
-  await entry.locator('.question-summary').click()
-  await entry.locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${label}$`) }) }).click()
+  await entry.locator('.question-number').click()
+  await entry.locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${label}$`) }) }).locator('.option-label').click()
 }
 async function closeReading(page) { await page.locator('.reading-picker .close-button').click() }
 
@@ -42,14 +42,14 @@ for (const name of ['matching', 'reading']) {
     const incorrect = page.locator('.question-entry').nth(1)
     await expect(incorrect.locator('.chosen-answer')).toContainText(`已选 ${wrong(items[1])}`)
     await expect(incorrect.locator('.result-answer')).toContainText(`正确答案 ${key(items[1])}`)
-    await incorrect.locator('.result-answer').click()
+    await incorrect.locator('.result-hint').click()
     await expect(page.locator('.explanation-sheet')).toBeVisible()
     await expect(page.locator('.explanation-response')).toContainText(wrong(items[1]))
     await expect(page.locator('.review-letter')).toHaveText(key(items[1]))
     await expect(page.locator('.review-body')).toHaveText(paper.solutions.items[items[1].key].explanation || '解析暂缺')
     await page.locator('.explanation-sheet .close-button').click()
     await expect(page.locator('.question-entry')).toHaveCount(10)
-    await incorrect.locator('.question-summary').click()
+    await incorrect.locator('.question-number').click()
     await expect(incorrect.locator('.incorrect-choice.chosen .option-label')).toHaveText(wrong(items[1]))
     await expect(incorrect.locator('.correct-choice .option-label')).toHaveText(key(items[1]))
     await incorrect.locator('.correct-choice').dispatchEvent('click')
@@ -76,8 +76,8 @@ test('cloze retains chosen words inline, marks mistakes and blanks and opens the
   const items = section('cloze').items
   await open(page, 'cloze')
   for (const [index, label] of [[0, key(items[0])], [1, wrong(items[1])]]) {
-    await page.locator('.cloze-blank').nth(index).click()
-    await page.locator('.word-picker .option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${label}$`) }) }).click()
+    await page.locator('.cloze-blank').nth(index).locator('.blank-label').click()
+    await page.locator('.word-picker .option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${label}$`) }) }).locator('.option-label').click()
   }
   const wrongWord = items[1].options.find(o => o.label === wrong(items[1])).text
   await checkAnswers(page)
@@ -86,7 +86,7 @@ test('cloze retains chosen words inline, marks mistakes and blanks and opens the
   await expect(page.locator('.cloze-blank.checked-unanswered')).toHaveCount(8)
   await expect(page.locator('[data-correction="27"]')).toContainText(key(items[1]))
   await page.screenshot({ path: `${previews}/${testInfo.project.name}-cloze-checked.png`, fullPage: true })
-  await page.locator('[data-correction="27"]').click()
+  await page.locator('[data-correction="27"] .correction-label').click()
   await expect(page.locator('.review-letter')).toHaveText(key(items[1]))
   await expect(page.locator('.explanation-response')).toContainText(wrongWord)
   await page.locator('.explanation-sheet .close-button').click()
@@ -95,7 +95,7 @@ test('cloze retains chosen words inline, marks mistakes and blanks and opens the
   await page.locator('.redo-button').click()
   await expect(page.locator('.cloze-blank.filled')).toHaveCount(0)
   await expect(page.locator('.cloze-correction')).toHaveCount(0)
-  await page.locator('.cloze-blank').first().click()
+  await page.locator('.cloze-blank').first().locator('.blank-label').click()
   await expect(page.locator('.word-picker .option')).toHaveCount(15)
 })
 
@@ -106,12 +106,12 @@ test('listening checks all groups, retains original selections and keeps audio p
   await page.goto(`/#/pages/practice/index?paper=${id}&section=listening`)
   const firstKey = data.solutions.items[items[0].key].answer
   const incorrect = items[1].options.find(o => o.label !== data.solutions.items[items[1].key].answer).label
-  await page.locator('.listening-question').nth(0).locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${firstKey}$`) }) }).click()
-  await page.locator('.listening-question').nth(1).locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${incorrect}$`) }) }).click()
+  await page.locator('.listening-question').nth(0).locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${firstKey}$`) }) }).locator('.option-label').click()
+  await page.locator('.listening-question').nth(1).locator('.option').filter({ has: page.locator('.option-label', { hasText: new RegExp(`^${incorrect}$`) }) }).locator('.option-label').click()
   await checkAnswers(page)
   await expect(page.locator('.listening-question.checked-correct')).toHaveCount(1)
   await expect(page.locator('.listening-question.checked-incorrect')).toHaveCount(1)
-  await page.locator('.listening-question').nth(1).locator('.result-answer').click()
+  await page.locator('.listening-question').nth(1).locator('.result-hint').click()
   await expect(page.locator('.explanation-response')).toContainText(incorrect)
   await page.locator('.explanation-sheet .close-button').click()
   await page.screenshot({ path: `${previews}/${testInfo.project.name}-listening-checked.png`, fullPage: true })
@@ -158,8 +158,8 @@ test('redo rolls back visibly on storage failure and removed modules have no ent
   await expect(page.getByText('整卷评分', { exact: true })).toHaveCount(0)
   await open(page, 'cloze')
   await expect(page.getByText('评分', { exact: true })).toHaveCount(0)
-  await page.locator('.cloze-blank').first().click()
-  await page.locator('.option').first().click()
+  await page.locator('.cloze-blank').first().locator('.blank-label').click()
+  await page.locator('.option').first().locator('.option-label').click()
   await checkAnswers(page)
   await page.evaluate(() => {
     const original = Storage.prototype.setItem

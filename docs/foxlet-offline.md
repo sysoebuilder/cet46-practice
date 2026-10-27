@@ -25,7 +25,8 @@ SDK 本地路径为 `E:\四六级真题\work\foxlet\sdk-research\5.26\extracted\
 
 修改：
 
-- `src/main.js`：导入一次翻译入口，不修改阅读模板或题目。
+- `src/main.js`：导入一次翻译入口。
+- `src/components/{QuestionOptions,ReadingQuestions,AnswerResult,MotionSheet}.vue`、`src/pages/practice/index.vue`：全题目文本选择、查词与作答分区、纠错标签及翻译操作焦点循环；不修改题目、答案和进度数据格式。
 - `package.json`：增加 `prepare:foxlet`、`check:foxlet`。
 - 运行 `build:app` 更新 `app/index.html`、IIFE、CSS 等生成文件；`app/manifest.json` 内容保持原样。
 
@@ -120,15 +121,22 @@ await translator.destroy()             // 全部使用者结束后调用，可�
 
 ## 阅读交互与设计
 
-- 委托 `.material-panel .reading-text` 的事件，用 caret/Range 定位英文单词，支持大小写、撇号、缩写和连字符；跳过填空按钮、选项、输入框及中文原文，不给文章逐词插 span。
+- 委托练习页及传送到 body 的题目/解析弹层内的英文正文：原文、题干、选项、题目说明、听力引导、填空词库及已填单词、答案和参考文本。用 caret/Range 定位单词，支持大小写、撇号、缩写和连字符。中文原文夹杂的英文同样可翻译，不给文章逐词插 span；输入区保留正常编辑。
 - 点按立即展示原文/准备状态，得到译文后轻量切换；请求序号确保迟到结果不覆盖最新选择；相同词命中内存缓存。
 - 长按 420ms 后抑制单词推理；没有 `preventDefault` 系统长按，也没有禁用文本选择。通过 `selectionchange` 读取真实 Range；可以调整选区、跨同一文章段落选择，点击“翻译选文”。
 - “选择整句”扩展真实系统选区；旧 WebView 使用保守英文句界规则，用户可以继续调整，复杂缩写不保证语义分句完全正确。
 - 支持译文复制、关闭、重新选择、重试；Android 使用 ClipboardManager，浏览器使用剪贴板。
+- 题干、选项和含英文的答案条由真实 HTML button 改为可选择的文本容器，并保留 role、tabindex、Enter/Space 操作。点英文只翻译，点选项字母/留白仍作答；点题号/展开箭头打开题目。捕获翻译手势对应的 click，避免冒泡误选答案。填空的字母与英文分开，点字母重新选词，点英文查词。各处保留原排版与题目文本。
+- 翻译卡片的选文操作保留系统选区；显式重新选择后可立即点其他英文，不再受上一次长按抑制时间影响。观察 body 子树以跟踪弹层卸载，弹层焦点循环包含其翻译卡片操作。
 - 沿用原来的 `--surface/--ink/--muted/--green-dark`、系统字体、文章衬线字体、24px 圆角及绿色系细腻阴影。未重设计首页/阅读布局。
 - 卡片以 9px 上移、.975→1 缩放、透明度和柔和减速进入，180ms 下沉淡出；文字轻微过渡，单词有不改排版的临时高亮；仅 transform/opacity 动画。没有添加动画库。
 - 以当前 Range、visualViewport、窗口边界定位，上下选择可用空间；滚动关闭点词卡、选区卡随选区重定位；考虑键盘 viewport、状态栏并限制卡片滚动高度。极大选区几乎占满可见窗口时使用紧凑卡，**此场景的遮挡及系统选区工具条位置仍需真机确认**。
 - `prefers-reduced-motion` 关闭位移/缩放/旋转，保留可读状态；返回键先关闭翻译卡，离开阅读路由/后台时关闭。
+- 长内容使用 `.translation-content` 独立触摸滚动，卡片头部关闭和底部操作保持可见。内部原文/译文滚动不触发页面滚动关闭逻辑；只有阅读页面本身滚动才关闭点词卡。手机/平板真实浏览器触摸滑动和译文末尾可见性检查通过。
+
+### 全题目与滚动修复版（versionCode 13）
+
+当前修复包为 `v0.1.0-foxlet-test.2`，内部版本 `0.1.0-foxlet-test.2` / 13，模型与原生推理层保持原样。完整更新、最终 APK 大小及 SHA-256、浏览器测试和先行 Android APK 的验证范围见 [修复版发布记录](releases/v0.1.0-foxlet-test.2.md)。先行 Android 报告位于 `E:\四六级真题\work\foxlet\all-text-native` 与 `all-text-regression`；最终包在最后加入滚动修复后重新安装的命令被自动审批拦截，不能将先行包结果记为最终包重新安装成功。
 
 ## 本地构建与 HBuilderX 后续操作
 
@@ -157,7 +165,7 @@ npm run build:app
 powershell -ExecutionPolicy Bypass -File scripts\build-5plus-host.ps1 -SdkDirectory 'E:\四六级真题\work\foxlet\sdk-research\5.26\extracted\Android-SDK@5.26.82680_20260914' -Content Full -Proxy http://127.0.0.1:7897
 ```
 
-`-Content Probe` 构建轻量探针，`Both` 构建两者。两种包使用同一测试包名，Full 版本号 12、Probe 11；完整包可正常覆盖探针，反向安装应使用独立测试环境处理降级，不卸载原业务应用。安装最终 Full APK 后关闭网络，在阅读页点词及长按选句即可验收；此测试 APK 没有 INTERNET 权限，模型无需下载。系统选择手柄仍由 Android WebView 提供。
+`-Content Probe` 构建轻量探针，`Both` 构建两者。两种包使用同一测试包名，Full 版本号 13、Probe 11；完整包可正常覆盖探针，反向安装应使用独立测试环境处理降级，不卸载原业务应用。安装最终 Full APK 后关闭网络，在任意题型已展示的英文上点词及长按选文即可验收；此测试 APK 没有 INTERNET 权限，模型无需下载。系统选择手柄仍由 Android WebView 提供。
 
 开发签名 SHA1：`E7:18:93:A9:F4:F1:A7:68:F0:C8:8D:D8:6B:F6:22:2B:D9:02:89:82`；SHA256：`B2:18:20:DA:E6:DD:49:EF:F9:76:47:50:9A:2F:A5:50:E7:40:ED:36:C6:99:EF:AD:A2:62:A2:D4:1E:41:72:EC`。
 

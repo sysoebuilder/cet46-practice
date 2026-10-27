@@ -51,7 +51,7 @@ function keydown(event) {
   if (!props.open) return
   if (event.key === 'Escape') { event.preventDefault(); emit('close') }
   if (event.key !== 'Tab') return
-  const nodes = [...(element()?.querySelectorAll('button:not([disabled]), [tabindex="0"], textarea') || [])].filter(el => el.getClientRects().length)
+  const nodes = [...(element()?.querySelectorAll('button:not([disabled]), [tabindex="0"], textarea') || []), ...document.querySelectorAll('.translation-card.is-open.is-over-sheet button:not([hidden])')].filter(el => el.getClientRects().length)
   if (!nodes.length) { event.preventDefault(); return }
   const first = nodes[0], last = nodes[nodes.length - 1]
   if (event.shiftKey && (document.activeElement === first || document.activeElement === element())) { event.preventDefault(); last.focus() }

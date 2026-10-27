@@ -1,8 +1,11 @@
 import translator from './translator.mjs'
 import { wordFromPoint, rangeOffsets, sentenceAt, textRange } from './text-selection.mjs'
 
-const selector = '.material-panel .reading-text:not(.chinese-text)'
-const interactive = 'button, a, input, textarea, [role="button"], .cloze-blank, .cloze-correction'
+// All rendered exam copy, including teleported question/answer sheets. Controls
+// and answer editors keep their own gestures; no per-word wrapper changes text.
+const copy = ['.reading-text', '.directions', '.lead-in', '.passage-title', '.question-stem', '.question-passage-label', '.option-text', '.chosen-answer', '.blank-translation', '.cloze-correction', '.review-body', '.review-option-text', '.explanation-response', '.result-answer-copy', '.reference-material .review-label']
+const selector = copy.flatMap(part => [`.practice ${part}`, `.utility-sheet ${part}`]).join(', ')
+const interactive = 'button, a, input, textarea, [contenteditable="true"], .option-label, .blank-label, .correction-label, .paragraph-label'
 
 /** Delegated listeners leave reading nodes, paragraph structure and selection untouched. */
 export function installReadingTranslation({ engine = translator, root = document } = {}) {
@@ -18,9 +21,14 @@ export function installReadingTranslation({ engine = translator, root = document
   const listeners = []
   const feedback = new Set()
   const on = (target, type, handler, options) => { target.addEventListener(type, handler, options); listeners.push(() => target.removeEventListener(type, handler, options)) }
-  let request = 0, active, translated = '', pointer, suppressUntil = 0, selectionTimer, closeTimer, positionFrame, gestureTimer
+  let request = 0, active, translated = '', pointer, blockedClick, suppressUntil = 0, selectionTimer, closeTimer, positionFrame, gestureTimer
   const reduced = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches
-  const readingElement = node => (node?.nodeType === 1 ? node : node?.parentElement)?.closest(selector)
+  const readingElement = node => {
+    const element = node?.nodeType === 1 ? node : node?.parentElement
+    if (!element || element.closest(interactive) || element.closest('.translation-card')) return null
+    return element.closest(selector)
+  }
+  const blockClick = element => { blockedClick = { element, until: Date.now() + 1000 } }
 
   function close() {
     request++; active = null; translated = ''; clearTimeout(selectionTimer)
@@ -55,12 +63,12 @@ export function installReadingTranslation({ engine = translator, root = document
     // If neither side fits, make the card scroll within the larger free space.
     const useBelow = below >= height || (above < height && below >= above)
     const available = Math.max(0, useBelow ? below : above)
-    if (available < 80) {
+    if (available < 132) {
       // A viewport-filling selection leaves no free area; show a compact action
       // rail at its edge, then scroll the result beside the selection endpoint.
       card.classList.add('is-compact')
     } else card.classList.remove('is-compact')
-    const actualHeight = Math.min(card.offsetHeight, Math.max(80, available))
+    const actualHeight = Math.min(card.offsetHeight, Math.max(132, available), bottom - visibleTop)
     card.style.maxHeight = `${actualHeight}px`
     const left = Math.max(view.left + 16, Math.min(bounds.left + bounds.width / 2 - width / 2, view.left + view.width - width - 16))
     const top = Math.max(visibleTop, Math.min(useBelow ? bounds.bottom + 14 : bounds.top - actualHeight - 14, bottom - actualHeight))
@@ -76,6 +84,7 @@ export function installReadingTranslation({ engine = translator, root = document
     card.setAttribute('aria-busy', 'false')
     card.hidden = false
     card.classList.toggle('is-selection', mode === 'selection')
+    card.classList.toggle('is-over-sheet', Boolean(entry.element.closest('.motion-sheet')))
     source.textContent = entry.text
     if (!reduced() && source.animate && card.classList.contains('is-open')) source.animate([{ opacity: .45, transform: 'translateY(2px)' }, { opacity: 1, transform: 'translateY(0)' }], { duration: 150, easing: 'ease-out' })
     result.textContent = mode === 'selection' ? '调整选区后，轻点「翻译选文」' : '正在离线翻译…'
@@ -120,7 +129,7 @@ export function installReadingTranslation({ engine = translator, root = document
       if (!selection || selection.isCollapsed || !selection.rangeCount) { if (active?.mode === 'selection') close(); return }
       const range = selection.getRangeAt(0), first = readingElement(range.startContainer), last = readingElement(range.endContainer)
       if (!first || !last) return
-      const element = first === last ? first : first.closest('.material-scroll')
+      const element = first === last ? first : first.closest('.question-entry, .listening-question, .material-scroll, .answer-review, .reference-material, .directions')
       if (!element || !element.contains(last) || !element.contains(range.commonAncestorContainer)) return
       const text = selection.toString().trim()
       if (!/[A-Za-z]/.test(text)) return
@@ -130,10 +139,13 @@ export function installReadingTranslation({ engine = translator, root = document
     }, 180)
   }
   on(root, 'pointerdown', event => {
-    if (card.contains(event.target)) return
+    if (event.target?.nodeType && card.contains(event.target)) return
+    // Suppress the end of a long press, not a new deliberate tap after the
+    // user cleared selection or chose a letter elsewhere.
+    if (window.getSelection()?.isCollapsed) suppressUntil = 0
     const element = readingElement(event.target)
-    if (!element || event.target.closest(interactive)) { close(); return }
-    pointer = { x: event.clientX, y: event.clientY, time: Date.now(), element, moved: false }
+    if (!element) { close(); return }
+    pointer = { x: event.clientX, y: event.clientY, time: Date.now(), element, moved: false, word: wordFromPoint(element, event.clientX, event.clientY) }
     clearTimeout(gestureTimer)
     gestureTimer = setTimeout(() => { suppressUntil = Date.now() + 1000 }, 420)
   }, { passive: true })
@@ -142,6 +154,8 @@ export function installReadingTranslation({ engine = translator, root = document
     clearTimeout(gestureTimer)
     const press = pointer; pointer = null
     if (!press) return
+    // A translated/selected word inside an option must never choose its answer.
+    if (press.word) blockClick(press.element)
     if (Date.now() - press.time >= 420 || press.moved) { suppressUntil = Date.now() + 700; selectionChanged(); return }
     if (Date.now() < suppressUntil || !window.getSelection()?.isCollapsed) return
     const word = wordFromPoint(press.element, event.clientX, event.clientY)
@@ -149,7 +163,12 @@ export function installReadingTranslation({ engine = translator, root = document
     pulse(word.range)
     show({ ...word, element: press.element }, 'word')
   }, { passive: true })
-  on(root, 'pointercancel', () => { pointer = null; clearTimeout(gestureTimer); suppressUntil = Date.now() + 700 })
+  on(root, 'pointercancel', () => { if (pointer?.word) blockClick(pointer.element); pointer = null; clearTimeout(gestureTimer); suppressUntil = Date.now() + 700 })
+  on(root, 'click', event => {
+    if (event.detail === 0 || !blockedClick || Date.now() > blockedClick.until || !blockedClick.element.contains(event.target)) return
+    event.preventDefault(); event.stopImmediatePropagation()
+    blockedClick = null
+  }, true)
   on(root, 'contextmenu', event => { if (readingElement(event.target)) { suppressUntil = Date.now() + 1000; selectionChanged() } })
   on(document, 'selectionchange', selectionChanged)
   // Keep the real Android selection and handles while using the action rail.
@@ -160,7 +179,7 @@ export function installReadingTranslation({ engine = translator, root = document
     if (button.classList.contains('translation-close')) { close(); return }
     const type = button.dataset.action
     if (type === 'translate' || type === 'retry') infer()
-    if (type === 'reselect') { close(); window.getSelection()?.removeAllRanges() }
+    if (type === 'reselect') { close(); window.getSelection()?.removeAllRanges(); suppressUntil = 0 }
     if (type === 'sentence' && active) {
       const offsets = rangeOffsets(active.element, active.range)
       const sentence = sentenceAt(active.element.textContent, offsets.start, offsets.end)
@@ -188,7 +207,11 @@ export function installReadingTranslation({ engine = translator, root = document
       } catch { result.textContent = `${translated}\n复制失败，可长按译文复制` }
     }
   })
-  on(window, 'scroll', () => { if (active?.mode === 'word') close(); else if (active) schedulePosition() }, true)
+  on(window, 'scroll', event => {
+    // Scrolling a long source/result belongs to the card, not the article.
+    if (event.target?.nodeType && card.contains(event.target)) return
+    if (active?.mode === 'word') close(); else if (active) schedulePosition()
+  }, true)
   on(window, 'resize', schedulePosition)
   if (window.visualViewport) { on(window.visualViewport, 'resize', schedulePosition); on(window.visualViewport, 'scroll', schedulePosition) }
   on(window, 'hashchange', close)
@@ -199,6 +222,7 @@ export function installReadingTranslation({ engine = translator, root = document
   }, true)
   on(document, 'keydown', event => { if (event.key === 'Escape' && active) { event.stopImmediatePropagation(); close() } }, true)
   const observer = new MutationObserver(() => { if (active && !active.element.isConnected) close() })
-  observer.observe(document.querySelector('#app') || document.body, { childList: true, subtree: true })
+  // Vue teleports exam sheets beside #app, so also observe those removals.
+  observer.observe(document.body, { childList: true, subtree: true })
   return () => { close(); listeners.forEach(remove => remove()); observer.disconnect(); feedback.forEach(node => node.remove()); clearTimeout(closeTimer); clearTimeout(gestureTimer); cancelAnimationFrame(positionFrame); card.remove() }
 }

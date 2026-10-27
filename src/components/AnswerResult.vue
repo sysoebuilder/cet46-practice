@@ -1,7 +1,7 @@
 <template>
   <motion.div :initial="{ opacity: 0, y: 5 }" :animate="{ opacity: 1, y: 0 }" :transition="fadeSlide" :class="['answer-result', `result-${review.status}`]">
     <span class="result-status">{{ labels[review.status] }}</span>
-    <MotionButton v-if="review.answer" class="result-answer" :aria-label="`第${number}题答案 ${review.answer}，查看解析`" @click="$emit('explain')"><span>{{ review.status === 'correct' ? '答案' : '正确答案' }} {{ review.answer }}<span v-if="review.answerText"> · {{ review.answerText }}</span></span><span class="result-hint">解析 ›</span></MotionButton>
+    <motion.div v-if="review.answer" role="button" tabindex="0" class="result-answer" :aria-label="`第${number}题答案 ${review.answer}，查看解析`" @click="$emit('explain')" @keydown.enter.self="$emit('explain')" @keydown.space.self.prevent="$emit('explain')"><span>{{ review.status === 'correct' ? '答案' : '正确答案' }} {{ review.answer }}<span v-if="review.answerText" class="result-answer-copy"> · {{ review.answerText }}</span></span><span class="result-hint">解析 ›</span></motion.div>
     <MotionButton v-else-if="review.status === 'reference' && review.references.length" class="result-answer" @click="$emit('explain')">查看参考答案 ›</MotionButton>
     <span v-else-if="review.status === 'reference'" class="review-missing">答案缺失</span>
   </motion.div>
