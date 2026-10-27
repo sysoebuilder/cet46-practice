@@ -2,11 +2,11 @@
 
 Vue 3 + Vite + Vue Router + Motion for Vue，使用 HBuilderX **5+ App** 运行和打包，面向 Android 手机、平板。薄荷绿、编辑式排版、物理弹簧交互。已移除 uni-app 编译器、JS service 和原生页面壳。
 
-新增 [Foxlet 离线翻译测试版 v0.1.0-foxlet-test.1](https://github.com/sysoebuilder/cet46-practice/releases/tag/v0.1.0-foxlet-test.1)：本机使用 DCloud 5.26 离线 SDK 构建，内含 Foxlet v0.5.0、约 52 MB 英译简中模型及全部试卷音频，APK 约 1.12 GB。测试包名 `com.hexun.cet46practice.foxlettest`，开发签名，Android 9+ / ARM64，不覆盖正式应用；普通云打包不会包含此原生依赖。完整业务包的 ARM64 真机断网翻译仍待验收，独立原生验证包已由用户确认可离线翻译。更新、校验值与验证范围见 [测试版发布记录](docs/releases/v0.1.0-foxlet-test.1.md)，重建步骤和文件清单见 [Foxlet 集成说明](docs/foxlet-offline.md)。
+当前 [最新 Release 为 Foxlet 离线翻译测试版 v0.1.0-foxlet-test.1](https://github.com/sysoebuilder/cet46-practice/releases/latest)：本机使用 DCloud 5.26 离线 SDK 构建，内含 Foxlet v0.5.0、约 52 MB 英译简中模型及全部试卷音频，APK 约 1.12 GB。测试包名 `com.hexun.cet46practice.foxlettest`，开发签名，Android 9+ / ARM64，不覆盖正式应用；普通云打包不会包含此原生依赖。完整业务包的 ARM64 真机断网翻译仍待验收，独立原生验证包已由用户确认可离线翻译。更新、校验值与验证范围见 [测试版发布记录](docs/releases/v0.1.0-foxlet-test.1.md)，重建步骤和文件清单见 [Foxlet 集成说明](docs/foxlet-offline.md)。
 
-Android 安装包见 [最新 Release](https://github.com/sysoebuilder/cet46-practice/releases/latest)：当前为 **v0.1.0-r3（第三版修复）**，APK 内部版本 `0.1.0（10）`，文件名 `cet46-practice-v0.1.0-android.apk`，约 840 MiB。内置 119 套试卷及离线听力，安装后练习不依赖电脑或网页服务。前两版 APK 已撤下，请使用最新 Release 附件。
+原稳定版 [v0.1.0-r3（第三版修复）](https://github.com/sysoebuilder/cet46-practice/releases/tag/v0.1.0-r3) 仍保留下载，APK 内部版本 `0.1.0（10）`，文件名 `cet46-practice-v0.1.0-android.apk`，约 840 MiB。内置 119 套试卷及离线听力，安装后练习不依赖电脑或网页服务；该版本没有 Foxlet 翻译功能。
 
-本版修复安装后“试卷读取失败”，加入品牌图标与 Motion 启动加载、骨架屏和失败重试，并兼容旧 Android WebView 的弹层定位。发布说明与校验值见 [第三版发布记录](docs/releases/v0.1.0-r3.md)。
+v0.1.0-r3 修复安装后“试卷读取失败”，加入品牌图标与 Motion 启动加载、骨架屏和失败重试，并兼容旧 Android WebView 的弹层定位。发布说明与校验值见 [第三版发布记录](docs/releases/v0.1.0-r3.md)。
 
 当前源码的品牌图标与加载流程见 [图标与启动加载](docs/branding-startup.md)。桌面图标变更需重新打包 APK；开发、构建命令会自动从 `参考/` 的原图导出所需资源。
 
