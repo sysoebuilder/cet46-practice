@@ -60,7 +60,7 @@
       </template>
     </motion.div>
     <MotionSheet :reading-size="fontSize" :open="Boolean(modal)" :title="modalTitle" :popover="displayedModal === 'words'" :anchor="blankAnchor" :panel-class="['utility-sheet', { 'word-picker': displayedModal === 'words', 'reading-picker': displayedModal === 'reading-questions', 'explanation-sheet': displayedModal === 'explanation', 'results-sheet': displayedModal === 'results' }]" @close="closeModal">
-      <template v-if="displayedModal === 'reading-questions'"><ReadingQuestions :items="section.items" :answers="answers" :paper="paper" :section-id="sectionId" :expanded-index="expandedQuestion" :checked="checked" @toggle="toggleReadingQuestion" @choose="answerReadingQuestion" @explain="openExplanation" /><div v-if="saveFailed" class="save-error"><span>进度未能保存</span><MotionButton class="text-button" @click="persist">重试保存</MotionButton></div></template>
+      <template v-if="displayedModal === 'reading-questions'"><ReadingQuestions :items="readingItems" :answers="answers" :paper="paper" :section-id="sectionId" :expanded-index="expandedQuestion" :checked="checked" @toggle="toggleReadingQuestion" @choose="answerReadingQuestion" @explain="openExplanation" /><div v-if="saveFailed" class="save-error"><span>进度未能保存</span><MotionButton class="text-button" @click="persist">重试保存</MotionButton></div></template>
       <template v-else-if="displayedModal === 'answers'">
         <div class="answer-legend"><span>已答 {{ answered }} / {{ section.items.length }}</span><span>点击题号跳转</span></div>
         <div class="answer-grid">
@@ -127,13 +127,15 @@ const current = computed(() => section.value?.items[currentIndex.value])
 const isCloze = computed(() => section.value?.id === 'cloze')
 const isListening = computed(() => section.value?.id === 'listening')
 const isReading = computed(() => ['matching', 'reading'].includes(section.value?.id))
+const isComprehension = computed(() => section.value?.id === 'reading')
 const groups = computed(() => listeningGroups(section.value))
 const groupIndex = computed(() => Math.max(0, groups.value.findIndex(group => group.items.some(item => item.key === current.value?.key))))
 const activeGroup = computed(() => groups.value[groupIndex.value])
 const nextSection = computed(() => paper.value ? nextAvailableSection(buildSections(paper.value), sectionId) : null)
 const previousSection = computed(() => paper.value ? previousAvailableSection(buildSections(paper.value), sectionId) : null)
-const atStart = computed(() => isReading.value || (isListening.value ? groupIndex.value === 0 : currentIndex.value === 0))
-const atEnd = computed(() => isReading.value || isCloze.value || (isListening.value ? groupIndex.value === groups.value.length - 1 : currentIndex.value === section.value?.items.length - 1))
+const readingItems = computed(() => isComprehension.value ? activeGroup.value?.items || [] : section.value?.items || [])
+const atStart = computed(() => isComprehension.value || isListening.value ? groupIndex.value === 0 : isReading.value || currentIndex.value === 0)
+const atEnd = computed(() => isComprehension.value || isListening.value ? groupIndex.value === groups.value.length - 1 : isReading.value || isCloze.value || currentIndex.value === section.value?.items.length - 1)
 const modalTitle = computed(() => ({ results: '核对结果', answers: '答题卡', 'reading-questions': checked.value ? '核对结果' : '全部题目', font: '阅读字号', words: `第 ${current.value?.number} 空`, explanation: explanationItem.value?.kind === 'text' ? '参考答案' : `第 ${explanationItem.value?.number} 题解析`, complete: '练习已保存' })[displayedModal.value] || '')
 const review = computed(() => current.value ? answerReview(paper.value, sectionId, current.value, answers.value[current.value.key]) : { status: 'missing' })
 const correctCount = computed(() => section.value?.items.filter(item => reviewFor(item).status === 'correct').length || 0)
@@ -152,8 +154,8 @@ function resultMark(item) { return { correct: '✓', incorrect: '×', unanswered
 function activateBlank(index, event) { if (checked.value) openExplanation(section.value.items[index]); else openBlank(index, event) }
 function openBlank(index, event) { currentIndex.value = index; blankAnchor.value = event?.currentTarget || document.querySelector(`[data-blank="${section.value.items[index].key}"]`); modal.value = 'words'; persist() }
 function fillBlank(label) { if (checked.value) return; answers.value[current.value.key] = label; persist(); modal.value = '' }
-function openQuestions(index = null) { expandedQuestion.value = index; modal.value = 'reading-questions' }
-function toggleReadingQuestion(index) { currentIndex.value = index; expandedQuestion.value = expandedQuestion.value === index ? null : index; persist() }
+function openQuestions(index = null) { expandedQuestion.value = index === null ? null : isComprehension.value ? index - activeGroup.value.startIndex : index; modal.value = 'reading-questions' }
+function toggleReadingQuestion(index) { currentIndex.value = isComprehension.value ? activeGroup.value.startIndex + index : index; expandedQuestion.value = expandedQuestion.value === index ? null : index; persist() }
 function answerReadingQuestion({ item, label }) { if (checked.value) return; chooseFor(item, label); expandedQuestion.value = null }
 function openExplanation(item) {
   if (!checked.value) return
@@ -209,9 +211,10 @@ async function initialize() {
     startedAt.value = saved?.startedAt || (saved?.answered ? saved.updatedAt || Date.now() : 0)
     answers.value = restored.answers; currentIndex.value = restored.currentIndex
     if (requestedPosition === 'last') currentIndex.value = section.value.items.length - 1
+    else if (requestedPosition === 'first') currentIndex.value = 0
     ready = true; persist()
     // The entry hint must not override later saved positions on a browser reload.
-    if (requestedPosition === 'last') window.history.replaceState(window.history.state, '', window.location.href.replace(/&position=last(?=&|$)/, ''))
+    if (requestedPosition === 'last' || requestedPosition === 'first') window.history.replaceState(window.history.state, '', window.location.href.replace(/&position=(?:last|first)(?=&|$)/, ''))
     requestedPosition = ''
     try { const size = getAppStorage('cet:font'); if ([17, 19, 21].includes(size)) fontSize.value = size } catch { /* Default font is usable. */ }
   } catch (cause) { error.value = cause.message || '试卷或进度读取失败，请重试' }
@@ -233,7 +236,8 @@ async function jump(index) {
 }
 function move(delta) {
   direction.value = delta
-  if (isListening.value) { const group = groups.value[groupIndex.value + delta]; if (group) jump(group.startIndex) }
+  if (isComprehension.value) { const group = groups.value[groupIndex.value + delta]; if (group) { currentIndex.value = group.startIndex; modal.value = ''; persist() } }
+  else if (isListening.value) { const group = groups.value[groupIndex.value + delta]; if (group) jump(group.startIndex) }
   else jump(Math.max(0, Math.min(currentIndex.value + delta, section.value.items.length - 1)))
 }
 function previous() {
@@ -258,7 +262,7 @@ function next() {
   if (!atEnd.value) { move(1); return }
   if (!persist()) return
   if (!nextSection.value) { modal.value = 'complete'; return }
-  changeSection(nextSection.value.id)
+  changeSection(nextSection.value.id, nextSection.value.id === 'reading' ? 'first' : '')
 }
 function setFont(size) { fontSize.value = size; try { setAppStorage('cet:font', size) } catch { /* Font choice is still effective this session. */ } }
 function goBack() {

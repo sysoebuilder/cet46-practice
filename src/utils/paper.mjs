@@ -27,9 +27,9 @@ export function buildSections(paper) {
       paragraphs: matching.paragraphs, title: matching.title, directions: directions(matching),
     }))
     const comprehension = reading.passage_comprehension
-    if (available(comprehension)) result.reading.items = comprehension.passages.flatMap(passage => passage.questions.map(question => ({
+    if (available(comprehension)) result.reading.items = comprehension.passages.flatMap((passage, passageIndex) => passage.questions.map(question => ({
       ...question, key: String(question.number), passage: passage.passage,
-      title: `Passage ${passage.ordinal}`, directions: directions(comprehension),
+      groupKey: `passage-${passageIndex}`, title: `Passage ${passage.ordinal}`, directions: directions(comprehension),
     })))
   }
   if (available(paper.Listening)) result.listening.items = paper.Listening.sections.filter(available).flatMap(section =>

@@ -36,8 +36,14 @@ test(`${title} checks all thirty reading answers`, async ({ page }) => {
       await expect(page.locator('.cloze-correction')).toHaveCount(10)
       for (let index = 0; index < 10; index++) await expect(page.locator('.cloze-correction').nth(index)).toContainText(data.solutions.items[String(26 + index)].answer)
     } else {
-      await expect(page.locator('.question-entry .result-answer')).toHaveCount(10)
-      for (let index = 0; index < 10; index++) await expect(page.locator('.question-entry .result-answer').nth(index)).toContainText(data.solutions.items[String((section === 'matching' ? 36 : 46) + index)].answer)
+      const pages = section === 'reading' ? data.Reading.passage_comprehension.passages.length : 1
+      for (let group = 0; group < pages; group++) {
+        const questions = section === 'reading' ? data.Reading.passage_comprehension.passages[group].questions : null
+        const count = questions ? questions.length : 10
+        await expect(page.locator('.question-entry .result-answer')).toHaveCount(count)
+        for (let index = 0; index < count; index++) await expect(page.locator('.question-entry .result-answer').nth(index)).toContainText(data.solutions.items[String(questions ? questions[index].number : 36 + index)].answer)
+        if (group + 1 < pages) { await closeReadingQuestions(page); await page.locator('.next-button').click(); await page.locator('.floating-answer-button').click() }
+      }
     }
   }
 })
@@ -71,7 +77,7 @@ test('paper selection, floating reading questions and progress survive reopening
   await expect(page.locator('.option')).toHaveCount(0)
   await page.screenshot({ path: `${previewDirectory}/${testInfo.project.name}-reading.png`, fullPage: true })
   await page.locator('.floating-answer-button').click()
-  await expect(page.locator('.question-entry')).toHaveCount(10)
+  await expect(page.locator('.question-entry')).toHaveCount(5)
   await expect(page.locator('.option')).toHaveCount(0)
   await openReadingQuestion(page)
   await expect(page.locator('.question-entry').first().locator('.question-stem')).toContainText('pandas')
@@ -344,48 +350,78 @@ test('listening scrolls all questions in a recording group and advances to the n
 })
 
 
-test('reading navigation switches types directly from any question and opens no answer popup', async ({ page }) => {
-  await openType(page, '仔细阅读')
-  await openReadingQuestion(page, 6)
-  const choice = await page.locator('.option').nth(1).locator('.option-label').innerText()
-  await page.locator('.option').nth(1).locator('.option-label').click()
-  await closeReadingQuestions(page)
-  await page.locator('.previous-button').click()
-  await expect(page.locator('.practice-title')).toHaveText('长篇阅读')
-  await expect(page.locator('.reading-picker')).toHaveCount(0)
-  await expect(page.locator('.option')).toHaveCount(0)
-  await openReadingQuestion(page, 4)
-  const matchingChoice = await page.locator('.option').nth(3).locator('.option-label').innerText()
-  await page.locator('.option').nth(3).locator('.option-label').click()
-  await closeReadingQuestions(page)
-  await page.locator('.previous-button').click()
-  await expect(page.locator('.practice-title')).toHaveText('选词填空')
-  await expect(page.locator('.overlay')).toHaveCount(0)
-  await page.locator('.next-button').click()
-  await expect(page.locator('.practice-title')).toHaveText('长篇阅读')
-  await expect(page.locator('.position')).toHaveText('5 / 10')
-  await expect(page.locator('.reading-picker')).toHaveCount(0)
-  await openReadingQuestion(page, 4)
-  await expect(page.locator('.option.chosen .option-label')).toHaveText(matchingChoice)
-  await closeReadingQuestions(page)
-  await page.locator('.next-button').click()
-  await expect(page.locator('.practice-title')).toHaveText('仔细阅读')
-  await expect(page.locator('.position')).toHaveText('7 / 10')
-  await expect(page.locator('.reading-picker')).toHaveCount(0)
-  await openReadingQuestion(page, 6)
-  await expect(page.locator('.option.chosen .option-label')).toHaveText(choice)
-  await closeReadingQuestions(page)
-  await page.locator('.next-button').click()
+test('careful reading groups passages, navigates both ways, and preserves answers', async ({ page }) => {
+  test.setTimeout(90000)
+  const id = 'CET4-2026-06-1'
+  const data = JSON.parse(readFileSync(new URL(`../../src/static/papers/${id}.json`, import.meta.url), 'utf8'))
+  const passages = data.Reading.passage_comprehension.passages
+  await page.goto(`/#/pages/practice/index?paper=${id}&section=reading`)
+  for (let group = 0; group < 2; group++) {
+    await expect(page.locator('.passage-title')).toHaveText(`Passage ${group + 1}`)
+    await expect(page.locator('.material-scroll .reading-text')).toHaveText(passages[group].passage)
+    await page.locator('.floating-answer-button').click()
+    await expect(page.locator('.question-entry')).toHaveCount(5)
+    for (let index = 0; index < 5; index++) {
+      const entry = page.locator('.question-entry').nth(index)
+      const question = passages[group].questions[index]
+      await expect(entry.locator('.question-number')).toHaveText(String(question.number))
+      await expect(entry.locator('.question-stem')).toHaveText(question.stem)
+      await openReadingQuestion(page, index)
+      await expect(entry.locator('.option-text')).toHaveText(question.options.map(option => option.text))
+      if (index === 0) await entry.locator('.option').nth(group).locator('.option-label').click()
+    }
+    await closeReadingQuestions(page)
+    await page.locator('.next-button').click()
+  }
   await expect(page.locator('.practice-title')).toHaveText('听力理解')
-  await expect(page.locator('.reading-picker')).toHaveCount(0)
-  await expect(page.locator('.position')).toHaveText('1 / 8组')
   await page.locator('.previous-button').click()
-  await expect(page.locator('.practice-title')).toHaveText('仔细阅读')
-  await expect(page.locator('.reading-picker')).toHaveCount(0)
+  await expect(page.locator('.passage-title')).toHaveText('Passage 2')
+  await page.locator('.floating-answer-button').click()
+  await expect(page.locator('.question-entry').first().locator('.chosen-answer')).toContainText('已选 B')
+  await closeReadingQuestions(page)
+  await page.locator('.previous-button').click()
+  await expect(page.locator('.passage-title')).toHaveText('Passage 1')
+  await page.locator('.floating-answer-button').click()
+  await expect(page.locator('.question-entry').first().locator('.chosen-answer')).toContainText('已选 A')
+  await closeReadingQuestions(page)
+  await page.locator('.answer-card-button').click()
+  await page.locator('.answer-number').filter({ hasText: /^51/ }).click()
+  await expect(page.locator('.passage-title')).toHaveText('Passage 2')
+  await expect(page.locator('.question-entry').first().locator('.question-number')).toHaveText('51')
+  await closeReadingQuestions(page)
   await page.reload()
-  await expect(page.locator('.reading-picker')).toHaveCount(0)
-  await openReadingQuestion(page, 6)
-  await expect(page.locator('.option.chosen .option-label')).toHaveText(choice)
+  await expect(page.locator('.passage-title')).toHaveText('Passage 2')
+  await page.locator('.previous-button').click()
+  await page.locator('.previous-button').click()
+  await expect(page.locator('.practice-title')).toHaveText('长篇阅读')
+  await page.locator('.next-button').click()
+  await expect(page.locator('.passage-title')).toHaveText('Passage 1')
+})
+
+test('PDF-recovered passages display their own questions and saved responses', async ({ page }) => {
+  test.setTimeout(60000)
+  for (const id of ['CET4-2018-06-2', 'CET4-2024-06-1']) {
+    const data = JSON.parse(readFileSync(new URL(`../../src/static/papers/${id}.json`, import.meta.url), 'utf8'))
+    await page.goto(`/#/pages/practice/index?paper=${id}&section=reading`)
+    for (let group = 0; group < 2; group++) {
+      const passage = data.Reading.passage_comprehension.passages[group]
+      await expect(page.locator('.passage-title')).toHaveText(`Passage ${group + 1}`)
+      await expect(page.locator('.material-scroll .reading-text')).toHaveText(passage.passage)
+      await openReadingQuestion(page)
+      await expect(page.locator('.question-entry')).toHaveCount(5)
+      await expect(page.locator('.question-number')).toHaveText(passage.questions.map(q => String(q.number)))
+      await expect(page.locator('.question-entry').first().locator('.option-text')).toHaveText(passage.questions[0].options.map(o => o.text))
+      await page.locator('.question-entry').first().locator('.option').first().locator('.option-label').click()
+      await closeReadingQuestions(page)
+      if (!group) await page.locator('.next-button').click()
+    }
+    await page.reload()
+    await expect(page.locator('.passage-title')).toHaveText('Passage 2')
+    await page.locator('.previous-button').click()
+    await openReadingQuestion(page)
+    await expect(page.locator('.question-entry').first().locator('.option').first()).toHaveClass(/chosen/)
+    await closeReadingQuestions(page)
+  }
 })
 
 // Checking now opens a Motion bottom sheet. Close the summary to continue

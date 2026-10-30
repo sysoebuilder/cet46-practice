@@ -2,7 +2,7 @@
 
 Vue 3 + Vite + Vue Router + Motion for Vue，使用 HBuilderX **5+ App** 运行和打包，面向 Android 手机、平板。薄荷绿、编辑式排版、物理弹簧交互。已移除 uni-app 编译器、JS service 和原生页面壳。
 
-当前 [最新 Release 为 v0.1.0-r4 正式版（Foxlet 离线翻译）](https://github.com/sysoebuilder/cet46-practice/releases/latest)：所有题型可见的英文题干、选项、说明、原文和答案解析均支持点词/选文翻译，长译文可在卡片内滚动。点英文查词，点选项字母作答。本机使用 DCloud 5.26 离线 SDK 构建，内含 Foxlet v0.5.0、约 52 MB 英译简中模型及全部试卷音频，APK 约 1.12 GB。安装包沿用 `com.hexun.cet46practice.foxlettest` 包名及开发签名，内部版本仍为 `0.1.0-foxlet-test.2` / 13，Android 9+ / ARM64，不覆盖旧稳定版应用；普通云打包不会包含此原生依赖。完整业务包的 ARM64 真机断网翻译仍待验收，独立原生验证包已由用户确认可离线翻译。更新、校验值与验证范围见 [正式版发布记录](docs/releases/v0.1.0-r4.md)，重建步骤和文件清单见 [Foxlet 集成说明](docs/foxlet-offline.md)。
+当前 [最新 Release 为 v0.1.0-r5 仔细阅读修复版](https://github.com/sysoebuilder/cet46-practice/releases/latest)：修复双文章分组、双向导航及答题状态，并根据 PDF 补全两套试卷的第二篇正文。安装包沿用 r4 的离线翻译、包名与开发签名，Android 9+ / ARM64；不会覆盖旧稳定版。安装、校验值和验证范围见 [发布记录](docs/releases/v0.1.0-r5.md)。
 
 原稳定版 [v0.1.0-r3（第三版修复）](https://github.com/sysoebuilder/cet46-practice/releases/tag/v0.1.0-r3) 仍保留下载，APK 内部版本 `0.1.0（10）`，文件名 `cet46-practice-v0.1.0-android.apk`，约 840 MiB。内置 119 套试卷及离线听力，安装后练习不依赖电脑或网页服务；该版本没有 Foxlet 翻译功能。
 
